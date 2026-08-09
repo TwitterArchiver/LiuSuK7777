@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1975503461010854284",
+    "created_at": "2025-10-07T11:04:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T12:04:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975517565624729849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1816274994298580992",
+          "start": 0,
+          "username": "745xhncwl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975517565624729849",
+    "in_reply_to_user_id": "1816274994298580992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975503461010854284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@745xhncwl 不……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1975503461010854284",
+        "created_at": "2025-10-07T11:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T12:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975517565624729849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1816274994298580992",
+              "start": 0,
+              "username": "745xhncwl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975517565624729849",
+        "in_reply_to_user_id": "1816274994298580992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975503461010854284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@745xhncwl 不……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816274994298580992",
+        "conversation_id": "1975503461010854284",
+        "created_at": "2025-10-07T10:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T11:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975503461010854284"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975503461010854284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我怕死不透怎么办，我爸妈这么执着一定会把我救回来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "……\n逃生舱@liusuk8888\n我是男孩子！\n主人♡@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 41,
+                "start": 28,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969600938567745538/genz-feI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2690,
+          "following_count": 2648,
+          "like_count": 35460,
+          "listed_count": 15,
+          "media_count": 1420,
+          "tweet_count": 31000
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T00:51:54.000Z",
+        "description": "ENFP|🥰我是女孩子|聊骚的4000+|努力打工中！！||全平台最猎奇的守财奴😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/745xhncwl1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/745xhncwl1",
+                "start": 0,
+                "url": "https://t.co/EOGMmGn30Q"
+              }
+            ]
+          }
+        },
+        "id": "1816274994298580992",
+        "location": "财窝",
+        "name": "牛奶有点咸",
+        "pinned_tweet_id": "1973655819284783576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969613112979701763/mYSLA3v9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 329,
+          "like_count": 43757,
+          "listed_count": 4,
+          "media_count": 150,
+          "tweet_count": 4811
+        },
+        "url": "https://t.co/EOGMmGn30Q",
+        "username": "745xhncwl",
+        "verified": false
+      }
+    ]
+  }
+}

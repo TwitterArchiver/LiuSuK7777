@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1920806231993630834",
+    "created_at": "2025-05-09T11:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T12:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920807876202799216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1883047762729820160",
+          "start": 0,
+          "username": "tidy_fun8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920807876202799216",
+    "in_reply_to_user_id": "1883047762729820160",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920807693360534005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tidy_fun8964 xml"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1920806231993630834",
+        "created_at": "2025-05-09T11:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T12:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920807876202799216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1883047762729820160",
+              "start": 0,
+              "username": "tidy_fun8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920807876202799216",
+        "in_reply_to_user_id": "1883047762729820160",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920807693360534005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tidy_fun8964 xml"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883047762729820160",
+        "conversation_id": "1920806231993630834",
+        "created_at": "2025-05-09T11:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T12:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920807693360534005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920807693360534005",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920806231993630834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 我现在就没有同桌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": " 🔪‌",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1999,
+          "following_count": 2248,
+          "like_count": 32651,
+          "listed_count": 11,
+          "media_count": 1023,
+          "tweet_count": 24178
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T07:02:44.000Z",
+        "description": "ENFP-A 10年学生 169.6cm|48kg 万用人 包容所有人 中文|English RFS IF SFS 关注@LiuSuK7777喵 关注@JyushitiYizuka喵谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "LiuSuK7777"
+              },
+              {
+                "end": 90,
+                "start": 75,
+                "username": "JyushitiYizuka"
+              }
+            ]
+          }
+        },
+        "id": "1883047762729820160",
+        "location": "别tmd把我的id发墙内去了啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊",
+        "name": "泉こなたOffical",
+        "pinned_tweet_id": "1917836494699380850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908488824067371008/B9gnjeKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 1246,
+          "like_count": 3921,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 2272
+        },
+        "username": "tidy_fun8964",
+        "verified": false
+      }
+    ]
+  }
+}

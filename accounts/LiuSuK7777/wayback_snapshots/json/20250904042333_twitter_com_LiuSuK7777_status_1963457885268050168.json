@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963201183448985600"
+      ],
+      "media_source_tweet_id": [
+        "1963202529514177004"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1963457885268050168",
+    "created_at": "2025-09-04T04:23:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T05:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963457885268050168"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 25,
+          "tag": "東方Project"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1820944908389122048",
+          "start": 3,
+          "username": "yuwanoonsen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6T3jlMZZBH",
+          "end": 59,
+          "expanded_url": "https://x.com/yuwanoonsen/status/1963202529514177004/photo/1",
+          "media_key": "3_1963201183448985600",
+          "start": 36,
+          "url": "https://t.co/6T3jlMZZBH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963457885268050168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 142
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963202529514177004",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuwanoonsen: もじもじ諏訪子\n#東方Project https://t.co/6T3jlMZZBH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1228,
+        "media_key": "3_1963201183448985600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz6xEyoacAAdrzV.jpg",
+        "width": 868
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963201183448985600"
+          ],
+          "media_source_tweet_id": [
+            "1963202529514177004"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1963457885268050168",
+        "created_at": "2025-09-04T04:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T05:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963457885268050168"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 25,
+              "tag": "東方Project"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1820944908389122048",
+              "start": 3,
+              "username": "yuwanoonsen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6T3jlMZZBH",
+              "end": 59,
+              "expanded_url": "https://x.com/yuwanoonsen/status/1963202529514177004/photo/1",
+              "media_key": "3_1963201183448985600",
+              "start": 36,
+              "url": "https://t.co/6T3jlMZZBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963457885268050168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 142
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963202529514177004",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuwanoonsen: もじもじ諏訪子\n#東方Project https://t.co/6T3jlMZZBH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963201183448985600"
+          ]
+        },
+        "author_id": "1820944908389122048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          }
+        ],
+        "conversation_id": "1963202529514177004",
+        "created_at": "2025-09-03T11:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T12:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963202529514177004"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 8,
+              "tag": "東方Project"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6T3jlMZZBH",
+              "end": 42,
+              "expanded_url": "https://x.com/yuwanoonsen/status/1963202529514177004/photo/1",
+              "media_key": "3_1963201183448985600",
+              "start": 19,
+              "url": "https://t.co/6T3jlMZZBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963202529514177004",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 11649,
+          "like_count": 987,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 142
+        },
+        "reply_settings": "everyone",
+        "text": "もじもじ諏訪子\n#東方Project https://t.co/6T3jlMZZBH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "❤️@？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "没有容身之地。",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1962804814611652676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963419713868021760/WH1CVS5o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2622,
+          "following_count": 2639,
+          "like_count": 35241,
+          "listed_count": 14,
+          "media_count": 1340,
+          "tweet_count": 29733
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T22:08:12.000Z",
+        "description": "Illustrator| お仕事募集中です\nportfolio：https://t.co/5a3ROwJ7Qa\nご連絡先：yuwanoonsen@gmail.com\nFANBOX：https://t.co/TF3uVwGqoB\nskeb：https://t.co/9SLPVsJoOA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yuwanoonsen.myportfolio.com",
+                "end": 55,
+                "expanded_url": "https://yuwanoonsen.myportfolio.com",
+                "start": 32,
+                "url": "https://t.co/5a3ROwJ7Qa"
+              },
+              {
+                "display_url": "yuwano.fanbox.cc",
+                "end": 113,
+                "expanded_url": "https://yuwano.fanbox.cc/",
+                "start": 90,
+                "url": "https://t.co/TF3uVwGqoB"
+              },
+              {
+                "display_url": "skeb.jp/@yuwanoonsen",
+                "end": 142,
+                "expanded_url": "http://skeb.jp/@yuwanoonsen",
+                "start": 119,
+                "url": "https://t.co/9SLPVsJoOA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/88763799",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/88763799",
+                "start": 0,
+                "url": "https://t.co/TnijetyY78"
+              }
+            ]
+          }
+        },
+        "id": "1820944908389122048",
+        "name": "ゆわの/yuwano 紅楼夢 N-07b",
+        "pinned_tweet_id": "1958129740541575393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927271111827275776/UU4XcCkC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1362,
+          "following_count": 90,
+          "like_count": 1053,
+          "listed_count": 11,
+          "media_count": 140,
+          "tweet_count": 548
+        },
+        "url": "https://t.co/TnijetyY78",
+        "username": "yuwanoonsen",
+        "verified": false
+      }
+    ]
+  }
+}

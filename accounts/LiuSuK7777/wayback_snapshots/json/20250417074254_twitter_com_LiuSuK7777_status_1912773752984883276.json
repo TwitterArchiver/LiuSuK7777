@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1912738389524377776",
+    "created_at": "2025-04-17T07:42:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T08:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912773752984883276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1688385343580680192",
+          "start": 0,
+          "username": "heiwawomamore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912773752984883276",
+    "in_reply_to_user_id": "1688385343580680192",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912738389524377776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heiwawomamore 70"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1912738389524377776].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1912738389524377776",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1912738389524377776"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1912738389524377776",
+        "created_at": "2025-04-17T07:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T08:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912773752984883276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1688385343580680192",
+              "start": 0,
+              "username": "heiwawomamore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912773752984883276",
+        "in_reply_to_user_id": "1688385343580680192",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912738389524377776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heiwawomamore 70"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1772,
+          "following_count": 2079,
+          "like_count": 30348,
+          "listed_count": 12,
+          "media_count": 900,
+          "tweet_count": 22094
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:03:51.000Z",
+        "description": "ima ingenting more alles",
+        "id": "1688385343580680192",
+        "name": "末裏せい/まつり清(前 平和を守れ)",
+        "pinned_tweet_id": "1911862342935281917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908431767629160448/Aj8mr4zR_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1331,
+          "following_count": 2064,
+          "like_count": 105049,
+          "listed_count": 14,
+          "media_count": 1174,
+          "tweet_count": 54859
+        },
+        "username": "heiwawomamore",
+        "verified": false
+      }
+    ]
+  }
+}

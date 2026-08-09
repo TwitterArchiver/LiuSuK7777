@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1959413662135021664",
+    "created_at": "2025-08-24T00:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T01:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959413662135021664"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1959413662135021664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "早上好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1959413662135021664",
+        "created_at": "2025-08-24T00:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T01:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959413662135021664"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959413662135021664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "❤️@zyh842159145\n🐷@yeziyu7777 @TTKYYX03",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "zyh842159145"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 38,
+                "start": 29,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1954538422728585308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959324604528496640/LLEAx0Ic_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2596,
+          "following_count": 2648,
+          "like_count": 35148,
+          "listed_count": 14,
+          "media_count": 1327,
+          "tweet_count": 29544
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      }
+    ]
+  }
+}

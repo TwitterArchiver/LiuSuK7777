@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1994001889101533266",
+    "created_at": "2025-11-27T16:42:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T17:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994084437433438307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977759027573735424",
+          "start": 0,
+          "username": "tsukiumiRyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994084437433438307",
+    "in_reply_to_user_id": "1977759027573735424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994081692038943139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsukiumiRyue 什么？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1994081692038943139].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1994081692038943139",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1994081692038943139"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1994001889101533266",
+        "created_at": "2025-11-27T16:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T17:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994084437433438307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977759027573735424",
+              "start": 0,
+              "username": "tsukiumiRyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994084437433438307",
+        "in_reply_to_user_id": "1977759027573735424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994081692038943139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsukiumiRyue 什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1991206540901339270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993261518008598535/GunVE9W__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2825,
+          "following_count": 2687,
+          "like_count": 35372,
+          "listed_count": 13,
+          "media_count": 1520,
+          "tweet_count": 32334
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T15:37:07.000Z",
+        "description": "喵｜intj｜167｜xyn🍥hrt25.11.1｜上海｜mtx｜生日2009.03.11｜n2考取中｜私信加q｜主人@leaderxiu｜東京大學",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "leaderxiu"
+              }
+            ]
+          }
+        },
+        "id": "1977759027573735424",
+        "location": "Memories of the Witch",
+        "name": "鎮命🍥ツキウミ",
+        "pinned_tweet_id": "1988659146615582737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990535544246542336/h2Z9c6LW_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 628,
+          "like_count": 10404,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 681
+        },
+        "username": "tsukiumiRyue",
+        "verified": false
+      }
+    ]
+  }
+}

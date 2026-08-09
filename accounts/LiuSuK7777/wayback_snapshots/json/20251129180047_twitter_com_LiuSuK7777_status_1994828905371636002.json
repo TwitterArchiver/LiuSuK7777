@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1994754365618528719",
+    "created_at": "2025-11-29T18:00:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T19:00:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994828905371636002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781207661922701313",
+          "start": 0,
+          "username": "AkonBritain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994828905371636002",
+    "in_reply_to_user_id": "1781207661922701313",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994799548146094316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkonBritain 不看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1994754365618528719",
+        "created_at": "2025-11-29T18:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T19:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994828905371636002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781207661922701313",
+              "start": 0,
+              "username": "AkonBritain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994828905371636002",
+        "in_reply_to_user_id": "1781207661922701313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994799548146094316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkonBritain 不看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781207661922701313",
+        "conversation_id": "1994754365618528719",
+        "created_at": "2025-11-29T16:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T17:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994799548146094316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994799548146094316",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994792985759027216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 因为度过虚无会让自己的智商得到很大的提升，判若两人那种"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1994457982331961835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994695488520835072/aNvlyX-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2866,
+          "following_count": 2707,
+          "like_count": 35402,
+          "listed_count": 13,
+          "media_count": 1535,
+          "tweet_count": 32671
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T06:27:21.000Z",
+        "description": "This story is mine, and this moment is mine.\nCan I steal your pain and shed it away?",
+        "id": "1781207661922701313",
+        "location": "Malaysia",
+        "name": "圣奥伦莉丝•伊芙加登/Saint Aurélia Evergarden（mtf，lesbian）",
+        "pinned_tweet_id": "1906662123180347605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951919148943982592/yNkKa2ye_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 82,
+          "like_count": 115774,
+          "listed_count": 2,
+          "media_count": 4563,
+          "tweet_count": 65293
+        },
+        "username": "AkonBritain",
+        "verified": false
+      }
+    ]
+  }
+}

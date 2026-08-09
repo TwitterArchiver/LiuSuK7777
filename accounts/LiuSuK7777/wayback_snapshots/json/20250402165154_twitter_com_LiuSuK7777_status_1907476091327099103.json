@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1907474539120099598",
+    "created_at": "2025-04-02T16:51:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T17:51:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907476091327099103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1718887354826637312",
+          "start": 0,
+          "username": "MeowSakur76073"
+        },
+        {
+          "end": 29,
+          "id": "1248637653001494529",
+          "start": 16,
+          "username": "Fomalhautawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907476091327099103",
+    "in_reply_to_user_id": "1718887354826637312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907475968354402807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeowSakur76073 @Fomalhautawa 那睡的很好了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1907475968354402807].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1907475968354402807",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1907475968354402807"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1907474539120099598",
+        "created_at": "2025-04-02T16:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T17:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907476091327099103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1718887354826637312",
+              "start": 0,
+              "username": "MeowSakur76073"
+            },
+            {
+              "end": 29,
+              "id": "1248637653001494529",
+              "start": 16,
+              "username": "Fomalhautawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907476091327099103",
+        "in_reply_to_user_id": "1718887354826637312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907475968354402807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeowSakur76073 @Fomalhautawa 那睡的很好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "跟我面基可以随便摸我",
+        "name": "流苏（秽土转生）",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1722,
+          "following_count": 2046,
+          "like_count": 29952,
+          "listed_count": 12,
+          "media_count": 878,
+          "tweet_count": 21424
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-30T07:08:23.000Z",
+        "description": "a walking dead｜bisexual｜self heater｜suicide preparing｜🦊fox lover｜@cangshengsunset",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 65,
+                "username": "cangshengsunset"
+              }
+            ]
+          }
+        },
+        "id": "1718887354826637312",
+        "location": "heaven",
+        "name": "Meow Sakura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889690311200481284/v8dC5B1r_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 430,
+          "like_count": 15204,
+          "listed_count": 4,
+          "media_count": 487,
+          "tweet_count": 8482
+        },
+        "username": "MeowSakur76073",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "你好哦，這裡是師師。\n謝謝你來。\n@Ning0809pepsi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "Ning0809pepsi"
+              }
+            ]
+          }
+        },
+        "id": "1248637653001494529",
+        "location": "萱華軒",
+        "name": "白師師",
+        "pinned_tweet_id": "1906040752888832458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906965908238811136/l42BzsxV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1672,
+          "following_count": 283,
+          "like_count": 128867,
+          "listed_count": 20,
+          "media_count": 49,
+          "tweet_count": 28619
+        },
+        "username": "Fomalhautawa",
+        "verified": false
+      }
+    ]
+  }
+}

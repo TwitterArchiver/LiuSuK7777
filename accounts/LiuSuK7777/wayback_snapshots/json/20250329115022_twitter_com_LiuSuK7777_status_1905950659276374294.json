@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1905950659276374294",
+    "created_at": "2025-03-29T11:50:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T12:50:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905950659276374294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1882424383224029184",
+          "start": 3,
+          "username": "YuJian21145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905950659276374294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905948492515991896",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuJian21145: 有人知道她的电话号和住址吗？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1905950659276374294",
+        "created_at": "2025-03-29T11:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T12:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905950659276374294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1882424383224029184",
+              "start": 3,
+              "username": "YuJian21145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905950659276374294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905948492515991896",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YuJian21145: 有人知道她的电话号和住址吗？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882424383224029184",
+        "conversation_id": "1905948492515991896",
+        "created_at": "2025-03-29T11:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T12:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905948492515991896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JIZHI0_0/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/JIZHI0_0/status/1905945330408997326",
+              "start": 16,
+              "url": "https://t.co/rSU7Ol9I3B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905948492515991896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905945330408997326",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人知道她的电话号和住址吗？！ https://t.co/rSU7Ol9I3B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "💞@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "AAA_流苏批发",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1679,
+          "following_count": 1998,
+          "like_count": 29349,
+          "listed_count": 13,
+          "media_count": 856,
+          "tweet_count": 20494
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T13:45:41.000Z",
+        "description": "Domo，米娜＝桑•yoyo DESU\naieeeeeeee!\n风火林山，茶道！然后是，空手道！\n咏颂俳句吧！",
+        "id": "1882424383224029184",
+        "name": "yoyo🏳️‍⚧️（空手道修行ing）",
+        "pinned_tweet_id": "1902713610155213036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890682663452782592/khG4x7fZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 202,
+          "like_count": 851,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 373
+        },
+        "username": "YuJian21145",
+        "verified": false
+      }
+    ]
+  }
+}

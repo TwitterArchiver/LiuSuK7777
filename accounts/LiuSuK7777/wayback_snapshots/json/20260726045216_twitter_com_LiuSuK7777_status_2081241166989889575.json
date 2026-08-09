@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2081050966380711936",
+    "created_at": "2026-07-26T04:52:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T05:52:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081241166989889575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1640917359493005313",
+          "start": 0,
+          "username": "shizukululu0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081241166989889575",
+    "in_reply_to_user_id": "1640917359493005313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081050966380711936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shizukululu0721 羡慕你们"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1347,
+        "media_key": "3_2081050959028092928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFg0kRbAAALaiN.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2081050966380711936",
+        "created_at": "2026-07-26T04:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081241166989889575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1640917359493005313",
+              "start": 0,
+              "username": "shizukululu0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081241166989889575",
+        "in_reply_to_user_id": "1640917359493005313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081050966380711936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shizukululu0721 羡慕你们"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081050959028092928"
+          ]
+        },
+        "author_id": "1640917359493005313",
+        "conversation_id": "2081050966380711936",
+        "created_at": "2026-07-25T16:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T17:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081050966380711936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jAWoNOPerT",
+              "end": 67,
+              "expanded_url": "https://x.com/shizukululu0721/status/2081050966380711936/photo/1",
+              "media_key": "3_2081050959028092928",
+              "start": 44,
+              "url": "https://t.co/jAWoNOPerT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081050966380711936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想问问大家，27号（也就是明天）杭州有面基的uu嘛，我想在杭州多玩一天，没玩够喵🥺🥺🥺 https://t.co/jAWoNOPerT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 杭州 08年 舞萌/东方/Arcaea/明日方舟/三角洲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2068533981818290551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060157452931465216/9MujmSVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3612,
+          "following_count": 2751,
+          "like_count": 34242,
+          "listed_count": 14,
+          "media_count": 1709,
+          "tweet_count": 35302
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-29T03:22:47.000Z",
+        "description": "ACG一般通过、交通迷、玩机｜负面情绪警告❗️｜Student｜ISFJ｜欢迎扩列喵～｜TG和我一起聊天哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Shizukululu0721",
+                "end": 23,
+                "expanded_url": "https://t.me/Shizukululu0721",
+                "start": 0,
+                "url": "https://t.co/51ukmzjOqy"
+              }
+            ]
+          }
+        },
+        "id": "1640917359493005313",
+        "location": "SZV",
+        "name": "雨下るる",
+        "pinned_tweet_id": "2080662880673018128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076653649988837376/qIB73UYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 1304,
+          "like_count": 863,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 736
+        },
+        "url": "https://t.co/51ukmzjOqy",
+        "username": "shizukululu0721",
+        "verified": false
+      }
+    ]
+  }
+}

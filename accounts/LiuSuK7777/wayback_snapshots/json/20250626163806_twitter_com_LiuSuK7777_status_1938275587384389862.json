@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1938275453154038102",
+    "created_at": "2025-06-26T16:38:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T17:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938275587384389862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822910760873537536",
+          "start": 0,
+          "username": "KaitlynXiaoLu99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938275587384389862",
+    "in_reply_to_user_id": "1822910760873537536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938275453154038102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaitlynXiaoLu99 羡慕有喜欢的人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938275444165578752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuYjPz5aEAAc6TU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1938275453154038102",
+        "created_at": "2025-06-26T16:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T17:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938275587384389862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822910760873537536",
+              "start": 0,
+              "username": "KaitlynXiaoLu99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938275587384389862",
+        "in_reply_to_user_id": "1822910760873537536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938275453154038102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaitlynXiaoLu99 羡慕有喜欢的人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938275444165578752"
+          ]
+        },
+        "author_id": "1822910760873537536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1938275453154038102",
+        "created_at": "2025-06-26T16:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T17:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938275453154038102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8R7DdUiLID",
+              "end": 50,
+              "expanded_url": "https://x.com/KaitlynXiaoLu99/status/1938275453154038102/photo/1",
+              "media_key": "3_1938275444165578752",
+              "start": 27,
+              "url": "https://t.co/8R7DdUiLID"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938275453154038102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好玩的游戏当然要和最喜欢的人一起玩啦\n我真的好爱她🥺 https://t.co/8R7DdUiLID"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1936314364468105461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938261836593565700/RpK124sZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2203,
+          "following_count": 2471,
+          "like_count": 34401,
+          "listed_count": 10,
+          "media_count": 1143,
+          "tweet_count": 26932
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T08:19:35.000Z",
+        "description": "お幸せに/祝你幸福/Wish u happiness/淡推ing…/碎碎念bot/IMSB-A/无性别/无性恋/MaimaiDX/ASD & ADHD/双相/你觉得我是男生就是男生 觉得我是女生就是女生/✨：@wu_tong6460 @l1ny99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 104,
+                "username": "wu_tong6460"
+              },
+              {
+                "end": 124,
+                "start": 117,
+                "username": "l1ny99"
+              }
+            ]
+          }
+        },
+        "id": "1822910760873537536",
+        "location": "RiNG",
+        "name": "-小鹿小鹿-🦌",
+        "pinned_tweet_id": "1922640334112145434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918408565074653184/RoHd3_bu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1814,
+          "following_count": 1346,
+          "like_count": 22218,
+          "listed_count": 8,
+          "media_count": 501,
+          "tweet_count": 9253
+        },
+        "username": "KaitlynXiaoLu99",
+        "verified": false
+      }
+    ]
+  }
+}

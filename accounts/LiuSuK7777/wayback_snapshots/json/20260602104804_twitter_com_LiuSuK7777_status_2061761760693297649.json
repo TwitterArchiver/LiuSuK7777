@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2061761452617396347",
+    "created_at": "2026-06-02T10:48:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T11:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061761760693297649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1253165636210978817",
+          "start": 0,
+          "username": "Exusiai159"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061761760693297649",
+    "in_reply_to_user_id": "1253165636210978817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061761452617396347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Exusiai159 年龄小能干嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2061761452617396347",
+        "created_at": "2026-06-02T10:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061761760693297649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1253165636210978817",
+              "start": 0,
+              "username": "Exusiai159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061761760693297649",
+        "in_reply_to_user_id": "1253165636210978817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061761452617396347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Exusiai159 年龄小能干嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253165636210978817",
+        "conversation_id": "2061761452617396347",
+        "created_at": "2026-06-02T10:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061761452617396347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QWQ0227/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/QWQ0227/status/2061758684804546966",
+              "start": 4,
+              "url": "https://t.co/xRijxwXeD5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061761452617396347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061758684804546966",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无敌了 https://t.co/xRijxwXeD5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 08年~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n可爱小南梁@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2032828973374386365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060157452931465216/9MujmSVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3520,
+          "following_count": 2713,
+          "like_count": 34434,
+          "listed_count": 14,
+          "media_count": 1669,
+          "tweet_count": 34972
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-23T03:36:01.000Z",
+        "description": "二正控，中推鹿野灸粉丝头子\n｜喜欢看点furry｜性取向不知道｜已有恋爱对象｜转发NSFW🔞，如有介意请不要关注｜推特记录碎碎念｜数码产品爱好者｜汽车模型｜大胃袋，只要有好吃的就会原谅这个世界｜政治犬儒主义｜禁极端歧视仇恨言论｜避难所@Exusiai159_2｜扩列可私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Exusiai159_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Exusiai159",
+                "end": 23,
+                "expanded_url": "http://t.me/Exusiai159",
+                "start": 0,
+                "url": "https://t.co/z598x1t5k0"
+              }
+            ]
+          }
+        },
+        "id": "1253165636210978817",
+        "location": "炎国 姜齐",
+        "name": "一只能天使",
+        "pinned_tweet_id": "1925197266241077292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049010397055963136/aC0f7EFc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5327,
+          "following_count": 7068,
+          "like_count": 191640,
+          "listed_count": 10,
+          "media_count": 5506,
+          "tweet_count": 57818
+        },
+        "url": "https://t.co/z598x1t5k0",
+        "username": "Exusiai159",
+        "verified": true
+      }
+    ]
+  }
+}

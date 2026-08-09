@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1946353264309735826",
+    "created_at": "2025-07-18T23:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T00:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946354512274542868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589809419822329857",
+          "start": 0,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946354512274542868",
+    "in_reply_to_user_id": "1589809419822329857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 93,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946353264309735826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvup 好蠢的问题"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1970,
+        "media_key": "3_1946353261864235009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwLV-rzXMAE5kuR.jpg",
+        "width": 1226
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1946353264309735826",
+        "created_at": "2025-07-18T23:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T00:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946354512274542868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946354512274542868",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946353264309735826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 好蠢的问题"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946353261864235009"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "1946353264309735826",
+        "created_at": "2025-07-18T23:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T00:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946353264309735826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FZntINimlp",
+              "end": 58,
+              "expanded_url": "https://x.com/jianlvup/status/1946353264309735826/photo/1",
+              "media_key": "3_1946353261864235009",
+              "start": 35,
+              "url": "https://t.co/FZntINimlp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946353264309735826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 742,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为什么都是外国对我们进行文化渗透？我们为什么不对外文化渗透？一直不解 https://t.co/FZntINimlp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "主人@yeziyu7777\n对象@zyh1428202\n小号@Loveyezi8964 @luoyue_maimai\n笨蛋姐姐@TTKYYX03（不是现实中那个）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "Loveyezi8964"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "luoyue_maimai"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1945463247110570264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2421,
+          "following_count": 2536,
+          "like_count": 34873,
+          "listed_count": 10,
+          "media_count": 1220,
+          "tweet_count": 28004
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人 可互fo（私信） INTJ 热爱与大家讨论交流 爱评论点赞 华北人 人物志评分创始人 逃生舱：@jianlvya\n搭档:@KawawaDiana8964\n朋友:@hhjnjkoguyunmo\n伙伴：@RealColidora3\n前身：@Jianlv117（复活赛中）1.5w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "jianlvya"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 102,
+                "start": 87,
+                "username": "hhjnjkoguyunmo"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "RealColidora3"
+              },
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Jianlv117"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "1945789645532586276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4980,
+          "following_count": 980,
+          "like_count": 27350,
+          "listed_count": 18,
+          "media_count": 1021,
+          "tweet_count": 2409
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

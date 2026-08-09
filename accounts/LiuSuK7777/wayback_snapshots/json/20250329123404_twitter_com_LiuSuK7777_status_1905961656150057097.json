@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1905938000112230485",
+    "created_at": "2025-03-29T12:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T13:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905961656150057097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1573676202950545408",
+          "start": 0,
+          "username": "garage_73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905961656150057097",
+    "in_reply_to_user_id": "1573676202950545408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905938000112230485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@garage_73 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1905937993992650752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnNAgefaQAAmbJH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1905938000112230485",
+        "created_at": "2025-03-29T12:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T13:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905961656150057097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1573676202950545408",
+              "start": 0,
+              "username": "garage_73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905961656150057097",
+        "in_reply_to_user_id": "1573676202950545408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905938000112230485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@garage_73 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905937993992650752"
+          ]
+        },
+        "author_id": "1573676202950545408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1511323041464168451",
+              "name": "Graduation 2022"
+            }
+          }
+        ],
+        "conversation_id": "1905938000112230485",
+        "created_at": "2025-03-29T11:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T12:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905938000112230485"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "まどそふと"
+            },
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "ワガハイ"
+            },
+            {
+              "end": 41,
+              "start": 30,
+              "tag": "ワガママハイスペック"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Z25pDwUSC",
+              "end": 65,
+              "expanded_url": "https://x.com/garage_73/status/1905938000112230485/photo/1",
+              "media_key": "3_1905937993992650752",
+              "start": 42,
+              "url": "https://t.co/1Z25pDwUSC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905938000112230485",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 6427,
+          "like_count": 481,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "「卒業式の後、生徒会室で……」\n\n#まどそふと #ワガハイ\n#ワガママハイスペック https://t.co/1Z25pDwUSC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "💞@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "AAA_流苏批发",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1679,
+          "following_count": 1997,
+          "like_count": 29356,
+          "listed_count": 13,
+          "media_count": 859,
+          "tweet_count": 20522
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T14:10:28.000Z",
+        "description": "『#ワガママハイスペック』のイラストを描いています！ #まどそふと #ワガハイ いつも感想ありがとうございます！ サブ→(@wadati_73) Skeb→(https://t.co/d8l14COo6n)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 1,
+                "tag": "ワガママハイスペック"
+              },
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "まどそふと"
+              },
+              {
+                "end": 39,
+                "start": 34,
+                "tag": "ワガハイ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 71,
+                "start": 61,
+                "username": "wadati_73"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@garage_73",
+                "end": 102,
+                "expanded_url": "https://skeb.jp/@garage_73",
+                "start": 79,
+                "url": "https://t.co/d8l14COo6n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "melonbooks.co.jp/circle/index.p…",
+                "end": 23,
+                "expanded_url": "https://www.melonbooks.co.jp/circle/index.php?circle_id=120051",
+                "start": 0,
+                "url": "https://t.co/Xz3jGZcxsj"
+              }
+            ]
+          }
+        },
+        "id": "1573676202950545408",
+        "location": "同人サークル『ガレージ73』",
+        "name": "月城 轍(わだち)🎼",
+        "pinned_tweet_id": "1873980741656395917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854816005069193216/a4Cb8XO1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 200,
+          "like_count": 31961,
+          "listed_count": 17,
+          "media_count": 741,
+          "tweet_count": 10155
+        },
+        "url": "https://t.co/Xz3jGZcxsj",
+        "username": "garage_73",
+        "verified": false
+      }
+    ]
+  }
+}

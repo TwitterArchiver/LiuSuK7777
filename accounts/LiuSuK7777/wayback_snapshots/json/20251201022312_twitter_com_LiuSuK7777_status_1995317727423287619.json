@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1994463503399125498",
+    "created_at": "2025-12-01T02:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T03:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995317727423287619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1677270742705270784",
+          "start": 0,
+          "username": "GEACPS1940629"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995317727423287619",
+    "in_reply_to_user_id": "1677270742705270784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995215225029877807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GEACPS1940629 不认识"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1994463503399125498",
+        "created_at": "2025-12-01T02:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T03:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995317727423287619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1677270742705270784",
+              "start": 0,
+              "username": "GEACPS1940629"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995317727423287619",
+        "in_reply_to_user_id": "1677270742705270784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995215225029877807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GEACPS1940629 不认识"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677270742705270784",
+        "conversation_id": "1994463503399125498",
+        "created_at": "2025-11-30T19:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T20:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995215225029877807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995215225029877807",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994463503399125498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 你覺得我的頭像怎麽樣，熱愛奮鬥的希總統和熱愛原始風味的波總統帥不帥😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1994457982331961835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994695488520835072/aNvlyX-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2891,
+          "following_count": 2717,
+          "like_count": 35407,
+          "listed_count": 13,
+          "media_count": 1536,
+          "tweet_count": 32824
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T10:58:18.000Z",
+        "description": "@撐雨傘的湯普尼🇺🇸🇪🇺🇺🇦 的小號丨不談政治，鍵政人請遠離｜心理狀態很糟糕，想讓人安慰，Telegram的鏈接就放在這了，和我聊聊天吧🥺\n\n提問箱：https://t.co/FbqcTq0Vqx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mr.tenpenny",
+                "end": 98,
+                "expanded_url": "https://ngl.link/mr.tenpenny",
+                "start": 75,
+                "url": "https://t.co/FbqcTq0Vqx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi1939",
+                "end": 23,
+                "expanded_url": "http://t.me/xi1939",
+                "start": 0,
+                "url": "https://t.co/2CsWnNhq0f"
+              }
+            ]
+          }
+        },
+        "id": "1677270742705270784",
+        "name": "Mr.湯普尼",
+        "pinned_tweet_id": "1954982607738847246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881742183369220096/e-AyMgBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 4119,
+          "like_count": 69334,
+          "listed_count": 2,
+          "media_count": 2824,
+          "tweet_count": 7774
+        },
+        "url": "https://t.co/2CsWnNhq0f",
+        "username": "GEACPS1940629",
+        "verified": false
+      }
+    ]
+  }
+}

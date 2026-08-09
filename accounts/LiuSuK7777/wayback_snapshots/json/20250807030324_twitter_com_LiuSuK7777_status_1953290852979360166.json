@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953021967373893632"
+      ],
+      "media_source_tweet_id": [
+        "1953021977528287375"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "conversation_id": "1953290852979360166",
+    "created_at": "2025-08-07T03:03:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T04:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953290852979360166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1337528117640929280",
+          "start": 3,
+          "username": "izayoiYU_esi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B73hAAW9a5",
+          "end": 50,
+          "expanded_url": "https://x.com/izayoiYU_esi/status/1953021977528287375/photo/1",
+          "media_key": "3_1953021967373893632",
+          "start": 27,
+          "url": "https://t.co/B73hAAW9a5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953290852979360166",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1093
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953021977528287375",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @izayoiYU_esi: 僕の絵褒めれる？ https://t.co/B73hAAW9a5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2092,
+        "media_key": "3_1953021967373893632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxqHIbvbAAAEK4p.jpg",
+        "width": 1315
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953021967373893632"
+          ],
+          "media_source_tweet_id": [
+            "1953021977528287375"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "conversation_id": "1953290852979360166",
+        "created_at": "2025-08-07T03:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T04:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953290852979360166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1337528117640929280",
+              "start": 3,
+              "username": "izayoiYU_esi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B73hAAW9a5",
+              "end": 50,
+              "expanded_url": "https://x.com/izayoiYU_esi/status/1953021977528287375/photo/1",
+              "media_key": "3_1953021967373893632",
+              "start": 27,
+              "url": "https://t.co/B73hAAW9a5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953290852979360166",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1093
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953021977528287375",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @izayoiYU_esi: 僕の絵褒めれる？ https://t.co/B73hAAW9a5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953021967373893632"
+          ]
+        },
+        "author_id": "1337528117640929280",
+        "conversation_id": "1953021977528287375",
+        "created_at": "2025-08-06T09:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T10:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953021977528287375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B73hAAW9a5",
+              "end": 32,
+              "expanded_url": "https://x.com/izayoiYU_esi/status/1953021977528287375/photo/1",
+              "media_key": "3_1953021967373893632",
+              "start": 9,
+              "url": "https://t.co/B73hAAW9a5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953021977528287375",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5122,
+          "impression_count": 355438,
+          "like_count": 31816,
+          "quote_count": 9,
+          "reply_count": 42,
+          "retweet_count": 1093
+        },
+        "reply_settings": "everyone",
+        "text": "僕の絵褒めれる？ https://t.co/B73hAAW9a5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男 | 御主/ダーリン@yeziyu7777 | 革命伴侣/契约者/運命の人@zyh1428202 | お姉ちゃん@ttkyyx03 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "ttkyyx03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "超高校级の無意識",
+        "pinned_tweet_id": "1949513211826377068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2548,
+          "following_count": 2650,
+          "like_count": 34941,
+          "listed_count": 10,
+          "media_count": 1283,
+          "tweet_count": 29002
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-11T22:42:17.000Z",
+        "description": "Illustrator✐☡ ⋆* izayoiYUです！ fanBOX→（https://t.co/grDEWjecva）/ アイコン神絵師(@mynkaoi) 我が弟子(@mi_no_0122) 僕が尊敬且つ絵柄を参考にしてる 絵師様→@nanananaaannaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 71,
+                "username": "mynkaoi"
+              },
+              {
+                "end": 97,
+                "start": 86,
+                "username": "mi_no_0122"
+              },
+              {
+                "end": 134,
+                "start": 119,
+                "username": "nanananaaannaa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "izayoiyu.fanbox.cc",
+                "end": 60,
+                "expanded_url": "https://izayoiyu.fanbox.cc",
+                "start": 37,
+                "url": "https://t.co/grDEWjecva"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/izayoiYU_es…",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/izayoiYU_esi/",
+                "start": 0,
+                "url": "https://t.co/3zUVFTEpzN"
+              }
+            ]
+          }
+        },
+        "id": "1337528117640929280",
+        "location": "僕の描いたホロの絵は全然アイコンに使ってもらっても大丈夫です",
+        "name": "izayoi YU（c106 土曜日 東地区 “ユ”ブロック－44a(東4ホール)）",
+        "pinned_tweet_id": "1842781937276182878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942563835346313216/tQBGVPCi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111115,
+          "following_count": 244,
+          "like_count": 22745,
+          "listed_count": 276,
+          "media_count": 1903,
+          "tweet_count": 23503
+        },
+        "url": "https://t.co/3zUVFTEpzN",
+        "username": "izayoiYU_esi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1998993833057726570",
+    "created_at": "2025-12-11T08:19:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T09:19:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999031202842652935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874683133423132672",
+          "start": 0,
+          "username": "lnjijiji193046"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999031202842652935",
+    "in_reply_to_user_id": "1874683133423132672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999017727370068292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnjijiji193046 是的吧"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1999017727370068292].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1999017727370068292",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1999017727370068292"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1998993833057726570",
+        "created_at": "2025-12-11T08:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T09:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999031202842652935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874683133423132672",
+              "start": 0,
+              "username": "lnjijiji193046"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999031202842652935",
+        "in_reply_to_user_id": "1874683133423132672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999017727370068292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnjijiji193046 是的吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "1995540883278889351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998267978916528128/FNUZvgoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2928,
+          "following_count": 2759,
+          "like_count": 35483,
+          "listed_count": 13,
+          "media_count": 1561,
+          "tweet_count": 33400
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T05:04:34.000Z",
+        "description": "男娘/50kg/168/没回信息是在忙喵/属性偏M(微量S)/评论感兴趣的会互动/不约线下/有对象/同好欢迎贴贴❤️",
+        "id": "1874683133423132672",
+        "location": "猫猫窝❤️",
+        "name": "吾艿杉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998730205091999744/TXQWRvHM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 142,
+          "like_count": 5496,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 1314
+        },
+        "username": "lnjijiji193046",
+        "verified": false
+      }
+    ]
+  }
+}

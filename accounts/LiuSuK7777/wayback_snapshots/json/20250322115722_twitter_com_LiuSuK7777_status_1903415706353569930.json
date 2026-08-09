@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1903400416798519459",
+    "created_at": "2025-03-22T11:57:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T12:57:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903415706353569930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900175240690622464",
+          "start": 0,
+          "username": "XiaoLuNigeru"
+        },
+        {
+          "end": 28,
+          "id": "1688385343580680192",
+          "start": 14,
+          "username": "heiwawomamore"
+        },
+        {
+          "end": 39,
+          "id": "1869478972414967808",
+          "start": 29,
+          "username": "Rhein0223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903415706353569930",
+    "in_reply_to_user_id": "1900175240690622464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903415537864245256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoLuNigeru @heiwawomamore @Rhein0223 🦌确实挺好的 来打舞萌（划掉）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1903415537864245256].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1903415537864245256",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1903415537864245256"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1903400416798519459",
+        "created_at": "2025-03-22T11:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T12:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903415706353569930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900175240690622464",
+              "start": 0,
+              "username": "XiaoLuNigeru"
+            },
+            {
+              "end": 28,
+              "id": "1688385343580680192",
+              "start": 14,
+              "username": "heiwawomamore"
+            },
+            {
+              "end": 39,
+              "id": "1869478972414967808",
+              "start": 29,
+              "username": "Rhein0223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903415706353569930",
+        "in_reply_to_user_id": "1900175240690622464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903415537864245256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoLuNigeru @heiwawomamore @Rhein0223 🦌确实挺好的 来打舞萌（划掉）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "Arknights/崩壊:スターレイル/Arcaea/MaimaiDX/東方Project/ VOCALOID/Galgame/主人@yeziyu7777 关注@_FiniteWorld @small_fun8964 @Huahe_wu @KaitlynXiaoLu99 小号@Loveyezi8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "_FiniteWorld"
+              },
+              {
+                "end": 108,
+                "start": 94,
+                "username": "small_fun8964"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "Huahe_wu"
+              },
+              {
+                "end": 135,
+                "start": 119,
+                "username": "KaitlynXiaoLu99"
+              },
+              {
+                "end": 151,
+                "start": 138,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "☆流苏☆🐱IP杭州（100%互fo）",
+        "pinned_tweet_id": "1901903397277532265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1478,
+          "following_count": 1778,
+          "like_count": 28289,
+          "listed_count": 10,
+          "media_count": 800,
+          "tweet_count": 18478
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T13:21:10.000Z",
+        "description": "小鹿会一直在的！",
+        "id": "1900175240690622464",
+        "location": "任何地方",
+        "name": "-小鹿-🦌",
+        "pinned_tweet_id": "1901731469699281158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901390659220836352/wJJUcdu3_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 74,
+          "like_count": 433,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 203
+        },
+        "username": "XiaoLuNigeru",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:03:51.000Z",
+        "description": "末裏せい(まつり清)です\nMtX🍥hrt24.9.23\n勞動者非順直非健全非男者革命万才\n願大家平安顺遂快樂幸福\n愿善的人性理性感性终将引领拥有祂的人走向平和柔善的一个又一个地上天国\n❤️@manakaao68\n小妹妹@ATRIyatuoliQAQ\n愛麗絲@Alice14_88\n死變態@HyotoChandesuyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "manakaao68"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "ATRIyatuoliQAQ"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "Alice14_88"
+              },
+              {
+                "end": 159,
+                "start": 143,
+                "username": "HyotoChandesuyo"
+              }
+            ]
+          }
+        },
+        "id": "1688385343580680192",
+        "location": "Singin' In The Rain",
+        "name": "小小の木ノ幡みら(是 平和を守れ 哟)🐳⭐️🌴🍥🍉🌸",
+        "pinned_tweet_id": "1903127438940573842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885006163034730496/vh82mVRb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1486,
+          "following_count": 2006,
+          "like_count": 97443,
+          "listed_count": 13,
+          "media_count": 951,
+          "tweet_count": 49099
+        },
+        "username": "heiwawomamore",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T20:25:02.000Z",
+        "description": "一个普通的人...  || 轻度抑郁症+休学 || 世界人民大团结万岁 || 🛡️偏建制左翼三民主义❂/中国特色社会主义温和派☭ || 和平主义者🕊️☮️ || 喜欢玩Minecraft等等超多游戏 || 国语🇨🇳粤语🇭🇰英语🇬🇧 || 包容大部分立场（除支黑/极端主义者） ||",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=aLj5BXE7evsg5jiZ",
+                "start": 0,
+                "url": "https://t.co/FxnsHOmScj"
+              }
+            ]
+          }
+        },
+        "id": "1869478972414967808",
+        "location": "IP:中華人民共和國🇨🇳粵港澳联合特別行政區",
+        "name": "🍋‍🟩•𝑿𝒊𝒂𝒐𝑩𝒂𝒊-𝑹𝒉𝒆𝒊𝒏𝕏•🇭🇰ʜᴋ🇨🇳ᴄɴ",
+        "pinned_tweet_id": "1899795498392858722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899550661500391424/YR9MbIrG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 641,
+          "like_count": 4109,
+          "listed_count": 1,
+          "media_count": 483,
+          "tweet_count": 2094
+        },
+        "url": "https://t.co/FxnsHOmScj",
+        "username": "Rhein0223",
+        "verified": false
+      }
+    ]
+  }
+}

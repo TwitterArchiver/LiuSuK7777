@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1907259849437761747",
+    "created_at": "2025-04-02T04:37:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T05:37:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907291364494393543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1532663208393117696",
+          "start": 0,
+          "username": "Ziverk2"
+        },
+        {
+          "end": 18,
+          "id": "1762120281626415104",
+          "start": 9,
+          "username": "JIZHI0_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907291364494393543",
+    "in_reply_to_user_id": "1532663208393117696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907259849437761747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ziverk2 @JIZHI0_0 ？唉好吧 晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1907259849437761747",
+        "created_at": "2025-04-02T04:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T05:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907291364494393543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1532663208393117696",
+              "start": 0,
+              "username": "Ziverk2"
+            },
+            {
+              "end": 18,
+              "id": "1762120281626415104",
+              "start": 9,
+              "username": "JIZHI0_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907291364494393543",
+        "in_reply_to_user_id": "1532663208393117696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907259849437761747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ziverk2 @JIZHI0_0 ？唉好吧 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1532663208393117696",
+        "conversation_id": "1907259849437761747",
+        "created_at": "2025-04-02T02:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T03:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907259849437761747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1762120281626415104",
+              "start": 23,
+              "username": "JIZHI0_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907259849437761747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 808,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "晚安....对不起Eina总是帮倒忙....\n@JIZHI0_0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "跟我面基可以随便摸我",
+        "name": "流苏🍥（@愚人节快乐",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 2043,
+          "like_count": 29872,
+          "listed_count": 12,
+          "media_count": 878,
+          "tweet_count": 21338
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T09:59:29.000Z",
+        "description": "一只没有成年的成年猫猫w\n|MTX(F)🏳️‍⚧️🍥 SINCE 2024.11\n| Wish happy all the time but it cannot be.\n| Office @mtitstudio",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "mtitstudio"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "einashome.byethost22.com",
+                "end": 23,
+                "expanded_url": "http://einashome.byethost22.com",
+                "start": 0,
+                "url": "https://t.co/AFyZbAfS0k"
+              }
+            ]
+          }
+        },
+        "id": "1532663208393117696",
+        "location": "Tianfu",
+        "name": "Einaちゃん🍥（=^𖥦^=）~",
+        "pinned_tweet_id": "1884407282454482944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864480412086439936/I2-BmRO2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2041,
+          "following_count": 4307,
+          "like_count": 122190,
+          "listed_count": 7,
+          "media_count": 89,
+          "tweet_count": 8131
+        },
+        "url": "https://t.co/AFyZbAfS0k",
+        "username": "Ziverk2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T14:19:56.000Z",
+        "description": "好耶～放飞自我啦～                                                                  👇这是赞赏码（小声）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/X_jvzhi/status…",
+                "end": 23,
+                "expanded_url": "https://x.com/X_jvzhi/status/1890065972251512970?t=N3_qrUwfgd6J7V_jONEpYQ&s=19",
+                "start": 0,
+                "url": "https://t.co/FQJcpBQKS4"
+              }
+            ]
+          }
+        },
+        "id": "1762120281626415104",
+        "name": "橘枳",
+        "pinned_tweet_id": "1886692793537433697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890064208911581184/pgvPpGCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1266,
+          "following_count": 133,
+          "like_count": 25773,
+          "listed_count": 7,
+          "media_count": 223,
+          "tweet_count": 9225
+        },
+        "url": "https://t.co/FQJcpBQKS4",
+        "username": "JIZHI0_0",
+        "verified": false
+      }
+    ]
+  }
+}

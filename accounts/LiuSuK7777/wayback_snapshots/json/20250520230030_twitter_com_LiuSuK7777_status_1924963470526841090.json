@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1924788063865340352",
+    "created_at": "2025-05-20T23:00:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T00:00:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924963470526841090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1657288224451203073",
+          "start": 0,
+          "username": "Cialloi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924963470526841090",
+    "in_reply_to_user_id": "1657288224451203073",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924789188144333116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cialloi ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1924788063865340352",
+        "created_at": "2025-05-20T23:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T00:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924963470526841090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1657288224451203073",
+              "start": 0,
+              "username": "Cialloi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924963470526841090",
+        "in_reply_to_user_id": "1657288224451203073",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924789188144333116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cialloi ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657288224451203073",
+        "conversation_id": "1924788063865340352",
+        "created_at": "2025-05-20T11:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T12:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924789188144333116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924789188144333116",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924788063865340352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 没了我吃啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "😣",
+        "name": "流苏1号😺",
+        "pinned_tweet_id": "1923615398567833920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2044,
+          "following_count": 2308,
+          "like_count": 33628,
+          "listed_count": 11,
+          "media_count": 1071,
+          "tweet_count": 25068
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T07:34:48.000Z",
+        "description": "耶耶的主人@_NekoMoonLight\n\n小号喵@Ciallo003（负能）互私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "_NekoMoonLight"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "Ciallo003"
+              }
+            ]
+          }
+        },
+        "id": "1657288224451203073",
+        "name": "耶",
+        "pinned_tweet_id": "1904008072143479278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911713586650476544/ZJv4PVD8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1322,
+          "following_count": 553,
+          "like_count": 44620,
+          "listed_count": 4,
+          "media_count": 225,
+          "tweet_count": 10665
+        },
+        "username": "Cialloi",
+        "verified": false
+      }
+    ]
+  }
+}

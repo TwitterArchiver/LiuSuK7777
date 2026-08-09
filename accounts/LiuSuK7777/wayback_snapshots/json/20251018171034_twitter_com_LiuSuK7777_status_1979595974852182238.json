@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1979414443416236512",
+    "created_at": "2025-10-18T17:10:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T18:10:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979595974852182238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748531675573964800",
+          "start": 0,
+          "username": "dingansich8964"
+        },
+        {
+          "end": 28,
+          "id": "1874895356452130816",
+          "start": 16,
+          "username": "newkitty412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979595974852182238",
+    "in_reply_to_user_id": "1748531675573964800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979595422453911861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dingansich8964 @newkitty412 受着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1979414443416236512",
+        "created_at": "2025-10-18T17:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T18:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979595974852182238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748531675573964800",
+              "start": 0,
+              "username": "dingansich8964"
+            },
+            {
+              "end": 28,
+              "id": "1874895356452130816",
+              "start": 16,
+              "username": "newkitty412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979595974852182238",
+        "in_reply_to_user_id": "1748531675573964800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979595422453911861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dingansich8964 @newkitty412 受着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748531675573964800",
+        "conversation_id": "1979414443416236512",
+        "created_at": "2025-10-18T17:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T18:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979595422453911861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874895356452130816",
+              "start": 0,
+              "username": "newkitty412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979595422453911861",
+        "in_reply_to_user_id": "1874895356452130816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979414443416236512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@newkitty412 沒有練習對象就和門衛老大爺練了，現在他反鎖門衛室還脫衣服我該怎麼辦😥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分基本上是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！\n主人♡@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb700j"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "K",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976703554758098945/2sn3KBuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2782,
+          "following_count": 2676,
+          "like_count": 35496,
+          "listed_count": 14,
+          "media_count": 1447,
+          "tweet_count": 31365
+        },
+        "url": "https://t.co/2xm6Tb700j",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T02:23:53.000Z",
+        "description": "已工作，生不如死。會發一些枯燥的日常。叫我物物就好。在國外工作。看動漫，健身，填词，聽古典樂。喜欢烹飪、園藝、最近还在看谢林。「だって、私、追いかけるのが好きなんだもの。」喜歡的人是@dingansich8964。電報@DINGANSICH648",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "dingansich8964"
+              },
+              {
+                "end": 123,
+                "start": 109,
+                "username": "DINGANSICH648"
+              }
+            ]
+          }
+        },
+        "id": "1748531675573964800",
+        "name": "物凝主體",
+        "pinned_tweet_id": "1945457173599072557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897646810052886528/nBKqybTs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 67,
+          "like_count": 32882,
+          "listed_count": 1,
+          "media_count": 968,
+          "tweet_count": 9180
+        },
+        "username": "dingansich8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T19:07:49.000Z",
+        "description": "IMSB | 性别草履虫 爱发点乱七八糟的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oinml",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oinml",
+                "start": 0,
+                "url": "https://t.co/5ZgSd7NLBN"
+              }
+            ]
+          }
+        },
+        "id": "1874895356452130816",
+        "location": "链接是提问箱",
+        "name": "活着真豆不容易",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969336716940230656/aNawclHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1842,
+          "following_count": 147,
+          "like_count": 6775,
+          "listed_count": 6,
+          "media_count": 113,
+          "tweet_count": 2400
+        },
+        "url": "https://t.co/5ZgSd7NLBN",
+        "username": "newkitty412",
+        "verified": false
+      }
+    ]
+  }
+}

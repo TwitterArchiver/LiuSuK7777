@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2028835764528943479",
+    "created_at": "2026-03-04T06:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T07:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029079734823600563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1360522586317348865",
+          "start": 0,
+          "username": "nanami_mua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029079734823600563",
+    "in_reply_to_user_id": "1360522586317348865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028835764528943479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanami_mua 不要杀我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2028835764528943479",
+        "created_at": "2026-03-04T06:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T07:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029079734823600563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1360522586317348865",
+              "start": 0,
+              "username": "nanami_mua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029079734823600563",
+        "in_reply_to_user_id": "1360522586317348865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028835764528943479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami_mua 不要杀我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360522586317348865",
+        "conversation_id": "2028835764528943479",
+        "created_at": "2026-03-03T14:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T15:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028835764528943479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nanami_mua/sta…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/nanami_mua/status/2028694187949068770",
+              "start": 34,
+              "url": "https://t.co/tT6aILWysR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028835764528943479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1080,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028694187949068770",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那看来是时候清follower了，我要b掉一大堆的奇怪账号和三无号 https://t.co/tT6aILWysR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n对象@zyh842159145\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2027413414931227039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022579402232729603/sIzOPs42_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3082,
+          "following_count": 2742,
+          "like_count": 35331,
+          "listed_count": 15,
+          "media_count": 1622,
+          "tweet_count": 34384
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "MtX/小证🍥25.1.11/半个家长党/100%健全/永远的好妹妹:@LCG_Akiball/可爱狐狐～@SnowFoxSama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 65,
+                "start": 53,
+                "username": "SnowFoxSama"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "name": "Nanamiao～",
+        "pinned_tweet_id": "2023776700212097110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004949115835494400/OuSLocac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 481,
+          "like_count": 77557,
+          "listed_count": 2,
+          "media_count": 680,
+          "tweet_count": 7198
+        },
+        "username": "nanami_mua",
+        "verified": true
+      }
+    ]
+  }
+}

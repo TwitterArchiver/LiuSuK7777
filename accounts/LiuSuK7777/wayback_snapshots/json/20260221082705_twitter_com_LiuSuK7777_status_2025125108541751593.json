@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2025024143192981981",
+    "created_at": "2026-02-21T08:27:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T09:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025125108541751593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1802884729412161537",
+          "start": 0,
+          "username": "Realze4ever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025125108541751593",
+    "in_reply_to_user_id": "1802884729412161537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025079590637765075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Realze4ever 我的性取向很正常😡\n涩涩都是对男娘和女孩子涩涩的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2025079590637765075].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2025079590637765075",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2025079590637765075"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2025024143192981981",
+        "created_at": "2026-02-21T08:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T09:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025125108541751593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1802884729412161537",
+              "start": 0,
+              "username": "Realze4ever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025125108541751593",
+        "in_reply_to_user_id": "1802884729412161537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025079590637765075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Realze4ever 我的性取向很正常😡\n涩涩都是对男娘和女孩子涩涩的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n老公@zyh842159145\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "1995540883278889351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022579402232729603/sIzOPs42_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3074,
+          "following_count": 2748,
+          "like_count": 35403,
+          "listed_count": 15,
+          "media_count": 1609,
+          "tweet_count": 34288
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T02:03:20.000Z",
+        "description": "小真的princess @kgdyodyi/陌生人不友好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "kgdyodyi"
+              }
+            ]
+          }
+        },
+        "id": "1802884729412161537",
+        "location": "星夜下的宁静海面",
+        "name": "Realze",
+        "pinned_tweet_id": "1958364878961570197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004754592643563520/3rE0vv39_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 217,
+          "like_count": 182663,
+          "listed_count": 6,
+          "media_count": 365,
+          "tweet_count": 11318
+        },
+        "username": "Realze4ever",
+        "verified": false
+      }
+    ]
+  }
+}

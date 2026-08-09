@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1934972999192793197",
+    "created_at": "2025-06-17T14:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T15:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934981060267557236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1835753359015624704",
+          "start": 0,
+          "username": "aoi_mti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934981060267557236",
+    "in_reply_to_user_id": "1835753359015624704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934972999192793197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoi_mti 我没换（\n我就是多了一个嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1934972999192793197",
+        "created_at": "2025-06-17T14:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T15:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934981060267557236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1835753359015624704",
+              "start": 0,
+              "username": "aoi_mti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934981060267557236",
+        "in_reply_to_user_id": "1835753359015624704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934972999192793197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoi_mti 我没换（\n我就是多了一个嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835753359015624704",
+        "conversation_id": "1934972999192793197",
+        "created_at": "2025-06-17T13:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T14:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934972999192793197"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934972999192793197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么有些人换对象的频率这么快\n我记得上周ta的简介上都还是另一个人的名字"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男孩子/流苏，Arcaea/明日方舟/舞萌DX/火影忍者/社恐/健全B/2008.02.29 |主人@yeziyu7777对象@zyh1428202小号@Loveyezi8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1934919167632920968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2173,
+          "following_count": 2440,
+          "like_count": 34284,
+          "listed_count": 11,
+          "media_count": 1122,
+          "tweet_count": 26521
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T18:51:28.000Z",
+        "description": "Weibo: @三澄葵 / 微信公众号 aoinoheya / 臭打maimai 的 / AuDHD diagnosed / 英语教师 / alter ego @aoimti02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "aoimti02"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "msmaoi.link",
+                "end": 23,
+                "expanded_url": "https://msmaoi.link",
+                "start": 0,
+                "url": "https://t.co/gjzPrisrKk"
+              }
+            ]
+          }
+        },
+        "id": "1835753359015624704",
+        "location": "WNZ HGH ZJ & SH CHN",
+        "name": "Aoi M - T.I.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929219142609154048/Opc5NMtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1375,
+          "following_count": 1218,
+          "like_count": 34395,
+          "listed_count": 6,
+          "media_count": 1717,
+          "tweet_count": 6870
+        },
+        "url": "https://t.co/gjzPrisrKk",
+        "username": "aoi_mti",
+        "verified": true
+      }
+    ]
+  }
+}

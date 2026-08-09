@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1919960815177699835",
+    "created_at": "2025-05-07T03:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T04:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919960815177699835"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kxk1388574/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/kxk1388574/status/1919833045529723314",
+          "start": 9,
+          "url": "https://t.co/wEbNjnW8ta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919960815177699835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919833045529723314",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是一起去机厅？ https://t.co/wEbNjnW8ta"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1919960815177699835",
+        "created_at": "2025-05-07T03:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T04:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919960815177699835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kxk1388574/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/kxk1388574/status/1919833045529723314",
+              "start": 9,
+              "url": "https://t.co/wEbNjnW8ta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919960815177699835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919833045529723314",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是一起去机厅？ https://t.co/wEbNjnW8ta"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673364955171782657",
+        "conversation_id": "1919533543497081198",
+        "created_at": "2025-05-06T19:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T20:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919833045529723314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919833045529723314",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919533543497081198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 *感觉你是那种两人一起去咖啡店/电影院然后手不老实最后被制裁的那种类型"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": " 🔪‌",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1996,
+          "following_count": 2228,
+          "like_count": 32618,
+          "listed_count": 12,
+          "media_count": 1020,
+          "tweet_count": 24141
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "*是一只路过的🍋～\n*下海了，可以接定制视频，大部分玩法都可以，单聊天无门，想聊天可以随时聊的）",
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "kxk🍋（R180-G）",
+        "pinned_tweet_id": "1915472302764154925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3838,
+          "following_count": 4442,
+          "like_count": 22421,
+          "listed_count": 5,
+          "media_count": 338,
+          "tweet_count": 3639
+        },
+        "username": "kxk1388574",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1970744103475593429",
+    "created_at": "2025-09-24T07:49:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T08:49:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970757434978468101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1905180625981890560",
+          "start": 0,
+          "username": "MikuMikuGOAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970757434978468101",
+    "in_reply_to_user_id": "1905180625981890560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970746536834609604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikuMikuGOAT 不能"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1970746536834609604].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1970746536834609604",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1970746536834609604"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1970744103475593429",
+        "created_at": "2025-09-24T07:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T08:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970757434978468101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905180625981890560",
+              "start": 0,
+              "username": "MikuMikuGOAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970757434978468101",
+        "in_reply_to_user_id": "1905180625981890560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970746536834609604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikuMikuGOAT 不能"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969600938567745538/genz-feI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2658,
+          "following_count": 2643,
+          "like_count": 35395,
+          "listed_count": 14,
+          "media_count": 1387,
+          "tweet_count": 30477
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T08:51:21.000Z",
+        "description": "一般路过核狗\n\n𝔄𝔰𝔨𝔦𝔫𝔤 𝔄𝔩𝔢𝔵𝔞𝔫𝔡𝔯𝔦𝔞 / 𝔅𝔯𝔦𝔫𝔤 𝔐𝔢 𝔗𝔥𝔢 ℌ𝔬𝔯𝔦𝔷𝔬𝔫 / \n\n𝔈ℜℜ𝔄 / 𝔓𝔞𝔯𝔨𝔴𝔞𝔶 𝔇𝔯𝔦𝔳𝔢 / 𝔅𝔞𝔡 𝔒𝔪𝔢𝔫𝔰 / 𝖙𝖍𝖗𝖔𝖜𝖓.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "973-eht-namuh-973.com",
+                "end": 23,
+                "expanded_url": "https://973-eht-namuh-973.com/",
+                "start": 0,
+                "url": "https://t.co/OQUkpqto2C"
+              }
+            ]
+          }
+        },
+        "id": "1905180625981890560",
+        "location": "behind you",
+        "name": "໊",
+        "pinned_tweet_id": "1964292339893227904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970393400425013248/AzalWvaI_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 1793,
+          "like_count": 54347,
+          "listed_count": 3,
+          "media_count": 1016,
+          "tweet_count": 10353
+        },
+        "url": "https://t.co/OQUkpqto2C",
+        "username": "MikuMikuGOAT",
+        "verified": false
+      }
+    ]
+  }
+}

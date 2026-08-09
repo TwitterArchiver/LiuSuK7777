@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1916100587252552111",
+    "created_at": "2025-04-26T12:49:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T13:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916112507195830722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1914084998728294400",
+          "start": 0,
+          "username": "r208956"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916112507195830722",
+    "in_reply_to_user_id": "1914084998728294400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916112001119752587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@r208956 同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1916100587252552111",
+        "created_at": "2025-04-26T12:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T13:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916112507195830722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1914084998728294400",
+              "start": 0,
+              "username": "r208956"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916112507195830722",
+        "in_reply_to_user_id": "1914084998728294400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916112001119752587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@r208956 同"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914084998728294400",
+        "conversation_id": "1916100587252552111",
+        "created_at": "2025-04-26T12:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T13:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916112001119752587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916112001119752587",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916100587252552111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 太麻烦了，不喜欢玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1837,
+          "following_count": 2149,
+          "like_count": 31208,
+          "listed_count": 12,
+          "media_count": 953,
+          "tweet_count": 22909
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T22:33:33.000Z",
+        "description": "日常推？/黎明杀机/哲学/摄影",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@qwasn-m5j?si=…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@qwasn-m5j?si=ms8kzpQiESqPfg5",
+                "start": 0,
+                "url": "https://t.co/5NY7uKHz6C"
+              }
+            ]
+          }
+        },
+        "id": "1914084998728294400",
+        "location": "天津",
+        "name": "Qwasn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914186055353548800/d5vlzqSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 38,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 18
+        },
+        "url": "https://t.co/5NY7uKHz6C",
+        "username": "r208956",
+        "verified": false
+      }
+    ]
+  }
+}

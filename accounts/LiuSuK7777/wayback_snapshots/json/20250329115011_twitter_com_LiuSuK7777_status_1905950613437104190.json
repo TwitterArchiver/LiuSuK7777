@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1905950613437104190",
+    "created_at": "2025-03-29T11:50:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T12:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905950613437104190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1850772146177576960",
+          "start": 3,
+          "username": "Chunier520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905950613437104190",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905948022204436796",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chunier520: 请见到的人，立即报警！！！！！\n10min，来得及！！；"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1905950613437104190",
+        "created_at": "2025-03-29T11:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T12:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905950613437104190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1850772146177576960",
+              "start": 3,
+              "username": "Chunier520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905950613437104190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905948022204436796",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chunier520: 请见到的人，立即报警！！！！！\n10min，来得及！！；"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850772146177576960",
+        "conversation_id": "1905948022204436796",
+        "created_at": "2025-03-29T11:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T12:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905948022204436796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JIZHI0_0/statu…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/JIZHI0_0/status/1905945330408997326",
+              "start": 29,
+              "url": "https://t.co/aIZgObLpWI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905948022204436796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905945330408997326",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请见到的人，立即报警！！！！！\n10min，来得及！！； https://t.co/aIZgObLpWI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "💞@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "AAA_流苏批发",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1679,
+          "following_count": 1998,
+          "like_count": 29349,
+          "listed_count": 13,
+          "media_count": 856,
+          "tweet_count": 20490
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T05:30:47.000Z",
+        "description": "我们呼吁大家 #关注救助者健康 ，呼吁大家 #关注家暴受害者\n旨在帮助没有流量的跨女获得流量\n爱党爱国，坚决拥护中国共产党领导。请不要把账号内容用于政治目的。\n接约文。\n自杀干预右转 @lianyiganyu \n扭转干预右转 @lwrdhyyuxr22499\nbot没办法帮你，常住运营者A，不常住运营C，A比你还差",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 7,
+                "tag": "关注救助者健康"
+              },
+              {
+                "end": 30,
+                "start": 22,
+                "tag": "关注家暴受害者"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "lianyiganyu"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "lwrdhyyuxr22499"
+              }
+            ]
+          }
+        },
+        "id": "1850772146177576960",
+        "name": "MtF转发bot（TG那个是冒充的）",
+        "pinned_tweet_id": "1905467063793320097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904469897620701184/IBaWTsyZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1223,
+          "following_count": 344,
+          "like_count": 1840,
+          "listed_count": 4,
+          "media_count": 21,
+          "tweet_count": 3214
+        },
+        "username": "Chunier520",
+        "verified": false
+      }
+    ]
+  }
+}

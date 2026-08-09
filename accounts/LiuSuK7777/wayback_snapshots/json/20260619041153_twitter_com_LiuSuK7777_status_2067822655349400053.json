@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2067806389913919748",
+    "created_at": "2026-06-19T04:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T05:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067822655349400053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1768332499510558723",
+          "start": 0,
+          "username": "ChuCaoJiCute"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067822655349400053",
+    "in_reply_to_user_id": "1768332499510558723",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067810640790704605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChuCaoJiCute 那就不做"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2067810640790704605].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2067810640790704605",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2067810640790704605"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2067806389913919748",
+        "created_at": "2026-06-19T04:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T05:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067822655349400053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1768332499510558723",
+              "start": 0,
+              "username": "ChuCaoJiCute"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067822655349400053",
+        "in_reply_to_user_id": "1768332499510558723",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067810640790704605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChuCaoJiCute 那就不做"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 杭州 08年 舞萌/东方/Arcaea/明日方舟/三角洲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2032828973374386365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060157452931465216/9MujmSVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3545,
+          "following_count": 2714,
+          "like_count": 34371,
+          "listed_count": 14,
+          "media_count": 1684,
+          "tweet_count": 35104
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T17:45:05.000Z",
+        "description": "شهوة وغضب",
+        "id": "1768332499510558723",
+        "location": "特朗普就是俺们回民养哈的",
+        "name": "⁺✞ʚماذا أكل مياو مياو لو اليومɞ✟₊",
+        "pinned_tweet_id": "2055423252215025910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067147604564258816/q1pY2_OA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 824,
+          "like_count": 27429,
+          "listed_count": 4,
+          "media_count": 683,
+          "tweet_count": 6768
+        },
+        "url": "",
+        "username": "ChuCaoJiCute",
+        "verified": false
+      }
+    ]
+  }
+}

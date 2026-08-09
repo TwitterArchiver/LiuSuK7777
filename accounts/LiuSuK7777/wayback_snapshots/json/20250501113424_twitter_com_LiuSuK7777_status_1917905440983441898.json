@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1917432814821335521",
+    "created_at": "2025-05-01T11:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T12:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917905440983441898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1766042085013020672",
+          "start": 0,
+          "username": "bakemian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917905440983441898",
+    "in_reply_to_user_id": "1766042085013020672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917905185718075651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bakemian 老师你（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1917432814821335521",
+        "created_at": "2025-05-01T11:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T12:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917905440983441898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1766042085013020672",
+              "start": 0,
+              "username": "bakemian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917905440983441898",
+        "in_reply_to_user_id": "1766042085013020672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917905185718075651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bakemian 老师你（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766042085013020672",
+        "conversation_id": "1917432814821335521",
+        "created_at": "2025-05-01T11:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T12:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917905185718075651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917905185718075651",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917432814821335521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 揉揉肚子（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1932,
+          "following_count": 2188,
+          "like_count": 31958,
+          "listed_count": 13,
+          "media_count": 985,
+          "tweet_count": 23628
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T10:03:51.000Z",
+        "description": "♥︎製作過程:添加90%的牛乳 和 10%的少女心事",
+        "id": "1766042085013020672",
+        "location": "天国",
+        "name": "ᜊ 十字架銘刻的愛 ᜊ",
+        "pinned_tweet_id": "1916457874160599424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916502069214883840/7gpG7cyH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 154,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 161
+        },
+        "username": "bakemian",
+        "verified": false
+      }
+    ]
+  }
+}

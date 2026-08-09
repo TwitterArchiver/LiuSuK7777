@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1921204186990932236",
+    "created_at": "2025-05-10T14:41:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T15:41:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921214061460476386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1895166510743855104",
+          "start": 0,
+          "username": "MaoQi33394"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921214061460476386",
+    "in_reply_to_user_id": "1895166510743855104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921213882938335544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaoQi33394 是的是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1921204186990932236",
+        "created_at": "2025-05-10T14:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T15:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921214061460476386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1895166510743855104",
+              "start": 0,
+              "username": "MaoQi33394"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921214061460476386",
+        "in_reply_to_user_id": "1895166510743855104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921213882938335544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaoQi33394 是的是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895166510743855104",
+        "conversation_id": "1921204186990932236",
+        "created_at": "2025-05-10T14:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T15:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921213882938335544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921213882938335544",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921204186990932236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 真的是输入法的问题嘛×"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": " 🔪‌",
+        "name": "流苏",
+        "pinned_tweet_id": "1921196565060088153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2009,
+          "following_count": 2275,
+          "like_count": 32790,
+          "listed_count": 11,
+          "media_count": 1029,
+          "tweet_count": 24313
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-27T17:38:16.000Z",
+        "description": "发点胡言乱语 ·\n性别是猫箱 ·\n不卖身，不喜欢见证 ·\n想互fo，请大家狠狠灌注窝！ ·\n私信掉落QQ号，找我聊天倾诉都可以哦，可能不擅长主动找话题（ · \n不定时看推特，回fo回私信不及时请见谅 · \n底下链接是提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/catbox2/",
+                "end": 23,
+                "expanded_url": "https://ngl.link/catbox2/",
+                "start": 0,
+                "url": "https://t.co/0i8wZtFVec"
+              }
+            ]
+          }
+        },
+        "id": "1895166510743855104",
+        "location": "Avalon",
+        "name": "見崎貓🐾",
+        "pinned_tweet_id": "1898209430254334132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915369117848330240/d-3UwIVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 400,
+          "like_count": 925,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 414
+        },
+        "url": "https://t.co/0i8wZtFVec",
+        "username": "MaoQi33394",
+        "verified": false
+      }
+    ]
+  }
+}

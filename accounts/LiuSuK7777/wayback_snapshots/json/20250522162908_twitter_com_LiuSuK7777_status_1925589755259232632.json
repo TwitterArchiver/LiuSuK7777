@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1925485401990664415",
+    "created_at": "2025-05-22T16:29:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T17:29:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925589755259232632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1363826773176188934",
+          "start": 0,
+          "username": "huige545"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925589755259232632",
+    "in_reply_to_user_id": "1363826773176188934",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925585904418398406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huige545 明明是凌辱堕落……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1925485401990664415",
+        "created_at": "2025-05-22T16:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T17:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925589755259232632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1363826773176188934",
+              "start": 0,
+              "username": "huige545"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925589755259232632",
+        "in_reply_to_user_id": "1363826773176188934",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925585904418398406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huige545 明明是凌辱堕落……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363826773176188934",
+        "conversation_id": "1925485401990664415",
+        "created_at": "2025-05-22T16:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T17:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925585904418398406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925585904418398406",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925485401990664415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 唉那本的前传更好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "😣",
+        "name": "K",
+        "pinned_tweet_id": "1923615398567833920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2050,
+          "following_count": 2316,
+          "like_count": 33721,
+          "listed_count": 11,
+          "media_count": 1072,
+          "tweet_count": 25175
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-22T12:23:45.000Z",
+        "description": "理应在最后的最后不说告别 | 是电子幽灵 | chat:https://t.co/qdcf50qYvk |我抬头，星星笑着，默默无言。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/huige233",
+                "end": 51,
+                "expanded_url": "http://t.me/huige233",
+                "start": 28,
+                "url": "https://t.co/qdcf50qYvk"
+              }
+            ]
+          }
+        },
+        "id": "1363826773176188934",
+        "location": "一片死寂的荒地",
+        "name": "huige",
+        "pinned_tweet_id": "1860278144823099607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907174623206404096/3ljSb8sI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 846,
+          "like_count": 14411,
+          "listed_count": 12,
+          "media_count": 939,
+          "tweet_count": 10678
+        },
+        "username": "huige545",
+        "verified": false
+      }
+    ]
+  }
+}

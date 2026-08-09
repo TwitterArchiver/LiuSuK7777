@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1939516311589224803",
+    "created_at": "2025-06-30T02:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T03:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939517714508464251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "KagurazakaAzure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939517714508464251",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 38,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939517321384726804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazakaAzure 感觉一辈子出不去浙江\n除了51去了一次苏州和上海"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1939516311589224803",
+        "created_at": "2025-06-30T02:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T03:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939517714508464251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "KagurazakaAzure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939517714508464251",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939517321384726804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaAzure 感觉一辈子出不去浙江\n除了51去了一次苏州和上海"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807107145756008448",
+        "conversation_id": "1939516311589224803",
+        "created_at": "2025-06-30T02:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T03:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939517321384726804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939517321384726804",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939516311589224803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 你在重庆我请你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男|Arcaea|明日方舟|舞萌DX|火影忍者|社恐健全B|2008.02.29 |主人@yeziyu7777对象@zyh1428202小号@Loveyezi8964\n笨蛋姐姐@TTKYYX03",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Loveyezi8964"
+              },
+              {
+                "end": 97,
+                "start": 88,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1936314364468105461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2235,
+          "following_count": 2491,
+          "like_count": 34510,
+          "listed_count": 10,
+          "media_count": 1172,
+          "tweet_count": 27210
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "⛩️🕯🧊🌊⁉️ | 避雷概率掉落R18🔞｜líng ｜MtX｜🍥hrt24.4.20｜179cm55kg｜可能是🇬🇧预备役英区留子｜08｜重庆｜入坑半年音游 ｜Arcaea&maimaiでらっくす｜曾列席特朗普马斯克对谈会 ｜买雌二醇找@minokakay｜@juhao0721❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 118,
+                "username": "minokakay"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "「查看更多」里面有自我介绍⬇️",
+        "name": "Λzure色號の水彩翎.🕯",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938293505996296195/LQW0jQLL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7250,
+          "following_count": 1014,
+          "like_count": 33026,
+          "listed_count": 9,
+          "media_count": 2263,
+          "tweet_count": 17953
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": true
+      }
+    ]
+  }
+}

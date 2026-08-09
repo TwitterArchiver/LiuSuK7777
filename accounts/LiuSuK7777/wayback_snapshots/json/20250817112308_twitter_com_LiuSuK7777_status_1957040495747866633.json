@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957040493021523968"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "conversation_id": "1957028367917822027",
+    "created_at": "2025-08-17T11:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T12:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957040495747866633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1915723009161375744",
+          "start": 0,
+          "username": "fuckpregabalin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cnEZ5qsDlg",
+          "end": 39,
+          "expanded_url": "https://x.com/LiuSuK7777/status/1957040495747866633/photo/1",
+          "media_key": "3_1957040493021523968",
+          "start": 16,
+          "url": "https://t.co/cnEZ5qsDlg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957040495747866633",
+    "in_reply_to_user_id": "1915723009161375744",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957040304303100123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuckpregabalin https://t.co/cnEZ5qsDlg"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1957040304303100123].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1957040304303100123",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1957040304303100123"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 880,
+        "media_key": "3_1957040493021523968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyjN9aWacAAMXoS.jpg",
+        "width": 880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957040493021523968"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "conversation_id": "1957028367917822027",
+        "created_at": "2025-08-17T11:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T12:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957040495747866633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1915723009161375744",
+              "start": 0,
+              "username": "fuckpregabalin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cnEZ5qsDlg",
+              "end": 39,
+              "expanded_url": "https://x.com/LiuSuK7777/status/1957040495747866633/photo/1",
+              "media_key": "3_1957040493021523968",
+              "start": 16,
+              "url": "https://t.co/cnEZ5qsDlg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957040495747866633",
+        "in_reply_to_user_id": "1915723009161375744",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957040304303100123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuckpregabalin https://t.co/cnEZ5qsDlg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1954538422728585308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954809051319267328/I8I9Z1CP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2573,
+          "following_count": 2651,
+          "like_count": 35057,
+          "listed_count": 11,
+          "media_count": 1306,
+          "tweet_count": 29299
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T11:02:16.000Z",
+        "description": "💫@HyotoChandesuyo @VicoOci @yangaaa111｜👾@iTZQing @Lmao_Quien @Cheese_Ghostfox @genya1976 @Chenuden @heherrrrabbit1 @nyamuraTT @EarlofFidonisi @heiwawomamore",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "HyotoChandesuyo"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "VicoOci"
+              },
+              {
+                "end": 38,
+                "start": 27,
+                "username": "yangaaa111"
+              },
+              {
+                "end": 48,
+                "start": 40,
+                "username": "iTZQing"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "Lmao_Quien"
+              },
+              {
+                "end": 77,
+                "start": 61,
+                "username": "Cheese_Ghostfox"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "genya1976"
+              },
+              {
+                "end": 98,
+                "start": 89,
+                "username": "Chenuden"
+              },
+              {
+                "end": 114,
+                "start": 99,
+                "username": "heherrrrabbit1"
+              },
+              {
+                "end": 125,
+                "start": 115,
+                "username": "nyamuraTT"
+              },
+              {
+                "end": 141,
+                "start": 126,
+                "username": "EarlofFidonisi"
+              },
+              {
+                "end": 156,
+                "start": 142,
+                "username": "heiwawomamore"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/IokbunTan",
+                "end": 23,
+                "expanded_url": "https://t.me/IokbunTan",
+                "start": 0,
+                "url": "https://t.co/8W9EYboUy0"
+              }
+            ]
+          }
+        },
+        "id": "1915723009161375744",
+        "location": "Amoy",
+        "name": "累到想要一直睡睡睡睡睡",
+        "pinned_tweet_id": "1955461723928006845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945987123372281857/5bdUlOCQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 531,
+          "like_count": 18063,
+          "listed_count": 0,
+          "media_count": 806,
+          "tweet_count": 7368
+        },
+        "url": "https://t.co/8W9EYboUy0",
+        "username": "fuckpregabalin",
+        "verified": false
+      }
+    ]
+  }
+}

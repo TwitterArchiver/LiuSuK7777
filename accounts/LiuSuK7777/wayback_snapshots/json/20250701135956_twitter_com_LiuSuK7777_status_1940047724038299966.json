@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1940030834695971023",
+    "created_at": "2025-07-01T13:59:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T14:59:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940047724038299966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "825397684173352960",
+          "start": 0,
+          "username": "kazari_nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940047724038299966",
+    "in_reply_to_user_id": "825397684173352960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940047590974005511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kazari_nya 何意味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1940030834695971023",
+        "created_at": "2025-07-01T13:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T14:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940047724038299966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "825397684173352960",
+              "start": 0,
+              "username": "kazari_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940047724038299966",
+        "in_reply_to_user_id": "825397684173352960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940047590974005511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kazari_nya 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "825397684173352960",
+        "conversation_id": "1940030834695971023",
+        "created_at": "2025-07-01T13:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T14:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940047590974005511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940047590974005511",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940030834695971023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 里面有个恶臭公交车"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "主人@yeziyu7777\n对象@zyh1428202\n小号@Loveyezi8964\n笨蛋姐姐@TTKYYX03",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "Loveyezi8964"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1939923011571773935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2244,
+          "following_count": 2491,
+          "like_count": 34598,
+          "listed_count": 10,
+          "media_count": 1186,
+          "tweet_count": 27333
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-28T17:38:37.000Z",
+        "description": "美少女好き",
+        "id": "825397684173352960",
+        "name": "風莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746252216493916160/sT0bvZoF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 840,
+          "like_count": 18592,
+          "listed_count": 3,
+          "media_count": 87,
+          "tweet_count": 1587
+        },
+        "username": "kazari_nya",
+        "verified": false
+      }
+    ]
+  }
+}

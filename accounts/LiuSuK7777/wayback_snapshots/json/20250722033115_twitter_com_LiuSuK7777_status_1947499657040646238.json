@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1947315694514929967",
+    "created_at": "2025-07-22T03:31:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T04:31:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947499657040646238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1906878978667040768",
+          "start": 0,
+          "username": "oldxiezai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947499657040646238",
+    "in_reply_to_user_id": "1906878978667040768",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 13,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947484086404321580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oldxiezai ？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1947484086404321580].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1947484086404321580",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1947484086404321580"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1947315694514929967",
+        "created_at": "2025-07-22T03:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T04:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947499657040646238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1906878978667040768",
+              "start": 0,
+              "username": "oldxiezai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947499657040646238",
+        "in_reply_to_user_id": "1906878978667040768",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947484086404321580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oldxiezai ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "主人@yeziyu7777\n对象@zyh1428202\n小号@Loveyezi8964 @luoyue_maimai\n笨蛋姐姐@TTKYYX03（不是现实中那个）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "Loveyezi8964"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "luoyue_maimai"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1947268494212333768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2447,
+          "following_count": 2541,
+          "like_count": 34907,
+          "listed_count": 10,
+          "media_count": 1229,
+          "tweet_count": 28167
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T01:19:20.000Z",
+        "description": "這裡沒有甚麼..",
+        "id": "1906878978667040768",
+        "location": "Taiwan",
+        "name": "不是那個謝....",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929185315643916288/LYNYTMrd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 88,
+          "like_count": 8993,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 245
+        },
+        "username": "oldxiezai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1964946282377875628",
+    "created_at": "2025-09-14T05:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T06:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967096060062617992"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1967096060062617992",
+    "in_reply_to_user_id": "1504799211799265282",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966645874328825981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "day0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1964946282377875628",
+        "created_at": "2025-09-14T05:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T06:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967096060062617992"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967096060062617992",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966645874328825981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "day0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1964946282377875628",
+        "created_at": "2025-09-12T23:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T00:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966645874328825981"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966645874328825981",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966444629164798364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "day1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "老公的id太难记了不想打 反正是939\n本人男 17岁 三角洲/明日方舟/arcaea/舞萌 小号@jinxing0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 49,
+                "username": "jinxing0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1966750967149588919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966711124734410752/71NBjUL5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2633,
+          "following_count": 2640,
+          "like_count": 35429,
+          "listed_count": 14,
+          "media_count": 1364,
+          "tweet_count": 30195
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      }
+    ]
+  }
+}

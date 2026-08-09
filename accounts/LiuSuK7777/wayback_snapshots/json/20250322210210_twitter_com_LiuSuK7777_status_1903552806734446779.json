@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1903552014824652834",
+    "created_at": "2025-03-22T21:02:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T22:02:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903552806734446779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1815097256112201728",
+          "start": 0,
+          "username": "Sora06222206"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903552806734446779",
+    "in_reply_to_user_id": "1815097256112201728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903552381499166785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sora06222206 太好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1903552014824652834",
+        "created_at": "2025-03-22T21:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T22:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903552806734446779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1815097256112201728",
+              "start": 0,
+              "username": "Sora06222206"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903552806734446779",
+        "in_reply_to_user_id": "1815097256112201728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903552381499166785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sora06222206 太好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815097256112201728",
+        "conversation_id": "1903552014824652834",
+        "created_at": "2025-03-22T21:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T22:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903552381499166785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903552381499166785",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903552014824652834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 招到神人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "08顺男/Arknights/崩壊:スターレイル/Arcaea/MaimaiDX/東方Project/ VOCALOID/Galgame/主人@yeziyu7777 关注@_FiniteWorld @small_fun8964 @Huahe_wu @KaitlynXiaoLu99 小号@Loveyezi8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "_FiniteWorld"
+              },
+              {
+                "end": 113,
+                "start": 99,
+                "username": "small_fun8964"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "Huahe_wu"
+              },
+              {
+                "end": 140,
+                "start": 124,
+                "username": "KaitlynXiaoLu99"
+              },
+              {
+                "end": 156,
+                "start": 143,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "☆流苏☆🐱IP杭州（100%互fo）",
+        "pinned_tweet_id": "1901903397277532265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1517,
+          "following_count": 1815,
+          "like_count": 28452,
+          "listed_count": 10,
+          "media_count": 805,
+          "tweet_count": 18623
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T18:51:37.000Z",
+        "description": "一般路过二次元/\n心智小学生水准的大学生/\n友跨顺男绝不翻车（？）/\n基本都会回fo/\n在这里大概发一些不想现实认识的人看到的生活碎碎念/",
+        "id": "1815097256112201728",
+        "location": "广州",
+        "name": "是悠空喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897707591264092160/QrUvlmY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 178,
+          "like_count": 878,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 303
+        },
+        "username": "Sora06222206",
+        "verified": false
+      }
+    ]
+  }
+}

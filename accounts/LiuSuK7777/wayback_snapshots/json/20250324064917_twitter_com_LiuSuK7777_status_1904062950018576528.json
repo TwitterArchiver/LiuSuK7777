@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1903821686807335291",
+    "created_at": "2025-03-24T06:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T07:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904062950018576528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3223080709",
+          "start": 0,
+          "username": "maid___m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904062950018576528",
+    "in_reply_to_user_id": "3223080709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904056451515175269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maid___m 我是什么天资聪颖的人吗\n我不会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1903821686807335291",
+        "created_at": "2025-03-24T06:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T07:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904062950018576528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3223080709",
+              "start": 0,
+              "username": "maid___m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904062950018576528",
+        "in_reply_to_user_id": "3223080709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904056451515175269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maid___m 我是什么天资聪颖的人吗\n我不会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3223080709",
+        "conversation_id": "1903821686807335291",
+        "created_at": "2025-03-24T06:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T07:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904056451515175269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904056451515175269",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903821686807335291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 我有个提议🤓\n自己缝纫就节约了(\n不会化妆可以用头套\n最后，不要打我("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "☆流苏☆🐱IP杭州（100%互fo）",
+        "pinned_tweet_id": "1903751125427515801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1597,
+          "following_count": 1894,
+          "like_count": 28747,
+          "listed_count": 13,
+          "media_count": 822,
+          "tweet_count": 19264
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-22T07:07:28.000Z",
+        "description": "hrt2025 1/8/希望交朋友/怕痛/恐高/害怕踏出第一步/社恐/害怕人多/胆小/坐地铁经常撞到脑阔/ISFP-T/00后/180cm 58kg/胸围80b/在减肥/名字是妹抖是个抖m/想法不跟我说我没办法看到哦",
+        "id": "3223080709",
+        "location": "武汉",
+        "name": "妹抖aimaid",
+        "pinned_tweet_id": "1898903289191878937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639892472406106115/t0dEmudD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 142,
+          "like_count": 1387,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 735
+        },
+        "username": "maid___m",
+        "verified": false
+      }
+    ]
+  }
+}

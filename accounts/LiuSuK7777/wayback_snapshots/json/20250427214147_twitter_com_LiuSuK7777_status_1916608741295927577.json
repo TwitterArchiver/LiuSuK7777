@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1916498341359485038",
+    "created_at": "2025-04-27T21:41:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T22:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916608741295927577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1889157954143981568",
+          "start": 0,
+          "username": "_blueberrysauce"
+        },
+        {
+          "end": 30,
+          "id": "1908086926391033856",
+          "start": 17,
+          "username": "Oktavia_Majo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916608741295927577",
+    "in_reply_to_user_id": "1889157954143981568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916608544310460659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_blueberrysauce @Oktavia_Majo 我也羡慕瓦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1916498341359485038",
+        "created_at": "2025-04-27T21:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T22:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916608741295927577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1889157954143981568",
+              "start": 0,
+              "username": "_blueberrysauce"
+            },
+            {
+              "end": 30,
+              "id": "1908086926391033856",
+              "start": 17,
+              "username": "Oktavia_Majo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916608741295927577",
+        "in_reply_to_user_id": "1889157954143981568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916608544310460659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_blueberrysauce @Oktavia_Majo 我也羡慕瓦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889157954143981568",
+        "conversation_id": "1916498341359485038",
+        "created_at": "2025-04-27T21:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T22:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916608544310460659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1908086926391033856",
+              "start": 0,
+              "username": "Oktavia_Majo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916608544310460659",
+        "in_reply_to_user_id": "1908086926391033856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916498341359485038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oktavia_Majo 羡慕了qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1880,
+          "following_count": 2163,
+          "like_count": 31463,
+          "listed_count": 13,
+          "media_count": 957,
+          "tweet_count": 23135
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T03:42:26.000Z",
+        "description": "曾用名 是奶糖吖 10年 I mtf I 方舟崩铁 I 想要交朋友QAQ I 私信包回 好朋友@liciiQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "liciiQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/milksugar17165",
+                "end": 23,
+                "expanded_url": "https://ngl.link/milksugar17165",
+                "start": 0,
+                "url": "https://t.co/7oEMPv0yii"
+              }
+            ]
+          }
+        },
+        "id": "1889157954143981568",
+        "location": "♪往世乐土♪",
+        "name": "小小菠萝包🍥",
+        "pinned_tweet_id": "1892200148526047718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907076397060808704/k0sUv7QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 1212,
+          "like_count": 9071,
+          "listed_count": 8,
+          "media_count": 126,
+          "tweet_count": 2470
+        },
+        "url": "https://t.co/7oEMPv0yii",
+        "username": "_blueberrysauce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T09:20:08.000Z",
+        "description": "$BTC丨18 无OD/烟酒丨ADHD/ASD/BD/BPD 🏳️‍⚧️丨三角洲跑刀代肝陪玩丨爱好:数码、音乐、二次元丨称呼我“奥克塔”就好丨TG电台:https://t.co/SFnCsSwtqQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Oktavia_channeL",
+                "end": 99,
+                "expanded_url": "https://t.me/Oktavia_channeL",
+                "start": 76,
+                "url": "https://t.co/SFnCsSwtqQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oktavia_Majo",
+                "end": 23,
+                "expanded_url": "http://t.me/Oktavia_Majo",
+                "start": 0,
+                "url": "https://t.co/1rHQv8IkHY"
+              }
+            ]
+          }
+        },
+        "id": "1908086926391033856",
+        "location": "Tokyo-to, Japan",
+        "name": "奥克塔维亚 ☁️",
+        "pinned_tweet_id": "1916157561570775499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915512234132090880/KzHFgV3f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 738,
+          "like_count": 3502,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 389
+        },
+        "url": "https://t.co/1rHQv8IkHY",
+        "username": "Oktavia_Majo",
+        "verified": true
+      }
+    ]
+  }
+}

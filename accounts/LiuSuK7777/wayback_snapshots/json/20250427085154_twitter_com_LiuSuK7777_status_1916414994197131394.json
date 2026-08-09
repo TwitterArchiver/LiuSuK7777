@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1916414220859769081",
+    "created_at": "2025-04-27T08:51:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T09:51:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916414994197131394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1863465376904081408",
+          "start": 0,
+          "username": "To8mo9ri6n4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916414994197131394",
+    "in_reply_to_user_id": "1863465376904081408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916414566369776067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@To8mo9ri6n4 我的郊狼尾巴飞机杯都在宿舍\n而且都知道😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1916414220859769081",
+        "created_at": "2025-04-27T08:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T09:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916414994197131394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1863465376904081408",
+              "start": 0,
+              "username": "To8mo9ri6n4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916414994197131394",
+        "in_reply_to_user_id": "1863465376904081408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916414566369776067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@To8mo9ri6n4 我的郊狼尾巴飞机杯都在宿舍\n而且都知道😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863465376904081408",
+        "conversation_id": "1916414220859769081",
+        "created_at": "2025-04-27T08:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T09:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916414566369776067"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916414566369776067",
+        "in_reply_to_user_id": "1863465376904081408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916414220859769081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🦌肯定是要🦌的 人之常情\n（在宿舍被发现玩玩具的话大概是会被舍友灌满的吧）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1866,
+          "following_count": 2163,
+          "like_count": 31429,
+          "listed_count": 12,
+          "media_count": 957,
+          "tweet_count": 23091
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T06:09:18.000Z",
+        "description": "",
+        "id": "1863465376904081408",
+        "location": "Yokohama-shi Kanagawa",
+        "name": "苏鹿鸣汐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916398911021060098/ZU0FK-tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 87,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 92
+        },
+        "username": "To8mo9ri6n4",
+        "verified": false
+      }
+    ]
+  }
+}

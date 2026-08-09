@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1924677902437921161",
+    "created_at": "2025-05-20T04:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T05:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924679677588996502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1853401698628448256",
+          "start": 0,
+          "username": "SchneeSchmit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924679677588996502",
+    "in_reply_to_user_id": "1853401698628448256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924678278952165551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SchneeSchmit 不许看"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1924678278952165551].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1924678278952165551",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1924678278952165551"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1924677902437921161",
+        "created_at": "2025-05-20T04:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T05:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924679677588996502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853401698628448256",
+              "start": 0,
+              "username": "SchneeSchmit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924679677588996502",
+        "in_reply_to_user_id": "1853401698628448256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924678278952165551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SchneeSchmit 不许看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "😣",
+        "name": "流苏1号😺",
+        "pinned_tweet_id": "1923615398567833920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2046,
+          "following_count": 2309,
+          "like_count": 33593,
+          "listed_count": 11,
+          "media_count": 1070,
+          "tweet_count": 25022
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-04T11:39:39.000Z",
+        "description": "前世 @SchneeSchmitt\n再強的外表, 也藏不住真實的自己...\n這裡是雪花貓的貓窩, 藏了深為不知人的事\n限熟悉推友(通常被此帳追蹤)可以申請訪問\n🍥27/12/2024斷續含糖小量od自殘+自閉症+不穩定抑鬱(求抱抱), 泛性戀，深櫃 🩵MtX🩷, INFP-T\n@CwuteMarikowo 的竉物",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "SchneeSchmitt"
+              },
+              {
+                "end": 153,
+                "start": 139,
+                "username": "CwuteMarikowo"
+              }
+            ]
+          }
+        },
+        "id": "1853401698628448256",
+        "location": "Madrid, España | 馬德里, 西班牙",
+        "name": "雪花 (日常區) 💕🏳️‍⚧️🍥🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919262824993529856/CMxtDJOl_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 355,
+          "like_count": 20232,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 1925
+        },
+        "username": "SchneeSchmit",
+        "verified": false
+      }
+    ]
+  }
+}

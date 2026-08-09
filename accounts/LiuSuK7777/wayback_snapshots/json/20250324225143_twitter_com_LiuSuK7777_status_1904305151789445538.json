@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1904030941401461211",
+    "created_at": "2025-03-24T22:51:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T23:51:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904305151789445538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1722960034102190080",
+          "start": 0,
+          "username": "Leafishadow"
+        },
+        {
+          "end": 24,
+          "id": "1428706836455165956",
+          "start": 13,
+          "username": "Adonis_s_s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904305151789445538",
+    "in_reply_to_user_id": "1722960034102190080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904032332547572063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Leafishadow @Adonis_s_s 这是擦边？这不是上高速了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1904030941401461211",
+        "created_at": "2025-03-24T22:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T23:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904305151789445538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1722960034102190080",
+              "start": 0,
+              "username": "Leafishadow"
+            },
+            {
+              "end": 24,
+              "id": "1428706836455165956",
+              "start": 13,
+              "username": "Adonis_s_s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904305151789445538",
+        "in_reply_to_user_id": "1722960034102190080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904032332547572063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Leafishadow @Adonis_s_s 这是擦边？这不是上高速了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722960034102190080",
+        "conversation_id": "1904030941401461211",
+        "created_at": "2025-03-24T04:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T05:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904032332547572063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1428706836455165956",
+              "start": 0,
+              "username": "Adonis_s_s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904032332547572063",
+        "in_reply_to_user_id": "1428706836455165956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1754,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904031119596802306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Adonis_s_s 那你说我这条擦什么了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "想被一枪崩死",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "☆流苏☆🐱IP杭州（100%互fo）",
+        "pinned_tweet_id": "1903751125427515801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1614,
+          "following_count": 1911,
+          "like_count": 28871,
+          "listed_count": 13,
+          "media_count": 832,
+          "tweet_count": 19570
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T12:51:05.000Z",
+        "description": "",
+        "id": "1722960034102190080",
+        "name": "培根蛋 and it's completely different but also still 蛋",
+        "pinned_tweet_id": "1805147828089745465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896479893900414976/4seiAusT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 293,
+          "like_count": 14417,
+          "listed_count": 4,
+          "media_count": 244,
+          "tweet_count": 11290
+        },
+        "username": "Leafishadow",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-20T13:13:59.000Z",
+        "description": "爱是两个契合灵魂之间的碰撞 INFJ\n纯1哈可能有点S？ 不约",
+        "id": "1428706836455165956",
+        "location": "南京",
+        "name": "阿澈",
+        "pinned_tweet_id": "1841052404516540437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1544725415683469313/IAiuux6g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 597,
+          "like_count": 19363,
+          "listed_count": 6,
+          "media_count": 239,
+          "tweet_count": 4867
+        },
+        "username": "Adonis_s_s",
+        "verified": false
+      }
+    ]
+  }
+}

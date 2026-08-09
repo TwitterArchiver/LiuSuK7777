@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1960637071963365411",
+    "created_at": "2025-08-28T03:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T04:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960901712807399488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1513073798257733632",
+          "start": 0,
+          "username": "ScottHsu0733"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960901712807399488",
+    "in_reply_to_user_id": "1513073798257733632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960802612791665123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ScottHsu0733 怎么了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1960637071963365411",
+        "created_at": "2025-08-28T03:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T04:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960901712807399488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1513073798257733632",
+              "start": 0,
+              "username": "ScottHsu0733"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960901712807399488",
+        "in_reply_to_user_id": "1513073798257733632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960802612791665123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ScottHsu0733 怎么了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513073798257733632",
+        "conversation_id": "1960637071963365411",
+        "created_at": "2025-08-27T20:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T21:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960802612791665123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960802612791665123",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1548,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960637071963365411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 啥😨？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "❤️@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1959185622821928964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960351378574049280/UpLLabY__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2605,
+          "following_count": 2649,
+          "like_count": 35163,
+          "listed_count": 14,
+          "media_count": 1337,
+          "tweet_count": 29600
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T08:38:21.000Z",
+        "description": "nothing ...",
+        "id": "1513073798257733632",
+        "name": "Scott Hsu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1513073892625362947/rH9x5peH_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 1,
+          "like_count": 20,
+          "listed_count": 3,
+          "media_count": 2,
+          "tweet_count": 3256
+        },
+        "username": "ScottHsu0733",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2006707158256369846",
+    "created_at": "2026-01-02T12:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T13:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007068399806062764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1991364416823259139",
+          "start": 0,
+          "username": "NikaidoHiro0110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007068399806062764",
+    "in_reply_to_user_id": "1991364416823259139",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006707748227228052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NikaidoHiro0110 兄弟你发了啥啊我看不到啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2006707158256369846",
+        "created_at": "2026-01-02T12:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T13:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007068399806062764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1991364416823259139",
+              "start": 0,
+              "username": "NikaidoHiro0110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007068399806062764",
+        "in_reply_to_user_id": "1991364416823259139",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006707748227228052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NikaidoHiro0110 兄弟你发了啥啊我看不到啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991364416823259139",
+        "conversation_id": "2006707158256369846",
+        "created_at": "2026-01-01T12:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T13:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006707748227228052"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006707748227228052",
+        "in_reply_to_user_id": "1991364416823259139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2515,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006707158256369846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支持口令红包等一切打赏方式！私信开放了欢迎各位宝宝和我互动，希望大家有礼貌一些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "1995540883278889351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000419861345026048/OuRHQUY0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2958,
+          "following_count": 2774,
+          "like_count": 35532,
+          "listed_count": 13,
+          "media_count": 1577,
+          "tweet_count": 33977
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T04:34:18.000Z",
+        "description": "喜欢观察人类 喜欢认识有意思的人 b站：https://t.co/D8SULUCESy 男",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b23.tv/kTDbwUY",
+                "end": 43,
+                "expanded_url": "https://b23.tv/kTDbwUY",
+                "start": 20,
+                "url": "https://t.co/D8SULUCESy"
+              }
+            ]
+          }
+        },
+        "id": "1991364416823259139",
+        "name": "Nikaido Hiro",
+        "pinned_tweet_id": "2006707158256369846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991365556956807168/b84rccpy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1500,
+          "following_count": 587,
+          "like_count": 4062,
+          "listed_count": 3,
+          "media_count": 46,
+          "tweet_count": 1170
+        },
+        "username": "NikaidoHiro0110",
+        "verified": false
+      }
+    ]
+  }
+}

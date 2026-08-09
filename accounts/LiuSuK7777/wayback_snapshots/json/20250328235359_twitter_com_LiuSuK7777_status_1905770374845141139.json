@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1905767831381434533",
+    "created_at": "2025-03-28T23:53:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T00:53:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905770374845141139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1846255536687534086",
+          "start": 0,
+          "username": "snmqwq"
+        },
+        {
+          "end": 24,
+          "id": "1889157954143981568",
+          "start": 8,
+          "username": "_blueberrysauce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905770374845141139",
+    "in_reply_to_user_id": "1846255536687534086",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905770227801227602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snmqwq @_blueberrysauce 🌝🌝"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1905770227801227602].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1905770227801227602",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1905770227801227602"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1905767831381434533",
+        "created_at": "2025-03-28T23:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T00:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905770374845141139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1846255536687534086",
+              "start": 0,
+              "username": "snmqwq"
+            },
+            {
+              "end": 24,
+              "id": "1889157954143981568",
+              "start": 8,
+              "username": "_blueberrysauce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905770374845141139",
+        "in_reply_to_user_id": "1846255536687534086",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905770227801227602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snmqwq @_blueberrysauce 🌝🌝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "💞@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "AAA_流苏批发",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1672,
+          "following_count": 1991,
+          "like_count": 29222,
+          "listed_count": 13,
+          "media_count": 853,
+          "tweet_count": 20338
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T18:24:36.000Z",
+        "description": "08跨/重读高一/无证含糖/hrt-2025.2.1/抖s+m？/AFO/嵌入式/pcb layout/ALL in boom/轻度玉玉+中度焦虑/喜欢找同类贴贴/坐标重庆/求互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "snmqwq.online",
+                "end": 23,
+                "expanded_url": "https://snmqwq.online",
+                "start": 0,
+                "url": "https://t.co/mNl6h2IMDj"
+              }
+            ]
+          }
+        },
+        "id": "1846255536687534086",
+        "location": "重庆",
+        "name": "尚凝梦qwq8964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901910621677084672/2_69LYBg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 335,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 832
+        },
+        "url": "https://t.co/mNl6h2IMDj",
+        "username": "snmqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T03:42:26.000Z",
+        "description": "曾用名 是奶糖吖 10年 I mtf I 方舟崩铁 I 想要交朋友QAQ I 私信包回 好朋友@liciiQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "liciiQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/milksugar17165",
+                "end": 23,
+                "expanded_url": "https://ngl.link/milksugar17165",
+                "start": 0,
+                "url": "https://t.co/7oEMPv0yii"
+              }
+            ]
+          }
+        },
+        "id": "1889157954143981568",
+        "location": "♪往世乐土♪",
+        "name": "菠萝爱吃面包🍥",
+        "pinned_tweet_id": "1892200148526047718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891965211952742401/AjYHGciB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 917,
+          "like_count": 7715,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 1903
+        },
+        "url": "https://t.co/7oEMPv0yii",
+        "username": "_blueberrysauce",
+        "verified": false
+      }
+    ]
+  }
+}

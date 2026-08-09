@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1977531509188997516",
+    "created_at": "2025-10-13T04:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T05:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977593563841237224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        },
+        {
+          "end": 20,
+          "id": "1646550974553522183",
+          "start": 9,
+          "username": "yeziyu7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977593563841237224",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977531509188997516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 @yeziyu7777"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1977531500276092928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3GabA4aEAAN657.jpg",
+        "width": 1034
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1977531509188997516",
+        "created_at": "2025-10-13T04:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T05:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977593563841237224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            },
+            {
+              "end": 20,
+              "id": "1646550974553522183",
+              "start": 9,
+              "username": "yeziyu7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977593563841237224",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977531509188997516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 @yeziyu7777"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977531500276092928"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1977531509188997516",
+        "created_at": "2025-10-13T00:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T01:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977531509188997516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9xG1WHI0by",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1977531509188997516/photo/1",
+              "media_key": "3_1977531500276092928",
+              "start": 0,
+              "url": "https://t.co/9xG1WHI0by"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977531509188997516",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 100969,
+          "like_count": 562,
+          "quote_count": 7,
+          "reply_count": 60,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9xG1WHI0by"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "……\n逃生舱@liusuk8888\n我是男孩子！\n主人♡@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 41,
+                "start": 28,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976703554758098945/2sn3KBuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2755,
+          "following_count": 2648,
+          "like_count": 35474,
+          "listed_count": 14,
+          "media_count": 1429,
+          "tweet_count": 31156
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967874771443650562/Dp0kz42r_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99571,
+          "following_count": 988,
+          "like_count": 45263,
+          "listed_count": 226,
+          "media_count": 16428,
+          "tweet_count": 24271
+        },
+        "username": "hsn8086",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-13T16:28:58.000Z",
+        "description": "永远只是小叶，不会再有…睡着了的 | 我的爱人 我的全部♡小极光@auroralia7777\n「这辈子只有你一个♡」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 32,
+                "username": "auroralia7777"
+              }
+            ]
+          }
+        },
+        "id": "1646550974553522183",
+        "location": "永远依偎在小极光的怀里♡",
+        "name": "永远の叶_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964179698759634944/KGhtOccu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 788,
+          "like_count": 69886,
+          "listed_count": 9,
+          "media_count": 413,
+          "tweet_count": 7067
+        },
+        "username": "yeziyu7777",
+        "verified": false
+      }
+    ]
+  }
+}

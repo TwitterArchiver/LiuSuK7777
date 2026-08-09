@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1941269474734375305",
+    "created_at": "2025-07-05T03:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T04:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941336645590188111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1694068450220744707",
+          "start": 0,
+          "username": "YS97OwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941336645590188111",
+    "in_reply_to_user_id": "1694068450220744707",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941290740908425369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YS97OwO 分你一口"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1941269474734375305",
+        "created_at": "2025-07-05T03:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T04:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941336645590188111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1694068450220744707",
+              "start": 0,
+              "username": "YS97OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941336645590188111",
+        "in_reply_to_user_id": "1694068450220744707",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941290740908425369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YS97OwO 分你一口"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694068450220744707",
+        "conversation_id": "1941269474734375305",
+        "created_at": "2025-07-05T00:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T01:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941290740908425369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941290740908425369",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941269474734375305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 速速分我一口（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "主人@yeziyu7777\n对象@zyh1428202\n小号@Loveyezi8964\n笨蛋姐姐@TTKYYX03（不是现实中那个）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "Loveyezi8964"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1940766254266302907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2306,
+          "following_count": 2504,
+          "like_count": 34736,
+          "listed_count": 10,
+          "media_count": 1197,
+          "tweet_count": 27559
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T19:26:15.000Z",
+        "description": "🇨🇳大学生一名/轻小说&漫画&音游🥰/#maimai #Arcaea #CHUNITHM #Phigros #プロセカ/除音游外部分游戏均游玩过/Bilibili同名/互fo🉑/小号：①bluesky：https://t.co/XjEX0sUhIc  ②@ys97O_O（里）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 19,
+                "tag": "maimai"
+              },
+              {
+                "end": 34,
+                "start": 27,
+                "tag": "Arcaea"
+              },
+              {
+                "end": 44,
+                "start": 35,
+                "tag": "CHUNITHM"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "Phigros"
+              },
+              {
+                "end": 59,
+                "start": 54,
+                "tag": "プロセカ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "ys97O_O"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ys1230.bsky.social",
+                "end": 124,
+                "expanded_url": "http://ys1230.bsky.social",
+                "start": 101,
+                "url": "https://t.co/XjEX0sUhIc"
+              }
+            ]
+          }
+        },
+        "id": "1694068450220744707",
+        "name": "游笙OωO",
+        "pinned_tweet_id": "1854553242308686210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831365569427468290/ZUd6XzGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 3811,
+          "like_count": 75216,
+          "listed_count": 6,
+          "media_count": 2829,
+          "tweet_count": 26177
+        },
+        "username": "YS97OwO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,483 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953359112449982464",
+        "3_1953359112663908356",
+        "3_1953359113104310275"
+      ],
+      "media_source_tweet_id": [
+        "1953359117038629294",
+        "1953359117038629294",
+        "1953359117038629294"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1953778230772871565",
+    "created_at": "2025-08-08T11:20:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T12:20:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953778230772871565"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 32,
+          "tag": "東方Project"
+        },
+        {
+          "end": 51,
+          "start": 44,
+          "tag": "古明地こいし"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1619279889378734080",
+          "start": 3,
+          "username": "nodokara_maguro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M89y4kW87X",
+          "end": 75,
+          "expanded_url": "https://x.com/nodokara_maguro/status/1953359117038629294/photo/1",
+          "media_key": "3_1953359112449982464",
+          "start": 52,
+          "url": "https://t.co/M89y4kW87X"
+        },
+        {
+          "display_url": "pic.x.com/M89y4kW87X",
+          "end": 75,
+          "expanded_url": "https://x.com/nodokara_maguro/status/1953359117038629294/photo/1",
+          "media_key": "3_1953359112663908356",
+          "start": 52,
+          "url": "https://t.co/M89y4kW87X"
+        },
+        {
+          "display_url": "pic.x.com/M89y4kW87X",
+          "end": 75,
+          "expanded_url": "https://x.com/nodokara_maguro/status/1953359117038629294/photo/1",
+          "media_key": "3_1953359113104310275",
+          "start": 52,
+          "url": "https://t.co/M89y4kW87X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953778230772871565",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 296
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953359117038629294",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nodokara_maguro: 【タップ推奨】再掲\n #東方Project  #古明地こいし https://t.co/M89y4kW87X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1953359112449982464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxu5w3BagAAhsNa.jpg",
+        "width": 787
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1953359112663908356",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxu5w30awAQ7XNe.jpg",
+        "width": 787
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1953359113104310275",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxu5w5dawAMl9am.jpg",
+        "width": 787
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953359112449982464",
+            "3_1953359112663908356",
+            "3_1953359113104310275"
+          ],
+          "media_source_tweet_id": [
+            "1953359117038629294",
+            "1953359117038629294",
+            "1953359117038629294"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1953778230772871565",
+        "created_at": "2025-08-08T11:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T12:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953778230772871565"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 32,
+              "tag": "東方Project"
+            },
+            {
+              "end": 51,
+              "start": 44,
+              "tag": "古明地こいし"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1619279889378734080",
+              "start": 3,
+              "username": "nodokara_maguro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M89y4kW87X",
+              "end": 75,
+              "expanded_url": "https://x.com/nodokara_maguro/status/1953359117038629294/photo/1",
+              "media_key": "3_1953359112449982464",
+              "start": 52,
+              "url": "https://t.co/M89y4kW87X"
+            },
+            {
+              "display_url": "pic.x.com/M89y4kW87X",
+              "end": 75,
+              "expanded_url": "https://x.com/nodokara_maguro/status/1953359117038629294/photo/1",
+              "media_key": "3_1953359112663908356",
+              "start": 52,
+              "url": "https://t.co/M89y4kW87X"
+            },
+            {
+              "display_url": "pic.x.com/M89y4kW87X",
+              "end": 75,
+              "expanded_url": "https://x.com/nodokara_maguro/status/1953359117038629294/photo/1",
+              "media_key": "3_1953359113104310275",
+              "start": 52,
+              "url": "https://t.co/M89y4kW87X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953778230772871565",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 296
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953359117038629294",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nodokara_maguro: 【タップ推奨】再掲\n #東方Project  #古明地こいし https://t.co/M89y4kW87X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953359112449982464",
+            "3_1953359112663908356",
+            "3_1953359113104310275"
+          ]
+        },
+        "author_id": "1619279889378734080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1953359117038629294",
+        "created_at": "2025-08-07T07:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T08:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953359117038629294"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 11,
+              "tag": "東方Project"
+            },
+            {
+              "end": 30,
+              "start": 23,
+              "tag": "古明地こいし"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M89y4kW87X",
+              "end": 54,
+              "expanded_url": "https://x.com/nodokara_maguro/status/1953359117038629294/photo/1",
+              "media_key": "3_1953359112449982464",
+              "start": 31,
+              "url": "https://t.co/M89y4kW87X"
+            },
+            {
+              "display_url": "pic.x.com/M89y4kW87X",
+              "end": 54,
+              "expanded_url": "https://x.com/nodokara_maguro/status/1953359117038629294/photo/1",
+              "media_key": "3_1953359112663908356",
+              "start": 31,
+              "url": "https://t.co/M89y4kW87X"
+            },
+            {
+              "display_url": "pic.x.com/M89y4kW87X",
+              "end": 54,
+              "expanded_url": "https://x.com/nodokara_maguro/status/1953359117038629294/photo/1",
+              "media_key": "3_1953359113104310275",
+              "start": 31,
+              "url": "https://t.co/M89y4kW87X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953359117038629294",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 221,
+          "impression_count": 26464,
+          "like_count": 2262,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 296
+        },
+        "reply_settings": "everyone",
+        "text": "【タップ推奨】再掲\n #東方Project  #古明地こいし https://t.co/M89y4kW87X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男 | 御主/ダーリン@yeziyu7777 | 革命伴侣/契约者/運命の人@zyh1428202 | お姉ちゃん@ttkyyx03 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "ttkyyx03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "超高校级の無意識",
+        "pinned_tweet_id": "1949513211826377068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2558,
+          "following_count": 2659,
+          "like_count": 34959,
+          "listed_count": 10,
+          "media_count": 1287,
+          "tweet_count": 29046
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-28T10:24:28.000Z",
+        "description": "たまに他界隈とか",
+        "id": "1619279889378734080",
+        "location": "東方描いてます！！！！！！",
+        "name": "のどぐろ。",
+        "pinned_tweet_id": "1953359117038629294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941751317418123264/ZfI9heXC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 900,
+          "like_count": 30471,
+          "listed_count": 12,
+          "media_count": 610,
+          "tweet_count": 20690
+        },
+        "username": "nodokara_maguro",
+        "verified": false
+      }
+    ]
+  }
+}

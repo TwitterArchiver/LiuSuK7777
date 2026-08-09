@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1939516311589224803",
+    "created_at": "2025-06-30T10:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T11:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939639871687246318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "758296624875446272",
+          "start": 0,
+          "username": "ShimonaChan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939639871687246318",
+    "in_reply_to_user_id": "758296624875446272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939597992505586009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShimonaChan 现在有钱了！你也玩吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1939516311589224803",
+        "created_at": "2025-06-30T10:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T11:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939639871687246318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "758296624875446272",
+              "start": 0,
+              "username": "ShimonaChan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939639871687246318",
+        "in_reply_to_user_id": "758296624875446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939597992505586009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShimonaChan 现在有钱了！你也玩吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "758296624875446272",
+        "conversation_id": "1939516311589224803",
+        "created_at": "2025-06-30T08:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T09:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939597992505586009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939597992505586009",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939516311589224803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 可恶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男|Arcaea|明日方舟|舞萌DX|火影忍者|社恐健全B|2008.02.29 |主人@yeziyu7777对象@zyh1428202小号@Loveyezi8964\n笨蛋姐姐@TTKYYX03",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Loveyezi8964"
+              },
+              {
+                "end": 97,
+                "start": 88,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1936314364468105461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2234,
+          "following_count": 2491,
+          "like_count": 34520,
+          "listed_count": 10,
+          "media_count": 1173,
+          "tweet_count": 27242
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "眠るのが好き…",
+        "id": "758296624875446272",
+        "location": "別看，看了會死",
+        "name": "Shimona",
+        "pinned_tweet_id": "1930273278200774976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936452028093411328/W_3BK86D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27607,
+          "following_count": 3507,
+          "like_count": 9703,
+          "listed_count": 28,
+          "media_count": 4098,
+          "tweet_count": 27299
+        },
+        "username": "ShimonaChan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1934707134752804927",
+    "created_at": "2025-06-17T09:33:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T10:33:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934907256501620775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1920509405432541184",
+          "start": 0,
+          "username": "Hasumi_Amemiya"
+        },
+        {
+          "end": 29,
+          "id": "1671296977294987264",
+          "start": 16,
+          "username": "Plus_NGC1333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934907256501620775",
+    "in_reply_to_user_id": "1920509405432541184",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934906225340371200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hasumi_Amemiya @Plus_NGC1333 👀"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1934906225340371200].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1934906225340371200",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1934906225340371200"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1934707134752804927",
+        "created_at": "2025-06-17T09:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T10:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934907256501620775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1920509405432541184",
+              "start": 0,
+              "username": "Hasumi_Amemiya"
+            },
+            {
+              "end": 29,
+              "id": "1671296977294987264",
+              "start": 16,
+              "username": "Plus_NGC1333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934907256501620775",
+        "in_reply_to_user_id": "1920509405432541184",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934906225340371200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hasumi_Amemiya @Plus_NGC1333 👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男孩子/流苏，Arcaea/明日方舟/舞萌DX/火影忍者/社恐/健全B/2008.02.29 |主人@yeziyu7777对象@zyh1428202小号@Loveyezi8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1934628287915151749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2171,
+          "following_count": 2439,
+          "like_count": 34267,
+          "listed_count": 11,
+          "media_count": 1120,
+          "tweet_count": 26457
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T16:01:46.000Z",
+        "description": "「あなたを信じて 狙い定めて Bull's eye」\n@Amemiya_Hasumi的第二人格。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 27,
+                "username": "Amemiya_Hasumi"
+              }
+            ]
+          }
+        },
+        "id": "1920509405432541184",
+        "name": "小莲",
+        "pinned_tweet_id": "1929217700523311504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929288680272994305/-JHuqANQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 91,
+          "like_count": 3626,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 1247
+        },
+        "username": "Hasumi_Amemiya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-20T23:20:35.000Z",
+        "description": "「约定是普通人也能用的言灵」||可以叫我加加/++/字母数字||NGL：https://t.co/wi6nD5FTQx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/plus_ngc1333",
+                "end": 59,
+                "expanded_url": "https://ngl.link/plus_ngc1333",
+                "start": 36,
+                "url": "https://t.co/wi6nD5FTQx"
+              }
+            ]
+          }
+        },
+        "id": "1671296977294987264",
+        "location": "消失了！",
+        "name": "★Plus_VFTS352★",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922279230705901568/I-Zc-uNe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 506,
+          "like_count": 9602,
+          "listed_count": 1,
+          "media_count": 566,
+          "tweet_count": 4779
+        },
+        "username": "Plus_NGC1333",
+        "verified": false
+      }
+    ]
+  }
+}

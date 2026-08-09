@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1904774252236054805",
+    "created_at": "2025-03-26T06:53:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T07:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904788898670166346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1760890372585037824",
+          "start": 0,
+          "username": "puddings00"
+        },
+        {
+          "end": 19,
+          "id": "1467175651954200577",
+          "start": 12,
+          "username": "kjkluk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904788898670166346",
+    "in_reply_to_user_id": "1760890372585037824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904788589910565180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puddings00 @kjkluk 因为他是笨蛋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1904774252236054805",
+        "created_at": "2025-03-26T06:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T07:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904788898670166346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1760890372585037824",
+              "start": 0,
+              "username": "puddings00"
+            },
+            {
+              "end": 19,
+              "id": "1467175651954200577",
+              "start": 12,
+              "username": "kjkluk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904788898670166346",
+        "in_reply_to_user_id": "1760890372585037824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904788589910565180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puddings00 @kjkluk 因为他是笨蛋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760890372585037824",
+        "conversation_id": "1904774252236054805",
+        "created_at": "2025-03-26T06:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T07:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904788589910565180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1467175651954200577",
+              "start": 0,
+              "username": "kjkluk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904788589910565180",
+        "in_reply_to_user_id": "1467175651954200577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904788089811144867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kjkluk 我也不知道（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "我是男的 不是跨性别 生病中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb700j"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "☆流苏☆🐱IP杭州（100%互fo）",
+        "pinned_tweet_id": "1903751125427515801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1668,
+          "following_count": 1970,
+          "like_count": 28947,
+          "listed_count": 13,
+          "media_count": 838,
+          "tweet_count": 19854
+        },
+        "url": "https://t.co/2xm6Tb700j",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T04:52:48.000Z",
+        "description": "zh-CN&en-US/可爱的mtf一只~/she or her/157cm＆40kg/HRT•30.8.23/infp-t/喜欢贴贴/不常玩游戏/🚪100/🏳️‍⚧️同类互fo喵/                   最爱的笨蛋老公:@XXSHHZ8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 118,
+                "username": "XXSHHZ8964"
+              }
+            ]
+          }
+        },
+        "id": "1760890372585037824",
+        "location": "Taiwan",
+        "name": "布丁喵呜🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1844773108760121787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760890511252955136/x0DpoxWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 409,
+          "like_count": 3547,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 2117
+        },
+        "username": "puddings00",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T16:55:23.000Z",
+        "description": "ssh -X guest@kitsune.qwq.io",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kjkluk.github.io",
+                "end": 23,
+                "expanded_url": "http://kjkluk.github.io",
+                "start": 0,
+                "url": "https://t.co/i3MKU3UG3m"
+              }
+            ]
+          }
+        },
+        "id": "1467175651954200577",
+        "location": "Japan",
+        "name": "kitsune’s return",
+        "pinned_tweet_id": "1903346835827331539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904135186444591104/_xtLDjwI_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2130,
+          "following_count": 2528,
+          "like_count": 206499,
+          "listed_count": 15,
+          "media_count": 659,
+          "tweet_count": 9704
+        },
+        "url": "https://t.co/i3MKU3UG3m",
+        "username": "kjkluk",
+        "verified": false
+      }
+    ]
+  }
+}

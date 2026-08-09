@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922429736288186368"
+      ],
+      "media_source_tweet_id": [
+        "1922430279106322485"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1922496182468698366",
+    "created_at": "2025-05-14T03:36:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T04:36:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922496182468698366"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 18,
+          "tag": "5月14日は古明地こいしの日"
+        },
+        {
+          "end": 52,
+          "start": 42,
+          "tag": "東方Project"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1833651645005381632",
+          "start": 3,
+          "username": "oshitoriyuni"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZuIn28EyNN",
+          "end": 76,
+          "expanded_url": "https://x.com/oshitoriyuni/status/1922430279106322485/photo/1",
+          "media_key": "3_1922429736288186368",
+          "start": 53,
+          "url": "https://t.co/ZuIn28EyNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922496182468698366",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922430279106322485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oshitoriyuni: #5月14日は古明地こいしの日 ということで！\n#東方Project https://t.co/ZuIn28EyNN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1310,
+        "media_key": "3_1922429736288186368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq3XqOEa8AA45ci.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922429736288186368"
+          ],
+          "media_source_tweet_id": [
+            "1922430279106322485"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1922496182468698366",
+        "created_at": "2025-05-14T03:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T04:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922496182468698366"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 18,
+              "tag": "5月14日は古明地こいしの日"
+            },
+            {
+              "end": 52,
+              "start": 42,
+              "tag": "東方Project"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1833651645005381632",
+              "start": 3,
+              "username": "oshitoriyuni"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZuIn28EyNN",
+              "end": 76,
+              "expanded_url": "https://x.com/oshitoriyuni/status/1922430279106322485/photo/1",
+              "media_key": "3_1922429736288186368",
+              "start": 53,
+              "url": "https://t.co/ZuIn28EyNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922496182468698366",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922430279106322485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oshitoriyuni: #5月14日は古明地こいしの日 ということで！\n#東方Project https://t.co/ZuIn28EyNN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922429736288186368"
+          ]
+        },
+        "author_id": "1833651645005381632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1922430279106322485",
+        "created_at": "2025-05-13T23:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T00:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922430279106322485"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 0,
+              "tag": "5月14日は古明地こいしの日"
+            },
+            {
+              "end": 34,
+              "start": 24,
+              "tag": "東方Project"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZuIn28EyNN",
+              "end": 58,
+              "expanded_url": "https://x.com/oshitoriyuni/status/1922430279106322485/photo/1",
+              "media_key": "3_1922429736288186368",
+              "start": 35,
+              "url": "https://t.co/ZuIn28EyNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922430279106322485",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 1199,
+          "like_count": 220,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "#5月14日は古明地こいしの日 ということで！\n#東方Project https://t.co/ZuIn28EyNN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": " 🔪‌",
+        "name": "流苏",
+        "pinned_tweet_id": "1921196565060088153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2032,
+          "following_count": 2287,
+          "like_count": 33100,
+          "listed_count": 11,
+          "media_count": 1051,
+          "tweet_count": 24588
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-10T23:40:37.000Z",
+        "description": "女の子を描くのが好きな絵描き\n一次創作/東方/スタレが多め\nhttps://t.co/ISTcKfRogu\nNo repost/use without credit, please.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/93222552",
+                "end": 53,
+                "expanded_url": "https://www.pixiv.net/users/93222552",
+                "start": 30,
+                "url": "https://t.co/ISTcKfRogu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/oshitoriyuni",
+                "end": 23,
+                "expanded_url": "https://note.com/oshitoriyuni",
+                "start": 0,
+                "url": "https://t.co/WIxP6S5bY6"
+              }
+            ]
+          }
+        },
+        "id": "1833651645005381632",
+        "location": "DMは見ていません",
+        "name": "白角折ゆに🎨",
+        "pinned_tweet_id": "1919028589938245709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909396400884125696/qnuhnucA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 727,
+          "like_count": 1834,
+          "listed_count": 4,
+          "media_count": 125,
+          "tweet_count": 578
+        },
+        "url": "https://t.co/WIxP6S5bY6",
+        "username": "oshitoriyuni",
+        "verified": false
+      }
+    ]
+  }
+}

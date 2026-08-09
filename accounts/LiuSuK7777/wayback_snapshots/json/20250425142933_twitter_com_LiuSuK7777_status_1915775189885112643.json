@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1915639306590486793",
+    "created_at": "2025-04-25T14:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T15:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915775189885112643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904551331869937664",
+          "start": 0,
+          "username": "chiikawajy"
+        },
+        {
+          "end": 24,
+          "id": "1756922914291474432",
+          "start": 12,
+          "username": "HuangJ38887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915775189885112643",
+    "in_reply_to_user_id": "1904551331869937664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915772491458384128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiikawajy @HuangJ38887 面码"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1915639306590486793",
+        "created_at": "2025-04-25T14:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T15:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915775189885112643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904551331869937664",
+              "start": 0,
+              "username": "chiikawajy"
+            },
+            {
+              "end": 24,
+              "id": "1756922914291474432",
+              "start": 12,
+              "username": "HuangJ38887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915775189885112643",
+        "in_reply_to_user_id": "1904551331869937664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915772491458384128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiikawajy @HuangJ38887 面码"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904551331869937664",
+        "conversation_id": "1915639306590486793",
+        "created_at": "2025-04-25T14:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T15:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915772491458384128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1756922914291474432",
+              "start": 0,
+              "username": "HuangJ38887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915772491458384128",
+        "in_reply_to_user_id": "1756922914291474432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915639306590486793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuangJ38887 这是谁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1808,
+          "following_count": 2115,
+          "like_count": 31004,
+          "listed_count": 12,
+          "media_count": 946,
+          "tweet_count": 22732
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T15:10:07.000Z",
+        "description": "小粉红🚫支持沙里亚法的穆斯林🚫极端支黑🚫偏右，喜欢chiikawa和水豚 ，LGBT友好，欢迎互fo，会给互关点赞，和我说悄悄话https://t.co/7DCip4ht0T，左人别跟我谈共产主义，尤其是毛左极左",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chiikawa537",
+                "end": 87,
+                "expanded_url": "https://ngl.link/chiikawa537",
+                "start": 64,
+                "url": "https://t.co/7DCip4ht0T"
+              }
+            ]
+          }
+        },
+        "id": "1904551331869937664",
+        "name": "重生之我是粉男先生",
+        "pinned_tweet_id": "1912546019306533296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904551495762374656/w_cLiYMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 73,
+          "like_count": 6628,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1359
+        },
+        "username": "chiikawajy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T06:07:43.000Z",
+        "description": "男孩紙，是大陸人，互fo肯定回fo喵（沒fo私信我喵），台灣回歸派！！！盡量不參加任何鍵政， 世界共產主義萬歲，接納所有人，不是粉紅，因為被極端粉紅傷害過所以罵人會比較狠，珠廈學校最高通輯，中立政治，蔚藍檔案圈子保護者，非支黑，小號:@VIGLbb79EI88783",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 117,
+                "username": "VIGLbb79EI88783"
+              }
+            ]
+          }
+        },
+        "id": "1756922914291474432",
+        "location": "汕頭市ミレニアム科学技術学院",
+        "name": "Shadow_114514🇨🇳❤️🕊️❤️🇭🇰❤️🇲🇴❤️🌍❤️🇵🇸❤️🇹🇼",
+        "pinned_tweet_id": "1857766830091415748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871510699232673792/HKDsUe4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 1486,
+          "like_count": 25004,
+          "listed_count": 9,
+          "media_count": 331,
+          "tweet_count": 2904
+        },
+        "username": "HuangJ38887",
+        "verified": false
+      }
+    ]
+  }
+}

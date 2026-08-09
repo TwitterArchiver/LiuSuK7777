@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1921113910666531191",
+    "created_at": "2025-05-10T13:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T14:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921193445424529616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1797620398235721728",
+          "start": 0,
+          "username": "ninety_nine199"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921193445424529616",
+    "in_reply_to_user_id": "1797620398235721728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921193022940762621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ninety_nine199 这是你吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1921113910666531191",
+        "created_at": "2025-05-10T13:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T14:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921193445424529616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1797620398235721728",
+              "start": 0,
+              "username": "ninety_nine199"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921193445424529616",
+        "in_reply_to_user_id": "1797620398235721728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921193022940762621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ninety_nine199 这是你吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797620398235721728",
+        "conversation_id": "1921113910666531191",
+        "created_at": "2025-05-10T13:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T14:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921193022940762621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921193022940762621",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921113910666531191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 对不起我不坐地铁了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": " 🔪‌",
+        "name": "流苏",
+        "pinned_tweet_id": "1921133168213577911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2009,
+          "following_count": 2271,
+          "like_count": 32766,
+          "listed_count": 11,
+          "media_count": 1027,
+          "tweet_count": 24299
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T13:25:36.000Z",
+        "description": "170/85 男孩子 取向男 目前初中 坐标江苏徐州 15岁！ 猛一（好吧我可1可0👉👈）是个爱慕 福瑞控 fo我都回fo English/中文🉑 日本語机翻 背景板是我推喵小泽！（目前含🔞了喵）\n里🔞：@ninety_nine299 负能：@ninety_nine399 朋友：@mirekintoc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 102,
+                "username": "ninety_nine299"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "ninety_nine399"
+              },
+              {
+                "end": 151,
+                "start": 140,
+                "username": "mirekintoc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ninety_nine2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ninety_nine2",
+                "start": 0,
+                "url": "https://t.co/x2C7xLPzhq"
+              }
+            ]
+          }
+        },
+        "id": "1797620398235721728",
+        "location": "距离你-20cm",
+        "name": "九九（复学淡推版）",
+        "pinned_tweet_id": "1899200183952720212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820726055570718720/kX2f8nbW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 916,
+          "like_count": 12218,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 2436
+        },
+        "url": "https://t.co/x2C7xLPzhq",
+        "username": "ninety_nine199",
+        "verified": false
+      }
+    ]
+  }
+}

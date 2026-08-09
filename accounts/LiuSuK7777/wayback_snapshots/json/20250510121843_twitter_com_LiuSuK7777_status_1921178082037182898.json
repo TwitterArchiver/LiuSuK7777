@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1921177072585539983",
+    "created_at": "2025-05-10T12:18:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T13:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921178082037182898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592865779241734144",
+          "start": 0,
+          "username": "yuanyuan774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921178082037182898",
+    "in_reply_to_user_id": "1592865779241734144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921177948473745904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyuan774 我更好奇我引用是怎么回复到我的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1921177072585539983",
+        "created_at": "2025-05-10T12:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T13:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921178082037182898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592865779241734144",
+              "start": 0,
+              "username": "yuanyuan774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921178082037182898",
+        "in_reply_to_user_id": "1592865779241734144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921177948473745904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyuan774 我更好奇我引用是怎么回复到我的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592865779241734144",
+        "conversation_id": "1921177072585539983",
+        "created_at": "2025-05-10T12:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T13:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921177948473745904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921177948473745904",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921177431097868771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 不是？我靠我回复错了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": " 🔪‌",
+        "name": "流苏",
+        "pinned_tweet_id": "1921133168213577911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2009,
+          "following_count": 2272,
+          "like_count": 32749,
+          "listed_count": 11,
+          "media_count": 1027,
+          "tweet_count": 24289
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T13:03:00.000Z",
+        "description": "路边的小猫是我变的⁃ ⩊ ⁃",
+        "id": "1592865779241734144",
+        "location": "喜欢就打钱",
+        "name": "你是不是欠",
+        "pinned_tweet_id": "1908417822847344702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921102723438792704/F1qyUzLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9011,
+          "following_count": 260,
+          "like_count": 22906,
+          "listed_count": 9,
+          "media_count": 865,
+          "tweet_count": 18157
+        },
+        "username": "yuanyuan774",
+        "verified": false
+      }
+    ]
+  }
+}

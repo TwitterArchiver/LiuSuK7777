@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999697430267473921"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1999697433446756412",
+    "created_at": "2025-12-13T04:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T05:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999697433446756412"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OTzng28A0X",
+          "end": 28,
+          "expanded_url": "https://x.com/LiuSuK7777/status/1999697433446756412/photo/1",
+          "media_key": "3_1999697430267473921",
+          "start": 5,
+          "url": "https://t.co/OTzng28A0X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999697433446756412",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "厚贞烤肉 https://t.co/OTzng28A0X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999697430267473921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8BaN81asAENIaI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999697430267473921"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1999697433446756412",
+        "created_at": "2025-12-13T04:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T05:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999697433446756412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OTzng28A0X",
+              "end": 28,
+              "expanded_url": "https://x.com/LiuSuK7777/status/1999697433446756412/photo/1",
+              "media_key": "3_1999697430267473921",
+              "start": 5,
+              "url": "https://t.co/OTzng28A0X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999697433446756412",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "厚贞烤肉 https://t.co/OTzng28A0X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "1995540883278889351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998267978916528128/FNUZvgoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2940,
+          "following_count": 2775,
+          "like_count": 35510,
+          "listed_count": 13,
+          "media_count": 1563,
+          "tweet_count": 33515
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      }
+    ]
+  }
+}

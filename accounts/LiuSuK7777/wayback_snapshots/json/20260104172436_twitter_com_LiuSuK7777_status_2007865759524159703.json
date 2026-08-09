@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2007857338892628127",
+    "created_at": "2026-01-04T17:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T18:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007865759524159703"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "有希望",
+          "probability": 0.5934,
+          "start": 19,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1615272749207015424",
+          "start": 0,
+          "username": "preachersad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007865759524159703",
+    "in_reply_to_user_id": "1615272749207015424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007864745408504158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@preachersad 晚安 祝你仍有希望"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2007857338892628127",
+        "created_at": "2026-01-04T17:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T18:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007865759524159703"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "有希望",
+              "probability": 0.5934,
+              "start": 19,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1615272749207015424",
+              "start": 0,
+              "username": "preachersad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007865759524159703",
+        "in_reply_to_user_id": "1615272749207015424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007864745408504158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@preachersad 晚安 祝你仍有希望"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1615272749207015424",
+        "conversation_id": "2007857338892628127",
+        "created_at": "2026-01-04T17:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T18:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007864745408504158"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007864745408504158",
+        "in_reply_to_user_id": "1615272749207015424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007864191152267366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的推特应该没什么人看到，就让这些话石沉大海吧，被互联网的泡沫淹没吧。毕竟我该上路了，该说再见了。打了这么多字，药效也上来了。晚安。\n\nfama\n2026年1月5日"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "1995540883278889351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000419861345026048/OuRHQUY0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2957,
+          "following_count": 2767,
+          "like_count": 35522,
+          "listed_count": 13,
+          "media_count": 1578,
+          "tweet_count": 34018
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-17T09:00:17.000Z",
+        "description": "i have reached the peak nonchalance (having a special ability to give nothing a fuck). i cannot make friends, i need more knowledge instead.",
+        "id": "1615272749207015424",
+        "location": "usa",
+        "name": "Wally S. Schmuck",
+        "pinned_tweet_id": "1979800798008861076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998804446013448192/AwXCRAts_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 583,
+          "tweet_count": 5001
+        },
+        "username": "preachersad",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1999406995812811083",
+    "created_at": "2025-12-12T09:25:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T10:25:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999410282540728454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1991364416823259139",
+          "start": 0,
+          "username": "NikaidoHiro0110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999410282540728454",
+    "in_reply_to_user_id": "1991364416823259139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999409123482591639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NikaidoHiro0110 我凿死你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1999406995812811083",
+        "created_at": "2025-12-12T09:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T10:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999410282540728454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1991364416823259139",
+              "start": 0,
+              "username": "NikaidoHiro0110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999410282540728454",
+        "in_reply_to_user_id": "1991364416823259139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999409123482591639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NikaidoHiro0110 我凿死你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991364416823259139",
+        "conversation_id": "1999406995812811083",
+        "created_at": "2025-12-12T09:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T10:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999409123482591639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999409123482591639",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999406995812811083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 我是墙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "1995540883278889351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998267978916528128/FNUZvgoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2937,
+          "following_count": 2765,
+          "like_count": 35508,
+          "listed_count": 13,
+          "media_count": 1561,
+          "tweet_count": 33477
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T04:34:18.000Z",
+        "description": "喜欢碎碎念 不想当小透明                                          b站：https://t.co/D8SULUCESy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b23.tv/kTDbwUY",
+                "end": 80,
+                "expanded_url": "https://b23.tv/kTDbwUY",
+                "start": 57,
+                "url": "https://t.co/D8SULUCESy"
+              }
+            ]
+          }
+        },
+        "id": "1991364416823259139",
+        "name": "Nikaido Hiro",
+        "pinned_tweet_id": "1998805398401487254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991365556956807168/b84rccpy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 321,
+          "like_count": 1578,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 418
+        },
+        "username": "NikaidoHiro0110",
+        "verified": false
+      }
+    ]
+  }
+}

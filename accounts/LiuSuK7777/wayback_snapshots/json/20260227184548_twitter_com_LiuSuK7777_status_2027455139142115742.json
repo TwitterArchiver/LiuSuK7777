@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2027413414931227039",
+    "created_at": "2026-02-27T18:45:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T19:45:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027455139142115742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1257540561189302274",
+          "start": 0,
+          "username": "Minatooo_O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027455139142115742",
+    "in_reply_to_user_id": "1257540561189302274",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027454943242891688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minatooo_O 咕……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2027413414931227039",
+        "created_at": "2026-02-27T18:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T19:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027455139142115742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1257540561189302274",
+              "start": 0,
+              "username": "Minatooo_O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027455139142115742",
+        "in_reply_to_user_id": "1257540561189302274",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027454943242891688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minatooo_O 咕……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1257540561189302274",
+        "conversation_id": "2027413414931227039",
+        "created_at": "2026-02-27T18:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T19:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027454943242891688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027454943242891688",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027413414931227039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n老公@zyh842159145\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2027413414931227039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022579402232729603/sIzOPs42_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3088,
+          "following_count": 2747,
+          "like_count": 35340,
+          "listed_count": 15,
+          "media_count": 1615,
+          "tweet_count": 34344
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-05T05:20:20.000Z",
+        "description": "学生|ACG|公路&轨道交通|地理好き|数学苦手|模拟经营|轻度galgame|音游|点赞bot|可爱🩷@Chinonya1 @KawaiiSmolChino @hikawarinaOvO 🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 52,
+                "username": "Chinonya1"
+              },
+              {
+                "end": 79,
+                "start": 63,
+                "username": "KawaiiSmolChino"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "hikawarinaOvO"
+              }
+            ]
+          }
+        },
+        "id": "1257540561189302274",
+        "location": "某个阴暗的角落里",
+        "name": "MinatoOvO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950575474335498240/mtY1YqTM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 305,
+          "like_count": 37271,
+          "listed_count": 5,
+          "media_count": 246,
+          "tweet_count": 7730
+        },
+        "username": "Minatooo_O",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1964537957765042450",
+    "created_at": "2025-09-08T23:22:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T00:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965194001558188499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1360124680326111232",
+          "start": 0,
+          "username": "quedelao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965194001558188499",
+    "in_reply_to_user_id": "1360124680326111232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965161171889389934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quedelao 我又没电脑玩什么丝之歌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1964537957765042450",
+        "created_at": "2025-09-08T23:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T00:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965194001558188499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360124680326111232",
+              "start": 0,
+              "username": "quedelao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965194001558188499",
+        "in_reply_to_user_id": "1360124680326111232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965161171889389934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quedelao 我又没电脑玩什么丝之歌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360124680326111232",
+        "conversation_id": "1964537957765042450",
+        "created_at": "2025-09-08T21:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T22:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965161171889389934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965161171889389934",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964537957765042450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 这个价格，丝之歌吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "感情很麻烦 只想要好朋友啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "没有容身之地。",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1962804814611652676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964908646095323136/f-lVabKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2633,
+          "following_count": 2640,
+          "like_count": 35335,
+          "listed_count": 14,
+          "media_count": 1344,
+          "tweet_count": 29857
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-12T07:12:56.000Z",
+        "description": "22岁现役吐槽役，是男的，坐标苏州",
+        "id": "1360124680326111232",
+        "location": "山东",
+        "name": "吴宁阙",
+        "pinned_tweet_id": "1893997667480383768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885325761370087432/q6Hhj7qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 225,
+          "like_count": 12860,
+          "listed_count": 0,
+          "media_count": 313,
+          "tweet_count": 7001
+        },
+        "username": "quedelao",
+        "verified": false
+      }
+    ]
+  }
+}

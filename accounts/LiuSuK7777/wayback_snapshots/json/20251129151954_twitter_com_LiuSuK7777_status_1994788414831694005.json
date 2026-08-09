@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1994603843364204783",
+    "created_at": "2025-11-29T15:19:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T16:19:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994788414831694005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1565881978062118913",
+          "start": 0,
+          "username": "Espania_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994788414831694005",
+    "in_reply_to_user_id": "1565881978062118913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994788230047371306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Espania_CN 我知道 你很明显了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1994603843364204783",
+        "created_at": "2025-11-29T15:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T16:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994788414831694005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1565881978062118913",
+              "start": 0,
+              "username": "Espania_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994788414831694005",
+        "in_reply_to_user_id": "1565881978062118913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994788230047371306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Espania_CN 我知道 你很明显了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565881978062118913",
+        "conversation_id": "1994603843364204783",
+        "created_at": "2025-11-29T15:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T16:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994788230047371306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994788230047371306",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994603843364204783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 我是男的👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1994457982331961835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994695488520835072/aNvlyX-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2858,
+          "following_count": 2702,
+          "like_count": 35396,
+          "listed_count": 13,
+          "media_count": 1535,
+          "tweet_count": 32649
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T01:59:20.000Z",
+        "description": "中国本土の大学生です🇨🇳\n🔰雑多垢：アニメ/マンガ/ゲーム/ライベ/政治歴史と人文地理/欧州と東亜と東南亜の言語と文化が大好きですよ(英語、日本語、韓国語、ベトナム語勉強中)フォロバOK\n⚠️已经不键政了，禁止谈论政治\n【日本が好きです🇯🇵/한국을 좋아해요🇰🇷 /Thích Việt Nam🇻🇳】",
+        "id": "1565881978062118913",
+        "location": "居住地：中华人民共和国（中国大陆）",
+        "name": "Espania",
+        "pinned_tweet_id": "1946929246875840944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766464836387627008/2BxQbknn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1893,
+          "following_count": 5013,
+          "like_count": 55503,
+          "listed_count": 10,
+          "media_count": 23,
+          "tweet_count": 21999
+        },
+        "username": "Espania_CN",
+        "verified": false
+      }
+    ]
+  }
+}

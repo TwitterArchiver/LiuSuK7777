@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1908063617016082497",
+    "created_at": "2025-04-05T05:01:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T06:01:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908384529343275227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1762820280035250176",
+          "start": 0,
+          "username": "Ocelot8964"
+        },
+        {
+          "end": 24,
+          "id": "1818678630824001538",
+          "start": 12,
+          "username": "Misako_25ji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908384529343275227",
+    "in_reply_to_user_id": "1762820280035250176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908333165976203739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ocelot8964 @Misako_25ji 你怎么知道"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1908333165976203739].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1908333165976203739",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1908333165976203739"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1908063617016082497",
+        "created_at": "2025-04-05T05:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T06:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908384529343275227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1762820280035250176",
+              "start": 0,
+              "username": "Ocelot8964"
+            },
+            {
+              "end": 24,
+              "id": "1818678630824001538",
+              "start": 12,
+              "username": "Misako_25ji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908384529343275227",
+        "in_reply_to_user_id": "1762820280035250176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908333165976203739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ocelot8964 @Misako_25ji 你怎么知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏（我是叶子的狗）",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 2057,
+          "like_count": 30186,
+          "listed_count": 12,
+          "media_count": 878,
+          "tweet_count": 21619
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-28T12:41:36.000Z",
+        "description": "ENFP-T｜Bilingualism: Chinese🇨🇳🇹🇼&English🇺🇸 To china,may freedom reign! Glory belongs to LIBERTY!!! #FuckAuthoritatianism 民主万岁！被极权与威权迫害的烈士万岁！@lifa_Petter",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 120,
+                "start": 99,
+                "tag": "FuckAuthoritatianism"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 152,
+                "start": 140,
+                "username": "lifa_Petter"
+              }
+            ]
+          }
+        },
+        "id": "1762820280035250176",
+        "location": "IP地址：梁家河",
+        "name": "豹猫🇺🇸&SPQR",
+        "pinned_tweet_id": "1908029831348162834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818947910509240320/vVBphImo_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 443,
+          "like_count": 9302,
+          "listed_count": 2,
+          "media_count": 230,
+          "tweet_count": 4658
+        },
+        "username": "Ocelot8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T16:02:39.000Z",
+        "description": "HRT 2024.05.09 ｜ 坐标杭州 ｜ 堕落的天使（下海） ｜ 链接可以投喂哦！｜  未成年开卡bot  ｜🚪50 （可加微信/QQ） 推特私信免费～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buy.stripe.com/4gw9E94T95XUc1…",
+                "end": 23,
+                "expanded_url": "https://buy.stripe.com/4gw9E94T95XUc12dQR",
+                "start": 0,
+                "url": "https://t.co/Lbi9jYVczo"
+              }
+            ]
+          }
+        },
+        "id": "1818678630824001538",
+        "location": "Inkar-usi.",
+        "name": "Misako～美沙子喵🏳️‍⚧️",
+        "pinned_tweet_id": "1901163767465210252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900767621165051904/vDuXtCBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 555,
+          "like_count": 774,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 455
+        },
+        "url": "https://t.co/Lbi9jYVczo",
+        "username": "Misako_25ji",
+        "verified": true
+      }
+    ]
+  }
+}

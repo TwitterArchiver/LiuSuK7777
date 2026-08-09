@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1904500614715117679",
+    "created_at": "2025-03-25T21:14:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T22:14:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904643027819262201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822910760873537536",
+          "start": 0,
+          "username": "KaitlynXiaoLu99"
+        },
+        {
+          "end": 28,
+          "id": "1662475048261935104",
+          "start": 17,
+          "username": "Flandremai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904643027819262201",
+    "in_reply_to_user_id": "1822910760873537536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904513806945902943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaitlynXiaoLu99 @Flandremai 那你是超人了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1904513806945902943].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1904513806945902943",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1904513806945902943"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1904500614715117679",
+        "created_at": "2025-03-25T21:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T22:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904643027819262201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822910760873537536",
+              "start": 0,
+              "username": "KaitlynXiaoLu99"
+            },
+            {
+              "end": 28,
+              "id": "1662475048261935104",
+              "start": 17,
+              "username": "Flandremai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904643027819262201",
+        "in_reply_to_user_id": "1822910760873537536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904513806945902943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaitlynXiaoLu99 @Flandremai 那你是超人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "生病中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "☆流苏☆🐱IP杭州（100%互fo）",
+        "pinned_tweet_id": "1903751125427515801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663,
+          "following_count": 1968,
+          "like_count": 28946,
+          "listed_count": 13,
+          "media_count": 836,
+          "tweet_count": 19757
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T08:19:35.000Z",
+        "description": "isfp-t｜バンドリ｜威权主义+建制派｜lgbtq尊重+不支持｜魔女の旅々｜MyGO全员厨｜MaimaiDX｜愿我们都能走在有光的路上｜发癫小号：@XiaoLuNigeru｜筹备二周目ing…@LightlyXiaoLu99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 74,
+                "username": "XiaoLuNigeru"
+              },
+              {
+                "end": 113,
+                "start": 97,
+                "username": "LightlyXiaoLu99"
+              }
+            ]
+          }
+        },
+        "id": "1822910760873537536",
+        "location": "羽丘女子学园",
+        "name": "-小鹿小鹿-🦌🇨🇳",
+        "pinned_tweet_id": "1902459772336750656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902460825165819905/W63nvUfl_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 1294,
+          "like_count": 21284,
+          "listed_count": 9,
+          "media_count": 474,
+          "tweet_count": 8528
+        },
+        "username": "KaitlynXiaoLu99",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T15:05:21.000Z",
+        "description": "活死人一个 / 愛好是看畫畫 / 是在晚上出沒的幽靈",
+        "id": "1662475048261935104",
+        "name": "芙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862287465144623106/Umc_K7dA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 721,
+          "like_count": 12334,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 2001
+        },
+        "username": "Flandremai",
+        "verified": false
+      }
+    ]
+  }
+}

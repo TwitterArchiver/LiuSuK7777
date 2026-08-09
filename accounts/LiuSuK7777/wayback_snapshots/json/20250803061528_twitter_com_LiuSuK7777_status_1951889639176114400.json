@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1951852172469207144",
+    "created_at": "2025-08-03T06:15:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T07:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951889639176114400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1481643865912184834",
+          "start": 0,
+          "username": "JeffrySuSu8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951889639176114400",
+    "in_reply_to_user_id": "1481643865912184834",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951889193237373033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JeffrySuSu8 并非"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1951852172469207144",
+        "created_at": "2025-08-03T06:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T07:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951889639176114400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481643865912184834",
+              "start": 0,
+              "username": "JeffrySuSu8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951889639176114400",
+        "in_reply_to_user_id": "1481643865912184834",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951889193237373033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JeffrySuSu8 并非"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481643865912184834",
+        "conversation_id": "1951852172469207144",
+        "created_at": "2025-08-03T06:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T07:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951889193237373033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951889193237373033",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951852172469207144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 那你的意思是，身高大于170的男生就是大男娘吗🧐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男 | 御主/ダーリン@yeziyu7777 | 革命伴侣/契约者/運命の人@zyh1428202 | お姉ちゃん@ttkyyx03 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "ttkyyx03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "超高校级の無意識",
+        "pinned_tweet_id": "1949513211826377068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2508,
+          "following_count": 2644,
+          "like_count": 34941,
+          "listed_count": 10,
+          "media_count": 1267,
+          "tweet_count": 28839
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-13T15:06:50.000Z",
+        "description": "",
+        "id": "1481643865912184834",
+        "location": "山洞",
+        "name": "Jeeeffry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913633682247884800/XNU-rNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 451,
+          "like_count": 2354,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 826
+        },
+        "username": "JeffrySuSu8",
+        "verified": false
+      }
+    ]
+  }
+}

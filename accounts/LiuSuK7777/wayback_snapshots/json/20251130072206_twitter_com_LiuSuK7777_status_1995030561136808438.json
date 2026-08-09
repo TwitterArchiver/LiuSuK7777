@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1994754365618528719",
+    "created_at": "2025-11-30T07:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T08:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995030561136808438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1697918472838418432",
+          "start": 0,
+          "username": "Uncertife"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995030561136808438",
+    "in_reply_to_user_id": "1697918472838418432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994997652019450203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Uncertife 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1994754365618528719",
+        "created_at": "2025-11-30T07:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T08:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995030561136808438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1697918472838418432",
+              "start": 0,
+              "username": "Uncertife"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995030561136808438",
+        "in_reply_to_user_id": "1697918472838418432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994997652019450203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Uncertife 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697918472838418432",
+        "conversation_id": "1994754365618528719",
+        "created_at": "2025-11-30T05:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T06:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994997652019450203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994997652019450203",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994754365618528719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 去生夏如花自己看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1994457982331961835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994695488520835072/aNvlyX-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2880,
+          "following_count": 2711,
+          "like_count": 35403,
+          "listed_count": 13,
+          "media_count": 1535,
+          "tweet_count": 32755
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T10:24:56.000Z",
+        "description": "没人在意的发疯日常       私聊🚪60",
+        "id": "1697918472838418432",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "Yama",
+        "pinned_tweet_id": "1936747464188715120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697920388746121216/CkpKyiuY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 97,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 303
+        },
+        "username": "Uncertife",
+        "verified": false
+      }
+    ]
+  }
+}

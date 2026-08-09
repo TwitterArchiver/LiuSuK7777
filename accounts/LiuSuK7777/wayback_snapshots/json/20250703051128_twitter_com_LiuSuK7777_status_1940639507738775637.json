@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1939918309425922295",
+    "created_at": "2025-07-03T05:11:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T06:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940639507738775637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1311700032228216833",
+          "start": 0,
+          "username": "sherry4869000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940639507738775637",
+    "in_reply_to_user_id": "1311700032228216833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940620916150751477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sherry4869000 那扶梯太好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1939918309425922295",
+        "created_at": "2025-07-03T05:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T06:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940639507738775637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1311700032228216833",
+              "start": 0,
+              "username": "sherry4869000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940639507738775637",
+        "in_reply_to_user_id": "1311700032228216833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940620916150751477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sherry4869000 那扶梯太好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1311700032228216833",
+        "conversation_id": "1939918309425922295",
+        "created_at": "2025-07-03T03:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T04:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940620916150751477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940620916150751477",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939918309425922295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 那天穿着高跟鞋逛了一整天，要是没有电动扶梯，可能已经做截肢手术了……🫠🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "主人@yeziyu7777\n对象@zyh1428202\n小号@Loveyezi8964\n笨蛋姐姐@TTKYYX03（不是现实中那个）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "Loveyezi8964"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1939923011571773935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2274,
+          "following_count": 2496,
+          "like_count": 34700,
+          "listed_count": 10,
+          "media_count": 1191,
+          "tweet_count": 27494
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-01T16:10:44.000Z",
+        "description": "友達に排挤される危険人物、私にとってはもうちょっとぴったりだ",
+        "id": "1311700032228216833",
+        "location": "广东省, 中山市",
+        "name": "只吃鸡爪",
+        "pinned_tweet_id": "1935209509301141882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927691795862790144/miaBi8Fs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 1321,
+          "like_count": 9769,
+          "listed_count": 4,
+          "media_count": 163,
+          "tweet_count": 1866
+        },
+        "username": "sherry4869000",
+        "verified": false
+      }
+    ]
+  }
+}

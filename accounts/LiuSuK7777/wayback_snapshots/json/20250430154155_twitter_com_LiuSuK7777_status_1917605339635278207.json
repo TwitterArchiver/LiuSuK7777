@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1916838688035586289",
+    "created_at": "2025-04-30T15:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T16:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917605339635278207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1377755730460078083",
+          "start": 0,
+          "username": "ObfuscatedMinds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917605339635278207",
+    "in_reply_to_user_id": "1377755730460078083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917605041395097773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ObfuscatedMinds 这么巧！？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1916838688035586289",
+        "created_at": "2025-04-30T15:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T16:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917605339635278207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1377755730460078083",
+              "start": 0,
+              "username": "ObfuscatedMinds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917605339635278207",
+        "in_reply_to_user_id": "1377755730460078083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917605041395097773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ObfuscatedMinds 这么巧！？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1377755730460078083",
+        "conversation_id": "1916838688035586289",
+        "created_at": "2025-04-30T15:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T16:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917605041395097773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917605041395097773",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916838688035586289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 我去 刚从这家吃完回来就刷到了，还说怎么这张图片怎么这么眼熟Σ(°ロ°)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1923,
+          "following_count": 2182,
+          "like_count": 31836,
+          "listed_count": 13,
+          "media_count": 975,
+          "tweet_count": 23509
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-01T22:52:27.000Z",
+        "description": "The crazy version of my brain.\n(σﾟ∀ﾟ)σ\n可爱即正义！",
+        "id": "1377755730460078083",
+        "name": "ドグ",
+        "pinned_tweet_id": "1914720438724251833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869435670219161600/AJfwtsAI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 12,
+          "like_count": 606,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 53
+        },
+        "username": "ObfuscatedMinds",
+        "verified": false
+      }
+    ]
+  }
+}

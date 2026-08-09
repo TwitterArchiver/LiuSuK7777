@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2051654439791149112",
+    "created_at": "2026-05-06T02:49:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T03:49:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051856749058281882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1492030700861591552",
+          "start": 0,
+          "username": "scastlear"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051856749058281882",
+    "in_reply_to_user_id": "1492030700861591552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051850442997703153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@scastlear 你可以玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1449,
+        "media_key": "3_2051850440434978816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHmjGrpbEAAmC6h.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2051654439791149112",
+        "created_at": "2026-05-06T02:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T03:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051856749058281882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1492030700861591552",
+              "start": 0,
+              "username": "scastlear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051856749058281882",
+        "in_reply_to_user_id": "1492030700861591552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051850442997703153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scastlear 你可以玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051850440434978816"
+          ]
+        },
+        "author_id": "1492030700861591552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2051654439791149112",
+        "created_at": "2026-05-06T02:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T03:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051850442997703153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KGDzqNU8u0",
+              "end": 50,
+              "expanded_url": "https://x.com/scastlear/status/2051850442997703153/photo/1",
+              "media_key": "3_2051850440434978816",
+              "start": 27,
+              "url": "https://t.co/KGDzqNU8u0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051850442997703153",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051654439791149112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 主播主播，我可以玩明日方舟吗 https://t.co/KGDzqNU8u0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 08年~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n我喜欢你♡@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2032828973374386365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030299474501971969/jf72wAsr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3385,
+          "following_count": 2713,
+          "like_count": 35035,
+          "listed_count": 14,
+          "media_count": 1658,
+          "tweet_count": 34846
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-11T07:00:25.000Z",
+        "description": "06年小登丨出现在推特各个帖子下丨不Fo但是会眼熟人",
+        "id": "1492030700861591552",
+        "location": "幻想鄉",
+        "name": "LeAR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042975945997586433/LdqmDO63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 217,
+          "like_count": 2047,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 2497
+        },
+        "username": "scastlear",
+        "verified": false
+      }
+    ]
+  }
+}

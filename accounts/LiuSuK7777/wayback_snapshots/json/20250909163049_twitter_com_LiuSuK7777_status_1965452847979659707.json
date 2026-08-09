@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1965056860442251302",
+    "created_at": "2025-09-09T16:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T17:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965452847979659707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1678037476068163585",
+          "start": 0,
+          "username": "tamako_0406_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965452847979659707",
+    "in_reply_to_user_id": "1678037476068163585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965421058745627121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tamako_0406_ 我也没"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1965056860442251302",
+        "created_at": "2025-09-09T16:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T17:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965452847979659707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678037476068163585",
+              "start": 0,
+              "username": "tamako_0406_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965452847979659707",
+        "in_reply_to_user_id": "1678037476068163585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965421058745627121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tamako_0406_ 我也没"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678037476068163585",
+        "conversation_id": "1965056860442251302",
+        "created_at": "2025-09-09T14:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T15:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965421058745627121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965421058745627121",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965056860442251302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 没做过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "Arcaea/三角洲行动/舞萌dx",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "没有容身之地。",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1962804814611652676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965259636543815685/GPXhrPsx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2635,
+          "following_count": 2637,
+          "like_count": 35336,
+          "listed_count": 14,
+          "media_count": 1344,
+          "tweet_count": 29873
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T13:45:01.000Z",
+        "description": "前世@tamako94001201 @tamako_0406 请认真阅读置顶 1314🚪我天天黏着你发消息😚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "tamako94001201"
+              },
+              {
+                "end": 30,
+                "start": 18,
+                "username": "tamako_0406"
+              }
+            ]
+          }
+        },
+        "id": "1678037476068163585",
+        "location": "骂我反弹",
+        "name": "tamako（被骗钱还债中",
+        "pinned_tweet_id": "1949798986560196774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844969754655633409/aRDtRO_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1229,
+          "following_count": 218,
+          "like_count": 1744,
+          "listed_count": 6,
+          "media_count": 506,
+          "tweet_count": 4937
+        },
+        "username": "tamako_0406_",
+        "verified": false
+      }
+    ]
+  }
+}

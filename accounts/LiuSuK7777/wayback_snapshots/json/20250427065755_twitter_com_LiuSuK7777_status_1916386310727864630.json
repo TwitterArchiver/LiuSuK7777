@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1916160345519067144",
+    "created_at": "2025-04-27T06:57:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T07:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916386310727864630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1650134867424976896",
+          "start": 0,
+          "username": "_Tojita_Sekai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916386310727864630",
+    "in_reply_to_user_id": "1650134867424976896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916386158654660864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Tojita_Sekai 喵喵喵喵！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1916160345519067144",
+        "created_at": "2025-04-27T06:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T07:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916386310727864630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1650134867424976896",
+              "start": 0,
+              "username": "_Tojita_Sekai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916386310727864630",
+        "in_reply_to_user_id": "1650134867424976896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916386158654660864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Tojita_Sekai 喵喵喵喵！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650134867424976896",
+        "conversation_id": "1916160345519067144",
+        "created_at": "2025-04-27T06:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T07:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916386158654660864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916386158654660864",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916385619082649660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 喵喵喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1861,
+          "following_count": 2154,
+          "like_count": 31409,
+          "listed_count": 12,
+          "media_count": 956,
+          "tweet_count": 23072
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T13:49:51.000Z",
+        "description": "挂几只杂鱼在这里 1 @MinaseAyano 2 @canitastevenom 3 @Fomalhautawa 4 @Fe_ions 5 @XueWan47458",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "MinaseAyano"
+              },
+              {
+                "end": 41,
+                "start": 26,
+                "username": "canitastevenom"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "Fomalhautawa"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "Fe_ions"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "XueWan47458"
+              }
+            ]
+          }
+        },
+        "id": "1650134867424976896",
+        "location": "Unnnnnreallllll liiifeee",
+        "name": "Chinsu",
+        "pinned_tweet_id": "1902677578416292106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913287026759405568/Kvc91c6E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 301,
+          "like_count": 11771,
+          "listed_count": 4,
+          "media_count": 162,
+          "tweet_count": 4658
+        },
+        "username": "_Tojita_Sekai",
+        "verified": false
+      }
+    ]
+  }
+}

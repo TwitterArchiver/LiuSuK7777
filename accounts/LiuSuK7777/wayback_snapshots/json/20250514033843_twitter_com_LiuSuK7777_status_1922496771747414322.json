@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922442571998978048"
+      ],
+      "media_source_tweet_id": [
+        "1922442795094102416"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "conversation_id": "1922496771747414322",
+    "created_at": "2025-05-14T03:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T04:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922496771747414322"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "こいしちゃん",
+          "probability": 0.4227,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 22,
+          "tag": "5月14日はこいしの日"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "99696403",
+          "start": 3,
+          "username": "bakuPA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e5nEzAQ04j",
+          "end": 58,
+          "expanded_url": "https://x.com/bakuPA/status/1922442795094102416/photo/1",
+          "media_key": "3_1922442571998978048",
+          "start": 35,
+          "url": "https://t.co/e5nEzAQ04j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922496771747414322",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 366
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922442795094102416",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @bakuPA: 私服風こいしちゃん\n#5月14日はこいしの日 https://t.co/e5nEzAQ04j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_1922442571998978048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq3jVW0WYAAffMA.jpg",
+        "width": 1069
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922442571998978048"
+          ],
+          "media_source_tweet_id": [
+            "1922442795094102416"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "conversation_id": "1922496771747414322",
+        "created_at": "2025-05-14T03:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T04:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922496771747414322"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "こいしちゃん",
+              "probability": 0.4227,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 22,
+              "tag": "5月14日はこいしの日"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "99696403",
+              "start": 3,
+              "username": "bakuPA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e5nEzAQ04j",
+              "end": 58,
+              "expanded_url": "https://x.com/bakuPA/status/1922442795094102416/photo/1",
+              "media_key": "3_1922442571998978048",
+              "start": 35,
+              "url": "https://t.co/e5nEzAQ04j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922496771747414322",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 366
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922442795094102416",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @bakuPA: 私服風こいしちゃん\n#5月14日はこいしの日 https://t.co/e5nEzAQ04j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922442571998978048"
+          ]
+        },
+        "author_id": "99696403",
+        "conversation_id": "1922442795094102416",
+        "created_at": "2025-05-14T00:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T01:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922442795094102416"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "こいしちゃん",
+              "probability": 0.5285,
+              "start": 3,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 10,
+              "tag": "5月14日はこいしの日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e5nEzAQ04j",
+              "end": 46,
+              "expanded_url": "https://x.com/bakuPA/status/1922442795094102416/photo/1",
+              "media_key": "3_1922442571998978048",
+              "start": 23,
+              "url": "https://t.co/e5nEzAQ04j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922442795094102416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 154,
+          "impression_count": 16910,
+          "like_count": 1569,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 366
+        },
+        "reply_settings": "following",
+        "text": "私服風こいしちゃん\n#5月14日はこいしの日 https://t.co/e5nEzAQ04j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": " 🔪‌",
+        "name": "流苏",
+        "pinned_tweet_id": "1921196565060088153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2032,
+          "following_count": 2287,
+          "like_count": 33112,
+          "listed_count": 11,
+          "media_count": 1051,
+          "tweet_count": 24600
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-27T12:07:48.000Z",
+        "description": "※なりすまし被害を受けています。\n当アカウントを騙った嫌がらせ・荒らし被害を受けた方はこちらのpostをご一読ください。\n（詳細：https://t.co/eEOgNWofJ4）\n\nPIXIV：https://t.co/Rewas7JSq2\nFANBOX：https://t.co/tqEzaTWc5m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/unRUu",
+                "end": 88,
+                "expanded_url": "https://x.gd/unRUu",
+                "start": 65,
+                "url": "https://t.co/eEOgNWofJ4"
+              },
+              {
+                "display_url": "pixiv.net/users/724607",
+                "end": 120,
+                "expanded_url": "http://pixiv.net/users/724607",
+                "start": 97,
+                "url": "https://t.co/Rewas7JSq2"
+              },
+              {
+                "display_url": "bakupa.fanbox.cc",
+                "end": 151,
+                "expanded_url": "http://bakupa.fanbox.cc",
+                "start": 128,
+                "url": "https://t.co/tqEzaTWc5m"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "melonbooks.co.jp/detail/detail.…",
+                "end": 23,
+                "expanded_url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=2960403",
+                "start": 0,
+                "url": "https://t.co/rJXi9hVc2R"
+              }
+            ]
+          }
+        },
+        "id": "99696403",
+        "location": "例大祭２２新刊→",
+        "name": "ばくＰ",
+        "pinned_tweet_id": "1918482847704465731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1092384720451600384/0QTQqn0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45877,
+          "following_count": 757,
+          "like_count": 1093,
+          "listed_count": 507,
+          "media_count": 504,
+          "tweet_count": 47446
+        },
+        "url": "https://t.co/rJXi9hVc2R",
+        "username": "bakuPA",
+        "verified": false
+      }
+    ]
+  }
+}

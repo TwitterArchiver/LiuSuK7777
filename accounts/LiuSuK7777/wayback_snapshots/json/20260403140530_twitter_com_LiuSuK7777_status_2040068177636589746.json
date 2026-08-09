@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040068165770805248"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2040068177636589746",
+    "created_at": "2026-04-03T14:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T15:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040068177636589746"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PIYoJnMSK0",
+          "end": 31,
+          "expanded_url": "https://x.com/LiuSuK7777/status/2040068177636589746/photo/1",
+          "media_key": "3_2040068165770805248",
+          "start": 8,
+          "url": "https://t.co/PIYoJnMSK0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040068177636589746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每日一把花园狙 https://t.co/PIYoJnMSK0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2040068165770805248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_HMCJaAAAi3lb.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040068165770805248"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040068177636589746",
+        "created_at": "2026-04-03T14:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040068177636589746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PIYoJnMSK0",
+              "end": 31,
+              "expanded_url": "https://x.com/LiuSuK7777/status/2040068177636589746/photo/1",
+              "media_key": "3_2040068165770805248",
+              "start": 8,
+              "url": "https://t.co/PIYoJnMSK0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040068177636589746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每日一把花园狙 https://t.co/PIYoJnMSK0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 08年~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n对象@zyh842159145\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 38,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2032828973374386365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030299474501971969/jf72wAsr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3182,
+          "following_count": 2727,
+          "like_count": 35210,
+          "listed_count": 15,
+          "media_count": 1648,
+          "tweet_count": 34684
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      }
+    ]
+  }
+}

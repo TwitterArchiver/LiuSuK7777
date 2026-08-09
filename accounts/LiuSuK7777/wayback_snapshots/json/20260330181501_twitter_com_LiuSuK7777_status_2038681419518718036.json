@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2038303214697923038",
+    "created_at": "2026-03-30T18:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T19:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038681419518718036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1962001145318260736",
+          "start": 0,
+          "username": "koyorin913"
+        },
+        {
+          "end": 24,
+          "id": "1944397601354465280",
+          "start": 12,
+          "username": "AzusaBA0713"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038681419518718036",
+    "in_reply_to_user_id": "1962001145318260736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038645868321260000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koyorin913 @AzusaBA0713 回关了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2038303214697923038",
+        "created_at": "2026-03-30T18:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T19:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038681419518718036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962001145318260736",
+              "start": 0,
+              "username": "koyorin913"
+            },
+            {
+              "end": 24,
+              "id": "1944397601354465280",
+              "start": 12,
+              "username": "AzusaBA0713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038681419518718036",
+        "in_reply_to_user_id": "1962001145318260736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038645868321260000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koyorin913 @AzusaBA0713 回关了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962001145318260736",
+        "conversation_id": "2038303214697923038",
+        "created_at": "2026-03-30T15:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T16:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038645868321260000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            },
+            {
+              "end": 24,
+              "id": "1944397601354465280",
+              "start": 12,
+              "username": "AzusaBA0713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038645868321260000",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038602025131495436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 @AzusaBA0713 老师我关注你!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 08年~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n对象@zyh842159145\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 38,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2032828973374386365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030299474501971969/jf72wAsr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3128,
+          "following_count": 2725,
+          "like_count": 35211,
+          "listed_count": 15,
+          "media_count": 1643,
+          "tweet_count": 34634
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T03:55:52.000Z",
+        "description": "我的王子在哪里呢",
+        "id": "1962001145318260736",
+        "name": "澄澄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962001367884857344/Wisd_qmb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 11,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "koyorin913",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T14:05:32.000Z",
+        "description": "一只喜欢吃糖🍥の小孩纸˃ ˄ ˂̥̥/已炸柜/家长不管/INFP-T/生产日期2010/7/13/1.65m/mtf/hrt/中度抑郁/需陪伴/向自由💫/是只小烧0的乖乖~/同类交友/纯馋人不卖💦\n最爱の笨宝宝:@XueFu13456\n供糖糖の猫猫:@chintu7024\n呆呆瓜星羽:@seiuki070327",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 106,
+                "username": "XueFu13456"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "chintu7024"
+              },
+              {
+                "end": 156,
+                "start": 143,
+                "username": "seiuki070327"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AzusaBA0713",
+                "end": 23,
+                "expanded_url": "http://t.me/AzusaBA0713",
+                "start": 0,
+                "url": "https://t.co/bbrOTQXtfz"
+              }
+            ]
+          }
+        },
+        "id": "1944397601354465280",
+        "location": "坐在守月的大金金上~",
+        "name": "木辛伊(梓星星)🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2001140478084001950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025633832578527232/2N5IP2UI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 1457,
+          "like_count": 965,
+          "listed_count": 4,
+          "media_count": 118,
+          "tweet_count": 275
+        },
+        "url": "https://t.co/bbrOTQXtfz",
+        "username": "AzusaBA0713",
+        "verified": false
+      }
+    ]
+  }
+}

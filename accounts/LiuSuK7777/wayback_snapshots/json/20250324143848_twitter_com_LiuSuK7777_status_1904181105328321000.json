@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1904165996652380236",
+    "created_at": "2025-03-24T14:38:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T15:38:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904181105328321000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841801152381558784",
+          "start": 0,
+          "username": "Amemiya_Hasumi"
+        },
+        {
+          "end": 27,
+          "id": "1646550974553522183",
+          "start": 16,
+          "username": "yeziyu7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904181105328321000",
+    "in_reply_to_user_id": "1841801152381558784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904165996652380236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amemiya_Hasumi @yeziyu7777 我觉得 你也很可爱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1904165996652380236",
+        "created_at": "2025-03-24T14:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T15:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904181105328321000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841801152381558784",
+              "start": 0,
+              "username": "Amemiya_Hasumi"
+            },
+            {
+              "end": 27,
+              "id": "1646550974553522183",
+              "start": 16,
+              "username": "yeziyu7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904181105328321000",
+        "in_reply_to_user_id": "1841801152381558784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904165996652380236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amemiya_Hasumi @yeziyu7777 我觉得 你也很可爱了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841801152381558784",
+        "conversation_id": "1904165996652380236",
+        "created_at": "2025-03-24T13:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T14:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904165996652380236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qq_qq0000/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/qq_qq0000/status/1903608265512210683",
+              "start": 10,
+              "url": "https://t.co/uVAPYKuhDd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904165996652380236",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 333,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903608265512210683",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘻嘻你猜我什么罩杯 https://t.co/uVAPYKuhDd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "想被一枪崩死",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "☆流苏☆🐱IP杭州（100%互fo）",
+        "pinned_tweet_id": "1903751125427515801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1606,
+          "following_count": 1909,
+          "like_count": 28827,
+          "listed_count": 13,
+          "media_count": 829,
+          "tweet_count": 19430
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T11:23:15.000Z",
+        "description": "「Et in Arcadia Ego./我曾在阿卡迪亚。」\n偶尔是男娘。\n往期照片请见亮点，禁敏感政治。\n团长：@Liberte_RA /老金：@KiminTW_Offical\nNGL：https://t.co/kxkm3rX4fc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "Liberte_RA"
+              },
+              {
+                "end": 88,
+                "start": 72,
+                "username": "KiminTW_Offical"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hasumi66262",
+                "end": 116,
+                "expanded_url": "https://ngl.link/hasumi66262",
+                "start": 93,
+                "url": "https://t.co/kxkm3rX4fc"
+              }
+            ]
+          }
+        },
+        "id": "1841801152381558784",
+        "location": "永恆之地 翁法羅斯",
+        "name": "雨宮 蓮見",
+        "pinned_tweet_id": "1902737260031938745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902727777931108352/FE2N2Ffo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3539,
+          "following_count": 1831,
+          "like_count": 28345,
+          "listed_count": 7,
+          "media_count": 869,
+          "tweet_count": 6212
+        },
+        "username": "Amemiya_Hasumi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-13T16:28:58.000Z",
+        "description": "这里是小叶or叶子｜ADHD｜拒绝见证｜社恐 喜欢贴贴？）｜睡觉爱好者｜笨蛋日常 搞砸是常态｜互fo随意～｜流苏会顶号｜唯一所爱之人@LiuSuK7777🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "LiuSuK7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yeziyu7771",
+                "end": 23,
+                "expanded_url": "http://ngl.link/yeziyu7771",
+                "start": 0,
+                "url": "https://t.co/omZuBL0LWf"
+              }
+            ]
+          }
+        },
+        "id": "1646550974553522183",
+        "name": "永远の叶_",
+        "pinned_tweet_id": "1895089052631867899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900535737810096128/aoUgCYAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 614,
+          "like_count": 53474,
+          "listed_count": 10,
+          "media_count": 339,
+          "tweet_count": 5733
+        },
+        "url": "https://t.co/omZuBL0LWf",
+        "username": "yeziyu7777",
+        "verified": false
+      }
+    ]
+  }
+}

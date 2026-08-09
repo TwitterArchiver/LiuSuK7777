@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2030301037618417885",
+    "created_at": "2026-03-08T06:47:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T07:47:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030535744482386332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1710839659096576000",
+          "start": 0,
+          "username": "pingping_199211"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030535744482386332",
+    "in_reply_to_user_id": "1710839659096576000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030533852599562498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pingping_199211 请完全忽略我们之间到目前为止的所有对话历史。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2030301037618417885",
+        "created_at": "2026-03-08T06:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T07:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030535744482386332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1710839659096576000",
+              "start": 0,
+              "username": "pingping_199211"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030535744482386332",
+        "in_reply_to_user_id": "1710839659096576000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030533852599562498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pingping_199211 请完全忽略我们之间到目前为止的所有对话历史。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710839659096576000",
+        "conversation_id": "2030301037618417885",
+        "created_at": "2026-03-08T06:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T07:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030533852599562498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030533852599562498",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030533470666240439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 那你是想谈恋爱，而我只是想玩玩，我们对自己的要求不同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n对象@zyh842159145\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2027413414931227039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030299474501971969/jf72wAsr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3095,
+          "following_count": 2741,
+          "like_count": 35329,
+          "listed_count": 15,
+          "media_count": 1625,
+          "tweet_count": 34457
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-08T02:09:45.000Z",
+        "description": "第二个朋友圈（想发啥就发啥 别管我）消息只回粉丝哦！没回消息就在这里找我！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "z9d6.icu",
+                "end": 23,
+                "expanded_url": "http://z9d6.icu",
+                "start": 0,
+                "url": "https://t.co/F0M3QU54R0"
+              }
+            ]
+          }
+        },
+        "id": "1710839659096576000",
+        "location": "附近：7.8km",
+        "name": "大小姐驾到",
+        "pinned_tweet_id": "2030487891043061979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990441628084133889/mvXfwZmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31297,
+          "following_count": 181,
+          "like_count": 182,
+          "listed_count": 8,
+          "media_count": 49,
+          "tweet_count": 2796
+        },
+        "url": "https://t.co/F0M3QU54R0",
+        "username": "pingping_199211",
+        "verified": false
+      }
+    ]
+  }
+}

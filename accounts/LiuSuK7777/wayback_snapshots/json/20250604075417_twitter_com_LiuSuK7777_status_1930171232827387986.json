@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930171225181171714"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1930095547559342359",
+    "created_at": "2025-06-04T07:54:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T08:54:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930171232827387986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1688385343580680192",
+          "start": 0,
+          "username": "heiwawomamore"
+        },
+        {
+          "end": 24,
+          "id": "1840055457756610560",
+          "start": 15,
+          "username": "hood8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HszB42Ulc0",
+          "end": 48,
+          "expanded_url": "https://x.com/LiuSuK7777/status/1930171232827387986/photo/1",
+          "media_key": "3_1930171225181171714",
+          "start": 25,
+          "url": "https://t.co/HszB42Ulc0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930171232827387986",
+    "in_reply_to_user_id": "1688385343580680192",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930167783238840550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heiwawomamore @hood8964 https://t.co/HszB42Ulc0"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1930167783238840550].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1930167783238840550",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1930167783238840550"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1310,
+        "media_key": "3_1930171225181171714",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GslYgLiasAIUIPG.jpg",
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930171225181171714"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1930095547559342359",
+        "created_at": "2025-06-04T07:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T08:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930171232827387986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1688385343580680192",
+              "start": 0,
+              "username": "heiwawomamore"
+            },
+            {
+              "end": 24,
+              "id": "1840055457756610560",
+              "start": 15,
+              "username": "hood8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HszB42Ulc0",
+              "end": 48,
+              "expanded_url": "https://x.com/LiuSuK7777/status/1930171232827387986/photo/1",
+              "media_key": "3_1930171225181171714",
+              "start": 25,
+              "url": "https://t.co/HszB42Ulc0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930171232827387986",
+        "in_reply_to_user_id": "1688385343580680192",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930167783238840550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heiwawomamore @hood8964 https://t.co/HszB42Ulc0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏，Arcaea/明日方舟/舞萌DX/火影忍者，线上淫乱线下社恐，健全B无心理疾病，经常搞砸让所有人都不开心，生日2008.02.29 |唯一的主人@yeziyu7777/对象@zyh1428202 小号@Loveyezi8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1928493663765803223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2105,
+          "following_count": 2379,
+          "like_count": 34045,
+          "listed_count": 11,
+          "media_count": 1093,
+          "tweet_count": 25833
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:03:51.000Z",
+        "description": "泛左派(或許）MtX🍥  🐈\n\n發發生活和一些奇怪的想\n \n主要喜歡胃弱久石讓坂本龍一的音樂 常聽朮曲 歷史政治相關歌曲 左翼歌曲 日語英語歌曲 純音樂 交響樂 民歌 老歌 ACG音樂和其他平均律的音樂 歡迎給我推歌？\n\nima ingenting more alles\n \n願你們平安順遂幸福快樂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/heiwawomamore",
+                "end": 23,
+                "expanded_url": "https://ngl.link/heiwawomamore",
+                "start": 0,
+                "url": "https://t.co/NkYsnsHUO7"
+              }
+            ]
+          }
+        },
+        "id": "1688385343580680192",
+        "location": "Singin' In The Rain",
+        "name": "末裏せい/まつり清(前 平和を守れ)🐈",
+        "pinned_tweet_id": "1924790212334678433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930029743593926659/Tgzg4fKP_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1412,
+          "following_count": 2186,
+          "like_count": 117269,
+          "listed_count": 10,
+          "media_count": 1469,
+          "tweet_count": 61701
+        },
+        "url": "https://t.co/NkYsnsHUO7",
+        "username": "heiwawomamore",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T15:46:52.000Z",
+        "description": "@SLhttpssri26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "SLhttpssri26"
+              }
+            ]
+          }
+        },
+        "id": "1840055457756610560",
+        "name": "46亿年的紅移与紅移驭者",
+        "pinned_tweet_id": "1917169464879046853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929236299254218752/K-3A2ITu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 1517,
+          "like_count": 54781,
+          "listed_count": 5,
+          "media_count": 712,
+          "tweet_count": 12917
+        },
+        "username": "hood8964",
+        "verified": false
+      }
+    ]
+  }
+}

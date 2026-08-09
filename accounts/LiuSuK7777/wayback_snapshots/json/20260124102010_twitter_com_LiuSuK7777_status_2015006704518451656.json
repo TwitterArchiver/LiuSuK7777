@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2014612550139400192",
+    "created_at": "2026-01-24T10:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T11:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015006704518451656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1813191847264854019",
+          "start": 0,
+          "username": "hhngki7292924"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015006704518451656",
+    "in_reply_to_user_id": "1813191847264854019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014731245104857476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhngki7292924 主播没有配合所以我都是自己一个人猛攻的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2014612550139400192",
+        "created_at": "2026-01-24T10:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T11:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015006704518451656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1813191847264854019",
+              "start": 0,
+              "username": "hhngki7292924"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015006704518451656",
+        "in_reply_to_user_id": "1813191847264854019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014731245104857476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhngki7292924 主播没有配合所以我都是自己一个人猛攻的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813191847264854019",
+        "conversation_id": "2014612550139400192",
+        "created_at": "2026-01-23T16:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T17:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014731245104857476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014731245104857476",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014612550139400192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 主播可以一起玩嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "1995540883278889351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013512258702258176/JqziB8tV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2945,
+          "following_count": 2759,
+          "like_count": 35492,
+          "listed_count": 14,
+          "media_count": 1583,
+          "tweet_count": 34085
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T12:40:39.000Z",
+        "description": "先活着吧，剩下的我再想办法。。。（od已戒）对37很好很好的妈咪@qingshixiang258\n同学（存疑）@i_ATRI_\n一个不正常又在推特上很常见的人（月计人）（不再期待什么的白日梦族）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "qingshixiang258"
+              },
+              {
+                "end": 63,
+                "start": 55,
+                "username": "i_ATRI_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hhngki7262624",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hhngki7262624",
+                "start": 0,
+                "url": "https://t.co/eTZfSf6M4U"
+              }
+            ]
+          }
+        },
+        "id": "1813191847264854019",
+        "location": "圣洛夫基金会",
+        "name": "37（😇）",
+        "pinned_tweet_id": "1975070210504958054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005291645844262912/OP1YmrpN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 1230,
+          "like_count": 2786,
+          "listed_count": 6,
+          "media_count": 493,
+          "tweet_count": 5999
+        },
+        "url": "https://t.co/eTZfSf6M4U",
+        "username": "hhngki7292924",
+        "verified": false
+      }
+    ]
+  }
+}

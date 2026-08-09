@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2027452927963762744",
+    "created_at": "2026-02-27T22:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T23:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027516743137312947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870581423754600448",
+          "start": 0,
+          "username": "HuiShi18349"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027516743137312947",
+    "in_reply_to_user_id": "1870581423754600448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027499262549102764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuiShi18349 你不是给钱了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2027452927963762744",
+        "created_at": "2026-02-27T22:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T23:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027516743137312947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870581423754600448",
+              "start": 0,
+              "username": "HuiShi18349"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027516743137312947",
+        "in_reply_to_user_id": "1870581423754600448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027499262549102764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuiShi18349 你不是给钱了）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870581423754600448",
+        "conversation_id": "2027452927963762744",
+        "created_at": "2026-02-27T21:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T22:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027499262549102764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027499262549102764",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027452927963762744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 你自己不要的）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n老公@zyh842159145\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2027413414931227039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022579402232729603/sIzOPs42_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3088,
+          "following_count": 2746,
+          "like_count": 35341,
+          "listed_count": 15,
+          "media_count": 1616,
+          "tweet_count": 34348
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T21:25:58.000Z",
+        "description": "喜欢可爱的东西~无特殊情况不加一切墙内联系方式",
+        "id": "1870581423754600448",
+        "name": "还是会想你",
+        "pinned_tweet_id": "1885929606454403357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870581591430311936/JbuxnFLr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 230,
+          "like_count": 1028,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 232
+        },
+        "username": "HuiShi18349",
+        "verified": false
+      }
+    ]
+  }
+}

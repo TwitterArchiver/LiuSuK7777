@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1932000192322240682",
+    "created_at": "2025-06-09T13:51:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T14:51:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932073064667533727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1762820280035250176",
+          "start": 0,
+          "username": "Ocelot8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932073064667533727",
+    "in_reply_to_user_id": "1762820280035250176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 7,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932011847974281392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ocelot8964 没办法了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1932000192322240682",
+        "created_at": "2025-06-09T13:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T14:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932073064667533727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1762820280035250176",
+              "start": 0,
+              "username": "Ocelot8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932073064667533727",
+        "in_reply_to_user_id": "1762820280035250176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932011847974281392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ocelot8964 没办法了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762820280035250176",
+        "conversation_id": "1932000192322240682",
+        "created_at": "2025-06-09T09:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T10:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932011847974281392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932011847974281392",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932000192322240682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 😧加油"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏，Arcaea/明日方舟/舞萌DX/火影忍者，线上淫乱线下社恐，健全B无心理疾病，经常搞砸让所有人都不开心，生日2008.02.29 |唯一的主人@yeziyu7777/对象@zyh1428202 小号@Loveyezi8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1931302860630688172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2126,
+          "following_count": 2397,
+          "like_count": 34140,
+          "listed_count": 11,
+          "media_count": 1104,
+          "tweet_count": 26070
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-28T12:41:36.000Z",
+        "description": "Chinese🇨🇳(掌握)&English🇺🇸(competent)&German🇩🇪(Anfänger)｜libertarian｜He died to make men holy, let us die to make men free!｜请关注@lifa_Petter @PHIphi_idkwhoUR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 124,
+                "username": "lifa_Petter"
+              },
+              {
+                "end": 153,
+                "start": 137,
+                "username": "PHIphi_idkwhoUR"
+              }
+            ]
+          }
+        },
+        "id": "1762820280035250176",
+        "location": "IP地址：梁家河",
+        "name": "豹猫 Ocelot 🇺🇸",
+        "pinned_tweet_id": "1930906883130544214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818947910509240320/vVBphImo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 568,
+          "like_count": 12720,
+          "listed_count": 2,
+          "media_count": 289,
+          "tweet_count": 6027
+        },
+        "username": "Ocelot8964",
+        "verified": false
+      }
+    ]
+  }
+}

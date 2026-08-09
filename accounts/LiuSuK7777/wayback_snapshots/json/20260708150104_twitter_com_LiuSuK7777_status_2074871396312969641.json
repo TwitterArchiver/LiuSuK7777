@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2057593706514092449",
+    "created_at": "2026-07-08T15:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T16:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074871396312969641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1764297587404972032",
+          "start": 0,
+          "username": "Genoooeeoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074871396312969641",
+    "in_reply_to_user_id": "1764297587404972032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057593706514092449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Genoooeeoo 音游人！抓住！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1943,
+        "media_key": "3_2057593658938146816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI4Kh_0awAANSTA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2057593706514092449",
+        "created_at": "2026-07-08T15:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074871396312969641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1764297587404972032",
+              "start": 0,
+              "username": "Genoooeeoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074871396312969641",
+        "in_reply_to_user_id": "1764297587404972032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057593706514092449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Genoooeeoo 音游人！抓住！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057593658938146816"
+          ]
+        },
+        "author_id": "1764297587404972032",
+        "conversation_id": "2057593706514092449",
+        "created_at": "2026-05-21T22:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T23:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057593706514092449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mkprX8ummc",
+              "end": 82,
+              "expanded_url": "https://x.com/Genoooeeoo/status/2057593706514092449/photo/1",
+              "media_key": "3_2057593658938146816",
+              "start": 59,
+              "url": "https://t.co/mkprX8ummc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057593706514092449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 384,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尝试做了个自介条，欢迎互fo\n临发推想了想还是糊掉了qq二维码，墙内联系方式还是保守一点加吧，可以推多跟我聊一会再加 https://t.co/mkprX8ummc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 杭州 08年 舞萌/东方/Arcaea/明日方舟/三角洲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2068533981818290551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060157452931465216/9MujmSVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3573,
+          "following_count": 2741,
+          "like_count": 34260,
+          "listed_count": 14,
+          "media_count": 1694,
+          "tweet_count": 35211
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T14:31:50.000Z",
+        "description": "音游重度依赖，主要玩Arcaea和Chunithm\n不开心了欢迎来找我聊天（不过我高中在读一般只在晚上凌晨出没）",
+        "id": "1764297587404972032",
+        "location": "Gray Heaven",
+        "name": "Geno",
+        "pinned_tweet_id": "2057593706514092449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065066930097287168/vJxc7J76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 612,
+          "like_count": 7131,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 242
+        },
+        "url": "",
+        "username": "Genoooeeoo",
+        "verified": false
+      }
+    ]
+  }
+}

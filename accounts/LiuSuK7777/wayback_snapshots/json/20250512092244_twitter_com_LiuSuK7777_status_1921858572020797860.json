@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1921857475223142441",
+    "created_at": "2025-05-12T09:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T10:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921858572020797860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1243945571796295681",
+          "start": 0,
+          "username": "ryq59"
+        },
+        {
+          "end": 15,
+          "id": "1835753359015624704",
+          "start": 7,
+          "username": "aoi_mti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921858572020797860",
+    "in_reply_to_user_id": "1243945571796295681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921857475223142441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ryq59 @aoi_mti 牢石你怎么还那么坏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 552,
+        "media_key": "3_1921857463705587712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqvPLkka0AAMPU_.jpg",
+        "width": 1950
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1921857475223142441",
+        "created_at": "2025-05-12T09:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T10:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921858572020797860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1243945571796295681",
+              "start": 0,
+              "username": "ryq59"
+            },
+            {
+              "end": 15,
+              "id": "1835753359015624704",
+              "start": 7,
+              "username": "aoi_mti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921858572020797860",
+        "in_reply_to_user_id": "1243945571796295681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921857475223142441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ryq59 @aoi_mti 牢石你怎么还那么坏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921857463705587712"
+          ]
+        },
+        "author_id": "1243945571796295681",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Health, mind and body",
+              "id": "859532297376219136",
+              "name": "Health & wellness books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Health, mind and body",
+              "id": "859532297376219136",
+              "name": "Health & wellness books"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1921857475223142441",
+        "created_at": "2025-05-12T09:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T10:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921857475223142441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 149,
+              "id": "1835753359015624704",
+              "start": 141,
+              "username": "aoi_mti"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kwD57OBST9",
+              "end": 173,
+              "expanded_url": "https://x.com/ryq59/status/1921857475223142441/photo/1",
+              "media_key": "3_1921857463705587712",
+              "start": 150,
+              "url": "https://t.co/kwD57OBST9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921857475223142441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 140,
+                "id": "1835753359015624704",
+                "start": 132,
+                "username": "aoi_mti"
+              },
+              {
+                "end": 181,
+                "id": "1835753359015624704",
+                "start": 173,
+                "username": "aoi_mti"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 273,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 250,
+                "url": "https://t.co/vL9QVAaVSM"
+              }
+            ]
+          },
+          "text": "情况通报以及本账号后续更新安排\n\n> 关于健康状况\n在今天下午复习时，突然出现胸闷，心率升高，身体麻木和短时昏迷的情况\n目前已经批获病假，并被建议前往医院进行更进一步的排查\n\n> 关于本账号的后续更新\n除梗图以及本人的身体状况通报外，不再进行任何更新\n\n> 关于 @aoi_mti 的具体事项问题，权利维护工作，及其他任何想要知道的细节\n经核实，@aoi_mti 发布与转发的部分内容并未经过本人授权，现已通过电话对其个人进行严厉批评教育\n\n如果您有任何其他想了解的内容，可以通过0@759.dk或 https://t.co/vL9QVAaVSM 中公布的平台与本人进行联系\n\n以上"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "情况通报以及本账号后续更新安排\n\n&gt; 关于健康状况\n在今天下午复习时，突然出现胸闷，心率升高，身体麻木和短时昏迷的情况\n目前已经批获病假，并被建议前往医院进行更进一步的排查\n\n&gt; 关于本账号的后续更新\n除梗图以及本人的身体状况通报外，不再进行任何更新\n\n&gt; 关于 @aoi_mti https://t.co/kwD57OBST9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": " 🔪‌",
+        "name": "流苏",
+        "pinned_tweet_id": "1921196565060088153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2030,
+          "following_count": 2279,
+          "like_count": 32952,
+          "listed_count": 11,
+          "media_count": 1047,
+          "tweet_count": 24481
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "MTX 🏳️‍⚧️ / Think Different / @aoi_mti",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "aoi_mti"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "Tianjin, Hangzhou, Hong Kong ",
+        "name": "你是想气死铨酱么🍥",
+        "pinned_tweet_id": "1765934211918397447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920674697257381889/7MXMdhXk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17382,
+          "following_count": 4949,
+          "like_count": 181124,
+          "listed_count": 70,
+          "media_count": 5305,
+          "tweet_count": 23376
+        },
+        "username": "ryq59",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-16T18:51:28.000Z",
+        "description": "tutor / hsr, zzz, maimai, arcaea / another me @aoimti02 / an officer / @ryq59",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "aoimti02"
+              },
+              {
+                "end": 77,
+                "start": 71,
+                "username": "ryq59"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "msmaoi.link",
+                "end": 23,
+                "expanded_url": "https://msmaoi.link",
+                "start": 0,
+                "url": "https://t.co/x62gJuJwi9"
+              }
+            ]
+          }
+        },
+        "id": "1835753359015624704",
+        "location": "WNZ HGH ZJ & SH CHN",
+        "name": "Aoi M - T.I.",
+        "pinned_tweet_id": "1915194181427048710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919211686529323008/8Z0xs56f_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 1098,
+          "like_count": 30814,
+          "listed_count": 6,
+          "media_count": 1433,
+          "tweet_count": 5896
+        },
+        "url": "https://t.co/x62gJuJwi9",
+        "username": "aoi_mti",
+        "verified": true
+      }
+    ]
+  }
+}

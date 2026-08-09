@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1939501768255381687",
+    "created_at": "2025-06-30T01:56:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T02:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939503275243667760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1081598077897793537",
+          "start": 0,
+          "username": "ny3a_is_a_cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939503275243667760",
+    "in_reply_to_user_id": "1081598077897793537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939503218410836058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ny3a_is_a_cat 看什么"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1939503218410836058].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1939503218410836058",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1939503218410836058"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1939501768255381687",
+        "created_at": "2025-06-30T01:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T02:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939503275243667760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1081598077897793537",
+              "start": 0,
+              "username": "ny3a_is_a_cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939503275243667760",
+        "in_reply_to_user_id": "1081598077897793537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939503218410836058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ny3a_is_a_cat 看什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男|Arcaea|明日方舟|舞萌DX|火影忍者|社恐健全B|2008.02.29 |主人@yeziyu7777对象@zyh1428202小号@Loveyezi8964\n微信用户名同推特用户名",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1936314364468105461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2235,
+          "following_count": 2491,
+          "like_count": 34470,
+          "listed_count": 10,
+          "media_count": 1165,
+          "tweet_count": 27164
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-05T17:07:31.000Z",
+        "description": "是三喵｜she/they/cat ｜梦想成为全沾开发｜世界上第一可爱的猪咪 @Luchan_Moeri｜妹妹 @0xSorrowRain｜里世界 @sannya_meow｜Replying bot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 38,
+                "username": "Luchan_Moeri"
+              },
+              {
+                "end": 68,
+                "start": 55,
+                "username": "0xSorrowRain"
+              },
+              {
+                "end": 85,
+                "start": 73,
+                "username": "sannya_meow"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ny3a.com",
+                "end": 23,
+                "expanded_url": "https://ny3a.com",
+                "start": 0,
+                "url": "https://t.co/5BWXKbvz4y"
+              }
+            ]
+          }
+        },
+        "id": "1081598077897793537",
+        "location": "Neko Planet",
+        "name": "☘️🐈",
+        "pinned_tweet_id": "1847457034616340890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936211406904315904/AV5izL7u_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2725,
+          "following_count": 1001,
+          "like_count": 7973,
+          "listed_count": 7,
+          "media_count": 1242,
+          "tweet_count": 7633
+        },
+        "url": "https://t.co/5BWXKbvz4y",
+        "username": "ny3a_is_a_cat",
+        "verified": false
+      }
+    ]
+  }
+}

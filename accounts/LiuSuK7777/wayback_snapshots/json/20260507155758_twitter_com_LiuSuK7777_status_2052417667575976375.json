@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2052079056141844866",
+    "created_at": "2026-05-07T15:57:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T16:57:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052417667575976375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1803409204335747075",
+          "start": 0,
+          "username": "Avanti_Ardice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052417667575976375",
+    "in_reply_to_user_id": "1803409204335747075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052337723860721940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Avanti_Ardice 所以我应该穿黑丝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2052079056141844866",
+        "created_at": "2026-05-07T15:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052417667575976375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1803409204335747075",
+              "start": 0,
+              "username": "Avanti_Ardice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052417667575976375",
+        "in_reply_to_user_id": "1803409204335747075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052337723860721940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Avanti_Ardice 所以我应该穿黑丝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803409204335747075",
+        "conversation_id": "2052079056141844866",
+        "created_at": "2026-05-07T10:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052337723860721940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052337723860721940",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 437,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052079056141844866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 其实最早的黑丝白丝都是为男人设计的，而且古代也并非没有男娘，所以其实绝大多数coser都只是在回归古典罢了，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 08年~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n我喜欢你♡@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2032828973374386365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030299474501971969/jf72wAsr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3405,
+          "following_count": 2714,
+          "like_count": 34485,
+          "listed_count": 14,
+          "media_count": 1659,
+          "tweet_count": 34856
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T12:47:30.000Z",
+        "description": "神爱世人，甚至将他的独生子赐给他们，叫一切信他的，不至灭亡，反得永生。",
+        "id": "1803409204335747075",
+        "name": "Owlet Ardice✝",
+        "pinned_tweet_id": "1998319203909046559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872622023714979840/E3_z9a6C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 17,
+          "like_count": 4796,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 509
+        },
+        "username": "Avanti_Ardice",
+        "verified": false
+      }
+    ]
+  }
+}

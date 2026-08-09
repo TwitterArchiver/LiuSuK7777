@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1921570932520313139",
+    "created_at": "2025-05-11T15:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T16:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921594565636636708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1885436187046817792",
+          "start": 0,
+          "username": "CrimSeraph_QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921594565636636708",
+    "in_reply_to_user_id": "1885436187046817792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921594284031062174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CrimSeraph_QwQ 说的很对 但是好像说的显而易见"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1921570932520313139",
+        "created_at": "2025-05-11T15:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T16:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921594565636636708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1885436187046817792",
+              "start": 0,
+              "username": "CrimSeraph_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921594565636636708",
+        "in_reply_to_user_id": "1885436187046817792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921594284031062174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CrimSeraph_QwQ 说的很对 但是好像说的显而易见"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885436187046817792",
+        "conversation_id": "1921570932520313139",
+        "created_at": "2025-05-11T15:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T16:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921594284031062174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921594284031062174",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921570932520313139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 看比例、颜色\n其次就是服装、挂饰等"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": " 🔪‌",
+        "name": "流苏",
+        "pinned_tweet_id": "1921510669087641622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2027,
+          "following_count": 2281,
+          "like_count": 32896,
+          "listed_count": 11,
+          "media_count": 1044,
+          "tweet_count": 24432
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T21:13:44.000Z",
+        "description": "INTJ-T/not good at English/信仰钱💴/热爱二次元的私宅(特别是Miku🥰)/我只是在阴暗地盯着所有人👀/有任何事可✉️/广告一律ban了😾/阴暗丑陋的哥布林想要成为吸血鬼👿/想要创造新世界💻",
+        "id": "1885436187046817792",
+        "location": "Between Hell and Heaven",
+        "name": "𝒞𝓇𝒾𝓂𝓈𝑜𝓃𝒮𝑒𝓇𝒶𝓅𝒽✟升天✟",
+        "pinned_tweet_id": "1908293344473858145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901284911602073600/hPLri5uN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 133,
+          "like_count": 9746,
+          "listed_count": 2,
+          "media_count": 409,
+          "tweet_count": 5296
+        },
+        "username": "CrimSeraph_QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

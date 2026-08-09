@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1979065833130463581",
+    "created_at": "2025-10-17T08:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T09:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979110126112882904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "786903427808829440",
+          "start": 0,
+          "username": "wing4120161014"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979110126112882904",
+    "in_reply_to_user_id": "786903427808829440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979105911349350673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wing4120161014 不是笨蛋！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1979065833130463581",
+        "created_at": "2025-10-17T08:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T09:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979110126112882904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "786903427808829440",
+              "start": 0,
+              "username": "wing4120161014"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979110126112882904",
+        "in_reply_to_user_id": "786903427808829440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979105911349350673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wing4120161014 不是笨蛋！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "786903427808829440",
+        "conversation_id": "1979065833130463581",
+        "created_at": "2025-10-17T08:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T09:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979105911349350673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979105911349350673",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979065833130463581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 地铁坐反的笨蛋吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分基本上是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！\n主人♡@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb700j"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "K",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976703554758098945/2sn3KBuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2783,
+          "following_count": 2673,
+          "like_count": 35504,
+          "listed_count": 14,
+          "media_count": 1441,
+          "tweet_count": 31319
+        },
+        "url": "https://t.co/2xm6Tb700j",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-14T12:16:11.000Z",
+        "description": "",
+        "id": "786903427808829440",
+        "name": "wing",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 394,
+          "like_count": 3331,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 527
+        },
+        "username": "wing4120161014",
+        "verified": false
+      }
+    ]
+  }
+}

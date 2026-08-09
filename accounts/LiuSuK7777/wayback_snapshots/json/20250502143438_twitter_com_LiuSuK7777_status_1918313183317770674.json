@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1917779067346247905",
+    "created_at": "2025-05-02T14:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T15:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918313183317770674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1650526628223778819",
+          "start": 0,
+          "username": "dddddecade56721"
+        },
+        {
+          "end": 25,
+          "id": "1433678976564662273",
+          "start": 17,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918313183317770674",
+    "in_reply_to_user_id": "1650526628223778819",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918297260376613263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dddddecade56721 @hsn8086 和朋友玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1917779067346247905",
+        "created_at": "2025-05-02T14:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T15:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918313183317770674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1650526628223778819",
+              "start": 0,
+              "username": "dddddecade56721"
+            },
+            {
+              "end": 25,
+              "id": "1433678976564662273",
+              "start": 17,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918313183317770674",
+        "in_reply_to_user_id": "1650526628223778819",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918297260376613263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dddddecade56721 @hsn8086 和朋友玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650526628223778819",
+        "conversation_id": "1917779067346247905",
+        "created_at": "2025-05-02T13:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T14:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918297260376613263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            },
+            {
+              "end": 20,
+              "id": "1433678976564662273",
+              "start": 12,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918297260376613263",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917805999416828119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 @hsn8086 我去你还玩火影，不会更红温吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/好友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1940,
+          "following_count": 2190,
+          "like_count": 32154,
+          "listed_count": 12,
+          "media_count": 1001,
+          "tweet_count": 23785
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T15:46:38.000Z",
+        "description": "",
+        "id": "1650526628223778819",
+        "name": "画栋朝飞南浦云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689854143702372352/XBAZZi99_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 595,
+          "like_count": 49925,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 11486
+        },
+        "username": "dddddecade56721",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1909591657043144887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63621,
+          "following_count": 959,
+          "like_count": 39530,
+          "listed_count": 143,
+          "media_count": 10240,
+          "tweet_count": 16412
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

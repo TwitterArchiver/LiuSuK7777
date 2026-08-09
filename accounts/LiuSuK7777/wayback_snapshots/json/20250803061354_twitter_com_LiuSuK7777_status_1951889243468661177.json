@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1951772839474085896",
+    "created_at": "2025-08-03T06:13:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T07:13:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951889243468661177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1813191847264854019",
+          "start": 0,
+          "username": "hhngki7292924"
+        },
+        {
+          "end": 27,
+          "id": "1944413509401640960",
+          "start": 15,
+          "username": "Grinin_mark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951889243468661177",
+    "in_reply_to_user_id": "1813191847264854019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951888731323146502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhngki7292924 @Grinin_mark 你这家伙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1951772839474085896",
+        "created_at": "2025-08-03T06:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T07:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951889243468661177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1813191847264854019",
+              "start": 0,
+              "username": "hhngki7292924"
+            },
+            {
+              "end": 27,
+              "id": "1944413509401640960",
+              "start": 15,
+              "username": "Grinin_mark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951889243468661177",
+        "in_reply_to_user_id": "1813191847264854019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951888731323146502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhngki7292924 @Grinin_mark 你这家伙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813191847264854019",
+        "conversation_id": "1951772839474085896",
+        "created_at": "2025-08-03T06:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T07:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951888731323146502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944413509401640960",
+              "start": 0,
+              "username": "Grinin_mark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951888731323146502",
+        "in_reply_to_user_id": "1944413509401640960",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951772839474085896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Grinin_mark 😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男 | 御主/ダーリン@yeziyu7777 | 革命伴侣/契约者/運命の人@zyh1428202 | お姉ちゃん@ttkyyx03 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "ttkyyx03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "超高校级の無意識",
+        "pinned_tweet_id": "1949513211826377068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2508,
+          "following_count": 2644,
+          "like_count": 34941,
+          "listed_count": 10,
+          "media_count": 1267,
+          "tweet_count": 28838
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T12:40:39.000Z",
+        "description": "先活着吧，剩下的我再想办法。。。（戒od中。。。）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hhngki7262624",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hhngki7262624",
+                "start": 0,
+                "url": "https://t.co/eTZfSf6M4U"
+              }
+            ]
+          }
+        },
+        "id": "1813191847264854019",
+        "location": "圣洛夫基金会",
+        "name": "37（😇）",
+        "pinned_tweet_id": "1929572649232998508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936863842778161152/YL0tcI6E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 899,
+          "like_count": 2146,
+          "listed_count": 3,
+          "media_count": 316,
+          "tweet_count": 4233
+        },
+        "url": "https://t.co/eTZfSf6M4U",
+        "username": "hhngki7292924",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T15:08:18.000Z",
+        "description": "重度抖m|| 某年从炸柜党进化成家长党 || INFP-T || 168cm 55.5kg || 双相 精分 （不过精神稳态ing） || hrt2023.8.3 || 泛性恋 || 肌肤渴求 ||",
+        "id": "1944413509401640960",
+        "location": "江苏省 无锡",
+        "name": "Grin🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944413584714547200/OzEzaKbb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 87,
+          "like_count": 1426,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 141
+        },
+        "username": "Grinin_mark",
+        "verified": true
+      }
+    ]
+  }
+}

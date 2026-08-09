@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1921850521389814154",
+    "created_at": "2025-05-13T01:52:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T02:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922107698583134612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1891728370121179137",
+          "start": 0,
+          "username": "kyuusanngyou36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922107698583134612",
+    "in_reply_to_user_id": "1891728370121179137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922078721583763459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyuusanngyou36 我就是那么吃的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1921850521389814154",
+        "created_at": "2025-05-13T01:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T02:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922107698583134612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1891728370121179137",
+              "start": 0,
+              "username": "kyuusanngyou36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922107698583134612",
+        "in_reply_to_user_id": "1891728370121179137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922078721583763459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyuusanngyou36 我就是那么吃的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891728370121179137",
+        "conversation_id": "1921850521389814154",
+        "created_at": "2025-05-12T23:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T00:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922078721583763459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922078721583763459",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921850521389814154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 我懷疑你說的不是棒冰😳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": " 🔪‌",
+        "name": "流苏",
+        "pinned_tweet_id": "1921196565060088153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2031,
+          "following_count": 2278,
+          "like_count": 32993,
+          "listed_count": 11,
+          "media_count": 1048,
+          "tweet_count": 24512
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T05:56:21.000Z",
+        "description": "16y♂️|把推特當可以發瘋(發情)的地方☝️🤓|當男娘好像也不錯但我不是給😬|腦迴路異常還沒報修🤯|我只有167☹️|53公斤我很驕傲🙂|如果有私訊看到就會回(通常沒有🥲|努力存錢中😐|在這裡盡量不談政治👍|粉色魔爪擁護者💖|一日音游人終身吟遊詩人🎵|重生一次🖕😄🖕",
+        "id": "1891728370121179137",
+        "name": "宮三 曉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892148178037968896/F8j9L9K6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 743,
+          "like_count": 8264,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 1108
+        },
+        "username": "kyuusanngyou36",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1917077916418248754",
+    "created_at": "2025-04-29T06:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T07:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917108631704899866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1636232016231542784",
+          "start": 0,
+          "username": "SEuyrj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917108631704899866",
+    "in_reply_to_user_id": "1636232016231542784",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917077916418248754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SEuyrj 3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1917077912320450560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GprUNEKboAAhMeC.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1917077916418248754",
+        "created_at": "2025-04-29T06:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T07:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917108631704899866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1636232016231542784",
+              "start": 0,
+              "username": "SEuyrj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917108631704899866",
+        "in_reply_to_user_id": "1636232016231542784",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917077916418248754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SEuyrj 3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917077912320450560"
+          ]
+        },
+        "author_id": "1636232016231542784",
+        "conversation_id": "1917077916418248754",
+        "created_at": "2025-04-29T04:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T05:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917077916418248754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rCloGCsHzm",
+              "end": 30,
+              "expanded_url": "https://x.com/SEuyrj/status/1917077916418248754/photo/1",
+              "media_key": "3_1917077912320450560",
+              "start": 7,
+              "url": "https://t.co/rCloGCsHzm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917077916418248754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也要玩🥵🥵 https://t.co/rCloGCsHzm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1908,
+          "following_count": 2172,
+          "like_count": 31608,
+          "listed_count": 13,
+          "media_count": 966,
+          "tweet_count": 23294
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-16T05:04:59.000Z",
+        "description": "不鍵政喵🥺\n🤣👉⏰",
+        "id": "1636232016231542784",
+        "location": "唐辛子星",
+        "name": "人民的頻道🌸💗",
+        "pinned_tweet_id": "1916140395299217780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915751567829209088/fPNY1E_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 834,
+          "like_count": 6070,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 2022
+        },
+        "username": "SEuyrj",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1974068526689497219",
+    "created_at": "2025-10-03T11:09:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T12:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974069247115735405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1634535757410111489",
+          "start": 0,
+          "username": "woshi_caicai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974069247115735405",
+    "in_reply_to_user_id": "1634535757410111489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974069045843669478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woshi_caicai 我本来就不喜欢可乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1974068526689497219",
+        "created_at": "2025-10-03T11:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T12:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974069247115735405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634535757410111489",
+              "start": 0,
+              "username": "woshi_caicai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974069247115735405",
+        "in_reply_to_user_id": "1634535757410111489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974069045843669478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshi_caicai 我本来就不喜欢可乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634535757410111489",
+        "conversation_id": "1974068526689497219",
+        "created_at": "2025-10-03T11:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T12:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974069045843669478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974069045843669478",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974068526689497219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 这种可乐都没气喝的不爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "……\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969600938567745538/genz-feI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2676,
+          "following_count": 2650,
+          "like_count": 35400,
+          "listed_count": 15,
+          "media_count": 1407,
+          "tweet_count": 30788
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T12:44:37.000Z",
+        "description": "上學中/曾用名虹雨or菜菜",
+        "id": "1634535757410111489",
+        "name": "甜甜黄瓜菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973356133432827908/s4BBErJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 182,
+          "like_count": 9247,
+          "listed_count": 5,
+          "media_count": 131,
+          "tweet_count": 3328
+        },
+        "username": "woshi_caicai",
+        "verified": false
+      }
+    ]
+  }
+}

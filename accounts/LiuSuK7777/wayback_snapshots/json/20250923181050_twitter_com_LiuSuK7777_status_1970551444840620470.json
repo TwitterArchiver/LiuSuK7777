@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1970488246519099662",
+    "created_at": "2025-09-23T18:10:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T19:10:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970551444840620470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1936807629650841600",
+          "start": 0,
+          "username": "Yangyu396"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970551444840620470",
+    "in_reply_to_user_id": "1936807629650841600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970527013942534298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yangyu396 不睡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1970488246519099662",
+        "created_at": "2025-09-23T18:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T19:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970551444840620470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1936807629650841600",
+              "start": 0,
+              "username": "Yangyu396"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970551444840620470",
+        "in_reply_to_user_id": "1936807629650841600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970527013942534298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yangyu396 不睡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936807629650841600",
+        "conversation_id": "1970488246519099662",
+        "created_at": "2025-09-23T16:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T17:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970527013942534298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970527013942534298",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970488246519099662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 感觉在互联网上说错话很正常，有时就自己认为的和普遍理念不一样，可能就会被攻击，即使你是无意的，或没有表达清楚，下次多注意一点就好了；家人被骂也大多是互联网环境所致，很多时候网上的陌生人不会管你那么多，只要能发泄理念不符的情绪就行了，早些休息吧，下次就尽量不扯上性别这方面吧\n╯﹏╰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969600938567745538/genz-feI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2654,
+          "following_count": 2643,
+          "like_count": 35397,
+          "listed_count": 14,
+          "media_count": 1387,
+          "tweet_count": 30469
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T15:25:28.000Z",
+        "description": "Soar as a free Butterfly across the Sky",
+        "id": "1936807629650841600",
+        "name": "AzureSky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966865447036628992/gw2VUov__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 26,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 101
+        },
+        "username": "Yangyu396",
+        "verified": false
+      }
+    ]
+  }
+}

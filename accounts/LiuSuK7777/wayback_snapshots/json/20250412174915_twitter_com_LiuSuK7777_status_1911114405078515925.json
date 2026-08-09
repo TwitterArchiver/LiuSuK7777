@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1911106730899214842",
+    "created_at": "2025-04-12T17:49:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T18:49:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911114405078515925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1885436187046817792",
+          "start": 0,
+          "username": "CrimSeraph_QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911114405078515925",
+    "in_reply_to_user_id": "1885436187046817792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911113135987240986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CrimSeraph_QwQ 都可以 现在比以前好了能接受真人了\n以前纯二次元（其实二次元的我有网站 hiame什么的吧好像是"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1911113135987240986].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1911113135987240986",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1911113135987240986"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1911106730899214842",
+        "created_at": "2025-04-12T17:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T18:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911114405078515925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1885436187046817792",
+              "start": 0,
+              "username": "CrimSeraph_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911114405078515925",
+        "in_reply_to_user_id": "1885436187046817792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911113135987240986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CrimSeraph_QwQ 都可以 现在比以前好了能接受真人了\n以前纯二次元（其实二次元的我有网站 hiame什么的吧好像是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb700j"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1764,
+          "following_count": 2072,
+          "like_count": 30253,
+          "listed_count": 12,
+          "media_count": 885,
+          "tweet_count": 21966
+        },
+        "url": "https://t.co/2xm6Tb700j",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T21:13:44.000Z",
+        "description": "INTJ-T/not good at English/信仰钱💴/热爱二次元的私宅(特别是Miku🥰)/我只是在阴暗地盯着所有人👀/有任何事可✉️/广告一律ban了😾/阴暗丑陋的哥布林想要成为吸血鬼👿/想要创造新世界💻",
+        "id": "1885436187046817792",
+        "location": "Between Hell and Heaven",
+        "name": "CrimsonSeraph✟升天✟",
+        "pinned_tweet_id": "1908293344473858145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901284911602073600/hPLri5uN_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 104,
+          "like_count": 7080,
+          "listed_count": 2,
+          "media_count": 305,
+          "tweet_count": 3842
+        },
+        "username": "CrimSeraph_QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

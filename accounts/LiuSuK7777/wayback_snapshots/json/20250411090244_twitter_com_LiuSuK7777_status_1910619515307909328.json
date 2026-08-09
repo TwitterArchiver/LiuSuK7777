@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1910617496299987011",
+    "created_at": "2025-04-11T09:02:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T10:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910619515307909328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1735269154788143104",
+          "start": 0,
+          "username": "JiangSuwako817"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910619515307909328",
+    "in_reply_to_user_id": "1735269154788143104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910619385192210561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiangSuwako817 上完学回家了啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1910619385192210561].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1910619385192210561",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1910619385192210561"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1910617496299987011",
+        "created_at": "2025-04-11T09:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T10:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910619515307909328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1735269154788143104",
+              "start": 0,
+              "username": "JiangSuwako817"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910619515307909328",
+        "in_reply_to_user_id": "1735269154788143104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910619385192210561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiangSuwako817 上完学回家了啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏（我是叶子的狗）",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 2040,
+          "like_count": 30205,
+          "listed_count": 12,
+          "media_count": 880,
+          "tweet_count": 21822
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-14T12:03:10.000Z",
+        "description": "胡言乱语/暴论bot INTP-T\n叫我Takagi就好\n東方/五共/MyGO!!!/Hoi4/CK3/ウマ娘/Cosplay/\nchs/cht/eng\n苟利国家生死以，岂因祸福避趋之\n不怎么键政 算是生活推\nsteam：1250820150\n欢迎互fo喵\n随机发送Cos图\n酒鬼一个\n@MoriyaZemin1130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 143,
+                "username": "MoriyaZemin1130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiangsuwako817",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiangsuwako817",
+                "start": 0,
+                "url": "https://t.co/4EPAi2BI1E"
+              }
+            ]
+          }
+        },
+        "id": "1735269154788143104",
+        "location": "Pyongyang,DPRK",
+        "name": "江矢諏訪子",
+        "pinned_tweet_id": "1899584679067734517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898724106474020864/73JvDzd-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 852,
+          "like_count": 1375,
+          "listed_count": 2,
+          "media_count": 362,
+          "tweet_count": 4577
+        },
+        "url": "https://t.co/4EPAi2BI1E",
+        "username": "JiangSuwako817",
+        "verified": false
+      }
+    ]
+  }
+}

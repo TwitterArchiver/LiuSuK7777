@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1992103074060812355",
+    "created_at": "2025-11-23T10:05:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T11:05:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992535022763675861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1865419581206208512",
+          "start": 0,
+          "username": "DDzhanshou5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992535022763675861",
+    "in_reply_to_user_id": "1865419581206208512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992103074060812355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDzhanshou5150 这位高二男生都穿cos服了还能第一名那不是毋庸置疑的实力了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1992102813351268352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Ve9EHb0AApQlv.jpg",
+        "width": 1920
+      },
+      {
+        "height": 640,
+        "media_key": "3_1992102837107789824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Ve-cnbkAAu0-T.png",
+        "width": 678
+      },
+      {
+        "height": 677,
+        "media_key": "3_1992102909291716608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6VfCpha4AAytdk.png",
+        "width": 417
+      },
+      {
+        "height": 730,
+        "media_key": "3_1992102966359400448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6VfF-HaoAAYsAN.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1992103074060812355",
+        "created_at": "2025-11-23T10:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T11:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992535022763675861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1865419581206208512",
+              "start": 0,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992535022763675861",
+        "in_reply_to_user_id": "1865419581206208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992103074060812355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDzhanshou5150 这位高二男生都穿cos服了还能第一名那不是毋庸置疑的实力了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992102813351268352",
+            "3_1992102837107789824",
+            "3_1992102909291716608",
+            "3_1992102966359400448"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1992103074060812355",
+        "created_at": "2025-11-22T05:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T06:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992103074060812355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ffJDmPh2jc",
+              "end": 172,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1992103074060812355/photo/1",
+              "media_key": "3_1992102813351268352",
+              "start": 149,
+              "url": "https://t.co/ffJDmPh2jc"
+            },
+            {
+              "display_url": "pic.x.com/ffJDmPh2jc",
+              "end": 172,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1992103074060812355/photo/1",
+              "media_key": "3_1992102837107789824",
+              "start": 149,
+              "url": "https://t.co/ffJDmPh2jc"
+            },
+            {
+              "display_url": "pic.x.com/ffJDmPh2jc",
+              "end": 172,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1992103074060812355/photo/1",
+              "media_key": "3_1992102909291716608",
+              "start": 149,
+              "url": "https://t.co/ffJDmPh2jc"
+            },
+            {
+              "display_url": "pic.x.com/ffJDmPh2jc",
+              "end": 172,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1992103074060812355/photo/1",
+              "media_key": "3_1992102966359400448",
+              "start": 149,
+              "url": "https://t.co/ffJDmPh2jc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992103074060812355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 123543,
+          "like_count": 572,
+          "quote_count": 23,
+          "reply_count": 83,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "11月20日，福建省厦门市松柏中学举行运动会期间，一名高二男生身着cosplay服装参加1000米长跑并获得第一名。随后，学校以“奇装异服、影响校容校纪及有侮辱女性之嫌”为由，取消该生本次比赛成绩，同时取消其所在班级本年度精神文明班级评优资格。校方还在相关微信群内威胁学生不得将现场视频上传网络， https://t.co/ffJDmPh2jc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1988989827262599538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988989009578848258/x7UX0Rgc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2802,
+          "following_count": 2677,
+          "like_count": 35383,
+          "listed_count": 13,
+          "media_count": 1506,
+          "tweet_count": 32082
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9311,
+          "following_count": 7743,
+          "like_count": 27332,
+          "listed_count": 20,
+          "media_count": 6436,
+          "tweet_count": 41300
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

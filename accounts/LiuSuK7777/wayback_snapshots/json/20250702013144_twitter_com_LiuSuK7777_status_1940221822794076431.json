@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1940221822794076431",
+    "created_at": "2025-07-02T01:31:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T02:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940221822794076431"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SoSix666/statu…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/SoSix666/status/1940220588800581655",
+          "start": 12,
+          "url": "https://t.co/ZyQEfFPdIR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940221822794076431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940220588800581655",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我没有b 谁给我装一个 https://t.co/ZyQEfFPdIR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1940221822794076431",
+        "created_at": "2025-07-02T01:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T02:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940221822794076431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SoSix666/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/SoSix666/status/1940220588800581655",
+              "start": 12,
+              "url": "https://t.co/ZyQEfFPdIR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940221822794076431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940220588800581655",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我没有b 谁给我装一个 https://t.co/ZyQEfFPdIR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1197530379588132865",
+        "conversation_id": "1939918309425922295",
+        "created_at": "2025-07-02T01:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T02:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940220588800581655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940220588800581655",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939918309425922295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 小姑娘挺呆萌可爱的，可以看看您的批嘛？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "主人@yeziyu7777\n对象@zyh1428202\n小号@Loveyezi8964\n笨蛋姐姐@TTKYYX03（不是现实中那个）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "Loveyezi8964"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1939923011571773935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2255,
+          "following_count": 2493,
+          "like_count": 34660,
+          "listed_count": 10,
+          "media_count": 1189,
+          "tweet_count": 27423
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-21T15:01:16.000Z",
+        "description": "少设禁区，思考健脑，善良一些。",
+        "id": "1197530379588132865",
+        "name": "没有理想主义的荒漠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895054608730390529/seahB9e5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 86,
+          "like_count": 111,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1040
+        },
+        "username": "SoSix666",
+        "verified": false
+      }
+    ]
+  }
+}

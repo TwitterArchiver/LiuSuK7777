@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1970987767296655562",
+    "created_at": "2025-09-25T04:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T05:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971067669593063455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1871474805578371072",
+          "start": 0,
+          "username": "8c4356"
+        },
+        {
+          "end": 19,
+          "id": "1646550974553522183",
+          "start": 8,
+          "username": "yeziyu7777"
+        },
+        {
+          "end": 34,
+          "id": "1934423287729455105",
+          "start": 20,
+          "username": "auroralia7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971067669593063455",
+    "in_reply_to_user_id": "1871474805578371072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971067516421329357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8c4356 @yeziyu7777 @auroralia7777 叶子精液多"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1971067516421329357].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1971067516421329357",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1971067516421329357"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1970987767296655562",
+        "created_at": "2025-09-25T04:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T05:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971067669593063455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1871474805578371072",
+              "start": 0,
+              "username": "8c4356"
+            },
+            {
+              "end": 19,
+              "id": "1646550974553522183",
+              "start": 8,
+              "username": "yeziyu7777"
+            },
+            {
+              "end": 34,
+              "id": "1934423287729455105",
+              "start": 20,
+              "username": "auroralia7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971067669593063455",
+        "in_reply_to_user_id": "1871474805578371072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971067516421329357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8c4356 @yeziyu7777 @auroralia7777 叶子精液多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969600938567745538/genz-feI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2660,
+          "following_count": 2644,
+          "like_count": 35396,
+          "listed_count": 14,
+          "media_count": 1387,
+          "tweet_count": 30498
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T08:36:08.000Z",
+        "description": "意识上传中",
+        "id": "1871474805578371072",
+        "location": "地灵殿",
+        "name": "la priere",
+        "pinned_tweet_id": "1938692356254970273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927408250737045505/eiNlUdlC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 225,
+          "like_count": 16601,
+          "listed_count": 0,
+          "media_count": 924,
+          "tweet_count": 8606
+        },
+        "username": "8c4356",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T16:28:58.000Z",
+        "description": "永远只是小叶，不会再有…睡着了的 | 我的爱人 我的全部♡小极光@auroralia7777\n「这辈子只有你一个♡」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 32,
+                "username": "auroralia7777"
+              }
+            ]
+          }
+        },
+        "id": "1646550974553522183",
+        "location": "永远依偎在小极光的怀里♡",
+        "name": "永远の叶_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964179698759634944/KGhtOccu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 780,
+          "like_count": 68213,
+          "listed_count": 9,
+          "media_count": 405,
+          "tweet_count": 6932
+        },
+        "username": "yeziyu7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T01:30:35.000Z",
+        "description": "这里是想死掉的的小极光♡\n\n♡我永远的一切……我的爱人@yeziyu7777 ♡\n\n「You are my forever PERFECTION. 」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "yeziyu7777"
+              }
+            ]
+          }
+        },
+        "id": "1934423287729455105",
+        "location": "永远依偎在叶叶的怀里呐♡",
+        "name": "Auroralia♡",
+        "pinned_tweet_id": "1963017759572529210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964180368439070722/GsHJLg3S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 118,
+          "like_count": 2790,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 980
+        },
+        "username": "auroralia7777",
+        "verified": false
+      }
+    ]
+  }
+}

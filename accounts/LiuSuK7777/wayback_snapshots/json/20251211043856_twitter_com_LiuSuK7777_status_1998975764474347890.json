@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998975758413475840"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1998975764474347890",
+    "created_at": "2025-12-11T04:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T05:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998975764474347890"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z5Aadf80i0",
+          "end": 36,
+          "expanded_url": "https://x.com/LiuSuK7777/status/1998975764474347890/photo/1",
+          "media_key": "3_1998975758413475840",
+          "start": 13,
+          "url": "https://t.co/Z5Aadf80i0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998975764474347890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "孩子们我得7天后才能改名 https://t.co/Z5Aadf80i0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 972,
+        "media_key": "3_1998975758413475840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G73J3HraMAAT0G_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998975758413475840"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1998975764474347890",
+        "created_at": "2025-12-11T04:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T05:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998975764474347890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z5Aadf80i0",
+              "end": 36,
+              "expanded_url": "https://x.com/LiuSuK7777/status/1998975764474347890/photo/1",
+              "media_key": "3_1998975758413475840",
+              "start": 13,
+              "url": "https://t.co/Z5Aadf80i0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998975764474347890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们我得7天后才能改名 https://t.co/Z5Aadf80i0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "1995540883278889351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998267978916528128/FNUZvgoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2926,
+          "following_count": 2759,
+          "like_count": 35482,
+          "listed_count": 13,
+          "media_count": 1561,
+          "tweet_count": 33392
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      }
+    ]
+  }
+}

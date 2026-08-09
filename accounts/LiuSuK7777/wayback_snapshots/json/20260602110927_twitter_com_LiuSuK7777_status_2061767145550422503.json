@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2061759604481229294",
+    "created_at": "2026-06-02T11:09:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T12:09:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061767145550422503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1514956074549448712",
+          "start": 0,
+          "username": "GlunekiKCA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061767145550422503",
+    "in_reply_to_user_id": "1514956074549448712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061764895750934759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GlunekiKCA 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2061759604481229294",
+        "created_at": "2026-06-02T11:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061767145550422503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1514956074549448712",
+              "start": 0,
+              "username": "GlunekiKCA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061767145550422503",
+        "in_reply_to_user_id": "1514956074549448712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061764895750934759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GlunekiKCA 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514956074549448712",
+        "conversation_id": "2061759604481229294",
+        "created_at": "2026-06-02T11:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061764895750934759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061764895750934759",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061760864894722065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 给你次w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 08年~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n可爱小南梁@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2032828973374386365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060157452931465216/9MujmSVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3520,
+          "following_count": 2714,
+          "like_count": 34434,
+          "listed_count": 14,
+          "media_count": 1669,
+          "tweet_count": 34982
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-15T13:17:41.000Z",
+        "description": "你好，远道而来的朋友～这里是江朝,是无情的发图机器/大学牲在读ing/乐子人ing/对大部分人保持包容心态，大家都是朋友嘛/偶尔碎碎念注意⚠️/近段时间的上推欲望很低，如有冒犯请见谅   老登@KiminTW_Offical | 小账@sumeng_kelami |绿咪@lamte15072",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 96,
+                "username": "KiminTW_Offical"
+              },
+              {
+                "end": 131,
+                "start": 117,
+                "username": "sumeng_kelami"
+              },
+              {
+                "end": 146,
+                "start": 135,
+                "username": "lamte15072"
+              }
+            ]
+          }
+        },
+        "id": "1514956074549448712",
+        "location": "永夏之梦",
+        "name": "江朝",
+        "pinned_tweet_id": "2007641595999621241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910226837072216064/mSzLcdTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6201,
+          "following_count": 1506,
+          "like_count": 93309,
+          "listed_count": 29,
+          "media_count": 4750,
+          "tweet_count": 40485
+        },
+        "username": "GlunekiKCA",
+        "verified": false
+      }
+    ]
+  }
+}

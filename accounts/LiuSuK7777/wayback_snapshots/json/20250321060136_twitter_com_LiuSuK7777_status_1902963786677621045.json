@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1902943523953168423",
+    "created_at": "2025-03-21T06:01:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T07:01:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902963786677621045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1882697857393893376",
+          "start": 0,
+          "username": "TPR_luv"
+        },
+        {
+          "end": 23,
+          "id": "1880607102261215232",
+          "start": 9,
+          "username": "realdaylightn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902963786677621045",
+    "in_reply_to_user_id": "1882697857393893376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902951695916863688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TPR_luv @realdaylightn 有的有的 我肯定给"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1902951695916863688].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1902951695916863688",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1902951695916863688"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1902943523953168423",
+        "created_at": "2025-03-21T06:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T07:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902963786677621045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882697857393893376",
+              "start": 0,
+              "username": "TPR_luv"
+            },
+            {
+              "end": 23,
+              "id": "1880607102261215232",
+              "start": 9,
+              "username": "realdaylightn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902963786677621045",
+        "in_reply_to_user_id": "1882697857393893376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902951695916863688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TPR_luv @realdaylightn 有的有的 我肯定给"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "Arknights/崩壊:スターレイル/Arcaea/MaimaiDX/東方Project/ VOCALOID/Galgame/唯一所爱主人@yeziyu7777 友跨友同 可以找我交朋友喵 好朋友 @_FiniteWorld @small_fun8964 @Huahe_wu @KaitlynXiaoLu99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 113,
+                "start": 100,
+                "username": "_FiniteWorld"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "small_fun8964"
+              },
+              {
+                "end": 138,
+                "start": 129,
+                "username": "Huahe_wu"
+              },
+              {
+                "end": 155,
+                "start": 139,
+                "username": "KaitlynXiaoLu99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "☆流苏☆🐱（100%互fo）",
+        "pinned_tweet_id": "1901903397277532265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1431,
+          "following_count": 1712,
+          "like_count": 27890,
+          "listed_count": 10,
+          "media_count": 778,
+          "tweet_count": 17667
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T07:53:19.000Z",
+        "description": "此人低俗注意避让。 （主账号@7639xy_k）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "7639xy_k"
+              }
+            ]
+          }
+        },
+        "id": "1882697857393893376",
+        "location": "Nowhere",
+        "name": "并非Lynette",
+        "pinned_tweet_id": "1888843649087385895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882698987578503168/EurQC83p_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 72,
+          "like_count": 3033,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 646
+        },
+        "username": "TPR_luv",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T13:24:17.000Z",
+        "description": "苍白空虚的现实，就是真正的白昼",
+        "id": "1880607102261215232",
+        "location": "现实",
+        "name": "真昼",
+        "pinned_tweet_id": "1880615950409691229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881054047412813825/PH6yNxoq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 8,
+          "like_count": 438,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 450
+        },
+        "username": "realdaylightn",
+        "verified": false
+      }
+    ]
+  }
+}

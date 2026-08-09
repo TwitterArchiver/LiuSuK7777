@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969267366883442689"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1969267381370323163",
+    "created_at": "2025-09-20T05:08:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T06:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969267381370323163"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WvxcYlDqeM",
+          "end": 33,
+          "expanded_url": "https://x.com/LiuSuK7777/status/1969267381370323163/photo/1",
+          "media_key": "3_1969267366883442689",
+          "start": 10,
+          "url": "https://t.co/WvxcYlDqeM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969267381370323163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢赛义德送来的饭 https://t.co/WvxcYlDqeM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1969267366883442689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Q-PI7bQAEZTyH.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969267366883442689"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1969267381370323163",
+        "created_at": "2025-09-20T05:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T06:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969267381370323163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WvxcYlDqeM",
+              "end": 33,
+              "expanded_url": "https://x.com/LiuSuK7777/status/1969267381370323163/photo/1",
+              "media_key": "3_1969267366883442689",
+              "start": 10,
+              "url": "https://t.co/WvxcYlDqeM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969267381370323163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢赛义德送来的饭 https://t.co/WvxcYlDqeM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1966750967149588919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966711124734410752/71NBjUL5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2647,
+          "following_count": 2641,
+          "like_count": 35382,
+          "listed_count": 14,
+          "media_count": 1375,
+          "tweet_count": 30329
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      }
+    ]
+  }
+}

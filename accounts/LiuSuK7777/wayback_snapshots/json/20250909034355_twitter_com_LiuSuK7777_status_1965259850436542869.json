@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1963454468319821900",
+    "created_at": "2025-09-09T03:43:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T04:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965259850436542869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1771336968724783104",
+          "start": 0,
+          "username": "myng1725201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965259850436542869",
+    "in_reply_to_user_id": "1771336968724783104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965251713029271606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@myng1725201 ……因为那次吵了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1963454468319821900",
+        "created_at": "2025-09-09T03:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T04:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965259850436542869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1771336968724783104",
+              "start": 0,
+              "username": "myng1725201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965259850436542869",
+        "in_reply_to_user_id": "1771336968724783104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965251713029271606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@myng1725201 ……因为那次吵了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771336968724783104",
+        "conversation_id": "1963454468319821900",
+        "created_at": "2025-09-09T03:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T04:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965251713029271606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965251713029271606",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963454468319821900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 你不是有對象嗎？😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "感情很麻烦 只想要好朋友啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "没有容身之地。",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1962804814611652676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965259636543815685/GPXhrPsx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2630,
+          "following_count": 2639,
+          "like_count": 35336,
+          "listed_count": 14,
+          "media_count": 1344,
+          "tweet_count": 29858
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T00:44:02.000Z",
+        "description": "找对象……有意者私聊……想玩的别来",
+        "id": "1771336968724783104",
+        "name": "無理",
+        "pinned_tweet_id": "1911597761914425431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932672405605961728/ByTvOyEj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 59,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "myng1725201",
+        "verified": false
+      }
+    ]
+  }
+}

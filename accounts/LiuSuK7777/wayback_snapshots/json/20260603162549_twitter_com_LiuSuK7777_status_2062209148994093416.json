@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2061769798812594335",
+    "created_at": "2026-06-03T16:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T17:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062209148994093416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "921052381852336128",
+          "start": 0,
+          "username": "HasanFatihBing1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062209148994093416",
+    "in_reply_to_user_id": "921052381852336128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062186578026349017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HasanFatihBing1 确实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2061769798812594335",
+        "created_at": "2026-06-03T16:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062209148994093416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "921052381852336128",
+              "start": 0,
+              "username": "HasanFatihBing1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062209148994093416",
+        "in_reply_to_user_id": "921052381852336128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062186578026349017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HasanFatihBing1 确实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "921052381852336128",
+        "conversation_id": "2061769798812594335",
+        "created_at": "2026-06-03T14:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062186578026349017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062186578026349017",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061769798812594335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 杭州好热"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 08年~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n可爱小南梁@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2032828973374386365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060157452931465216/9MujmSVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3526,
+          "following_count": 2709,
+          "like_count": 34433,
+          "listed_count": 14,
+          "media_count": 1671,
+          "tweet_count": 35034
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-19T16:36:14.000Z",
+        "description": "杭州真的很好",
+        "id": "921052381852336128",
+        "location": "杭州",
+        "name": "杭州",
+        "pinned_tweet_id": "2060649956571316492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060649857795407872/YF21IfiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 76,
+          "like_count": 413,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 373
+        },
+        "username": "HasanFatihBing1",
+        "verified": false
+      }
+    ]
+  }
+}

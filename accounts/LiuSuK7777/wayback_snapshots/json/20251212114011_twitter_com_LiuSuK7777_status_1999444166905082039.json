@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1999330239609209299",
+    "created_at": "2025-12-12T11:40:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T12:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999444166905082039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1776548166181269504",
+          "start": 0,
+          "username": "XiaoMao0700"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999444166905082039",
+    "in_reply_to_user_id": "1776548166181269504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999442737188471184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoMao0700 兄弟你怎么是女孩子😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1999330239609209299",
+        "created_at": "2025-12-12T11:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T12:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999444166905082039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1776548166181269504",
+              "start": 0,
+              "username": "XiaoMao0700"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999444166905082039",
+        "in_reply_to_user_id": "1776548166181269504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999442737188471184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoMao0700 兄弟你怎么是女孩子😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776548166181269504",
+        "conversation_id": "1999330239609209299",
+        "created_at": "2025-12-12T11:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T12:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999442737188471184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999442737188471184",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999330239609209299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 有😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "1995540883278889351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998267978916528128/FNUZvgoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2935,
+          "following_count": 2765,
+          "like_count": 35510,
+          "listed_count": 13,
+          "media_count": 1562,
+          "tweet_count": 33495
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T09:51:17.000Z",
+        "description": "欢迎光临我的碎碎念~\n不喜欢会直接拉黑删除\n＜提问箱🍬https://t.co/DaKMPFwdxZ＞ 提问格式【猫老师+你的问题】视奸我可以 请点赞😽",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao0700",
+                "end": 50,
+                "expanded_url": "https://ngl.link/xiaomao0700",
+                "start": 27,
+                "url": "https://t.co/DaKMPFwdxZ"
+              }
+            ]
+          }
+        },
+        "id": "1776548166181269504",
+        "location": "🐟",
+        "name": "小猫本",
+        "pinned_tweet_id": "1973284838309503444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879858814541045760/T7t3-4up_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 67,
+          "like_count": 468,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 1144
+        },
+        "username": "XiaoMao0700",
+        "verified": false
+      }
+    ]
+  }
+}

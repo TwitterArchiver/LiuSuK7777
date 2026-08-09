@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1942013608315277694",
+    "created_at": "2025-07-08T12:13:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T13:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942557582364971065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1813191847264854019",
+          "start": 0,
+          "username": "hhngki7292924"
+        },
+        {
+          "end": 25,
+          "id": "1846969266824007680",
+          "start": 15,
+          "username": "NaciMe537"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942557582364971065",
+    "in_reply_to_user_id": "1813191847264854019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942531232522498064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhngki7292924 @NaciMe537 我没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1942013608315277694",
+        "created_at": "2025-07-08T12:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T13:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942557582364971065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1813191847264854019",
+              "start": 0,
+              "username": "hhngki7292924"
+            },
+            {
+              "end": 25,
+              "id": "1846969266824007680",
+              "start": 15,
+              "username": "NaciMe537"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942557582364971065",
+        "in_reply_to_user_id": "1813191847264854019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942531232522498064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhngki7292924 @NaciMe537 我没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813191847264854019",
+        "conversation_id": "1942013608315277694",
+        "created_at": "2025-07-08T10:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T11:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942531232522498064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1846969266824007680",
+              "start": 0,
+              "username": "NaciMe537"
+            },
+            {
+              "end": 22,
+              "id": "1504799211799265282",
+              "start": 11,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942531232522498064",
+        "in_reply_to_user_id": "1846969266824007680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942177953527497214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NaciMe537 @LiuSuK7777 怪不得"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "主人@yeziyu7777\n对象@zyh1428202\n小号@Loveyezi8964\n笨蛋姐姐@TTKYYX03（不是现实中那个）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "Loveyezi8964"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1940766254266302907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2304,
+          "following_count": 2507,
+          "like_count": 34761,
+          "listed_count": 10,
+          "media_count": 1202,
+          "tweet_count": 27663
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T12:40:39.000Z",
+        "description": "先活着吧，剩下的我再想办法。。。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hhngki7262624",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hhngki7262624",
+                "start": 0,
+                "url": "https://t.co/eTZfSf6M4U"
+              }
+            ]
+          }
+        },
+        "id": "1813191847264854019",
+        "location": "圣洛夫基金会",
+        "name": "37（😇）",
+        "pinned_tweet_id": "1938235341393027504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936863842778161152/YL0tcI6E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 796,
+          "like_count": 1869,
+          "listed_count": 2,
+          "media_count": 271,
+          "tweet_count": 3624
+        },
+        "url": "https://t.co/eTZfSf6M4U",
+        "username": "hhngki7292924",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T17:39:35.000Z",
+        "description": "君子不器/mtx满天星/嘻嘻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "florr.io",
+                "end": 23,
+                "expanded_url": "http://florr.io",
+                "start": 0,
+                "url": "https://t.co/wHKGoCVxeY"
+              }
+            ]
+          }
+        },
+        "id": "1846969266824007680",
+        "location": "距离您只有0.3km",
+        "name": "空白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940147881287057408/PDo9pvSf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 410,
+          "like_count": 2815,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1341
+        },
+        "url": "https://t.co/wHKGoCVxeY",
+        "username": "NaciMe537",
+        "verified": false
+      }
+    ]
+  }
+}

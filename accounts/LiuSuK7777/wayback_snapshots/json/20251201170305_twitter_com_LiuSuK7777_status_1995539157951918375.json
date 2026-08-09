@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1995448940125192389",
+    "created_at": "2025-12-01T17:03:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T18:03:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995539157951918375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1507396901594820608",
+          "start": 0,
+          "username": "hgds0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995539157951918375",
+    "in_reply_to_user_id": "1507396901594820608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995448940125192389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgds0 卧槽 还是人贩子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 870,
+        "media_key": "3_1995448934123401216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7FCO7XbcAAwZF2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1995448940125192389",
+        "created_at": "2025-12-01T17:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T18:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995539157951918375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1507396901594820608",
+              "start": 0,
+              "username": "hgds0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995539157951918375",
+        "in_reply_to_user_id": "1507396901594820608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995448940125192389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds0 卧槽 还是人贩子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995448934123401216"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1995448940125192389",
+        "created_at": "2025-12-01T11:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T12:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995448940125192389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vuaFPuLnVT",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds0/status/1995448940125192389/photo/1",
+              "media_key": "3_1995448934123401216",
+              "start": 0,
+              "url": "https://t.co/vuaFPuLnVT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995448940125192389",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 24156,
+          "like_count": 445,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vuaFPuLnVT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1994457982331961835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994695488520835072/aNvlyX-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2891,
+          "following_count": 2738,
+          "like_count": 35412,
+          "listed_count": 13,
+          "media_count": 1537,
+          "tweet_count": 32870
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94510,
+          "following_count": 2735,
+          "like_count": 43546,
+          "listed_count": 130,
+          "media_count": 3200,
+          "tweet_count": 7528
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

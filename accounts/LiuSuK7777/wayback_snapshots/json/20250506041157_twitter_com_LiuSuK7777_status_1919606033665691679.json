@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919355318729121792"
+      ],
+      "media_source_tweet_id": [
+        "1919355325549019516"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "conversation_id": "1919606033665691679",
+    "created_at": "2025-05-06T04:11:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T05:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919606033665691679"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 16,
+          "tag": "かなまふ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1839988985348947968",
+          "start": 3,
+          "username": "kafu_467"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2wCef1mBu1",
+          "end": 45,
+          "expanded_url": "https://x.com/kafu_467/status/1919355325549019516/photo/1",
+          "media_key": "3_1919355318729121792",
+          "start": 22,
+          "url": "https://t.co/2wCef1mBu1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919606033665691679",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 963
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919355325549019516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kafu_467: 🍰\n#かなまふ https://t.co/2wCef1mBu1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1616,
+        "media_key": "3_1919355318729121792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqLrfkKbIAAuJSi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919355318729121792"
+          ],
+          "media_source_tweet_id": [
+            "1919355325549019516"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "conversation_id": "1919606033665691679",
+        "created_at": "2025-05-06T04:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T05:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919606033665691679"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "かなまふ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1839988985348947968",
+              "start": 3,
+              "username": "kafu_467"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2wCef1mBu1",
+              "end": 45,
+              "expanded_url": "https://x.com/kafu_467/status/1919355325549019516/photo/1",
+              "media_key": "3_1919355318729121792",
+              "start": 22,
+              "url": "https://t.co/2wCef1mBu1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919606033665691679",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 963
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919355325549019516",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kafu_467: 🍰\n#かなまふ https://t.co/2wCef1mBu1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919355318729121792"
+          ]
+        },
+        "author_id": "1839988985348947968",
+        "conversation_id": "1919355325549019516",
+        "created_at": "2025-05-05T11:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T12:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919355325549019516"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 2,
+              "tag": "かなまふ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2wCef1mBu1",
+              "end": 31,
+              "expanded_url": "https://x.com/kafu_467/status/1919355325549019516/photo/1",
+              "media_key": "3_1919355318729121792",
+              "start": 8,
+              "url": "https://t.co/2wCef1mBu1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919355325549019516",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1459,
+          "impression_count": 95569,
+          "like_count": 11128,
+          "quote_count": 16,
+          "reply_count": 11,
+          "retweet_count": 963
+        },
+        "reply_settings": "everyone",
+        "text": "🍰\n#かなまふ https://t.co/2wCef1mBu1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": " 🔪‌",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1981,
+          "following_count": 2219,
+          "like_count": 32559,
+          "listed_count": 12,
+          "media_count": 1019,
+          "tweet_count": 24101
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T11:22:26.000Z",
+        "description": "I draw my favorite ships. 只會畫女同親親貼貼的垃圾 。かなまふ🎼❄️、みずえな🎀🎨、相手固定、左右不固定。中文/English/日本語(下手）。",
+        "id": "1839988985348947968",
+        "location": "かなまふが結婚しているセカイ",
+        "name": "卡芙❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857481682221461504/QiPlscz5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1929,
+          "following_count": 38,
+          "like_count": 720,
+          "listed_count": 11,
+          "media_count": 20,
+          "tweet_count": 471
+        },
+        "username": "kafu_467",
+        "verified": false
+      }
+    ]
+  }
+}

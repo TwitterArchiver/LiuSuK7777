@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1922017710948405662",
+    "created_at": "2025-05-12T21:28:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T22:28:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922041092519731219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870022570353012736",
+          "start": 0,
+          "username": "kukudejiaxibei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922041092519731219",
+    "in_reply_to_user_id": "1870022570353012736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922017710948405662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kukudejiaxibei 不是吧 这也能吵起来的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1922017710948405662",
+        "created_at": "2025-05-12T21:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T22:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922041092519731219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870022570353012736",
+              "start": 0,
+              "username": "kukudejiaxibei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922041092519731219",
+        "in_reply_to_user_id": "1870022570353012736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922017710948405662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kukudejiaxibei 不是吧 这也能吵起来的？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870022570353012736",
+        "conversation_id": "1922017710948405662",
+        "created_at": "2025-05-12T19:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T20:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922017710948405662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/10110011xyn/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/10110011xyn/status/1921998664165192042",
+              "start": 31,
+              "url": "https://t.co/i9fqfZlSEW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922017710948405662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921998664165192042",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "乐\n不看看自己说的什么\n我特喵懒得鸟你\n也不知道你在和谁说话 https://t.co/i9fqfZlSEW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": " 🔪‌",
+        "name": "流苏",
+        "pinned_tweet_id": "1921196565060088153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2032,
+          "following_count": 2280,
+          "like_count": 32982,
+          "listed_count": 11,
+          "media_count": 1048,
+          "tweet_count": 24504
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T08:25:12.000Z",
+        "description": "06年INFJ+处女座\nHRT-24.10.21\n擅长文学艺术类\nSteamID1151422332\n梦想是变成酷女孩\n烹饪烘焙调酒\n主人@lyb1007\n涩猫猫@jiang_chua28655\n好朋友@NataliaIcey2006\n@zixinmiao2好妹妹@yanmin1105笨蛋涩老公@xiyimeng04",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 69,
+                "username": "lyb1007"
+              },
+              {
+                "end": 97,
+                "start": 81,
+                "username": "jiang_chua28655"
+              },
+              {
+                "end": 117,
+                "start": 101,
+                "username": "NataliaIcey2006"
+              },
+              {
+                "end": 129,
+                "start": 118,
+                "username": "zixinmiao2"
+              },
+              {
+                "end": 143,
+                "start": 132,
+                "username": "yanmin1105"
+              },
+              {
+                "end": 159,
+                "start": 148,
+                "username": "xiyimeng04"
+              }
+            ]
+          }
+        },
+        "id": "1870022570353012736",
+        "location": "山西省晋中市太谷区",
+        "name": "贾西贝🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1909221888443949341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913754050249846784/oWJ2G5vF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 2025,
+          "like_count": 19764,
+          "listed_count": 2,
+          "media_count": 489,
+          "tweet_count": 4940
+        },
+        "username": "kukudejiaxibei",
+        "verified": false
+      }
+    ]
+  }
+}

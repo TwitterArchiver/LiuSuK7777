@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2023386097628418549",
+    "created_at": "2026-02-17T22:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T23:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023894919694426531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1953528457339834368",
+          "start": 0,
+          "username": "redraft2000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023894919694426531",
+    "in_reply_to_user_id": "1953528457339834368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023768694745428230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@redraft2000 我知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2023386097628418549",
+        "created_at": "2026-02-17T22:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T23:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023894919694426531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1953528457339834368",
+              "start": 0,
+              "username": "redraft2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023894919694426531",
+        "in_reply_to_user_id": "1953528457339834368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023768694745428230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@redraft2000 我知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953528457339834368",
+        "conversation_id": "2023386097628418549",
+        "created_at": "2026-02-17T14:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T15:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023768694745428230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023768694745428230",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023762063206789168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 我在路桥喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n老公@zyh842159145\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "1995540883278889351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022579402232729603/sIzOPs42_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3077,
+          "following_count": 2748,
+          "like_count": 35410,
+          "listed_count": 15,
+          "media_count": 1608,
+          "tweet_count": 34280
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-07T18:47:53.000Z",
+        "description": "乘风好去，长空万里～",
+        "id": "1953528457339834368",
+        "name": "红筏🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968102545693528064/qrdJgaBt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 71,
+          "like_count": 2906,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1421
+        },
+        "username": "redraft2000",
+        "verified": false
+      }
+    ]
+  }
+}

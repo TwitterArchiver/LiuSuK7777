@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1939128211297976730",
+    "created_at": "2025-06-29T01:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T02:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939128732914204947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1634535757410111489",
+          "start": 0,
+          "username": "woshi_caicai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939128732914204947",
+    "in_reply_to_user_id": "1634535757410111489",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 31,
+      "like_count": 4,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939128211297976730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woshi_caicai 🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1939128211297976730",
+        "created_at": "2025-06-29T01:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T02:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939128732914204947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634535757410111489",
+              "start": 0,
+              "username": "woshi_caicai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939128732914204947",
+        "in_reply_to_user_id": "1634535757410111489",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939128211297976730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshi_caicai 🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634535757410111489",
+        "conversation_id": "1939128211297976730",
+        "created_at": "2025-06-29T01:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T02:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939128211297976730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KagurazakaAzur…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/KagurazakaAzure/status/1938923396626350114",
+              "start": 10,
+              "url": "https://t.co/m692R40KMd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939128211297976730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938923396626350114",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "闹矛盾分手就老实了 https://t.co/m692R40KMd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男|Arcaea|明日方舟|舞萌DX|火影忍者|社恐健全B|2008.02.29 |主人@yeziyu7777对象@zyh1428202小号@Loveyezi8964\n微信用户名同推特用户名",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1936314364468105461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2230,
+          "following_count": 2486,
+          "like_count": 34442,
+          "listed_count": 10,
+          "media_count": 1160,
+          "tweet_count": 27112
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T12:44:37.000Z",
+        "description": "soyorin love~",
+        "id": "1634535757410111489",
+        "name": "虹雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923338673476816897/TtY_Yipm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 201,
+          "like_count": 6586,
+          "listed_count": 4,
+          "media_count": 94,
+          "tweet_count": 2524
+        },
+        "username": "woshi_caicai",
+        "verified": false
+      }
+    ]
+  }
+}

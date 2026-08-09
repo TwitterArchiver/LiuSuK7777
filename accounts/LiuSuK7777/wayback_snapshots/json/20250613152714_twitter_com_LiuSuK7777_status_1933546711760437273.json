@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1933535239936323729",
+    "created_at": "2025-06-13T15:27:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T16:27:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933546711760437273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1826483540554645507",
+          "start": 0,
+          "username": "zbzjzyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933546711760437273",
+    "in_reply_to_user_id": "1826483540554645507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933541925648552054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zbzjzyl 我声音不好听"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1933535239936323729",
+        "created_at": "2025-06-13T15:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T16:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933546711760437273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1826483540554645507",
+              "start": 0,
+              "username": "zbzjzyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933546711760437273",
+        "in_reply_to_user_id": "1826483540554645507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933541925648552054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zbzjzyl 我声音不好听"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826483540554645507",
+        "conversation_id": "1933535239936323729",
+        "created_at": "2025-06-13T15:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T16:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933541925648552054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933541925648552054",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933541522282328571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 那我很羡慕舍友了🥺🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏，Arcaea/明日方舟/舞萌DX/火影忍者，线上淫乱线下社恐，健全B无心理疾病，经常搞砸让所有人都不开心，生日2008.02.29 |唯一的主人@yeziyu7777/对象@zyh1428202 小号@Loveyezi8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1932740335597506913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2144,
+          "following_count": 2420,
+          "like_count": 34217,
+          "listed_count": 11,
+          "media_count": 1113,
+          "tweet_count": 26304
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T04:56:38.000Z",
+        "description": "08丨敏感丨多疑丨包容丨不鉴证丨放假玩推丨互fo看成分丨你觉得我是男的我就是男的 是女的我就是女的🤗 小号👉@zbzjzyl02 提问箱👉https://t.co/ATYjdvrqKx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "zbzjzyl02"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/zbzjzyl",
+                "end": 92,
+                "expanded_url": "https://ngl.link/zbzjzyl",
+                "start": 69,
+                "url": "https://t.co/ATYjdvrqKx"
+              }
+            ]
+          }
+        },
+        "id": "1826483540554645507",
+        "name": "这辈子就这样了（淡推）",
+        "pinned_tweet_id": "1918301677863764434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910682790741630978/JIyGRm1__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 364,
+          "like_count": 7468,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 1682
+        },
+        "username": "zbzjzyl",
+        "verified": false
+      }
+    ]
+  }
+}

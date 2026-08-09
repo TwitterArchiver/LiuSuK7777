@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1950527073233350995",
+    "created_at": "2025-07-30T12:48:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T13:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950539000357507535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1694068450220744707",
+          "start": 0,
+          "username": "YS97OwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950539000357507535",
+    "in_reply_to_user_id": "1694068450220744707",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950527073233350995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YS97OwO why"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1950527073233350995].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1950527073233350995",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1950527073233350995"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1950527073233350995",
+        "created_at": "2025-07-30T12:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T13:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950539000357507535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1694068450220744707",
+              "start": 0,
+              "username": "YS97OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950539000357507535",
+        "in_reply_to_user_id": "1694068450220744707",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950527073233350995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YS97OwO why"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男 | 主人@yeziyu7777 | 对象@zyh1428202 | 姐姐@ttkyyx03（仅为网络关系）| 小号@luoyue_maimai |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 33,
+                "start": 22,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "ttkyyx03"
+              },
+              {
+                "end": 73,
+                "start": 59,
+                "username": "luoyue_maimai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "超高校级の無意識",
+        "pinned_tweet_id": "1949513211826377068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2508,
+          "following_count": 2637,
+          "like_count": 34974,
+          "listed_count": 10,
+          "media_count": 1254,
+          "tweet_count": 28632
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T19:26:15.000Z",
+        "description": "🇨🇳大学生一名/轻小说&漫画&音游🥰/#maimai #Arcaea #CHUNITHM #Phigros #プロセカ/除音游外部分游戏均游玩过/Bilibili同名/互fo🉑/小号：①bluesky：https://t.co/XjEX0sUhIc  ②@ys97O_O（里）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 19,
+                "tag": "maimai"
+              },
+              {
+                "end": 34,
+                "start": 27,
+                "tag": "Arcaea"
+              },
+              {
+                "end": 44,
+                "start": 35,
+                "tag": "CHUNITHM"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "Phigros"
+              },
+              {
+                "end": 59,
+                "start": 54,
+                "tag": "プロセカ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "ys97O_O"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ys1230.bsky.social",
+                "end": 124,
+                "expanded_url": "http://ys1230.bsky.social",
+                "start": 101,
+                "url": "https://t.co/XjEX0sUhIc"
+              }
+            ]
+          }
+        },
+        "id": "1694068450220744707",
+        "name": "游笙OωO",
+        "pinned_tweet_id": "1854553242308686210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831365569427468290/ZUd6XzGy_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 4029,
+          "like_count": 78582,
+          "listed_count": 6,
+          "media_count": 2878,
+          "tweet_count": 27024
+        },
+        "username": "YS97OwO",
+        "verified": false
+      }
+    ]
+  }
+}

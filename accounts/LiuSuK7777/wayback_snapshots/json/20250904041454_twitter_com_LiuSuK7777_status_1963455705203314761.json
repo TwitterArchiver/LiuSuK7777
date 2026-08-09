@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1963454468319821900",
+    "created_at": "2025-09-04T04:14:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T05:14:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963455705203314761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1849265386279309312",
+          "start": 0,
+          "username": "DFOXMT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963455705203314761",
+    "in_reply_to_user_id": "1849265386279309312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963454983376163018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DFOXMT ？怎么啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1963454468319821900",
+        "created_at": "2025-09-04T04:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T05:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963455705203314761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1849265386279309312",
+              "start": 0,
+              "username": "DFOXMT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963455705203314761",
+        "in_reply_to_user_id": "1849265386279309312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963454983376163018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DFOXMT ？怎么啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849265386279309312",
+        "conversation_id": "1963454468319821900",
+        "created_at": "2025-09-04T04:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T05:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963454983376163018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963454983376163018",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963454468319821900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "❤️@？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "没有容身之地。",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1962804814611652676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963419713868021760/WH1CVS5o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2622,
+          "following_count": 2638,
+          "like_count": 35234,
+          "listed_count": 14,
+          "media_count": 1340,
+          "tweet_count": 29729
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-24T01:43:28.000Z",
+        "description": "04年/mtx/枪娘/BA/舰娘/FPS游戏爱好者/小证/HRT 2022.8.20\n叫我小德就好，可互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yena32946",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yena32946",
+                "start": 0,
+                "url": "https://t.co/QOKwK0ZuqI"
+              }
+            ]
+          }
+        },
+        "id": "1849265386279309312",
+        "name": "德文郡🏳‍⚧",
+        "pinned_tweet_id": "1849272435914477770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962737691973558274/Xrt87foW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 58,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 30
+        },
+        "url": "https://t.co/QOKwK0ZuqI",
+        "username": "DFOXMT",
+        "verified": false
+      }
+    ]
+  }
+}

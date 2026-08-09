@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1913490768557428939",
+    "created_at": "2025-04-19T07:20:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T08:20:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913492799783100711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1791348768690089984",
+          "start": 0,
+          "username": "owl8964cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913492799783100711",
+    "in_reply_to_user_id": "1791348768690089984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913492554164695323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@owl8964cat 因为和我姐 所以可以\n我自己不能出去的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1913492554164695323].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1913492554164695323",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1913492554164695323"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1913490768557428939",
+        "created_at": "2025-04-19T07:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T08:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913492799783100711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1791348768690089984",
+              "start": 0,
+              "username": "owl8964cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913492799783100711",
+        "in_reply_to_user_id": "1791348768690089984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913492554164695323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@owl8964cat 因为和我姐 所以可以\n我自己不能出去的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 2088,
+          "like_count": 30398,
+          "listed_count": 12,
+          "media_count": 906,
+          "tweet_count": 22180
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T06:03:53.000Z",
+        "description": "美少女ゲーム|社畜実習|互fo 貓貓：@SakuraCatMoe @Romanorum_ @LycoReco_neneko铁道友@kiming568416百合醬@allknowbody 姐姐:@honxine8964 小p:@M600_spitfire 麦:@2SJ7ntKBdEtTKrM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 19,
+                "username": "SakuraCatMoe"
+              },
+              {
+                "end": 44,
+                "start": 33,
+                "username": "Romanorum_"
+              },
+              {
+                "end": 61,
+                "start": 45,
+                "username": "LycoReco_neneko"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "kiming568416"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "allknowbody"
+              },
+              {
+                "end": 108,
+                "start": 96,
+                "username": "honxine8964"
+              },
+              {
+                "end": 126,
+                "start": 112,
+                "username": "M600_spitfire"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "2SJ7ntKBdEtTKrM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "10.191.5.5.com",
+                "end": 23,
+                "expanded_url": "http://10.191.5.5.com",
+                "start": 0,
+                "url": "https://t.co/7b5QKZSVTF"
+              }
+            ]
+          }
+        },
+        "id": "1791348768690089984",
+        "location": "北京市东城区新开路胡同71号",
+        "name": "魔法使いねこ",
+        "pinned_tweet_id": "1899099384698057132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812771583234068481/3J6UZdqY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 866,
+          "like_count": 50932,
+          "listed_count": 3,
+          "media_count": 87,
+          "tweet_count": 15388
+        },
+        "url": "https://t.co/7b5QKZSVTF",
+        "username": "owl8964cat",
+        "verified": false
+      }
+    ]
+  }
+}

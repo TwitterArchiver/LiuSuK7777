@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1902854557769797924",
+    "created_at": "2025-03-20T23:26:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T00:26:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902864382230663597"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1902864382230663597",
+    "in_reply_to_user_id": "1504799211799265282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902854557769797924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我怎么会变成这个样子的\n有点变得太快了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1902854557769797924",
+        "created_at": "2025-03-20T23:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T00:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902864382230663597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902864382230663597",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902854557769797924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我怎么会变成这个样子的\n有点变得太快了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1902854557769797924",
+        "created_at": "2025-03-20T22:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T23:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902854557769797924"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902854557769797924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想看女装（翻）\n不对再买就放不下了 而且好贵\n（再看一次）（还是没买）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "Arknights/崩壊:スターレイル/Arcaea/MaimaiDX/東方Project/ VOCALOID/Galgame/唯一所爱主人@yeziyu7777 友跨友同 可以找我交朋友喵 好朋友 @_FiniteWorld @small_fun8964 @Huahe_wu @KaitlynXiaoLu99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 113,
+                "start": 100,
+                "username": "_FiniteWorld"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "small_fun8964"
+              },
+              {
+                "end": 138,
+                "start": 129,
+                "username": "Huahe_wu"
+              },
+              {
+                "end": 155,
+                "start": 139,
+                "username": "KaitlynXiaoLu99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "☆流苏☆🐱（100%互fo）",
+        "pinned_tweet_id": "1901903397277532265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 1705,
+          "like_count": 27810,
+          "listed_count": 10,
+          "media_count": 777,
+          "tweet_count": 17599
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1934909862481199435",
+    "created_at": "2025-06-17T09:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T10:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934909934820577503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1883724954468057088",
+          "start": 0,
+          "username": "Itis_pft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934909934820577503",
+    "in_reply_to_user_id": "1883724954468057088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934909862481199435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Itis_pft 挖槽 照片看看喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1934909862481199435",
+        "created_at": "2025-06-17T09:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T10:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934909934820577503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883724954468057088",
+              "start": 0,
+              "username": "Itis_pft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934909934820577503",
+        "in_reply_to_user_id": "1883724954468057088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934909862481199435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Itis_pft 挖槽 照片看看喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883724954468057088",
+        "conversation_id": "1934909862481199435",
+        "created_at": "2025-06-17T09:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T10:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934909862481199435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiaoyanboluooo…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/jiaoyanboluooo/status/1934732679259541759",
+              "start": 11,
+              "url": "https://t.co/dHmJCI9VbI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934909862481199435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934732679259541759",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽，有人发链接别点 https://t.co/dHmJCI9VbI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男孩子/流苏，Arcaea/明日方舟/舞萌DX/火影忍者/社恐/健全B/2008.02.29 |主人@yeziyu7777对象@zyh1428202小号@Loveyezi8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1934628287915151749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2171,
+          "following_count": 2440,
+          "like_count": 34271,
+          "listed_count": 11,
+          "media_count": 1120,
+          "tweet_count": 26465
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T03:54:22.000Z",
+        "description": "可能是某人的另一个账户？到底是不是谁知道呢，反正也没有人会在意的吧？我的身份信息是捏造的，请不要当真，这是为了让那个真正的“我”不被任何人找到，欢迎私信聊天（帕霏特法则：我说的话将有一半是假的，无论何时我都将遵循法则）如果看到感兴趣的帖子就会进行互动，几乎什么内容都看，并不避讳政治话题和性话题，但我不会键政，顶多玩玩梗",
+        "id": "1883724954468057088",
+        "location": "无法被定义，甚至可能根本不存在的宫殿",
+        "name": "百变小丑帕霏特",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907855971872874496/GjlUsYh2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 631,
+          "like_count": 4742,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 3631
+        },
+        "username": "Itis_pft",
+        "verified": false
+      }
+    ]
+  }
+}

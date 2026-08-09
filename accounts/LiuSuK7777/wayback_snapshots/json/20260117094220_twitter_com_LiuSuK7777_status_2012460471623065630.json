@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2012457215941021932",
+    "created_at": "2026-01-17T09:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T10:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012460471623065630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1319578357395156993",
+          "start": 0,
+          "username": "yoshino_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012460471623065630",
+    "in_reply_to_user_id": "1319578357395156993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012457854746128480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoshino_2333 普瑞巴林"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2012457215941021932",
+        "created_at": "2026-01-17T09:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T10:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012460471623065630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1319578357395156993",
+              "start": 0,
+              "username": "yoshino_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012460471623065630",
+        "in_reply_to_user_id": "1319578357395156993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012457854746128480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoshino_2333 普瑞巴林"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1319578357395156993",
+        "conversation_id": "2012457215941021932",
+        "created_at": "2026-01-17T09:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T10:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012457854746128480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012457854746128480",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012457215941021932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 o 了啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "1995540883278889351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009961353205923840/TsgZdod5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2952,
+          "following_count": 2758,
+          "like_count": 35516,
+          "listed_count": 14,
+          "media_count": 1582,
+          "tweet_count": 34069
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "可能是个开发者 | 性别男 | 无意义发癫警告 ⚠ | 墙内更常用名: Roitium | 赛博精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98S2km"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "name": "Yoshino233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007736597782126592/sUrC5aNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 447,
+          "like_count": 5635,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 3917
+        },
+        "url": "https://t.co/z8BZ98S2km",
+        "username": "yoshino_2333",
+        "verified": false
+      }
+    ]
+  }
+}

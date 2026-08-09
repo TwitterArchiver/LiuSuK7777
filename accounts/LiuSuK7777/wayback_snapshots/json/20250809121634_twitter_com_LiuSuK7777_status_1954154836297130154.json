@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1954045621863952498",
+    "created_at": "2025-08-09T12:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T13:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954154836297130154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1608747238741753856",
+          "start": 0,
+          "username": "hnnn09700535"
+        },
+        {
+          "end": 25,
+          "id": "1646550974553522183",
+          "start": 14,
+          "username": "yeziyu7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954154836297130154",
+    "in_reply_to_user_id": "1608747238741753856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954098809895596477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hnnn09700535 @yeziyu7777 不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1954045621863952498",
+        "created_at": "2025-08-09T12:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T13:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954154836297130154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1608747238741753856",
+              "start": 0,
+              "username": "hnnn09700535"
+            },
+            {
+              "end": 25,
+              "id": "1646550974553522183",
+              "start": 14,
+              "username": "yeziyu7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954154836297130154",
+        "in_reply_to_user_id": "1608747238741753856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954098809895596477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hnnn09700535 @yeziyu7777 不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608747238741753856",
+        "conversation_id": "1954045621863952498",
+        "created_at": "2025-08-09T08:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T09:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954098809895596477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            },
+            {
+              "end": 23,
+              "id": "1646550974553522183",
+              "start": 12,
+              "username": "yeziyu7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954098809895596477",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954089011313553891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 @yeziyu7777 难道是在调情（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "超高校级の無意識",
+        "pinned_tweet_id": "1949513211826377068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954045779037106180/3uk8cu-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2564,
+          "following_count": 2656,
+          "like_count": 34968,
+          "listed_count": 10,
+          "media_count": 1288,
+          "tweet_count": 29073
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T08:50:29.000Z",
+        "description": "",
+        "id": "1608747238741753856",
+        "name": "肉叽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790606930538377216/pWkQMhZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 70,
+          "like_count": 4550,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1153
+        },
+        "username": "hnnn09700535",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T16:28:58.000Z",
+        "description": "睡着了…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yeziyu7771",
+                "end": 23,
+                "expanded_url": "http://ngl.link/yeziyu7771",
+                "start": 0,
+                "url": "https://t.co/omZuBL0e6H"
+              }
+            ]
+          }
+        },
+        "id": "1646550974553522183",
+        "name": "永远の叶_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954048903151603712/sTjL8W-1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 756,
+          "like_count": 65357,
+          "listed_count": 5,
+          "media_count": 394,
+          "tweet_count": 6694
+        },
+        "url": "https://t.co/omZuBL0e6H",
+        "username": "yeziyu7777",
+        "verified": false
+      }
+    ]
+  }
+}

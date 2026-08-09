@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2083848691954356608",
+    "created_at": "2026-08-02T23:45:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T00:45:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084063179194454189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876613242887282688",
+          "start": 0,
+          "username": "liujiayi1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084063179194454189",
+    "in_reply_to_user_id": "1876613242887282688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084059551121183129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liujiayi1111 我喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2083848691954356608",
+        "created_at": "2026-08-02T23:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T00:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084063179194454189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084063179194454189",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084059551121183129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876613242887282688",
+        "conversation_id": "2083848691954356608",
+        "created_at": "2026-08-02T23:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T00:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084059551121183129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084059551121183129",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083848691954356608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 真诚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 杭州 08年 舞萌/东方/Arcaea/明日方舟/三角洲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2068533981818290551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060157452931465216/9MujmSVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3632,
+          "following_count": 2772,
+          "like_count": 34243,
+          "listed_count": 14,
+          "media_count": 1709,
+          "tweet_count": 35376
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "生活类博主，分享心情、吐槽、碎碎念，偶尔掉落日常生活碎片。不互fo，只关注自己感兴趣的。LOL游戏主播。被Tauri伤透两回，再也不喜欢Tauri了！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/liujiayi1111/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/liujiayi1111/status/2058900883270758469",
+                "start": 0,
+                "url": "https://t.co/er9WmJIcnW"
+              }
+            ]
+          }
+        },
+        "id": "1876613242887282688",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10513,
+          "following_count": 99,
+          "like_count": 14007,
+          "listed_count": 29,
+          "media_count": 325,
+          "tweet_count": 3553
+        },
+        "url": "https://t.co/er9WmJIcnW",
+        "username": "liujiayi1111",
+        "verified": true
+      }
+    ]
+  }
+}

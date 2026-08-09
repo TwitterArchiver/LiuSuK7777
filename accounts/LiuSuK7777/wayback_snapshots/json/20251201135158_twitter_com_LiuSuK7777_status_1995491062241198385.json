@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1995095871206437367",
+    "created_at": "2025-12-01T13:51:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T14:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995491062241198385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1945894406244208640",
+          "start": 0,
+          "username": "daimengniu00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995491062241198385",
+    "in_reply_to_user_id": "1945894406244208640",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995095871206437367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daimengniu00 ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 756,
+        "media_key": "3_1995095859852447744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ABHTNbkAAZkuy.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1995095871206437367",
+        "created_at": "2025-12-01T13:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T14:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995491062241198385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1945894406244208640",
+              "start": 0,
+              "username": "daimengniu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995491062241198385",
+        "in_reply_to_user_id": "1945894406244208640",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995095871206437367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daimengniu00 ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995095859852447744"
+          ]
+        },
+        "author_id": "1945894406244208640",
+        "conversation_id": "1995095871206437367",
+        "created_at": "2025-11-30T11:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T12:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995095871206437367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j9DpiRcNVm",
+              "end": 23,
+              "expanded_url": "https://x.com/daimengniu00/status/1995095871206437367/photo/1",
+              "media_key": "3_1995095859852447744",
+              "start": 0,
+              "url": "https://t.co/j9DpiRcNVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995095871206437367",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 378,
+          "impression_count": 2765696,
+          "like_count": 4239,
+          "quote_count": 16,
+          "reply_count": 168,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/j9DpiRcNVm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1994457982331961835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994695488520835072/aNvlyX-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2891,
+          "following_count": 2737,
+          "like_count": 35410,
+          "listed_count": 13,
+          "media_count": 1537,
+          "tweet_count": 32854
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T17:12:45.000Z",
+        "description": "感觉自己好呆萌呀……门槛费涨钱是因为牛牛最近炒股赔钱了 好想哭 皮下女孩 ❗️接广置顶自行分辨❗️牛牛在赚饲料钱 牛牛上网就是为了逗你们开心滴",
+        "id": "1945894406244208640",
+        "location": "🚪52",
+        "name": "呆萌小牛牛",
+        "pinned_tweet_id": "1995350595352621140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988592293365080065/gC2LdIvN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4468,
+          "following_count": 46,
+          "like_count": 998,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1410
+        },
+        "username": "daimengniu00",
+        "verified": false
+      }
+    ]
+  }
+}

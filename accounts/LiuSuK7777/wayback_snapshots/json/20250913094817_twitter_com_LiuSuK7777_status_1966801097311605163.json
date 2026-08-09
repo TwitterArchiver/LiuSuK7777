@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966801073915785216"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1966800589511074025",
+    "created_at": "2025-09-13T09:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T10:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966801097311605163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1862933126466666496",
+          "start": 0,
+          "username": "moremoreagain"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hkCoA3b96C",
+          "end": 45,
+          "expanded_url": "https://x.com/LiuSuK7777/status/1966801097311605163/photo/1",
+          "media_key": "3_1966801073915785216",
+          "start": 22,
+          "url": "https://t.co/hkCoA3b96C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966801097311605163",
+    "in_reply_to_user_id": "1862933126466666496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966800961357123751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moremoreagain 是这个 联动 https://t.co/hkCoA3b96C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1966801073915785216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0t7J_qbcAANY5Q.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966801073915785216"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1966800589511074025",
+        "created_at": "2025-09-13T09:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T10:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966801097311605163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1862933126466666496",
+              "start": 0,
+              "username": "moremoreagain"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hkCoA3b96C",
+              "end": 45,
+              "expanded_url": "https://x.com/LiuSuK7777/status/1966801097311605163/photo/1",
+              "media_key": "3_1966801073915785216",
+              "start": 22,
+              "url": "https://t.co/hkCoA3b96C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966801097311605163",
+        "in_reply_to_user_id": "1862933126466666496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966800961357123751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moremoreagain 是这个 联动 https://t.co/hkCoA3b96C"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862933126466666496",
+        "conversation_id": "1966800589511074025",
+        "created_at": "2025-09-13T09:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T10:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966800961357123751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966800961357123751",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966800589511074025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 哇\n你的上一个帖子是\n没忍住\n诶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "老公的id太难记了不想打 反正是939\n本人男 17岁 三角洲/明日方舟/arcaea/舞萌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1966750967149588919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966711124734410752/71NBjUL5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2630,
+          "following_count": 2637,
+          "like_count": 35401,
+          "listed_count": 14,
+          "media_count": 1362,
+          "tweet_count": 30092
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T18:54:15.000Z",
+        "description": "发癫｜偶尔抽象｜日记推（阴湿之物）｜礼（窝）貌（囊）｜不关心政治｜我从不否认自己是傻逼｜互联网重度依赖｜赤石英雄搬石英雄\n｜我不会再回复每个人的消息了，我是个小气鬼捏",
+        "id": "1862933126466666496",
+        "name": "窥梦",
+        "pinned_tweet_id": "1936740643755421859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936741037256404992/tkBYioIr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 1017,
+          "like_count": 58336,
+          "listed_count": 6,
+          "media_count": 1032,
+          "tweet_count": 25574
+        },
+        "username": "moremoreagain",
+        "verified": false
+      }
+    ]
+  }
+}

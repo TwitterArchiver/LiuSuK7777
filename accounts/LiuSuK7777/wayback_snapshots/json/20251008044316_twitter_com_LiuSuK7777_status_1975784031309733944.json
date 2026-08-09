@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1975484645203669022",
+    "created_at": "2025-10-08T04:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T05:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975784031309733944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "605622588",
+          "start": 0,
+          "username": "swywll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975784031309733944",
+    "in_reply_to_user_id": "605622588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975775033755861038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@swywll 从我周围的人\n干嘛流量那么高啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1975484645203669022",
+        "created_at": "2025-10-08T04:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T05:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975784031309733944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "605622588",
+              "start": 0,
+              "username": "swywll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975784031309733944",
+        "in_reply_to_user_id": "605622588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975775033755861038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@swywll 从我周围的人\n干嘛流量那么高啊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "605622588",
+        "conversation_id": "1975484645203669022",
+        "created_at": "2025-10-08T04:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T05:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975775033755861038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975775033755861038",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975484645203669022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 你这是从哪里得出的结论？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "……\n逃生舱@liusuk8888\n我是男孩子！\n主人♡@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 41,
+                "start": 28,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969600938567745538/genz-feI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2716,
+          "following_count": 2652,
+          "like_count": 35462,
+          "listed_count": 15,
+          "media_count": 1421,
+          "tweet_count": 31033
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-11T16:14:29.000Z",
+        "description": "本账号仅发布推文，暂不处理其他问题。 关注三文鱼官方X（@swyvpn），获取最新优惠与动态。 支持三端设备，解锁流媒体！，千兆专线，不限设备客户端，不记录用户数据 官网：https://t.co/SOSUFLND0c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "swyvpn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "swyvpn.com",
+                "end": 109,
+                "expanded_url": "https://swyvpn.com",
+                "start": 86,
+                "url": "https://t.co/SOSUFLND0c"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "swyvpn.com",
+                "end": 23,
+                "expanded_url": "https://swyvpn.com/",
+                "start": 0,
+                "url": "https://t.co/V8hOrxlNbB"
+              }
+            ]
+          }
+        },
+        "id": "605622588",
+        "name": "5元/月小火箭/clash/VPN机场梯子加速器节点",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922346887056916481/bIAlWVol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 87,
+          "like_count": 2871,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 4023
+        },
+        "url": "https://t.co/V8hOrxlNbB",
+        "username": "swywll",
+        "verified": true
+      }
+    ]
+  }
+}

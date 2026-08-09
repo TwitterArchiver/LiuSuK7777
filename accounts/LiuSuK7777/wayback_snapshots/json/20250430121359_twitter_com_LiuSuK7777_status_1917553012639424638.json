@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1917504562287857919",
+    "created_at": "2025-04-30T12:13:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T13:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917553012639424638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1855890157989412864",
+          "start": 0,
+          "username": "tobisawam1saki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917553012639424638",
+    "in_reply_to_user_id": "1855890157989412864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917551958162039087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tobisawam1saki 我和我姐一个房间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1917504562287857919",
+        "created_at": "2025-04-30T12:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T13:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917553012639424638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1855890157989412864",
+              "start": 0,
+              "username": "tobisawam1saki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917553012639424638",
+        "in_reply_to_user_id": "1855890157989412864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917551958162039087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tobisawam1saki 我和我姐一个房间"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855890157989412864",
+        "conversation_id": "1917504562287857919",
+        "created_at": "2025-04-30T12:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T13:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917551958162039087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917551958162039087",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917504562287857919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 锁门？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1918,
+          "following_count": 2180,
+          "like_count": 31790,
+          "listed_count": 13,
+          "media_count": 974,
+          "tweet_count": 23467
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-11T08:27:58.000Z",
+        "description": "灭绝人性的法西斯跨🌈 华川粉支那人研究员🧑‍🔬共党最忠诚的网评员🇨🇳爱乌克兰东突的汉出🇺🇦支黑可以找我贴贴喵🫶里@R18misaki1 12.13🚪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "R18misaki1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/EJzza8b6",
+                "end": 23,
+                "expanded_url": "https://discord.gg/EJzza8b6",
+                "start": 0,
+                "url": "https://t.co/KAgt2qkSvO"
+              }
+            ]
+          }
+        },
+        "id": "1855890157989412864",
+        "location": "南京",
+        "name": "鳶沢 みさき",
+        "pinned_tweet_id": "1916518573591425175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917549684547280896/kTq_zJO2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 1206,
+          "like_count": 20241,
+          "listed_count": 4,
+          "media_count": 121,
+          "tweet_count": 3216
+        },
+        "url": "https://t.co/KAgt2qkSvO",
+        "username": "tobisawam1saki",
+        "verified": false
+      }
+    ]
+  }
+}

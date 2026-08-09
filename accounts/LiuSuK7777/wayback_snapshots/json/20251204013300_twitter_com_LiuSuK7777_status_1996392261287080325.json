@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996392255377293312"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "conversation_id": "1996079861732155714",
+    "created_at": "2025-12-04T01:33:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T02:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996392261287080325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1822910760873537536",
+          "start": 0,
+          "username": "7sRef_XiaoLu99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FnyCQzlXqs",
+          "end": 62,
+          "expanded_url": "https://x.com/LiuSuK7777/status/1996392261287080325/photo/1",
+          "media_key": "3_1996392255377293312",
+          "start": 39,
+          "url": "https://t.co/FnyCQzlXqs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996392261287080325",
+    "in_reply_to_user_id": "1822910760873537536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996277952330551388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7sRef_XiaoLu99 我当然知道是acid啊 但是好像不是幼年形态 https://t.co/FnyCQzlXqs"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1996277952330551388].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1996277952330551388",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1996277952330551388"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1996392255377293312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ScLc4awAAilsh.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996392255377293312"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "conversation_id": "1996079861732155714",
+        "created_at": "2025-12-04T01:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T02:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996392261287080325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1822910760873537536",
+              "start": 0,
+              "username": "7sRef_XiaoLu99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FnyCQzlXqs",
+              "end": 62,
+              "expanded_url": "https://x.com/LiuSuK7777/status/1996392261287080325/photo/1",
+              "media_key": "3_1996392255377293312",
+              "start": 39,
+              "url": "https://t.co/FnyCQzlXqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996392261287080325",
+        "in_reply_to_user_id": "1822910760873537536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996277952330551388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7sRef_XiaoLu99 我当然知道是acid啊 但是好像不是幼年形态 https://t.co/FnyCQzlXqs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1996143989125419275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994695488520835072/aNvlyX-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2904,
+          "following_count": 2752,
+          "like_count": 35421,
+          "listed_count": 13,
+          "media_count": 1543,
+          "tweet_count": 33023
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T08:19:35.000Z",
+        "description": "Maimai Player from China🇨🇳 点赞代表已读/认同",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaolu0825",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaolu0825",
+                "start": 0,
+                "url": "https://t.co/MuBOa3q4Lx"
+              }
+            ]
+          }
+        },
+        "id": "1822910760873537536",
+        "location": "机厅",
+        "name": "-小鹿-🦌",
+        "pinned_tweet_id": "1922640334112145434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995904550264520704/C0xSxJAY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1713,
+          "following_count": 1287,
+          "like_count": 21488,
+          "listed_count": 11,
+          "media_count": 519,
+          "tweet_count": 9435
+        },
+        "url": "https://t.co/MuBOa3q4Lx",
+        "username": "7sRef_XiaoLu99",
+        "verified": false
+      }
+    ]
+  }
+}

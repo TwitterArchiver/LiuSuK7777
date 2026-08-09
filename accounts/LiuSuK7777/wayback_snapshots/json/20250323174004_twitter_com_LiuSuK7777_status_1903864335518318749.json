@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1903864335518318749",
+    "created_at": "2025-03-23T17:40:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T18:40:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903864335518318749"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/stillming_/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/stillming_/status/1903489098427634041",
+          "start": 6,
+          "url": "https://t.co/vMWd5okZZG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903864335518318749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903489098427634041",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "欸不是哥们 https://t.co/vMWd5okZZG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1903489087010721792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmqNPVEbUAAUBoW.jpg",
+        "width": 946
+      },
+      {
+        "height": 238,
+        "media_key": "16_1903489087023308800",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GmqNPVHbYAAyjlE.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GmqNPVHbYAAyjlE.mp4"
+          }
+        ],
+        "width": 424
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1903864335518318749",
+        "created_at": "2025-03-23T17:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T18:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903864335518318749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/stillming_/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/stillming_/status/1903489098427634041",
+              "start": 6,
+              "url": "https://t.co/vMWd5okZZG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903864335518318749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903489098427634041",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "欸不是哥们 https://t.co/vMWd5okZZG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903489087010721792",
+            "16_1903489087023308800"
+          ]
+        },
+        "author_id": "1523517497319768064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1903489098427634041",
+        "created_at": "2025-03-22T16:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T17:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903489098427634041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uvfus38TkJ",
+              "end": 40,
+              "expanded_url": "https://x.com/stillming_/status/1903489098427634041/photo/1",
+              "media_key": "3_1903489087010721792",
+              "start": 17,
+              "url": "https://t.co/Uvfus38TkJ"
+            },
+            {
+              "display_url": "pic.x.com/Uvfus38TkJ",
+              "end": 40,
+              "expanded_url": "https://x.com/stillming_/status/1903489098427634041/photo/1",
+              "media_key": "16_1903489087023308800",
+              "start": 17,
+              "url": "https://t.co/Uvfus38TkJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903489098427634041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "炒了个做结果别人要真发\n\n虚晃～ https://t.co/Uvfus38TkJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "可爱男娘：@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "☆流苏☆🐱IP杭州（100%互fo）",
+        "pinned_tweet_id": "1901903397277532265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1585,
+          "following_count": 1884,
+          "like_count": 28671,
+          "listed_count": 13,
+          "media_count": 819,
+          "tweet_count": 19092
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-09T04:17:42.000Z",
+        "description": "\"muy quiero quedarme en su casa\"",
+        "id": "1523517497319768064",
+        "name": "司",
+        "pinned_tweet_id": "1871805998459130211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861798629738156032/xvWzw4gn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1213,
+          "following_count": 2388,
+          "like_count": 59446,
+          "listed_count": 12,
+          "media_count": 1880,
+          "tweet_count": 12449
+        },
+        "username": "stillming_",
+        "verified": false
+      }
+    ]
+  }
+}

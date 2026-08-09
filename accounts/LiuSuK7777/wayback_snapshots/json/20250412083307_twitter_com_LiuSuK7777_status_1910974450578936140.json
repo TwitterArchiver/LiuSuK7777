@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1910971623370571999",
+    "created_at": "2025-04-12T08:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T09:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910974450578936140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1012920230803169280",
+          "start": 0,
+          "username": "Quebec_MonPays"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910974450578936140",
+    "in_reply_to_user_id": "1012920230803169280",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910972918865023072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quebec_MonPays ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1910971623370571999",
+        "created_at": "2025-04-12T08:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T09:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910974450578936140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1012920230803169280",
+              "start": 0,
+              "username": "Quebec_MonPays"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910974450578936140",
+        "in_reply_to_user_id": "1012920230803169280",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910972918865023072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quebec_MonPays ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1012920230803169280",
+        "conversation_id": "1910971623370571999",
+        "created_at": "2025-04-12T08:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T09:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910972918865023072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910972918865023072",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910971623370571999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 GO学长这波太狠了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb700j"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1758,
+          "following_count": 2061,
+          "like_count": 30205,
+          "listed_count": 12,
+          "media_count": 882,
+          "tweet_count": 21908
+        },
+        "url": "https://t.co/2xm6Tb700j",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-30T04:46:16.000Z",
+        "description": "现居魁北克/中文/English/Français\n二次元/TypeMoon/Galgame/Steam/英雄联盟/主机游戏/FNATIC\n我推：爱尔奎特，新谷灯華，荻浜茜，咲畑梨深。\nRT/Fo≠Endorsement\n尽量不支黑 随缘回FO。\n我们终将相逢在明月映照的彼方！\n月の彼方で逢いましょう！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "w1nthetarget.github.io",
+                "end": 23,
+                "expanded_url": "http://w1nthetarget.github.io",
+                "start": 0,
+                "url": "https://t.co/qnNGBD8W8L"
+              }
+            ]
+          }
+        },
+        "id": "1012920230803169280",
+        "location": "IP所在国：魁北克",
+        "name": "观测者归来，看波函数土崩瓦解，光粒子性的本征态已经到来！",
+        "pinned_tweet_id": "1906977803838316738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897287680309829632/ra9YoYW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 6042,
+          "like_count": 61139,
+          "listed_count": 14,
+          "media_count": 324,
+          "tweet_count": 2783
+        },
+        "url": "https://t.co/qnNGBD8W8L",
+        "username": "Quebec_MonPays",
+        "verified": true
+      }
+    ]
+  }
+}

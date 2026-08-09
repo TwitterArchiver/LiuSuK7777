@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1925492469485248718",
+    "created_at": "2025-05-23T11:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T12:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925874527055024206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1634535757410111489",
+          "start": 0,
+          "username": "woshi_caicai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925874527055024206",
+    "in_reply_to_user_id": "1634535757410111489",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925871680284504107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woshi_caicai 都不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1925492469485248718",
+        "created_at": "2025-05-23T11:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T12:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925874527055024206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634535757410111489",
+              "start": 0,
+              "username": "woshi_caicai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925874527055024206",
+        "in_reply_to_user_id": "1634535757410111489",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925871680284504107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshi_caicai 都不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634535757410111489",
+        "conversation_id": "1925492469485248718",
+        "created_at": "2025-05-23T11:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T12:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925871680284504107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925871680284504107",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925492469485248718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 🦌多了或者阳痿了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "😣",
+        "name": "K",
+        "pinned_tweet_id": "1923615398567833920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2048,
+          "following_count": 2314,
+          "like_count": 33742,
+          "listed_count": 11,
+          "media_count": 1072,
+          "tweet_count": 25199
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T12:44:37.000Z",
+        "description": "中性|不键政|工作日在上学＝似了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hongyu_yuki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hongyu_yuki",
+                "start": 0,
+                "url": "https://t.co/kSCU5K8mGL"
+              }
+            ]
+          }
+        },
+        "id": "1634535757410111489",
+        "location": "🚪0.4",
+        "name": "虹雨",
+        "pinned_tweet_id": "1908340991272378395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923338673476816897/TtY_Yipm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 232,
+          "like_count": 6172,
+          "listed_count": 4,
+          "media_count": 94,
+          "tweet_count": 2360
+        },
+        "url": "https://t.co/kSCU5K8mGL",
+        "username": "woshi_caicai",
+        "verified": false
+      }
+    ]
+  }
+}

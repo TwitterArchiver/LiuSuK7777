@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1907260518517309746",
+    "created_at": "2025-04-02T06:03:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T07:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907312981429436702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822910760873537536",
+          "start": 0,
+          "username": "KaitlynXiaoLu99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907312981429436702",
+    "in_reply_to_user_id": "1822910760873537536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907260518517309746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaitlynXiaoLu99 羡慕出勤 放假了我也去出勤"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1907260518517309746].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1907260518517309746",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1907260518517309746"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1907260518517309746",
+        "created_at": "2025-04-02T06:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T07:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907312981429436702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822910760873537536",
+              "start": 0,
+              "username": "KaitlynXiaoLu99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907312981429436702",
+        "in_reply_to_user_id": "1822910760873537536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907260518517309746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaitlynXiaoLu99 羡慕出勤 放假了我也去出勤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "跟我面基可以随便摸我",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 2043,
+          "like_count": 29879,
+          "listed_count": 12,
+          "media_count": 878,
+          "tweet_count": 21346
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T08:19:35.000Z",
+        "description": "isfp-t｜バンドリ｜威权主义+建制派｜lgbtq尊重｜魔女の旅々｜MyGO全员厨｜MaimaiDX｜愿我们都能走在有光的路上｜发癫小号：@XiaoLuNigeru｜筹备二周目ing…@LightlyXiaoLu99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "XiaoLuNigeru"
+              },
+              {
+                "end": 109,
+                "start": 93,
+                "username": "LightlyXiaoLu99"
+              }
+            ]
+          }
+        },
+        "id": "1822910760873537536",
+        "location": "羽丘女子学园",
+        "name": "-小鹿小鹿-🦌",
+        "pinned_tweet_id": "1902459772336750656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906759235129729024/bo3AJeGX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1805,
+          "following_count": 1306,
+          "like_count": 21469,
+          "listed_count": 9,
+          "media_count": 482,
+          "tweet_count": 8644
+        },
+        "username": "KaitlynXiaoLu99",
+        "verified": false
+      }
+    ]
+  }
+}

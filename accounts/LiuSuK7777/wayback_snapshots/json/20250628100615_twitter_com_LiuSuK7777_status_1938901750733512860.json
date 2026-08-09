@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1938832212436332925",
+    "created_at": "2025-06-28T10:06:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T11:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938901750733512860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1632037928791838722",
+          "start": 0,
+          "username": "nanaiskami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938901750733512860",
+    "in_reply_to_user_id": "1632037928791838722",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938849966463819878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanaiskami 啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1938832212436332925",
+        "created_at": "2025-06-28T10:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T11:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938901750733512860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1632037928791838722",
+              "start": 0,
+              "username": "nanaiskami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938901750733512860",
+        "in_reply_to_user_id": "1632037928791838722",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938849966463819878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanaiskami 啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632037928791838722",
+        "conversation_id": "1938832212436332925",
+        "created_at": "2025-06-28T06:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T07:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938849966463819878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938849966463819878",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938832212436332925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 好腿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男|Arcaea|明日方舟|舞萌DX|火影忍者|社恐健全B|2008.02.29 |主人@yeziyu7777对象@zyh1428202小号@Loveyezi8964\n微信用户名同推特用户名",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1936314364468105461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2217,
+          "following_count": 2480,
+          "like_count": 34420,
+          "listed_count": 10,
+          "media_count": 1151,
+          "tweet_count": 27011
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T15:19:09.000Z",
+        "description": "🏳️‍⚧️ | 欢迎互fo | 打工人|常住上海/南京 | 老东西了",
+        "id": "1632037928791838722",
+        "location": "~100m",
+        "name": "无糖可乐加冰🧊🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846019542902099969/xHBjIF_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 336,
+          "like_count": 914,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 399
+        },
+        "username": "nanaiskami",
+        "verified": false
+      }
+    ]
+  }
+}

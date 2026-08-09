@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1958287663355908190",
+    "created_at": "2025-08-20T23:26:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T00:26:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958309647334666533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1934423287729455105",
+          "start": 0,
+          "username": "AoS_Aur0raSky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958309647334666533",
+    "in_reply_to_user_id": "1934423287729455105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958287663355908190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AoS_Aur0raSky 这歌是这么个剧情？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1958287663355908190",
+        "created_at": "2025-08-20T23:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T00:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958309647334666533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1934423287729455105",
+              "start": 0,
+              "username": "AoS_Aur0raSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958309647334666533",
+        "in_reply_to_user_id": "1934423287729455105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958287663355908190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AoS_Aur0raSky 这歌是这么个剧情？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934423287729455105",
+        "conversation_id": "1958287663355908190",
+        "created_at": "2025-08-20T21:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T22:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958287663355908190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0ari_anime/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/0ari_anime/status/1958042161095799243",
+              "start": 33,
+              "url": "https://t.co/SDbrynuytr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958287663355908190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958042161095799243",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原来是歌啊，不知道的以为是什么超级变态女同上街猥亵大姐姐的故事呢 https://t.co/SDbrynuytr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "❤️@zyh842159145\n🐷@yeziyu7777 @TTKYYX03",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "zyh842159145"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 38,
+                "start": 29,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1954538422728585308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958177675258052608/-0Xirlsa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2587,
+          "following_count": 2647,
+          "like_count": 35117,
+          "listed_count": 13,
+          "media_count": 1319,
+          "tweet_count": 29433
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T01:30:35.000Z",
+        "description": "……简介是什么诶…（戳戳戳\n——能吃吗♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aur0rasky",
+                "end": 23,
+                "expanded_url": "http://ngl.link/aur0rasky",
+                "start": 0,
+                "url": "https://t.co/7D3f0Qc1AE"
+              }
+            ]
+          }
+        },
+        "id": "1934423287729455105",
+        "name": "极光天🌌𝐴𝑢𝑟𝑜𝑟𝑎𝑆𝑘𝑦",
+        "pinned_tweet_id": "1956043983232352610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948486922520985601/ptx6JF8M_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 64,
+          "like_count": 1162,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 243
+        },
+        "url": "https://t.co/7D3f0Qc1AE",
+        "username": "AoS_Aur0raSky",
+        "verified": false
+      }
+    ]
+  }
+}

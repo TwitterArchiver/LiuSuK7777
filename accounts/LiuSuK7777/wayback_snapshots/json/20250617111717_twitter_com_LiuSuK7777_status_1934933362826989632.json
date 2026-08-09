@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1934927716006121524",
+    "created_at": "2025-06-17T11:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T12:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934933362826989632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1815097256112201728",
+          "start": 0,
+          "username": "Sora06222206"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934933362826989632",
+    "in_reply_to_user_id": "1815097256112201728",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934927716006121524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sora06222206 awmc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1934927704215728128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gto-fsvXMAAO2iP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1934927716006121524",
+        "created_at": "2025-06-17T11:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T12:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934933362826989632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1815097256112201728",
+              "start": 0,
+              "username": "Sora06222206"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934933362826989632",
+        "in_reply_to_user_id": "1815097256112201728",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934927716006121524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sora06222206 awmc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934927704215728128"
+          ]
+        },
+        "author_id": "1815097256112201728",
+        "conversation_id": "1934927716006121524",
+        "created_at": "2025-06-17T10:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T11:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934927716006121524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZAauYNAtFo",
+              "end": 36,
+              "expanded_url": "https://x.com/Sora06222206/status/1934927716006121524/photo/1",
+              "media_key": "3_1934927704215728128",
+              "start": 13,
+              "url": "https://t.co/ZAauYNAtFo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934927716006121524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "借了舍友的伞冒雨赶去上课 https://t.co/ZAauYNAtFo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男孩子/流苏，Arcaea/明日方舟/舞萌DX/火影忍者/社恐/健全B/2008.02.29 |主人@yeziyu7777对象@zyh1428202小号@Loveyezi8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1934919167632920968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2171,
+          "following_count": 2440,
+          "like_count": 34282,
+          "listed_count": 11,
+          "media_count": 1122,
+          "tweet_count": 26503
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T18:51:37.000Z",
+        "description": "一般路过二次元/\n心智小学生水准的大学生😗/\n友跨顺男绝不翻车（？）/\n基本都会回fo/\n在这里大概发一些不想现实认识的人看到的生活碎碎念/Sensei/铁血梓厨/FPS玩家\n逃生舱 @Sora15225",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 92,
+                "username": "Sora15225"
+              }
+            ]
+          }
+        },
+        "id": "1815097256112201728",
+        "location": "广州",
+        "name": "是悠空喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907706746266857473/DMO0DG0H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 429,
+          "like_count": 5426,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1271
+        },
+        "username": "Sora06222206",
+        "verified": false
+      }
+    ]
+  }
+}

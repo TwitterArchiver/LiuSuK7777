@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1992957870879772900",
+    "created_at": "2025-11-25T10:10:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T11:10:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993261101237330009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1506291557233999877",
+          "start": 0,
+          "username": "aa463bcd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993261101237330009",
+    "in_reply_to_user_id": "1506291557233999877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992957870879772900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aa463bcd 看得出来他真的很想玩cs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6666,
+        "height": 1280,
+        "media_key": "13_1992957812834775040",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1992957812834775040/img/YzVh7pFmDgPwOqvA.jpg",
+        "public_metrics": {
+          "view_count": 9609
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992957812834775040/vid/avc1/320x690/NAGuWPouc0gO7NtS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992957812834775040/vid/avc1/480x1036/0q7WfRtLaZqfGFgQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992957812834775040/vid/avc1/592x1280/wUFUxPrk6rtnjSmY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1992957812834775040/pl/YbQc9E5eU6-wR6Of.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1992957870879772900",
+        "created_at": "2025-11-25T10:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T11:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993261101237330009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1506291557233999877",
+              "start": 0,
+              "username": "aa463bcd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993261101237330009",
+        "in_reply_to_user_id": "1506291557233999877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992957870879772900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aa463bcd 看得出来他真的很想玩cs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1992957812834775040"
+          ]
+        },
+        "author_id": "1506291557233999877",
+        "conversation_id": "1992957870879772900",
+        "created_at": "2025-11-24T14:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T15:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992957870879772900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dfKeo4cwrc",
+              "end": 25,
+              "expanded_url": "https://x.com/aa463bcd/status/1992957870879772900/video/1",
+              "media_key": "13_1992957812834775040",
+              "start": 2,
+              "url": "https://t.co/dfKeo4cwrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992957870879772900",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 33138,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/dfKeo4cwrc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1991206540901339270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993212696540725250/GFlbKqVG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2811,
+          "following_count": 2680,
+          "like_count": 35386,
+          "listed_count": 13,
+          "media_count": 1514,
+          "tweet_count": 32190
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "永遠是深夜有多好",
+        "id": "1506291557233999877",
+        "location": "Japan",
+        "name": "⁺♡hazuki",
+        "pinned_tweet_id": "1959290971318837385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956555816674459648/Nbbrv0Mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 247,
+          "like_count": 6193,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 906
+        },
+        "username": "aa463bcd",
+        "verified": false
+      }
+    ]
+  }
+}

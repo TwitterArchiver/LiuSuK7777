@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1970134990622245149",
+    "created_at": "2025-09-22T15:08:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T16:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970143228025532727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1871474805578371072",
+          "start": 0,
+          "username": "8c4356"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970143228025532727",
+    "in_reply_to_user_id": "1871474805578371072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970142601589539030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8c4356 （目移）我可不是变态"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1970142601589539030].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1970142601589539030",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1970142601589539030"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1970134990622245149",
+        "created_at": "2025-09-22T15:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T16:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970143228025532727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1871474805578371072",
+              "start": 0,
+              "username": "8c4356"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970143228025532727",
+        "in_reply_to_user_id": "1871474805578371072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970142601589539030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8c4356 （目移）我可不是变态"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969600938567745538/genz-feI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2650,
+          "following_count": 2644,
+          "like_count": 35398,
+          "listed_count": 14,
+          "media_count": 1384,
+          "tweet_count": 30424
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T08:36:08.000Z",
+        "description": "此位置还未被定义",
+        "id": "1871474805578371072",
+        "location": "地灵殿",
+        "name": "la priere",
+        "pinned_tweet_id": "1938692356254970273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927408250737045505/eiNlUdlC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 226,
+          "like_count": 16564,
+          "listed_count": 0,
+          "media_count": 916,
+          "tweet_count": 8497
+        },
+        "username": "8c4356",
+        "verified": false
+      }
+    ]
+  }
+}

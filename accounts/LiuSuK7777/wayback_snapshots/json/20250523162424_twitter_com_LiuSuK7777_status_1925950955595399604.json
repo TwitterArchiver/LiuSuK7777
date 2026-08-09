@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925950921751625728",
+        "3_1925950947416571904"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "conversation_id": "1925950955595399604",
+    "created_at": "2025-05-23T16:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T17:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925950955595399604"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pA0JbeJYdu",
+          "end": 55,
+          "expanded_url": "https://x.com/LiuSuK7777/status/1925950955595399604/photo/1",
+          "media_key": "3_1925950921751625728",
+          "start": 32,
+          "url": "https://t.co/pA0JbeJYdu"
+        },
+        {
+          "display_url": "pic.x.com/pA0JbeJYdu",
+          "end": 55,
+          "expanded_url": "https://x.com/LiuSuK7777/status/1925950955595399604/photo/1",
+          "media_key": "3_1925950947416571904",
+          "start": 32,
+          "url": "https://t.co/pA0JbeJYdu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925950955595399604",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "表情包怎么还是本子里的（\n男の娘とこいぬの乱れた性活(36P) https://t.co/pA0JbeJYdu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1925950955595399604].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1925950955595399604",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1925950955595399604"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 719,
+        "media_key": "3_1925950921751625728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrpaKMHXgAAcSfz.jpg",
+        "width": 583
+      },
+      {
+        "height": 1480,
+        "media_key": "3_1925950947416571904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrpaLruXgAAocB2.jpg",
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |唯一的主人@yeziyu7777/对象@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb700j"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "😣",
+        "name": "K",
+        "pinned_tweet_id": "1923615398567833920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2046,
+          "following_count": 2315,
+          "like_count": 33751,
+          "listed_count": 11,
+          "media_count": 1073,
+          "tweet_count": 25220
+        },
+        "url": "https://t.co/2xm6Tb700j",
+        "username": "LiuSuK7777",
+        "verified": false
+      }
+    ]
+  }
+}

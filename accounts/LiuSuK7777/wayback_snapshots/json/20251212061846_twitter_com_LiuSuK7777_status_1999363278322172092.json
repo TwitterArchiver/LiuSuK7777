@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1999353119927574647",
+    "created_at": "2025-12-12T06:18:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T07:18:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999363278322172092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999363278322172092",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999353119927574647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1450,
+        "media_key": "3_1999353113917161473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78hEGeagAEsK4j.jpg",
+        "width": 956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1999353119927574647",
+        "created_at": "2025-12-12T06:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T07:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999363278322172092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999363278322172092",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999353119927574647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999353113917161473"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1999353119927574647",
+        "created_at": "2025-12-12T05:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T06:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999353119927574647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5uEhQWnXTL",
+              "end": 34,
+              "expanded_url": "https://x.com/IXXA00/status/1999353119927574647/photo/1",
+              "media_key": "3_1999353113917161473",
+              "start": 11,
+              "url": "https://t.co/5uEhQWnXTL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999353119927574647",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃我如来神掌(回音) https://t.co/5uEhQWnXTL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "1995540883278889351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998267978916528128/FNUZvgoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2936,
+          "following_count": 2764,
+          "like_count": 35500,
+          "listed_count": 13,
+          "media_count": 1560,
+          "tweet_count": 33464
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "直播从来不穿裤子。有🚪",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1999135329228661013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5612,
+          "following_count": 4532,
+          "like_count": 34458,
+          "listed_count": 11,
+          "media_count": 2466,
+          "tweet_count": 34039
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

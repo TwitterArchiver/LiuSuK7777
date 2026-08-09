@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936423600493305856"
+      ],
+      "media_source_tweet_id": [
+        "1936423605174444214"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      }
+    ],
+    "conversation_id": "1936757681857134769",
+    "created_at": "2025-06-22T12:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T13:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936757681857134769"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 40,
+          "tag": "arcaea_art"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1354047259038654465",
+          "start": 3,
+          "username": "Merun114514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KfY7ZN1qNo",
+          "end": 75,
+          "expanded_url": "https://x.com/Merun114514/status/1936423605174444214/photo/1",
+          "media_key": "3_1936423600493305856",
+          "start": 52,
+          "url": "https://t.co/KfY7ZN1qNo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936757681857134769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 180
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936423605174444214",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Merun114514: 洞烛...\n我居然已经三年没画过arc了❗️\n#arcaea_art https://t.co/KfY7ZN1qNo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1936423600493305856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt-PAUoWIAANXpw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936423600493305856"
+          ],
+          "media_source_tweet_id": [
+            "1936423605174444214"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "1936757681857134769",
+        "created_at": "2025-06-22T12:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T13:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936757681857134769"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 40,
+              "tag": "arcaea_art"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1354047259038654465",
+              "start": 3,
+              "username": "Merun114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KfY7ZN1qNo",
+              "end": 75,
+              "expanded_url": "https://x.com/Merun114514/status/1936423605174444214/photo/1",
+              "media_key": "3_1936423600493305856",
+              "start": 52,
+              "url": "https://t.co/KfY7ZN1qNo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936757681857134769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 180
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936423605174444214",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Merun114514: 洞烛...\n我居然已经三年没画过arc了❗️\n#arcaea_art https://t.co/KfY7ZN1qNo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936423600493305856"
+          ]
+        },
+        "author_id": "1354047259038654465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "1936423605174444214",
+        "created_at": "2025-06-21T13:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T14:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936423605174444214"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 23,
+              "tag": "arcaea_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KfY7ZN1qNo",
+              "end": 58,
+              "expanded_url": "https://x.com/Merun114514/status/1936423605174444214/photo/1",
+              "media_key": "3_1936423600493305856",
+              "start": 35,
+              "url": "https://t.co/KfY7ZN1qNo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936423605174444214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 16022,
+          "like_count": 1084,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 180
+        },
+        "reply_settings": "everyone",
+        "text": "洞烛...\n我居然已经三年没画过arc了❗️\n#arcaea_art https://t.co/KfY7ZN1qNo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男|Arcaea|明日方舟|舞萌DX|火影忍者|社恐健全B|2008.02.29 |主人@yeziyu7777对象@zyh1428202小号@Loveyezi8964\n微信用户名同推特用户名",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏流苏流",
+        "pinned_tweet_id": "1936314364468105461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196,
+          "following_count": 2451,
+          "like_count": 34371,
+          "listed_count": 10,
+          "media_count": 1135,
+          "tweet_count": 26773
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-26T12:43:33.000Z",
+        "description": "🇨🇳，♂，打点音游，edm hdm idm 极端金属，rotaeno全ap制霸，arcaea12.46（已退坑）大概是画师，日语勉强能看懂一点，最喜欢的曲师是Kobaryo先生（和HiTNEX，也喜欢很多其他曲师，是超级伪娘控，推文/图涉及🔞",
+        "id": "1354047259038654465",
+        "location": "Kobaryoさん，大好きです👍",
+        "name": "歩反Merun",
+        "pinned_tweet_id": "1818706663345390069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653063888055697408/usAAcdis_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1762,
+          "following_count": 971,
+          "like_count": 11827,
+          "listed_count": 13,
+          "media_count": 663,
+          "tweet_count": 3341
+        },
+        "username": "Merun114514",
+        "verified": false
+      }
+    ]
+  }
+}

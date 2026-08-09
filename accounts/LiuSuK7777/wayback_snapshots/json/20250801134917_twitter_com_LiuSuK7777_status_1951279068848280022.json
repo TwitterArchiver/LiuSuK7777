@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1951220267826516245",
+    "created_at": "2025-08-01T13:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T14:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951279068848280022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1688385343580680192",
+          "start": 0,
+          "username": "heiwawomamore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951279068848280022",
+    "in_reply_to_user_id": "1688385343580680192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951277844916748651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heiwawomamore 並非賢惠 分內之事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1951220267826516245",
+        "created_at": "2025-08-01T13:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T14:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951279068848280022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1688385343580680192",
+              "start": 0,
+              "username": "heiwawomamore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951279068848280022",
+        "in_reply_to_user_id": "1688385343580680192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951277844916748651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heiwawomamore 並非賢惠 分內之事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688385343580680192",
+        "conversation_id": "1951220267826516245",
+        "created_at": "2025-08-01T13:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T14:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951277844916748651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951277844916748651",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951220267826516245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 哪有你这么贤惠还受这气的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男 | 御主/ダーリン@yeziyu7777 | 革命伴侣/契约者/運命の人@zyh1428202 | お姉ちゃん@ttkyyx03 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "ttkyyx03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "超高校级の無意識",
+        "pinned_tweet_id": "1949513211826377068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2509,
+          "following_count": 2640,
+          "like_count": 34929,
+          "listed_count": 10,
+          "media_count": 1264,
+          "tweet_count": 28752
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:03:51.000Z",
+        "description": "泛左派(或許）MtX🍥  🐈 \n\n發發生活和一些奇怪的想\n \n主要喜歡胃弱久石讓坂本龍一的音樂 常聽朮曲 歷史政治相關歌曲 左翼歌曲 日語英語歌曲 純音樂 交響樂 民歌 老歌 ACG音樂和其他平均律的音樂 歡迎給我推歌？\n\nima ingenting more alles\n  \n願你們平安順遂幸福快樂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/heiwawomamore",
+                "end": 23,
+                "expanded_url": "https://ngl.link/heiwawomamore",
+                "start": 0,
+                "url": "https://t.co/NkYsnsHUO7"
+              }
+            ]
+          }
+        },
+        "id": "1688385343580680192",
+        "location": "Singin' In The Rain",
+        "name": "Lav Mer Sam Ћin",
+        "pinned_tweet_id": "1734649492220342312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946642579417702400/6GP9lJ4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 2321,
+          "like_count": 131102,
+          "listed_count": 12,
+          "media_count": 1767,
+          "tweet_count": 70159
+        },
+        "url": "https://t.co/NkYsnsHUO7",
+        "username": "heiwawomamore",
+        "verified": false
+      }
+    ]
+  }
+}

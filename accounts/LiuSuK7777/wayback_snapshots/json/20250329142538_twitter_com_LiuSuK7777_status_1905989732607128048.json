@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1905989455107748177",
+    "created_at": "2025-03-29T14:25:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T15:25:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905989732607128048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766452473840173056",
+          "start": 0,
+          "username": "mikotossd0106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905989732607128048",
+    "in_reply_to_user_id": "1766452473840173056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905989455107748177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikotossd0106 祝好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1905989455107748177",
+        "created_at": "2025-03-29T14:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T15:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905989732607128048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766452473840173056",
+              "start": 0,
+              "username": "mikotossd0106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905989732607128048",
+        "in_reply_to_user_id": "1766452473840173056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905989455107748177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikotossd0106 祝好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766452473840173056",
+        "conversation_id": "1905989455107748177",
+        "created_at": "2025-03-29T14:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T15:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905989455107748177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mikotossd0106/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/mikotossd0106/status/1905956008914292950",
+              "start": 17,
+              "url": "https://t.co/BK3lLEyAf9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905989455107748177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905956008914292950",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不会有事的大家，暂时离开一段时间 https://t.co/BK3lLEyAf9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "💞@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "AAA_流苏批发",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1679,
+          "following_count": 1997,
+          "like_count": 29406,
+          "listed_count": 13,
+          "media_count": 861,
+          "tweet_count": 20578
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T13:14:37.000Z",
+        "description": "｜性格阴暗的死宅一个｜成分及其复杂｜初三国际部在读｜大概率是全推特唯一一个用水月雨miad01当主力机的人｜推止于推｜萝莉控｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikotossd.top",
+                "end": 23,
+                "expanded_url": "http://www.mikotossd.top",
+                "start": 0,
+                "url": "https://t.co/ONd86sCN43"
+              }
+            ]
+          }
+        },
+        "id": "1766452473840173056",
+        "location": "成都",
+        "name": "御坂代理服务",
+        "pinned_tweet_id": "1888584774773838056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879226218350075904/jFCN5grB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 779,
+          "like_count": 31601,
+          "listed_count": 4,
+          "media_count": 465,
+          "tweet_count": 2812
+        },
+        "url": "https://t.co/ONd86sCN43",
+        "username": "mikotossd0106",
+        "verified": false
+      }
+    ]
+  }
+}

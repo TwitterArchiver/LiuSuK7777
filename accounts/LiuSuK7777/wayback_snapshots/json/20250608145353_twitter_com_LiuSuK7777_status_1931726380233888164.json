@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1931725148836819207",
+    "created_at": "2025-06-08T14:53:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T15:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931726380233888164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1862933126466666496",
+          "start": 0,
+          "username": "moremoreagain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931726380233888164",
+    "in_reply_to_user_id": "1862933126466666496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931725148836819207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moremoreagain 没事我应该也是自己消化算了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1931725148836819207",
+        "created_at": "2025-06-08T14:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T15:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931726380233888164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1862933126466666496",
+              "start": 0,
+              "username": "moremoreagain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931726380233888164",
+        "in_reply_to_user_id": "1862933126466666496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931725148836819207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moremoreagain 没事我应该也是自己消化算了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862933126466666496",
+        "conversation_id": "1931725148836819207",
+        "created_at": "2025-06-08T14:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T15:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931725148836819207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931725148836819207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "事实上我又一次证明了我确实是一个很好的人，至少我被愚蠢的比如自己的人气到之后不会对朋友倾倒情绪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏，Arcaea/明日方舟/舞萌DX/火影忍者，线上淫乱线下社恐，健全B无心理疾病，经常搞砸让所有人都不开心，生日2008.02.29 |唯一的主人@yeziyu7777/对象@zyh1428202 小号@Loveyezi8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1931302860630688172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2118,
+          "following_count": 2389,
+          "like_count": 34112,
+          "listed_count": 11,
+          "media_count": 1100,
+          "tweet_count": 25965
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T18:54:15.000Z",
+        "description": "来推特发癫｜偶尔抽象｜日记推（阴湿之物）｜礼（窝）貌（囊）｜不关心政治｜我从不否认自己是傻逼｜互联网重度依赖｜赤石英雄搬石英雄\n｜我不会再回复每个人的消息了，我是个小气鬼捏",
+        "id": "1862933126466666496",
+        "name": "琥珀",
+        "pinned_tweet_id": "1884931805645803882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863409830171742208/hTjZ4qQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 797,
+          "like_count": 45714,
+          "listed_count": 4,
+          "media_count": 565,
+          "tweet_count": 17919
+        },
+        "username": "moremoreagain",
+        "verified": false
+      }
+    ]
+  }
+}

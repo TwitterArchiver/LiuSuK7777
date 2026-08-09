@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921939840750211073"
+      ],
+      "media_source_tweet_id": [
+        "1922203661234499880"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1922496057327411546",
+    "created_at": "2025-05-14T03:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T04:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922496057327411546"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 25,
+          "tag": "東方Project"
+        },
+        {
+          "end": 44,
+          "start": 37,
+          "tag": "古明地こいし"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1661339409214742528",
+          "start": 3,
+          "username": "Chiken__2000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6D2wfI4lW0",
+          "end": 68,
+          "expanded_url": "https://x.com/Chiken__2000/status/1922203661234499880/photo/1",
+          "media_key": "3_1921939840750211073",
+          "start": 45,
+          "url": "https://t.co/6D2wfI4lW0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922496057327411546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 105
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922203661234499880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chiken__2000: 無意識の春\n\n#東方Project \n#古明地こいし https://t.co/6D2wfI4lW0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3624,
+        "media_key": "3_1921939840750211073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqwaGi-WUAE2Vjy.jpg",
+        "width": 2600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921939840750211073"
+          ],
+          "media_source_tweet_id": [
+            "1922203661234499880"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1922496057327411546",
+        "created_at": "2025-05-14T03:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T04:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922496057327411546"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 25,
+              "tag": "東方Project"
+            },
+            {
+              "end": 44,
+              "start": 37,
+              "tag": "古明地こいし"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1661339409214742528",
+              "start": 3,
+              "username": "Chiken__2000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6D2wfI4lW0",
+              "end": 68,
+              "expanded_url": "https://x.com/Chiken__2000/status/1922203661234499880/photo/1",
+              "media_key": "3_1921939840750211073",
+              "start": 45,
+              "url": "https://t.co/6D2wfI4lW0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922496057327411546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 105
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922203661234499880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chiken__2000: 無意識の春\n\n#東方Project \n#古明地こいし https://t.co/6D2wfI4lW0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921939840750211073"
+          ]
+        },
+        "author_id": "1661339409214742528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1922203661234499880",
+        "created_at": "2025-05-13T08:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T09:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922203661234499880"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 7,
+              "tag": "東方Project"
+            },
+            {
+              "end": 26,
+              "start": 19,
+              "tag": "古明地こいし"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6D2wfI4lW0",
+              "end": 50,
+              "expanded_url": "https://x.com/Chiken__2000/status/1922203661234499880/photo/1",
+              "media_key": "3_1921939840750211073",
+              "start": 27,
+              "url": "https://t.co/6D2wfI4lW0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922203661234499880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 5470,
+          "like_count": 476,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 105
+        },
+        "reply_settings": "everyone",
+        "text": "無意識の春\n\n#東方Project \n#古明地こいし https://t.co/6D2wfI4lW0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": " 🔪‌",
+        "name": "流苏",
+        "pinned_tweet_id": "1921196565060088153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2032,
+          "following_count": 2287,
+          "like_count": 33092,
+          "listed_count": 11,
+          "media_count": 1051,
+          "tweet_count": 24581
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T11:52:56.000Z",
+        "description": "東方のイラストを描きます。目標は失踪しないこと。\n\nプロフィール詳細→【https://t.co/jQcyokyXCq】\nBOOTH→【https://t.co/Qj4yQmZiGc】\n🔞垢→【@Nanban_18】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "Nanban_18"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/chiken2000",
+                "end": 59,
+                "expanded_url": "https://lit.link/chiken2000",
+                "start": 36,
+                "url": "https://t.co/jQcyokyXCq"
+              },
+              {
+                "display_url": "chiken2000.booth.pm",
+                "end": 91,
+                "expanded_url": "https://chiken2000.booth.pm/",
+                "start": 68,
+                "url": "https://t.co/Qj4yQmZiGc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/108418094",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/108418094",
+                "start": 0,
+                "url": "https://t.co/7MM7bol4Y6"
+              }
+            ]
+          }
+        },
+        "id": "1661339409214742528",
+        "location": "⚠️無断転載・無断使用禁止⚠️",
+        "name": "ちきん南蛮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819955794290331648/SW2dMyZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 91,
+          "like_count": 2907,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 660
+        },
+        "url": "https://t.co/7MM7bol4Y6",
+        "username": "Chiken__2000",
+        "verified": false
+      }
+    ]
+  }
+}

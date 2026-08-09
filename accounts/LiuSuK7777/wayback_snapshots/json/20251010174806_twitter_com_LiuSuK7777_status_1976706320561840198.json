@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1976676426133967025",
+    "created_at": "2025-10-10T17:48:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T18:48:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976706320561840198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1871474805578371072",
+          "start": 0,
+          "username": "8c4356"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976706320561840198",
+    "in_reply_to_user_id": "1871474805578371072",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976676426133967025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8c4356 yyc？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1976676426133967025].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1976676426133967025",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1976676426133967025"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1976676426133967025",
+        "created_at": "2025-10-10T17:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T18:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976706320561840198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1871474805578371072",
+              "start": 0,
+              "username": "8c4356"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976706320561840198",
+        "in_reply_to_user_id": "1871474805578371072",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976676426133967025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8c4356 yyc？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "……\n逃生舱@liusuk8888\n我是男孩子！\n主人♡@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 41,
+                "start": 28,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976703554758098945/2sn3KBuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2763,
+          "following_count": 2653,
+          "like_count": 35471,
+          "listed_count": 14,
+          "media_count": 1424,
+          "tweet_count": 31099
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T08:36:08.000Z",
+        "description": "意识上传中",
+        "id": "1871474805578371072",
+        "location": "地灵殿",
+        "name": "la priere",
+        "pinned_tweet_id": "1938692356254970273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927408250737045505/eiNlUdlC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 230,
+          "like_count": 16823,
+          "listed_count": 0,
+          "media_count": 963,
+          "tweet_count": 9033
+        },
+        "username": "8c4356",
+        "verified": false
+      }
+    ]
+  }
+}

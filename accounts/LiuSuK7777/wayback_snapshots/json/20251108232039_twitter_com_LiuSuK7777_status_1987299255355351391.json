@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1987109221125828942",
+    "created_at": "2025-11-08T23:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T00:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987299255355351391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1512976991976402949",
+          "start": 0,
+          "username": "bghtnya"
+        },
+        {
+          "end": 16,
+          "id": "1817584080437014528",
+          "start": 9,
+          "username": "N552AA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987299255355351391",
+    "in_reply_to_user_id": "1512976991976402949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987109221125828942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bghtnya @N552AA 内定是吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1987109221125828942",
+        "created_at": "2025-11-08T23:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T00:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987299255355351391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            },
+            {
+              "end": 16,
+              "id": "1817584080437014528",
+              "start": 9,
+              "username": "N552AA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987299255355351391",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987109221125828942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya @N552AA 内定是吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1987109221125828942",
+        "created_at": "2025-11-08T10:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T11:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987109221125828942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1817584080437014528",
+              "start": 18,
+              "username": "N552AA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/bghtnya/status/1983125347576230255",
+              "start": 91,
+              "url": "https://t.co/Qoa6DsEBhI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987109221125828942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3203,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983125347576230255",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根据约定，现在开奖喵！\n让我们恭喜 @N552AA 抽中了 大白兔奶糖一盒！🥳🥳🥳\n请该用户私信发送给我收货地址，7天内没有收到则视为自动放弃喵\n欢迎各位多多光顾哦 (◍＞◡＜◍) https://t.co/Qoa6DsEBhI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！\n主人♡@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 69,
+                "start": 56,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976703554758098945/2sn3KBuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2781,
+          "following_count": 2683,
+          "like_count": 35437,
+          "listed_count": 13,
+          "media_count": 1494,
+          "tweet_count": 31866
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北京 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8150,
+          "following_count": 2117,
+          "like_count": 166123,
+          "listed_count": 20,
+          "media_count": 3403,
+          "tweet_count": 42209
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T15:33:18.000Z",
+        "description": "08/MTX（f?/ENTP-T/ADHD/BPD/断续含糖/坐标上海/有小证/半家长党/抱抱最最可爱的姐姐: @yizhikapaiqaq/主人：@ayumi_0222_ @nahida_miao\n/长在春风中，活在药效里。/上海市贴贴微信群群主",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "yizhikapaiqaq"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "ayumi_0222_"
+              },
+              {
+                "end": 99,
+                "start": 87,
+                "username": "nahida_miao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/zkiZZtLQUz"
+              }
+            ]
+          }
+        },
+        "id": "1817584080437014528",
+        "location": "参宿四",
+        "name": "N552AA🍥🍜🍣🍕💊🍫",
+        "pinned_tweet_id": "1953496186738069992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984004171713146880/ZhbhI7xS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 991,
+          "like_count": 3924,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1370
+        },
+        "url": "https://t.co/zkiZZtLQUz",
+        "username": "N552AA",
+        "verified": false
+      }
+    ]
+  }
+}

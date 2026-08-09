@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2078051746795171840"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "conversation_id": "2077983293979730353",
+    "created_at": "2026-07-17T09:38:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T10:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078051761177387169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746169580433883136",
+          "start": 0,
+          "username": "_Shu_official"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p3WpZR6yrN",
+          "end": 42,
+          "expanded_url": "https://x.com/LiuSuK7777/status/2078051761177387169/photo/1",
+          "media_key": "16_2078051746795171840",
+          "start": 19,
+          "url": "https://t.co/p3WpZR6yrN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078051761177387169",
+    "in_reply_to_user_id": "1746169580433883136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077983293979730353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Shu_official 下午好 https://t.co/p3WpZR6yrN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_2078051746795171840",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HNa5DcCbMAAGgGj.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HNa5DcCbMAAGgGj.mp4"
+          }
+        ],
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2078051746795171840"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "conversation_id": "2077983293979730353",
+        "created_at": "2026-07-17T09:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078051761177387169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746169580433883136",
+              "start": 0,
+              "username": "_Shu_official"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p3WpZR6yrN",
+              "end": 42,
+              "expanded_url": "https://x.com/LiuSuK7777/status/2078051761177387169/photo/1",
+              "media_key": "16_2078051746795171840",
+              "start": 19,
+              "url": "https://t.co/p3WpZR6yrN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078051761177387169",
+        "in_reply_to_user_id": "1746169580433883136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077983293979730353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Shu_official 下午好 https://t.co/p3WpZR6yrN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746169580433883136",
+        "conversation_id": "2077983293979730353",
+        "created_at": "2026-07-17T05:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T06:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077983293979730353"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077983293979730353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 751,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下午好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 杭州 08年 舞萌/东方/Arcaea/明日方舟/三角洲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2068533981818290551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060157452931465216/9MujmSVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3583,
+          "following_count": 2746,
+          "like_count": 34260,
+          "listed_count": 14,
+          "media_count": 1701,
+          "tweet_count": 35249
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T13:57:35.000Z",
+        "description": "",
+        "id": "1746169580433883136",
+        "location": "大炎 姜齐城",
+        "name": "Shu",
+        "pinned_tweet_id": "1888455184139075724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988113968079200256/nK687U8R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 550,
+          "like_count": 5043,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 2482
+        },
+        "url": "",
+        "username": "_Shu_official",
+        "verified": false
+      }
+    ]
+  }
+}

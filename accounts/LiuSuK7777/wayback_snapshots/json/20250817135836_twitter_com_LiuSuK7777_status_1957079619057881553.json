@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1957077105495191922",
+    "created_at": "2025-08-17T13:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T14:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957079619057881553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1803642368949886976",
+          "start": 0,
+          "username": "xiaoguai041003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957079619057881553",
+    "in_reply_to_user_id": "1803642368949886976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957077105495191922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoguai041003 卧槽这是真厉害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1957077105495191922",
+        "created_at": "2025-08-17T13:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T14:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957079619057881553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1803642368949886976",
+              "start": 0,
+              "username": "xiaoguai041003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957079619057881553",
+        "in_reply_to_user_id": "1803642368949886976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957077105495191922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoguai041003 卧槽这是真厉害"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803642368949886976",
+        "conversation_id": "1957077105495191922",
+        "created_at": "2025-08-17T13:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T14:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957077105495191922"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957077105495191922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你问这个吗？这个软件叫推特儿哦，是外国软件，国内上不去的哦，里边都是外国人。我也是钻研过很长时间才学会上外网的，我是个很厉害主播哦，足足有一万多粉丝呢，羡慕吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1954538422728585308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954809051319267328/I8I9Z1CP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2575,
+          "following_count": 2651,
+          "like_count": 35070,
+          "listed_count": 11,
+          "media_count": 1308,
+          "tweet_count": 29341
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T04:14:02.000Z",
+        "description": "毛儿的日记本|属性brat  星座天秤 |🚪52/188（没有区别就是想圈钱）纯绿 |日常and碎碎念|不线下不约 |推广自辨不是本人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=vnxE36SC",
+                "start": 0,
+                "url": "https://t.co/NtKvOP3zLM"
+              }
+            ]
+          }
+        },
+        "id": "1803642368949886976",
+        "location": " Tokyo 无广告干扰，机场节点随便挑，蜂鸟VPN",
+        "name": "小毛米",
+        "pinned_tweet_id": "1955892343120519595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941726080655593472/ydrsm3AW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11201,
+          "following_count": 266,
+          "like_count": 37399,
+          "listed_count": 16,
+          "media_count": 354,
+          "tweet_count": 8385
+        },
+        "url": "https://t.co/NtKvOP3zLM",
+        "username": "xiaoguai041003",
+        "verified": false
+      }
+    ]
+  }
+}

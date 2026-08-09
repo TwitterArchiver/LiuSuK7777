@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1905215428487774209"
+      ],
+      "media_source_tweet_id": [
+        "1905215432593711216"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "conversation_id": "1905403865161462162",
+    "created_at": "2025-03-27T23:37:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T00:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905403865161462162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1762120281626415104",
+          "start": 3,
+          "username": "JIZHI0_0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A7bordEipb",
+          "end": 46,
+          "expanded_url": "https://x.com/JIZHI0_0/status/1905215432593711216/photo/1",
+          "media_key": "3_1905215428487774209",
+          "start": 23,
+          "url": "https://t.co/A7bordEipb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905403865161462162",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905215432593711216",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JIZHI0_0: jk~(/ω＼) https://t.co/A7bordEipb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1905215428487774209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnCvVoObgAEinqd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905215428487774209"
+          ],
+          "media_source_tweet_id": [
+            "1905215432593711216"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "conversation_id": "1905403865161462162",
+        "created_at": "2025-03-27T23:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T00:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905403865161462162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1762120281626415104",
+              "start": 3,
+              "username": "JIZHI0_0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A7bordEipb",
+              "end": 46,
+              "expanded_url": "https://x.com/JIZHI0_0/status/1905215432593711216/photo/1",
+              "media_key": "3_1905215428487774209",
+              "start": 23,
+              "url": "https://t.co/A7bordEipb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905403865161462162",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905215432593711216",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JIZHI0_0: jk~(/ω＼) https://t.co/A7bordEipb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905215428487774209"
+          ]
+        },
+        "author_id": "1762120281626415104",
+        "conversation_id": "1905215432593711216",
+        "created_at": "2025-03-27T11:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T12:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905215432593711216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A7bordEipb",
+              "end": 32,
+              "expanded_url": "https://x.com/JIZHI0_0/status/1905215432593711216/photo/1",
+              "media_key": "3_1905215428487774209",
+              "start": 9,
+              "url": "https://t.co/A7bordEipb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905215432593711216",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1014,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "jk~(/ω＼) https://t.co/A7bordEipb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "💞@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "AAA_流苏批发",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1670,
+          "following_count": 1987,
+          "like_count": 29117,
+          "listed_count": 13,
+          "media_count": 848,
+          "tweet_count": 20188
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T14:19:56.000Z",
+        "description": "好耶～放飞自我啦～                                                                  👇这是赞赏码（小声）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/X_jvzhi/status…",
+                "end": 23,
+                "expanded_url": "https://x.com/X_jvzhi/status/1890065972251512970?t=N3_qrUwfgd6J7V_jONEpYQ&s=19",
+                "start": 0,
+                "url": "https://t.co/FQJcpBQKS4"
+              }
+            ]
+          }
+        },
+        "id": "1762120281626415104",
+        "name": "橘枳",
+        "pinned_tweet_id": "1886692793537433697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890064208911581184/pgvPpGCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1195,
+          "following_count": 136,
+          "like_count": 25661,
+          "listed_count": 6,
+          "media_count": 220,
+          "tweet_count": 9129
+        },
+        "url": "https://t.co/FQJcpBQKS4",
+        "username": "JIZHI0_0",
+        "verified": false
+      }
+    ]
+  }
+}

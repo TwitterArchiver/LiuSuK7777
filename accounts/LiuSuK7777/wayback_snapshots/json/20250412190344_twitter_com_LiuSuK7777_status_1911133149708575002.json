@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "1911108327528173814",
+    "created_at": "2025-04-12T19:03:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T20:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911133149708575002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1885436187046817792",
+          "start": 0,
+          "username": "CrimSeraph_QwQ"
+        },
+        {
+          "end": 28,
+          "id": "1634535757410111489",
+          "start": 16,
+          "username": "HongYu_yuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911133149708575002",
+    "in_reply_to_user_id": "1885436187046817792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911113336936190221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CrimSeraph_QwQ @HongYu_yuki 大部分情况下我也是这样\n只不过动漫和漫画是大于等于\n优缺点明显\n小说可能是我幻想不出来（没感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1911108327528173814",
+        "created_at": "2025-04-12T19:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T20:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911133149708575002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1885436187046817792",
+              "start": 0,
+              "username": "CrimSeraph_QwQ"
+            },
+            {
+              "end": 28,
+              "id": "1634535757410111489",
+              "start": 16,
+              "username": "HongYu_yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911133149708575002",
+        "in_reply_to_user_id": "1885436187046817792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911113336936190221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CrimSeraph_QwQ @HongYu_yuki 大部分情况下我也是这样\n只不过动漫和漫画是大于等于\n优缺点明显\n小说可能是我幻想不出来（没感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885436187046817792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1911108327528173814",
+        "created_at": "2025-04-12T17:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T18:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911113336936190221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1634535757410111489",
+              "start": 0,
+              "username": "HongYu_yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911113336936190221",
+        "in_reply_to_user_id": "1634535757410111489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911108327528173814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HongYu_yuki 动漫＞漫画＞真人＞小说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb700j"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1763,
+          "following_count": 2072,
+          "like_count": 30283,
+          "listed_count": 12,
+          "media_count": 891,
+          "tweet_count": 22005
+        },
+        "url": "https://t.co/2xm6Tb700j",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T21:13:44.000Z",
+        "description": "INTJ-T/not good at English/信仰钱💴/热爱二次元的私宅(特别是Miku🥰)/我只是在阴暗地盯着所有人👀/有任何事可✉️/广告一律ban了😾/阴暗丑陋的哥布林想要成为吸血鬼👿/想要创造新世界💻",
+        "id": "1885436187046817792",
+        "location": "Between Hell and Heaven",
+        "name": "CrimsonSeraph✟升天✟",
+        "pinned_tweet_id": "1908293344473858145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901284911602073600/hPLri5uN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 104,
+          "like_count": 7109,
+          "listed_count": 2,
+          "media_count": 307,
+          "tweet_count": 3873
+        },
+        "username": "CrimSeraph_QwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T12:44:37.000Z",
+        "description": "中性|不键政|互fo私信😢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hongyu_yuki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hongyu_yuki",
+                "start": 0,
+                "url": "https://t.co/bYjwqUz0gs"
+              }
+            ]
+          }
+        },
+        "id": "1634535757410111489",
+        "location": "🚪0.4",
+        "name": "虹雨",
+        "pinned_tweet_id": "1908340991272378395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908321342749106178/0qjFrMB6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 197,
+          "like_count": 3912,
+          "listed_count": 5,
+          "media_count": 49,
+          "tweet_count": 1442
+        },
+        "url": "https://t.co/bYjwqUz0gs",
+        "username": "HongYu_yuki",
+        "verified": false
+      }
+    ]
+  }
+}

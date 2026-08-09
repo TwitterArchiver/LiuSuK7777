@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1939558140800086473",
+    "created_at": "2025-06-30T06:57:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T07:57:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939579068258930911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1690570637499154432",
+          "start": 0,
+          "username": "saoweve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939579068258930911",
+    "in_reply_to_user_id": "1690570637499154432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 23,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939578854760427619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saoweve 我没钱 我翻车对象和主人会不高兴\n要不然我现在就是mtf了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1939558140800086473",
+        "created_at": "2025-06-30T06:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T07:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939579068258930911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "saoweve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939579068258930911",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939578854760427619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saoweve 我没钱 我翻车对象和主人会不高兴\n要不然我现在就是mtf了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "conversation_id": "1939558140800086473",
+        "created_at": "2025-06-30T06:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T07:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939578854760427619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939578854760427619",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939578781192393115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 啊不对，很多时候我都误以为你已经翻了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男|Arcaea|明日方舟|舞萌DX|火影忍者|社恐健全B|2008.02.29 |主人@yeziyu7777对象@zyh1428202小号@Loveyezi8964\n笨蛋姐姐@TTKYYX03",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Loveyezi8964"
+              },
+              {
+                "end": 97,
+                "start": 88,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1936314364468105461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2235,
+          "following_count": 2491,
+          "like_count": 34517,
+          "listed_count": 10,
+          "media_count": 1173,
+          "tweet_count": 27237
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "就这么做",
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937167378510426116/OYo5MO_K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3597,
+          "following_count": 377,
+          "like_count": 24566,
+          "listed_count": 12,
+          "media_count": 1533,
+          "tweet_count": 13335
+        },
+        "username": "saoweve",
+        "verified": true
+      }
+    ]
+  }
+}

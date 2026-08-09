@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1905610070198812763",
+    "created_at": "2025-03-28T13:20:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T14:20:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905611028563374165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1891865945095929858",
+          "start": 0,
+          "username": "CaiCai00947"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905611028563374165",
+    "in_reply_to_user_id": "1891865945095929858",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905610797902168340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CaiCai00947 酒精不坏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 868,
+        "media_key": "3_1905610788322369536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnIW6mYbYAAOHG5.jpg",
+        "width": 868
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1905610070198812763",
+        "created_at": "2025-03-28T13:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T14:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905611028563374165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1891865945095929858",
+              "start": 0,
+              "username": "CaiCai00947"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905611028563374165",
+        "in_reply_to_user_id": "1891865945095929858",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905610797902168340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaiCai00947 酒精不坏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905610788322369536"
+          ]
+        },
+        "author_id": "1891865945095929858",
+        "conversation_id": "1905610070198812763",
+        "created_at": "2025-03-28T13:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T14:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905610797902168340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ebVWN8BT3Z",
+              "end": 40,
+              "expanded_url": "https://x.com/CaiCai00947/status/1905610797902168340/photo/1",
+              "media_key": "3_1905610788322369536",
+              "start": 17,
+              "url": "https://t.co/ebVWN8BT3Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905610797902168340",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905610070198812763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 酒精坏！ https://t.co/ebVWN8BT3Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "💞@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "AAA_流苏批发",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1671,
+          "following_count": 1991,
+          "like_count": 29206,
+          "listed_count": 13,
+          "media_count": 851,
+          "tweet_count": 20304
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T15:03:10.000Z",
+        "description": "可以叫我cc，是个中年病娇大叔喵！C.C.永远爱你们！💛🧡💚💙💜🤎🖤🤍",
+        "id": "1891865945095929858",
+        "location": "一切有為法 如夢幻泡影 如露亦如電 應作如是觀 ",
+        "name": "魔女白瓷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905129879819223040/wqdaTCgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 90,
+          "like_count": 3450,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 431
+        },
+        "username": "CaiCai00947",
+        "verified": false
+      }
+    ]
+  }
+}

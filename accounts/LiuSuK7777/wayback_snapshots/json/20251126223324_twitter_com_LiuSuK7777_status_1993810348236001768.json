@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993539602309881857"
+      ],
+      "media_source_tweet_id": [
+        "1993539612372066720"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "conversation_id": "1993810348236001768",
+    "created_at": "2025-11-26T22:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T23:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993810348236001768"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 15,
+          "tag": "maimai"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1540590140027961345",
+          "start": 3,
+          "username": "nsw_wsxaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fjFq1POLit",
+          "end": 46,
+          "expanded_url": "https://x.com/nsw_wsxaa/status/1993539612372066720/photo/1",
+          "media_key": "3_1993539602309881857",
+          "start": 23,
+          "url": "https://t.co/fjFq1POLit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993810348236001768",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993539612372066720",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nsw_wsxaa: #maimai https://t.co/fjFq1POLit"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1993539602309881857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6p5tMFaoAEsK_L.jpg",
+        "width": 578
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993539602309881857"
+          ],
+          "media_source_tweet_id": [
+            "1993539612372066720"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "conversation_id": "1993810348236001768",
+        "created_at": "2025-11-26T22:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T23:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993810348236001768"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 15,
+              "tag": "maimai"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1540590140027961345",
+              "start": 3,
+              "username": "nsw_wsxaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fjFq1POLit",
+              "end": 46,
+              "expanded_url": "https://x.com/nsw_wsxaa/status/1993539612372066720/photo/1",
+              "media_key": "3_1993539602309881857",
+              "start": 23,
+              "url": "https://t.co/fjFq1POLit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993810348236001768",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993539612372066720",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nsw_wsxaa: #maimai https://t.co/fjFq1POLit"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993539602309881857"
+          ]
+        },
+        "author_id": "1540590140027961345",
+        "conversation_id": "1993539612372066720",
+        "created_at": "2025-11-26T04:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T05:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993539612372066720"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "maimai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fjFq1POLit",
+              "end": 31,
+              "expanded_url": "https://x.com/nsw_wsxaa/status/1993539612372066720/photo/1",
+              "media_key": "3_1993539602309881857",
+              "start": 8,
+              "url": "https://t.co/fjFq1POLit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993539612372066720",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 4817,
+          "like_count": 340,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "#maimai https://t.co/fjFq1POLit"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1991206540901339270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993261518008598535/GunVE9W__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2825,
+          "following_count": 2687,
+          "like_count": 35372,
+          "listed_count": 13,
+          "media_count": 1518,
+          "tweet_count": 32283
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T06:58:32.000Z",
+        "description": "非画师 均为自约稿 感谢喜欢",
+        "id": "1540590140027961345",
+        "location": "角落",
+        "name": "nswwassa_",
+        "pinned_tweet_id": "1935338133304029685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853426642087014400/GPM_c_CV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 22,
+          "like_count": 56,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 78
+        },
+        "username": "nsw_wsxaa",
+        "verified": false
+      }
+    ]
+  }
+}

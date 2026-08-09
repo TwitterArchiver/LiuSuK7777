@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1935744089460559925",
+    "created_at": "2025-06-20T02:49:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T03:49:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935892757098467611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1796542163712675840",
+          "start": 0,
+          "username": "_yh_awa_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935892757098467611",
+    "in_reply_to_user_id": "1796542163712675840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935744089460559925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_yh_awa_ 看到好多自杀的人和想自杀的人\n感觉我的面基死亡人数要从2/11到3/11了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1935744089460559925].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1935744089460559925",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1935744089460559925"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1935744089460559925",
+        "created_at": "2025-06-20T02:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T03:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935892757098467611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1796542163712675840",
+              "start": 0,
+              "username": "_yh_awa_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935892757098467611",
+        "in_reply_to_user_id": "1796542163712675840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935744089460559925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yh_awa_ 看到好多自杀的人和想自杀的人\n感觉我的面基死亡人数要从2/11到3/11了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男|Arcaea|明日方舟|舞萌DX|火影忍者|社恐健全B|2008.02.29 |主人@yeziyu7777对象@zyh1428202小号@Loveyezi8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1934919167632920968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2181,
+          "following_count": 2434,
+          "like_count": 34322,
+          "listed_count": 11,
+          "media_count": 1124,
+          "tweet_count": 26605
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T14:00:19.000Z",
+        "description": "戳戳筱雨 @_XiaoYu_OvO_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "_XiaoYu_OvO_"
+              }
+            ]
+          }
+        },
+        "id": "1796542163712675840",
+        "name": "yhOvO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828502948847947776/eYvvogCV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 7,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 381
+        },
+        "username": "_yh_awa_",
+        "verified": false
+      }
+    ]
+  }
+}

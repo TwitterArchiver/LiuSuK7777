@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1993603370913788199",
+    "created_at": "2025-11-26T10:05:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T11:05:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993622033062895889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1859486191281897477",
+          "start": 0,
+          "username": "liveDeath750122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993622033062895889",
+    "in_reply_to_user_id": "1859486191281897477",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993603370913788199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liveDeath750122 给我分点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1993603370913788199",
+        "created_at": "2025-11-26T10:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T11:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993622033062895889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1859486191281897477",
+              "start": 0,
+              "username": "liveDeath750122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993622033062895889",
+        "in_reply_to_user_id": "1859486191281897477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993603370913788199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liveDeath750122 给我分点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859486191281897477",
+        "conversation_id": "1993603370913788199",
+        "created_at": "2025-11-26T08:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T09:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993603370913788199"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993603370913788199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "趁着最后的时间，我向大家道别。\n我现在已经吞下致死量的大鸡吧了，马上就要失去意识了，最后的时间向大家道别，再见 ，谢谢你们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1991206540901339270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993261518008598535/GunVE9W__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2822,
+          "following_count": 2682,
+          "like_count": 35368,
+          "listed_count": 13,
+          "media_count": 1517,
+          "tweet_count": 32243
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T06:37:55.000Z",
+        "description": "文章写尽太平事  不肯俯首见苍生\n小鱼小鱼快快游  四面八方皆牢笼\n.15岁的贱奴 男娘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tardis.fandom.com/wiki/Doctor_Wh…",
+                "end": 23,
+                "expanded_url": "https://tardis.fandom.com/wiki/Doctor_Who_Wiki",
+                "start": 0,
+                "url": "https://t.co/rPBfjnfSYS"
+              }
+            ]
+          }
+        },
+        "id": "1859486191281897477",
+        "location": "Unified Intelligence Taskforce",
+        "name": "livefodeath/众善慈善",
+        "pinned_tweet_id": "1944000381773918624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983907777740451840/gzQ21mdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1847,
+          "following_count": 471,
+          "like_count": 19833,
+          "listed_count": 2,
+          "media_count": 738,
+          "tweet_count": 6994
+        },
+        "url": "https://t.co/rPBfjnfSYS",
+        "username": "liveDeath750122",
+        "verified": false
+      }
+    ]
+  }
+}

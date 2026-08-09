@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2061759862703612141",
+    "created_at": "2026-06-02T10:41:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T11:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061760172348080211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1063891520074375168",
+          "start": 0,
+          "username": "hakuqn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061760172348080211",
+    "in_reply_to_user_id": "1063891520074375168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061759862703612141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hakuqn 是ut欸 还不错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2061759862703612141",
+        "created_at": "2026-06-02T10:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061760172348080211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1063891520074375168",
+              "start": 0,
+              "username": "hakuqn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061760172348080211",
+        "in_reply_to_user_id": "1063891520074375168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061759862703612141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hakuqn 是ut欸 还不错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1063891520074375168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Undertale",
+              "id": "1057622481396068352",
+              "name": "Undertale"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Undertale",
+              "id": "1057622481396068352",
+              "name": "Undertale"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2061759862703612141",
+        "created_at": "2026-06-02T10:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061759862703612141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/e7l0prubcd4290…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/e7l0prubcd42909/status/2060857693909475764",
+              "start": 12,
+              "url": "https://t.co/DjNSjH8Yu2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061759862703612141",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060857693909475764",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ワイこの絵のタッチ好き https://t.co/DjNSjH8Yu2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 08年~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n可爱小南梁@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2032828973374386365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060157452931465216/9MujmSVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3520,
+          "following_count": 2713,
+          "like_count": 34434,
+          "listed_count": 14,
+          "media_count": 1669,
+          "tweet_count": 34966
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-17T20:27:59.000Z",
+        "description": "RPいいねbot。 #ウマ娘 #umamusume #LimbusCompany #トリッカル・もちもちほっぺ大作戦 大好き。 #LobotomyCorporation 動画はYouTubeに。元塾講師として活動してるDisco鯖があるのでお気軽に〜 https://t.co/oliRqwVJjR",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 10,
+                "tag": "ウマ娘"
+              },
+              {
+                "end": 25,
+                "start": 15,
+                "tag": "umamusume"
+              },
+              {
+                "end": 40,
+                "start": 26,
+                "tag": "LimbusCompany"
+              },
+              {
+                "end": 58,
+                "start": 41,
+                "tag": "トリッカル・もちもちほっぺ大作戦"
+              },
+              {
+                "end": 84,
+                "start": 64,
+                "tag": "LobotomyCorporation"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/KypyPbnDN4",
+                "end": 149,
+                "expanded_url": "https://discord.gg/KypyPbnDN4",
+                "start": 126,
+                "url": "https://t.co/oliRqwVJjR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/co_ci0",
+                "end": 23,
+                "expanded_url": "https://x.com/co_ci0",
+                "start": 0,
+                "url": "https://t.co/1d8SSkOaui"
+              }
+            ]
+          }
+        },
+        "id": "1063891520074375168",
+        "location": "たぶんHSS型HSP",
+        "name": "太上白君(はくくん:HAKU-kun)",
+        "pinned_tweet_id": "1971701094696038681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1310746280864309248/QGB1B3OR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 4424,
+          "like_count": 51651,
+          "listed_count": 2,
+          "media_count": 1483,
+          "tweet_count": 13682
+        },
+        "url": "https://t.co/1d8SSkOaui",
+        "username": "hakuqn",
+        "verified": false
+      }
+    ]
+  }
+}

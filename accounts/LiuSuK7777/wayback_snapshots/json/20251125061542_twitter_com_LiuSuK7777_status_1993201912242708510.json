@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993201906047762433"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "conversation_id": "1993201912242708510",
+    "created_at": "2025-11-25T06:15:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T07:15:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993201912242708510"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "新头像"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PvcLzCLLJL",
+          "end": 36,
+          "expanded_url": "https://x.com/LiuSuK7777/status/1993201912242708510/photo/1",
+          "media_key": "3_1993201906047762433",
+          "start": 13,
+          "url": "https://t.co/PvcLzCLLJL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993201912242708510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#新头像 （并非新头像） https://t.co/PvcLzCLLJL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1993201906047762433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6lGkrebwAExES1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993201906047762433"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "conversation_id": "1993201912242708510",
+        "created_at": "2025-11-25T06:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T07:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993201912242708510"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PvcLzCLLJL",
+              "end": 36,
+              "expanded_url": "https://x.com/LiuSuK7777/status/1993201912242708510/photo/1",
+              "media_key": "3_1993201906047762433",
+              "start": 13,
+              "url": "https://t.co/PvcLzCLLJL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993201912242708510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 （并非新头像） https://t.co/PvcLzCLLJL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1991206540901339270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993201760081739776/czBjq0KF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2809,
+          "following_count": 2679,
+          "like_count": 35384,
+          "listed_count": 13,
+          "media_count": 1513,
+          "tweet_count": 32178
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      }
+    ]
+  }
+}

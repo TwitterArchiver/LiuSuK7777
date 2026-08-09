@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1904740590115238214",
+    "created_at": "2025-03-26T08:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T09:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904809592942444716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1267850413442600960",
+          "start": 0,
+          "username": "Youker_Doaget"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904809592942444716",
+    "in_reply_to_user_id": "1267850413442600960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904795554573672500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Youker_Doaget 剧情谜语人"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1904795554573672500].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1904795554573672500",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1904795554573672500"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1904740590115238214",
+        "created_at": "2025-03-26T08:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T09:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904809592942444716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1267850413442600960",
+              "start": 0,
+              "username": "Youker_Doaget"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904809592942444716",
+        "in_reply_to_user_id": "1267850413442600960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904795554573672500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Youker_Doaget 剧情谜语人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "我是男的 不是跨性别 生病中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb700j"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "☆流苏☆🐱IP杭州（100%互fo）",
+        "pinned_tweet_id": "1903751125427515801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1668,
+          "following_count": 1970,
+          "like_count": 28948,
+          "listed_count": 13,
+          "media_count": 838,
+          "tweet_count": 19863
+        },
+        "url": "https://t.co/2xm6Tb700j",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-02T16:08:04.000Z",
+        "description": "I'm Youker. /ゆかちゃん/中国人です/touhou lover/東方がすき/车万人",
+        "id": "1267850413442600960",
+        "location": "幻想郷",
+        "name": "ゆか",
+        "pinned_tweet_id": "1357286447955341315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682983024894541824/TLUPI82x_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 707,
+          "like_count": 4950,
+          "listed_count": 5,
+          "media_count": 666,
+          "tweet_count": 5272
+        },
+        "username": "Youker_Doaget",
+        "verified": false
+      }
+    ]
+  }
+}

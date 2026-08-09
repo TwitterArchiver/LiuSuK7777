@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1914089790565216339",
+    "created_at": "2025-04-23T04:31:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T05:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914899947536945597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1869142083497312256",
+          "start": 0,
+          "username": "kuroba112358"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914899947536945597",
+    "in_reply_to_user_id": "1869142083497312256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914089790565216339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuroba112358 我也想买😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1914089790565216339",
+        "created_at": "2025-04-23T04:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T05:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914899947536945597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1869142083497312256",
+              "start": 0,
+              "username": "kuroba112358"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914899947536945597",
+        "in_reply_to_user_id": "1869142083497312256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914089790565216339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuroba112358 我也想买😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869142083497312256",
+        "conversation_id": "1914089790565216339",
+        "created_at": "2025-04-20T22:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T23:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914089790565216339"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914089790565216339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 28702,
+          "like_count": 104,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近发情了，自己住好寂寞，想买玩具了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1787,
+          "following_count": 2098,
+          "like_count": 30748,
+          "listed_count": 12,
+          "media_count": 934,
+          "tweet_count": 22528
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-17T22:06:23.000Z",
+        "description": "随手分享+电子日记 | 只要聊天画风能通过图灵测试我就是00后🥰 | 欢迎交友",
+        "id": "1869142083497312256",
+        "location": "Bridon",
+        "name": "新一君",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882958433982566400/-mhdq7tS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1476,
+          "following_count": 255,
+          "like_count": 5661,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 1328
+        },
+        "username": "kuroba112358",
+        "verified": true
+      }
+    ]
+  }
+}

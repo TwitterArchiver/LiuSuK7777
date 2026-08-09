@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1953726895029395735",
+    "created_at": "2025-08-08T11:16:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T12:16:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953777301612896337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1437747899220172800",
+          "start": 0,
+          "username": "guiTheGreat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953777301612896337",
+    "in_reply_to_user_id": "1437747899220172800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953773012450197988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guiTheGreat 那样我的结果更差"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1953726895029395735",
+        "created_at": "2025-08-08T11:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T12:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953777301612896337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1437747899220172800",
+              "start": 0,
+              "username": "guiTheGreat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953777301612896337",
+        "in_reply_to_user_id": "1437747899220172800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953773012450197988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guiTheGreat 那样我的结果更差"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437747899220172800",
+        "conversation_id": "1953726895029395735",
+        "created_at": "2025-08-08T10:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T11:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953773012450197988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953773012450197988",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953726895029395735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 是我我就拉黑了，给她脸了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男 | 御主/ダーリン@yeziyu7777 | 革命伴侣/契约者/運命の人@zyh1428202 | お姉ちゃん@ttkyyx03 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "ttkyyx03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "超高校级の無意識",
+        "pinned_tweet_id": "1949513211826377068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2558,
+          "following_count": 2659,
+          "like_count": 34958,
+          "listed_count": 10,
+          "media_count": 1287,
+          "tweet_count": 29044
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-14T11:59:52.000Z",
+        "description": "❤️杏山和纱❤️/肥猫厨/coser/明日方舟/崩坏：星穹铁道/蔚蓝档案/以及其它泛ACG/同圈互fo",
+        "id": "1437747899220172800",
+        "location": "揍小夏和玲纱的路上",
+        "name": "桂酱",
+        "pinned_tweet_id": "1875606300186571250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933048280822554624/IItcQ2sZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3975,
+          "following_count": 1997,
+          "like_count": 27829,
+          "listed_count": 17,
+          "media_count": 355,
+          "tweet_count": 10472
+        },
+        "username": "guiTheGreat",
+        "verified": false
+      }
+    ]
+  }
+}

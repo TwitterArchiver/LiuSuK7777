@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2000540263463477379",
+    "created_at": "2025-12-16T05:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T06:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000805606614294750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "794035762329067520",
+          "start": 0,
+          "username": "shidaaya"
+        },
+        {
+          "end": 22,
+          "id": "1706957692282249216",
+          "start": 10,
+          "username": "XiaWan27472"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000805606614294750",
+    "in_reply_to_user_id": "794035762329067520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000805440347889976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shidaaya @XiaWan27472 我能正常和你辩论不就证明我不是弱智吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2000540263463477379",
+        "created_at": "2025-12-16T05:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T06:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000805606614294750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "794035762329067520",
+              "start": 0,
+              "username": "shidaaya"
+            },
+            {
+              "end": 22,
+              "id": "1706957692282249216",
+              "start": 10,
+              "username": "XiaWan27472"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000805606614294750",
+        "in_reply_to_user_id": "794035762329067520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000805440347889976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shidaaya @XiaWan27472 我能正常和你辩论不就证明我不是弱智吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "794035762329067520",
+        "conversation_id": "2000540263463477379",
+        "created_at": "2025-12-16T05:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T06:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000805440347889976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            },
+            {
+              "end": 24,
+              "id": "1706957692282249216",
+              "start": 12,
+              "username": "XiaWan27472"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000805440347889976",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000784329933512851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 @XiaWan27472 你不懂你吃的米含重金属镉吧？ 你可能就是重金属大脑受损的弱智。 不过弱智也没啥不好的， 至少你感觉不到痛苦和绝望。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "1995540883278889351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000419861345026048/OuRHQUY0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2953,
+          "following_count": 2790,
+          "like_count": 35562,
+          "listed_count": 13,
+          "media_count": 1574,
+          "tweet_count": 33706
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-03T04:37:33.000Z",
+        "description": "2016年10月29日(土)午前10:50分頃 家の白猫(子猫) ニャンチャン，行方不明になってます，心当たりのある方、見かけたという方、DMください。",
+        "id": "794035762329067520",
+        "location": "東京 ",
+        "name": "Shida",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1207670001714581505/N0GSvYeR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 410,
+          "like_count": 1170,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 307
+        },
+        "username": "shidaaya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-27T09:03:41.000Z",
+        "description": "山城辣妹子。",
+        "id": "1706957692282249216",
+        "location": "来自长江边，山城辣妹子",
+        "name": "夏天晚风吹",
+        "pinned_tweet_id": "1863238849041997871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906641708882034688/8Cqx7CSG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14298,
+          "following_count": 1206,
+          "like_count": 16227,
+          "listed_count": 95,
+          "media_count": 1762,
+          "tweet_count": 20021
+        },
+        "username": "XiaWan27472",
+        "verified": false
+      }
+    ]
+  }
+}

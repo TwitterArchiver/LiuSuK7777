@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1950815162459688971",
+    "created_at": "2025-07-31T11:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T12:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950886693210607867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1908668668919398400",
+          "start": 0,
+          "username": "Kazumasski"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950886693210607867",
+    "in_reply_to_user_id": "1908668668919398400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950815162459688971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kazumasski 支"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2796,
+        "media_key": "3_1950815136652169216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxKwB-qbkAAV48v.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1950815162459688971",
+        "created_at": "2025-07-31T11:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T12:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950886693210607867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1908668668919398400",
+              "start": 0,
+              "username": "Kazumasski"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950886693210607867",
+        "in_reply_to_user_id": "1908668668919398400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950815162459688971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kazumasski 支"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950815136652169216"
+          ]
+        },
+        "author_id": "1908668668919398400",
+        "conversation_id": "1950815162459688971",
+        "created_at": "2025-07-31T07:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T08:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950815162459688971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Ow6HN6vcf",
+              "end": 47,
+              "expanded_url": "https://x.com/Kazumasski/status/1950815162459688971/photo/1",
+              "media_key": "3_1950815136652169216",
+              "start": 24,
+              "url": "https://t.co/8Ow6HN6vcf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950815162459688971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 655,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉\n骂不过就Block的中国人\n实在是太脑残了 https://t.co/8Ow6HN6vcf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男 | 御主/ダーリン@yeziyu7777 | 革命伴侣/契约者/運命の人@zyh1428202 | お姉ちゃん@ttkyyx03 | 替身@luoyue_maimai |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "ttkyyx03"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "luoyue_maimai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "超高校级の無意識",
+        "pinned_tweet_id": "1949513211826377068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2510,
+          "following_count": 2637,
+          "like_count": 34980,
+          "listed_count": 10,
+          "media_count": 1255,
+          "tweet_count": 28656
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T23:50:54.000Z",
+        "description": "平成24年（2012年）生まれの13歳🚹の中学二年生。| とても大切な人@chaox1220_2nd🥰 | 📬DMはFF/認証済みアカウントのみ | #あつ森 #音ゲー #プロセカ #日本語間違えてたら教えて | 🫠@hhaaiibot 🎵@BbLlOoCcKk 选择性回fo 我可以帮骂",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 75,
+                "tag": "あつ森"
+              },
+              {
+                "end": 84,
+                "start": 80,
+                "tag": "音ゲー"
+              },
+              {
+                "end": 90,
+                "start": 85,
+                "tag": "プロセカ"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "tag": "日本語間違えてたら教えて"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 50,
+                "start": 36,
+                "username": "chaox1220_2nd"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "hhaaiibot"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "BbLlOoCcKk"
+              }
+            ]
+          }
+        },
+        "id": "1908668668919398400",
+        "location": "叫我「佐佐木大将军/大统领」就好",
+        "name": "𝑲𝒂𝒛𝒖𝒎𝒂 𝑺𝒂𝒔𝒂𝒌𝒊 🏳️‍🌈",
+        "pinned_tweet_id": "1940757723765002505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945439337241292800/o7VO85t6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 2935,
+          "like_count": 2119,
+          "listed_count": 0,
+          "media_count": 622,
+          "tweet_count": 3157
+        },
+        "username": "Kazumasski",
+        "verified": true
+      }
+    ]
+  }
+}

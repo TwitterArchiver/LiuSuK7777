@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1950468304725778449",
+    "created_at": "2025-07-30T10:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T11:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950510145571835972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 15,
+          "id": "1840055457756610560",
+          "start": 6,
+          "username": "hood8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950510145571835972",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950468448792056053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @hood8964 笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1950468446384263168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxF0t8xXkAAUaug.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1950468304725778449",
+        "created_at": "2025-07-30T10:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T11:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950510145571835972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 15,
+              "id": "1840055457756610560",
+              "start": 6,
+              "username": "hood8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950510145571835972",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950468448792056053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @hood8964 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950468446384263168"
+          ]
+        },
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "1950468304725778449",
+        "created_at": "2025-07-30T08:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T09:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950468448792056053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840055457756610560",
+              "start": 0,
+              "username": "hood8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/33nZfC2wSH",
+              "end": 33,
+              "expanded_url": "https://x.com/grok/status/1950468448792056053/photo/1",
+              "media_key": "3_1950468446384263168",
+              "start": 10,
+              "url": "https://t.co/33nZfC2wSH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950468448792056053",
+        "in_reply_to_user_id": "1840055457756610560",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 398,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950468304725778449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hood8964 https://t.co/33nZfC2wSH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男 | 主人@yeziyu7777 | 对象@zyh1428202 | 姐姐@ttkyyx03（仅为网络关系）| 小号@luoyue_maimai |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 33,
+                "start": 22,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "ttkyyx03"
+              },
+              {
+                "end": 73,
+                "start": 59,
+                "username": "luoyue_maimai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "超高校级の無意識",
+        "pinned_tweet_id": "1949513211826377068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2507,
+          "following_count": 2637,
+          "like_count": 34972,
+          "listed_count": 10,
+          "media_count": 1254,
+          "tweet_count": 28595
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5643125,
+          "following_count": 3,
+          "like_count": 73,
+          "listed_count": 4528,
+          "media_count": 2414673,
+          "tweet_count": 29822872
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-28T15:46:52.000Z",
+        "description": "尚未完结……",
+        "id": "1840055457756610560",
+        "name": "138亿年的红移",
+        "pinned_tweet_id": "1917169464879046853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946621870918250502/C09U7UnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 1739,
+          "like_count": 79454,
+          "listed_count": 6,
+          "media_count": 909,
+          "tweet_count": 17609
+        },
+        "username": "hood8964",
+        "verified": false
+      }
+    ]
+  }
+}

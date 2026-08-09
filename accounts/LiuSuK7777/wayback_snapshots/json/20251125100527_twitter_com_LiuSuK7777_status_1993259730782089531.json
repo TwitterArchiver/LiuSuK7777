@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1993088662842827066",
+    "created_at": "2025-11-25T10:05:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T11:05:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993259730782089531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1565981667746914304",
+          "start": 0,
+          "username": "Kagura_Yukikaze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993259730782089531",
+    "in_reply_to_user_id": "1565981667746914304",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993088662842827066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kagura_Yukikaze xm"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1993088662842827066].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1993088662842827066",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1993088662842827066"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1993088662842827066",
+        "created_at": "2025-11-25T10:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T11:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993259730782089531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565981667746914304",
+              "start": 0,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993259730782089531",
+        "in_reply_to_user_id": "1565981667746914304",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993088662842827066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagura_Yukikaze xm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1991206540901339270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993212696540725250/GFlbKqVG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2811,
+          "following_count": 2680,
+          "like_count": 35386,
+          "listed_count": 13,
+          "media_count": 1514,
+          "tweet_count": 32186
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1817,
+          "following_count": 1922,
+          "like_count": 71978,
+          "listed_count": 2,
+          "media_count": 552,
+          "tweet_count": 8049
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

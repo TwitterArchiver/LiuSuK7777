@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1983104081695781243",
+    "created_at": "2025-10-29T16:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T17:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983572991985512885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1947652886273368065",
+          "start": 0,
+          "username": "bucketyishere"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983572991985512885",
+    "in_reply_to_user_id": "1947652886273368065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983104081695781243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bucketyishere 其实是老资历"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983104076373254144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4VmpojbYAAbcES.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1983104081695781243",
+        "created_at": "2025-10-29T16:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T17:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983572991985512885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1947652886273368065",
+              "start": 0,
+              "username": "bucketyishere"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983572991985512885",
+        "in_reply_to_user_id": "1947652886273368065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983104081695781243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bucketyishere 其实是老资历"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983104076373254144"
+          ]
+        },
+        "author_id": "1947652886273368065",
+        "conversation_id": "1983104081695781243",
+        "created_at": "2025-10-28T09:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T10:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983104081695781243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8OkCdPK7Ci",
+              "end": 42,
+              "expanded_url": "https://x.com/bucketyishere/status/1983104081695781243/photo/1",
+              "media_key": "3_1983104076373254144",
+              "start": 19,
+              "url": "https://t.co/8OkCdPK7Ci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983104081695781243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 100905,
+          "like_count": 299,
+          "quote_count": 3,
+          "reply_count": 47,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "小姨叔居然有这种帖子我真的佛了，，， https://t.co/8OkCdPK7Ci"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！\n主人♡@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 69,
+                "start": 56,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976703554758098945/2sn3KBuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2781,
+          "following_count": 2675,
+          "like_count": 35506,
+          "listed_count": 13,
+          "media_count": 1477,
+          "tweet_count": 31666
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T13:40:15.000Z",
+        "description": "世界上最后一桶沼泽食人族我的额头上有一只汉堡",
+        "id": "1947652886273368065",
+        "name": "给你桶完了",
+        "pinned_tweet_id": "1959477578546475359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980837719421894657/h7f0lmEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 266,
+          "like_count": 4614,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 1272
+        },
+        "username": "bucketyishere",
+        "verified": false
+      }
+    ]
+  }
+}

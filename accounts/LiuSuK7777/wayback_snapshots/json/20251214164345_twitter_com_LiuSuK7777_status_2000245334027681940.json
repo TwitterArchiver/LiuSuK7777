@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2000242495457038494",
+    "created_at": "2025-12-14T16:43:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T17:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000245334027681940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1937086999548035072",
+          "start": 0,
+          "username": "Jaime_Rimi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000245334027681940",
+    "in_reply_to_user_id": "1937086999548035072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000245289467125778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jaime_Rimi 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2000242495457038494",
+        "created_at": "2025-12-14T16:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T17:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000245334027681940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1937086999548035072",
+              "start": 0,
+              "username": "Jaime_Rimi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000245334027681940",
+        "in_reply_to_user_id": "1937086999548035072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000245289467125778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jaime_Rimi 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937086999548035072",
+        "conversation_id": "2000242495457038494",
+        "created_at": "2025-12-14T16:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T17:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000245289467125778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000245289467125778",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000242495457038494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 流苏是小可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "1995540883278889351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998267978916528128/FNUZvgoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2947,
+          "following_count": 2780,
+          "like_count": 35514,
+          "listed_count": 13,
+          "media_count": 1565,
+          "tweet_count": 33551
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:55:18.000Z",
+        "description": "温和右翼，支持🇮🇱&🇺🇦，友性少数群体，就这样。",
+        "id": "1937086999548035072",
+        "location": "QC",
+        "name": "Léo ⚜️",
+        "pinned_tweet_id": "1999371414390841634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937087218704625664/U7kY1Ply_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 224,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 100
+        },
+        "username": "Jaime_Rimi",
+        "verified": false
+      }
+    ]
+  }
+}

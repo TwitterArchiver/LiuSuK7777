@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1950521204521255396",
+    "created_at": "2025-07-30T12:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T13:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950527720422539278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1902568136450424832",
+          "start": 0,
+          "username": "aoim02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950527720422539278",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950524522131771794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoim02 下个月再说吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1950521204521255396",
+        "created_at": "2025-07-30T12:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T13:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950527720422539278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950527720422539278",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950524522131771794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim02 下个月再说吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "1950521204521255396",
+        "created_at": "2025-07-30T11:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T12:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950524522131771794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950524522131771794",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950521204521255396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 来我家我给你做"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男 | 主人@yeziyu7777 | 对象@zyh1428202 | 姐姐@ttkyyx03（仅为网络关系）| 小号@luoyue_maimai |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 33,
+                "start": 22,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "ttkyyx03"
+              },
+              {
+                "end": 73,
+                "start": 59,
+                "username": "luoyue_maimai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "超高校级の無意識",
+        "pinned_tweet_id": "1949513211826377068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2508,
+          "following_count": 2637,
+          "like_count": 34973,
+          "listed_count": 10,
+          "media_count": 1254,
+          "tweet_count": 28626
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 人間観察 言語学 撮影 花畑 罠 音ゲー 白猫 Arcaea PTT 10.57 maimai 13,172 hoyoverse / CN EN JP KR / 無言フォロー失礼と、相互フォロー大歓迎 / Telegram group ⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A9vj_WSFaT1iN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A9vj_WSFaT1iNWU1",
+                "start": 0,
+                "url": "https://t.co/p1hcclps2c"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "Shagcheng HZH ZJ & SHA CN",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1950238925894848792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950069662638886912/p4gVxjZ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 186,
+          "like_count": 1132,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 260
+        },
+        "url": "https://t.co/p1hcclps2c",
+        "username": "aoim02",
+        "verified": true
+      }
+    ]
+  }
+}

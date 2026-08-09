@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2017244849280532938",
+    "created_at": "2026-02-28T14:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T15:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027753018972922070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1646550974553522183",
+          "start": 0,
+          "username": "YeziyuXAurora"
+        },
+        {
+          "end": 30,
+          "id": "1718887354826637312",
+          "start": 15,
+          "username": "MeowSakur76073"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027753018972922070",
+    "in_reply_to_user_id": "1646550974553522183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017264327238262868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YeziyuXAurora @MeowSakur76073 255好便宜吗？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2017264327238262868].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2017264327238262868",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2017264327238262868"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2017244849280532938",
+        "created_at": "2026-02-28T14:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T15:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027753018972922070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1646550974553522183",
+              "start": 0,
+              "username": "YeziyuXAurora"
+            },
+            {
+              "end": 30,
+              "id": "1718887354826637312",
+              "start": 15,
+              "username": "MeowSakur76073"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027753018972922070",
+        "in_reply_to_user_id": "1646550974553522183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017264327238262868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YeziyuXAurora @MeowSakur76073 255好便宜吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n对象@zyh842159145\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2027413414931227039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022579402232729603/sIzOPs42_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3087,
+          "following_count": 2747,
+          "like_count": 35342,
+          "listed_count": 15,
+          "media_count": 1619,
+          "tweet_count": 34357
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T16:28:58.000Z",
+        "description": "永远只是杂鱼xnn小叶，不会再有…睡着了的 | 我的爱人 我的全部♡小极光@AuroraXYeziyu\n「这辈子只有你一个♡」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 37,
+                "username": "AuroraXYeziyu"
+              }
+            ]
+          }
+        },
+        "id": "1646550974553522183",
+        "location": "永远依偎在小极光的怀里♡",
+        "name": "永远の叶_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964179698759634944/KGhtOccu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 816,
+          "like_count": 76256,
+          "listed_count": 9,
+          "media_count": 428,
+          "tweet_count": 7258
+        },
+        "username": "YeziyuXAurora",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-30T07:08:23.000Z",
+        "description": "Do not go gentle into that good night                                                 \na walking dead｜self heater｜bisexual｜🦊｜因为太喜欢所以想变成可爱女孩子｜ @cangshengsunset",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 142,
+                "username": "cangshengsunset"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/meowsakur76073…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/meowsakur7607356428",
+                "start": 0,
+                "url": "https://t.co/MDv9HA9IEI"
+              }
+            ]
+          }
+        },
+        "id": "1718887354826637312",
+        "location": "Heaven",
+        "name": "Meow Sakura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013129102786437120/dxrmWKgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 3799,
+          "like_count": 48617,
+          "listed_count": 5,
+          "media_count": 861,
+          "tweet_count": 14000
+        },
+        "url": "https://t.co/MDv9HA9IEI",
+        "username": "MeowSakur76073",
+        "verified": false
+      }
+    ]
+  }
+}

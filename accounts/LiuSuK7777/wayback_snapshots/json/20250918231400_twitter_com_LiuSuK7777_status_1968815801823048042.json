@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1968668434633289896",
+    "created_at": "2025-09-18T23:14:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T00:14:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968815801823048042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1842895382839537664",
+          "start": 0,
+          "username": "_FiniteWorld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968815801823048042",
+    "in_reply_to_user_id": "1842895382839537664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968815734072508814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_FiniteWorld 呜呜抱抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1968668434633289896",
+        "created_at": "2025-09-18T23:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T00:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968815801823048042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1842895382839537664",
+              "start": 0,
+              "username": "_FiniteWorld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968815801823048042",
+        "in_reply_to_user_id": "1842895382839537664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968815734072508814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_FiniteWorld 呜呜抱抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842895382839537664",
+        "conversation_id": "1968668434633289896",
+        "created_at": "2025-09-18T23:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T00:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968815734072508814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968815734072508814",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968815617156247894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 贴贴uwu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "老公的id太难记了不想打 反正是939\n本人男 17岁 三角洲/明日方舟/arcaea/舞萌 小号@jinxing0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 49,
+                "username": "jinxing0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1966750967149588919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966711124734410752/71NBjUL5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2650,
+          "following_count": 2644,
+          "like_count": 35376,
+          "listed_count": 14,
+          "media_count": 1371,
+          "tweet_count": 30291
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-06T11:51:19.000Z",
+        "description": "为生而战 | 比彩梦还饿\n原神 | 绝区零 | 明日方舟 | Arcaea\n崩铁已退游 勿扰\nVue | React | Ktor",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "finiteworld.moe",
+                "end": 23,
+                "expanded_url": "http://finiteworld.moe",
+                "start": 0,
+                "url": "https://t.co/zlgMX0zv9M"
+              }
+            ]
+          }
+        },
+        "id": "1842895382839537664",
+        "location": "匹诺康尼",
+        "name": "Finite World",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845397247950979072/E2dL3s1c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 546,
+          "like_count": 2879,
+          "listed_count": 5,
+          "media_count": 38,
+          "tweet_count": 1657
+        },
+        "url": "https://t.co/zlgMX0zv9M",
+        "username": "_FiniteWorld",
+        "verified": false
+      }
+    ]
+  }
+}

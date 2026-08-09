@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1997987693779976372",
+    "created_at": "2025-12-08T11:15:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T12:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997988349009859033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1551454468398411776",
+          "start": 0,
+          "username": "chosen_shotgun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997988349009859033",
+    "in_reply_to_user_id": "1551454468398411776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997987877687533783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chosen_shotgun 你不需要对不起 因为说的不是你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1997987693779976372",
+        "created_at": "2025-12-08T11:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T12:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997988349009859033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1551454468398411776",
+              "start": 0,
+              "username": "chosen_shotgun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997988349009859033",
+        "in_reply_to_user_id": "1551454468398411776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997987877687533783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chosen_shotgun 你不需要对不起 因为说的不是你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551454468398411776",
+        "conversation_id": "1997987693779976372",
+        "created_at": "2025-12-08T11:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T12:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997987877687533783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997987877687533783",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997987693779976372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 對不起🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1996143989125419275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997939028583481344/eFEs-90h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2920,
+          "following_count": 2754,
+          "like_count": 35459,
+          "listed_count": 13,
+          "media_count": 1551,
+          "tweet_count": 33186
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T06:29:18.000Z",
+        "description": "############################ -------------------------------------------------------- 已授權資訊： 霰霰啦 /一個自認為特別卻很平凡的人/不定時負面炸彈/INFP-T/ FPS+音遊再加上一點點的遊戲王/ 拜託跟我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/chosen_shotgun",
+                "end": 23,
+                "expanded_url": "https://twitch.tv/chosen_shotgun",
+                "start": 0,
+                "url": "https://t.co/YTQhxHtrfN"
+              }
+            ]
+          }
+        },
+        "id": "1551454468398411776",
+        "location": "hardcore的kick中爆發出的音壓裡",
+        "name": "霰霰啦|想被RNGsus眷顧系",
+        "pinned_tweet_id": "1613192002644119556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853608192183574528/vWuIszPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 496,
+          "like_count": 17542,
+          "listed_count": 3,
+          "media_count": 1068,
+          "tweet_count": 10743
+        },
+        "url": "https://t.co/YTQhxHtrfN",
+        "username": "chosen_shotgun",
+        "verified": false
+      }
+    ]
+  }
+}

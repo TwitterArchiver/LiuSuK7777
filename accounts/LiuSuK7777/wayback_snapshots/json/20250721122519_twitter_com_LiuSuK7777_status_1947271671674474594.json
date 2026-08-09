@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1947271307948695765",
+    "created_at": "2025-07-21T12:25:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T13:25:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947271671674474594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1835753359015624704",
+          "start": 0,
+          "username": "aoi_mti"
+        },
+        {
+          "end": 18,
+          "id": "1795785939438215168",
+          "start": 9,
+          "username": "EMeowSys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947271671674474594",
+    "in_reply_to_user_id": "1835753359015624704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 48,
+      "like_count": 4,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947271307948695765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoi_mti @EMeowSys 天天往家里带人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1947271307948695765",
+        "created_at": "2025-07-21T12:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T13:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947271671674474594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1835753359015624704",
+              "start": 0,
+              "username": "aoi_mti"
+            },
+            {
+              "end": 18,
+              "id": "1795785939438215168",
+              "start": 9,
+              "username": "EMeowSys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947271671674474594",
+        "in_reply_to_user_id": "1835753359015624704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947271307948695765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoi_mti @EMeowSys 天天往家里带人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835753359015624704",
+        "conversation_id": "1947271307948695765",
+        "created_at": "2025-07-21T12:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T13:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947271307948695765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1795785939438215168",
+              "start": 2,
+              "username": "EMeowSys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947271307948695765",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把 @EMeowSys 拐回家了（怪欸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "主人@yeziyu7777\n对象@zyh1428202\n小号@Loveyezi8964 @luoyue_maimai\n笨蛋姐姐@TTKYYX03（不是现实中那个）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "Loveyezi8964"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "luoyue_maimai"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1947268494212333768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2444,
+          "following_count": 2541,
+          "like_count": 34902,
+          "listed_count": 10,
+          "media_count": 1229,
+          "tweet_count": 28142
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T18:51:28.000Z",
+        "description": "急则乱慌则疲 / 微信公众号 aoinoheya / maimai / 严重 ASD 中度 ADHD 诊断 @PKU1898 / 高校英語教師 / hoyoverse & Lowiro / 非二元 / ZH EN JP KR / 长三角 HR Lead / ❤️ 星見雅 / 🍼 @Kirara_Miku",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 54,
+                "username": "PKU1898"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Kirara_Miku"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "msmaoi.link",
+                "end": 23,
+                "expanded_url": "https://msmaoi.link",
+                "start": 0,
+                "url": "https://t.co/gjzPrisrKk"
+              }
+            ]
+          }
+        },
+        "id": "1835753359015624704",
+        "location": "Shangcheng HZH & SHA",
+        "name": "Aoi M - T.I.",
+        "pinned_tweet_id": "1942219196613685402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946231727535345666/OvthJXOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1686,
+          "following_count": 1511,
+          "like_count": 40152,
+          "listed_count": 5,
+          "media_count": 2071,
+          "tweet_count": 8457
+        },
+        "url": "https://t.co/gjzPrisrKk",
+        "username": "aoi_mti",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-29T11:55:18.000Z",
+        "description": "这里易喵系统/末影猫/BG5CYK\n自发型/创伤型多意识体\nCN/EN/JP学习中\n社交渴望\n墙内活跃\n二次元/业余无线电/轨道交通/程序设计/Minecraft",
+        "id": "1795785939438215168",
+        "location": "虚空中的易喵系统",
+        "name": "易喵系统(末影猫Project)",
+        "pinned_tweet_id": "1871807716202791352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795786104316272640/IXVNkPY1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 1306,
+          "like_count": 3876,
+          "listed_count": 4,
+          "media_count": 275,
+          "tweet_count": 2505
+        },
+        "username": "EMeowSys",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1921974802123837558",
+    "created_at": "2025-05-13T03:56:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T04:56:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922138810554458161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1833054299183878144",
+          "start": 0,
+          "username": "nycticorax114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922138810554458161",
+    "in_reply_to_user_id": "1833054299183878144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921974802123837558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nycticorax114 教我玩"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1921974802123837558].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1921974802123837558",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1921974802123837558"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1921974802123837558",
+        "created_at": "2025-05-13T03:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T04:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922138810554458161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1833054299183878144",
+              "start": 0,
+              "username": "nycticorax114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922138810554458161",
+        "in_reply_to_user_id": "1833054299183878144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921974802123837558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nycticorax114 教我玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": " 🔪‌",
+        "name": "流苏",
+        "pinned_tweet_id": "1921196565060088153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2031,
+          "following_count": 2279,
+          "like_count": 33006,
+          "listed_count": 11,
+          "media_count": 1049,
+          "tweet_count": 24522
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T08:06:26.000Z",
+        "description": "𝐒𝐨𝐥𝐚 𝐝𝐨𝐬𝐢𝐬 𝐟𝐚𝐜𝐢𝐭 𝐯𝐞𝐧𝐞𝐧𝐮𝐦.",
+        "id": "1833054299183878144",
+        "location": "湿地公园",
+        "name": "AAA打窝钓鱼夜师傅",
+        "pinned_tweet_id": "1921974802123837558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901176082298212352/S527TKcV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 558,
+          "like_count": 50056,
+          "listed_count": 2,
+          "media_count": 1102,
+          "tweet_count": 20427
+        },
+        "username": "nycticorax114",
+        "verified": false
+      }
+    ]
+  }
+}

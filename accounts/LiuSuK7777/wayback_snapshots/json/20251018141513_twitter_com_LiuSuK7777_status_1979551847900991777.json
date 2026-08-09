@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1979493425625096484",
+    "created_at": "2025-10-18T14:15:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T15:15:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979551847900991777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1911351259749294080",
+          "start": 0,
+          "username": "Quitewaterqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979551847900991777",
+    "in_reply_to_user_id": "1911351259749294080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979551375068709374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quitewaterqwq 关键是他自己打自己的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1979493425625096484",
+        "created_at": "2025-10-18T14:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T15:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979551847900991777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1911351259749294080",
+              "start": 0,
+              "username": "Quitewaterqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979551847900991777",
+        "in_reply_to_user_id": "1911351259749294080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979551375068709374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quitewaterqwq 关键是他自己打自己的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911351259749294080",
+        "conversation_id": "1979493425625096484",
+        "created_at": "2025-10-18T14:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T15:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979551375068709374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979551375068709374",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979493425625096484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 四套吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分基本上是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！\n主人♡@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb700j"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "K",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976703554758098945/2sn3KBuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2782,
+          "following_count": 2675,
+          "like_count": 35496,
+          "listed_count": 14,
+          "media_count": 1444,
+          "tweet_count": 31341
+        },
+        "url": "https://t.co/2xm6Tb700j",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T09:31:56.000Z",
+        "description": "已退推|推荐关注朋友👉@elp15_ @hajixi12356 @Shimamura_Tako @wusweet_i",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 11,
+                "username": "elp15_"
+              },
+              {
+                "end": 31,
+                "start": 19,
+                "username": "hajixi12356"
+              },
+              {
+                "end": 47,
+                "start": 32,
+                "username": "Shimamura_Tako"
+              },
+              {
+                "end": 58,
+                "start": 48,
+                "username": "wusweet_i"
+              }
+            ]
+          }
+        },
+        "id": "1911351259749294080",
+        "name": "平静如水🇨🇳🇦🇶|第二转世|推友巡回",
+        "pinned_tweet_id": "1947285390538236348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913242634891493376/59jBA1pa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 889,
+          "like_count": 4414,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 2783
+        },
+        "username": "Quitewaterqwq",
+        "verified": false
+      }
+    ]
+  }
+}

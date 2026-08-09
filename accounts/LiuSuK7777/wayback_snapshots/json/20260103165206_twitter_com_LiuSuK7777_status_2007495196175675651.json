@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2007494303044776119",
+    "created_at": "2026-01-03T16:52:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T17:52:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007495196175675651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1691242509815754754",
+          "start": 0,
+          "username": "LastTrouvaille"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007495196175675651",
+    "in_reply_to_user_id": "1691242509815754754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007494303044776119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LastTrouvaille （贴）什么是圈外人？我还有圈子的嘛？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2007494303044776119].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2007494303044776119",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2007494303044776119"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2007494303044776119",
+        "created_at": "2026-01-03T16:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T17:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007495196175675651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007495196175675651",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007494303044776119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille （贴）什么是圈外人？我还有圈子的嘛？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "1995540883278889351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000419861345026048/OuRHQUY0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2960,
+          "following_count": 2768,
+          "like_count": 35522,
+          "listed_count": 13,
+          "media_count": 1578,
+          "tweet_count": 34000
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，叫CC就好啦‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)熟的话不时话痨(雾)‖偶尔写诗填词‖穗&沪‖会内耗emo‖不许键政！！！‖中粤英👌🏻‖网链是提问箱和miku↓‖请和这般恶劣的我做朋友吧orz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7jAc"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园or纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3705,
+          "following_count": 2787,
+          "like_count": 38435,
+          "listed_count": 13,
+          "media_count": 824,
+          "tweet_count": 8217
+        },
+        "url": "https://t.co/TWu8nv7jAc",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

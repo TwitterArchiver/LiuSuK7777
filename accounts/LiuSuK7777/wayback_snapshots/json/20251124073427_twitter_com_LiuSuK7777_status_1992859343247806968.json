@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1992828168139595866",
+    "created_at": "2025-11-24T07:34:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T08:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992859343247806968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1643453639003082758",
+          "start": 0,
+          "username": "xkkl9780156"
+        },
+        {
+          "end": 22,
+          "id": "1690570637499154432",
+          "start": 13,
+          "username": "saonanaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992859343247806968",
+    "in_reply_to_user_id": "1643453639003082758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992856084474978424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xkkl9780156 @saonanaa （查询性取向）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1992828168139595866",
+        "created_at": "2025-11-24T07:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T08:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992859343247806968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1643453639003082758",
+              "start": 0,
+              "username": "xkkl9780156"
+            },
+            {
+              "end": 22,
+              "id": "1690570637499154432",
+              "start": 13,
+              "username": "saonanaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992859343247806968",
+        "in_reply_to_user_id": "1643453639003082758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992856084474978424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xkkl9780156 @saonanaa （查询性取向）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643453639003082758",
+        "conversation_id": "1992828168139595866",
+        "created_at": "2025-11-24T07:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T08:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992856084474978424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "saonanaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992856084474978424",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992828168139595866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saonanaa 我也想要🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1988989827262599538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988989009578848258/x7UX0Rgc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2804,
+          "following_count": 2677,
+          "like_count": 35382,
+          "listed_count": 13,
+          "media_count": 1508,
+          "tweet_count": 32121
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T03:21:04.000Z",
+        "description": "叫我凌冬就好~/时不时出现在各种地方的评论区/   东方project   月亮计划   /\n来私信我！来私信我！/后面有想到的再补啦☺️",
+        "id": "1643453639003082758",
+        "location": "Zhejiang",
+        "name": "凌冬✨",
+        "pinned_tweet_id": "1977653293565518068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976089467841912832/OTNfq9tg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 292,
+          "like_count": 1635,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1120
+        },
+        "username": "xkkl9780156",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei｜高贵顺直男｜.NET开发者 & 构建 OneLauncher & 欢迎光顾GitHub｜大坏猫 @lovelyshuimao & 浙江穷入 & 欢迎来找我玩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "lovelyshuimao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyzXWN"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984943840160256000/CDlRt_Jg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6480,
+          "following_count": 432,
+          "like_count": 32809,
+          "listed_count": 15,
+          "media_count": 2086,
+          "tweet_count": 18472
+        },
+        "url": "https://t.co/Lsl0VyzXWN",
+        "username": "saonanaa",
+        "verified": true
+      }
+    ]
+  }
+}

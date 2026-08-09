@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1908057371710283929",
+    "created_at": "2025-04-04T10:17:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T11:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908101518529810933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1885436187046817792",
+          "start": 0,
+          "username": "CrimSeraphy_QwQ"
+        },
+        {
+          "end": 26,
+          "id": "1849090545387528192",
+          "start": 17,
+          "username": "Net2ach_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908101518529810933",
+    "in_reply_to_user_id": "1885436187046817792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908101406759780567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CrimSeraphy_QwQ @Net2ach_ 这个确实（呆"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1908101406759780567].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1908101406759780567",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1908101406759780567"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1908057371710283929",
+        "created_at": "2025-04-04T10:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T11:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908101518529810933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1885436187046817792",
+              "start": 0,
+              "username": "CrimSeraphy_QwQ"
+            },
+            {
+              "end": 26,
+              "id": "1849090545387528192",
+              "start": 17,
+              "username": "Net2ach_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908101518529810933",
+        "in_reply_to_user_id": "1885436187046817792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908101406759780567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CrimSeraphy_QwQ @Net2ach_ 这个确实（呆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "跟我面基可以随便摸我",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1725,
+          "following_count": 2047,
+          "like_count": 30013,
+          "listed_count": 12,
+          "media_count": 878,
+          "tweet_count": 21483
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T21:13:44.000Z",
+        "description": "INTJ-T/not good at English/信仰钱💴/热爱二次元的私宅(特别是Miku🥰)/我只是在阴暗地盯着所有人👀/有任何事可✉️/广告一律ban了😾/阴暗丑陋的哥布林想要成为吸血鬼👿/想要创造新世界💻",
+        "id": "1885436187046817792",
+        "location": "The Border Between Hell and He",
+        "name": "CrimsonSeraph✟升天✟",
+        "pinned_tweet_id": "1903492064987304286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901284911602073600/hPLri5uN_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 99,
+          "like_count": 6083,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 3195
+        },
+        "username": "CrimSeraphy_QwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T14:09:09.000Z",
+        "description": "这里是晶态灰烬，一个满脑子想着打游戏的高二废物｜\n友跨，不发政见帖，不看黄｜\n玩舟(半退坑)，三角洲(主游)，暗区突围(破产)\n，偶尔玩galgame，有时会想着发展制造业(创收妄想症，确信)｜\n确诊重度抑郁，所以有时会抽风请别管我\n｜偶见英文帖子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Net2achTeg",
+                "end": 23,
+                "expanded_url": "http://t.me/Net2achTeg",
+                "start": 0,
+                "url": "https://t.co/OHfkCKUbOl"
+              }
+            ]
+          }
+        },
+        "id": "1849090545387528192",
+        "location": "416D的小窝/416D的工作间",
+        "name": "Crystal Ash(上学版)",
+        "pinned_tweet_id": "1895311556810023044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859800873276407811/TYvqReDU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 290,
+          "like_count": 4204,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 3114
+        },
+        "url": "https://t.co/OHfkCKUbOl",
+        "username": "Net2ach_",
+        "verified": false
+      }
+    ]
+  }
+}

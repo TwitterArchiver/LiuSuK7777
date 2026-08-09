@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1988773836079366527",
+    "created_at": "2025-11-13T03:43:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T04:43:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988814846838862309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1694068450220744707",
+          "start": 0,
+          "username": "YS97OwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988814846838862309",
+    "in_reply_to_user_id": "1694068450220744707",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988773836079366527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YS97OwO 怎么了欸哥哥"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 55696,
+        "height": 1040,
+        "media_key": "7_1988773761940877316",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1988773761940877316/pu/img/0fIWJX9iVC4FuS87.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988773761940877316/pu/vid/avc1/320x692/J__Q1PEJ_QXHYviT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988773761940877316/pu/vid/avc1/480x1040/WpXvX5Yb62SX1hMk.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1988773761940877316/pu/pl/KCGuOYWcRp1aia35.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1988773836079366527",
+        "created_at": "2025-11-13T03:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T04:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988814846838862309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1694068450220744707",
+              "start": 0,
+              "username": "YS97OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988814846838862309",
+        "in_reply_to_user_id": "1694068450220744707",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988773836079366527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YS97OwO 怎么了欸哥哥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1988773761940877316"
+          ]
+        },
+        "author_id": "1694068450220744707",
+        "conversation_id": "1988773836079366527",
+        "created_at": "2025-11-13T01:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T02:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988773836079366527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1wPjqsrKUR",
+              "end": 49,
+              "expanded_url": "https://x.com/limocei2n/status/1988773836079366527/video/1",
+              "media_key": "7_1988773761940877316",
+              "start": 26,
+              "url": "https://t.co/1wPjqsrKUR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988773836079366527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这么多吗？！\n骗子你是真该死啊！！！！！\n😡😡😡😡 https://t.co/1wPjqsrKUR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！\n主人♡@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 69,
+                "start": 56,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976703554758098945/2sn3KBuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2780,
+          "following_count": 2685,
+          "like_count": 35446,
+          "listed_count": 13,
+          "media_count": 1498,
+          "tweet_count": 31933
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T19:26:15.000Z",
+        "description": "🇨🇳/\nyousheng，日文读ユウ·セイ或者ヨウ·シェン，罗马音为ゆう·しょう/轻小说&漫画&插画&音游🥰/#maimai #CHUNITHM #オンゲキ #プロセカ #Phigros #Arcaea #Rotaeno #Lanota/Bilibili同名/互fo🉑/副账号： @ys97OvO（日常&避难）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 62,
+                "start": 55,
+                "tag": "maimai"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "tag": "CHUNITHM"
+              },
+              {
+                "end": 78,
+                "start": 73,
+                "tag": "オンゲキ"
+              },
+              {
+                "end": 84,
+                "start": 79,
+                "tag": "プロセカ"
+              },
+              {
+                "end": 93,
+                "start": 85,
+                "tag": "Phigros"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "Arcaea"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "tag": "Rotaeno"
+              },
+              {
+                "end": 118,
+                "start": 111,
+                "tag": "Lanota"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 148,
+                "start": 140,
+                "username": "ys97OvO"
+              }
+            ]
+          }
+        },
+        "id": "1694068450220744707",
+        "location": "音游窝",
+        "name": "游笙OωO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831365569427468290/ZUd6XzGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 4369,
+          "like_count": 84759,
+          "listed_count": 7,
+          "media_count": 3129,
+          "tweet_count": 29105
+        },
+        "username": "YS97OwO",
+        "verified": false
+      }
+    ]
+  }
+}

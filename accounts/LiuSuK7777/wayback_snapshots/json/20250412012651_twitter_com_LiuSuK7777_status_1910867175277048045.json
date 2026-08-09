@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1910524260873101817",
+    "created_at": "2025-04-12T01:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T02:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910867175277048045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1790006276162048000",
+          "start": 0,
+          "username": "Lingyuqiu1949"
+        },
+        {
+          "end": 30,
+          "id": "1704469304077611008",
+          "start": 15,
+          "username": "jiaoyanboluooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910867175277048045",
+    "in_reply_to_user_id": "1790006276162048000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910867070096728243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lingyuqiu1949 @jiaoyanboluooo 还是未成年"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1910867070096728243].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1910867070096728243",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1910867070096728243"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1910524260873101817",
+        "created_at": "2025-04-12T01:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T02:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910867175277048045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1790006276162048000",
+              "start": 0,
+              "username": "Lingyuqiu1949"
+            },
+            {
+              "end": 30,
+              "id": "1704469304077611008",
+              "start": 15,
+              "username": "jiaoyanboluooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910867175277048045",
+        "in_reply_to_user_id": "1790006276162048000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910867070096728243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lingyuqiu1949 @jiaoyanboluooo 还是未成年"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb700j"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1756,
+          "following_count": 2059,
+          "like_count": 30181,
+          "listed_count": 12,
+          "media_count": 882,
+          "tweet_count": 21869
+        },
+        "url": "https://t.co/2xm6Tb700j",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-13T13:08:58.000Z",
+        "description": "台湾是中华人民共和国的神圣领土的一部分。完成统一祖国的大业是包括台湾同胞在内的全中国人民的神圣职责。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cosint0806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cosint0806",
+                "start": 0,
+                "url": "https://t.co/llbxmuSzHL"
+              }
+            ]
+          }
+        },
+        "id": "1790006276162048000",
+        "name": "Freunsigned 🇲🇴",
+        "pinned_tweet_id": "1907798498302636269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884908812936916992/61ZB-f2e_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 226,
+          "like_count": 3519,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 42
+        },
+        "url": "https://t.co/llbxmuSzHL",
+        "username": "Lingyuqiu1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/抑郁/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m/无证含糖/已出柜/不知道什么党（   /我的⭐️💢@snmqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 87,
+                "username": "snmqwq"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "location": "狗笼里",
+        "name": "椒盐菠萝🍥",
+        "pinned_tweet_id": "1905830642119843896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845701516545638400/CJz4quM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1262,
+          "following_count": 2032,
+          "like_count": 8354,
+          "listed_count": 6,
+          "media_count": 324,
+          "tweet_count": 1771
+        },
+        "username": "jiaoyanboluooo",
+        "verified": false
+      }
+    ]
+  }
+}

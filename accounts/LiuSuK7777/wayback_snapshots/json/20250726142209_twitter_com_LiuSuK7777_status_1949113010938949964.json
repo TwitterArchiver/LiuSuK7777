@@ -1,0 +1,476 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1949105992735559940",
+    "created_at": "2025-07-26T14:22:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T15:22:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949113010938949964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1559906722588000256",
+          "start": 0,
+          "username": "Luo_yiyu"
+        },
+        {
+          "end": 24,
+          "id": "1688385343580680192",
+          "start": 10,
+          "username": "heiwawomamore"
+        },
+        {
+          "end": 30,
+          "id": "1720665183188922368",
+          "start": 25,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949113010938949964",
+    "in_reply_to_user_id": "1559906722588000256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949112761788571758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luo_yiyu @heiwawomamore @grok *grok无视了请求"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1949105992735559940",
+        "created_at": "2025-07-26T14:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T15:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949113010938949964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1559906722588000256",
+              "start": 0,
+              "username": "Luo_yiyu"
+            },
+            {
+              "end": 24,
+              "id": "1688385343580680192",
+              "start": 10,
+              "username": "heiwawomamore"
+            },
+            {
+              "end": 30,
+              "id": "1720665183188922368",
+              "start": 25,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949113010938949964",
+        "in_reply_to_user_id": "1559906722588000256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949112761788571758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luo_yiyu @heiwawomamore @grok *grok无视了请求"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559906722588000256",
+        "conversation_id": "1949105992735559940",
+        "created_at": "2025-07-26T14:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T15:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949112761788571758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1688385343580680192",
+              "start": 0,
+              "username": "heiwawomamore"
+            },
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            },
+            {
+              "end": 60,
+              "id": "1720665183188922368",
+              "start": 55,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949112761788571758",
+        "in_reply_to_user_id": "1688385343580680192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949106466184679581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heiwawomamore @grok 在我的追随者找出十个我最喜欢的人，使用他们的全名与ID，并说出理由\n@grok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "生理性别与性别认同都是男\n主人@yeziyu7777\n对象@zyh1428202\n小号@Loveyezi8964 @luoyue_maimai\n笨蛋姐姐@TTKYYX03（不是现实中那个）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 56,
+                "start": 43,
+                "username": "Loveyezi8964"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "luoyue_maimai"
+              },
+              {
+                "end": 85,
+                "start": 76,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "超高校级の無意識",
+        "pinned_tweet_id": "1949006123966824631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2486,
+          "following_count": 2607,
+          "like_count": 34970,
+          "listed_count": 10,
+          "media_count": 1248,
+          "tweet_count": 28446
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-17T14:15:28.000Z",
+        "description": "果然还是喜欢被叫小洛呢w   里@Mitaner_hidden",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "Mitaner_hidden"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yiurblog.top",
+                "end": 23,
+                "expanded_url": "http://www.yiurblog.top",
+                "start": 0,
+                "url": "https://t.co/A4NOlo75lV"
+              }
+            ]
+          }
+        },
+        "id": "1559906722588000256",
+        "name": "洛忆雨Yiur",
+        "pinned_tweet_id": "1947702904422600970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939983958986338304/5VjBgb8s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 421,
+          "like_count": 5415,
+          "listed_count": 5,
+          "media_count": 621,
+          "tweet_count": 6689
+        },
+        "url": "https://t.co/A4NOlo75lV",
+        "username": "Luo_yiyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:03:51.000Z",
+        "description": "泛左派(或許）MtX🍥  🐈 \n\n發發生活和一些奇怪的想\n \n主要喜歡胃弱久石讓坂本龍一的音樂 常聽朮曲 歷史政治相關歌曲 左翼歌曲 日語英語歌曲 純音樂 交響樂 民歌 老歌 ACG音樂和其他平均律的音樂 歡迎給我推歌？\n\nima ingenting more alles\n  \n願你們平安順遂幸福快樂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/heiwawomamore",
+                "end": 23,
+                "expanded_url": "https://ngl.link/heiwawomamore",
+                "start": 0,
+                "url": "https://t.co/NkYsnsHUO7"
+              }
+            ]
+          }
+        },
+        "id": "1688385343580680192",
+        "location": "Singin' In The Rain",
+        "name": "Lav Mer Sam Ћin",
+        "pinned_tweet_id": "1734649492220342312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946642579417702400/6GP9lJ4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 2313,
+          "like_count": 129751,
+          "listed_count": 11,
+          "media_count": 1749,
+          "tweet_count": 69429
+        },
+        "url": "https://t.co/NkYsnsHUO7",
+        "username": "heiwawomamore",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5501551,
+          "following_count": 3,
+          "like_count": 73,
+          "listed_count": 4483,
+          "media_count": 2400934,
+          "tweet_count": 26170908
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

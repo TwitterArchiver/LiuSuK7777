@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1965628472283582611",
+    "created_at": "2025-09-10T04:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T05:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965628474573684937"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1965628474573684937",
+    "in_reply_to_user_id": "1504799211799265282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965628472283582611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但是我不吃自己的！非常讨厌自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1965628472283582611",
+        "created_at": "2025-09-10T04:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T05:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965628474573684937"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965628474573684937",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965628472283582611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是我不吃自己的！非常讨厌自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1965628472283582611",
+        "created_at": "2025-09-10T04:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T05:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965628472283582611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AoS_Aur0raSky/…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/AoS_Aur0raSky/status/1965599656936874004",
+              "start": 145,
+              "url": "https://t.co/khXttqXNs6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965628472283582611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965599656936874004",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "精液通常是腥味的 每个人味道可能有点区别但是不大 基本上形态就是腥味粘稠滑腻的\n反正我第一次也只是舔了一口……不是很喜欢 我觉得更多是感情因素 就像某人也会不嫌弃我的味道舔我脚。明明根本就不好吃\n换种想法 精液特有的腥味有挺有情趣的 如果是好吃的反而没什么特点了 总之如果我吃多就能习惯吧 https://t.co/khXttqXNs6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "Arcaea/三角洲行动/舞萌dx",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "没有容身之地。",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1962804814611652676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965259636543815685/GPXhrPsx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2636,
+          "following_count": 2637,
+          "like_count": 35356,
+          "listed_count": 14,
+          "media_count": 1347,
+          "tweet_count": 29956
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      }
+    ]
+  }
+}

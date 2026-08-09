@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1903340978746089642",
+    "created_at": "2025-03-22T08:29:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T09:29:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903363444377825626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1866050038088024064",
+          "start": 0,
+          "username": "123456wwerr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903363444377825626",
+    "in_reply_to_user_id": "1866050038088024064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903363075312349352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123456wwerr 我要成为中推圈著名人物（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1903340978746089642",
+        "created_at": "2025-03-22T08:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T09:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903363444377825626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866050038088024064",
+              "start": 0,
+              "username": "123456wwerr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903363444377825626",
+        "in_reply_to_user_id": "1866050038088024064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903363075312349352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123456wwerr 我要成为中推圈著名人物（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866050038088024064",
+        "conversation_id": "1903340978746089642",
+        "created_at": "2025-03-22T08:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T09:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903363075312349352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903363075312349352",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903340978746089642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 你过于在意流量会把你异化掉的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "Arknights/崩壊:スターレイル/Arcaea/MaimaiDX/東方Project/ VOCALOID/Galgame/主人@yeziyu7777 关注@_FiniteWorld @small_fun8964 @Huahe_wu @KaitlynXiaoLu99 小号@Loveyezi8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "_FiniteWorld"
+              },
+              {
+                "end": 108,
+                "start": 94,
+                "username": "small_fun8964"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "Huahe_wu"
+              },
+              {
+                "end": 135,
+                "start": 119,
+                "username": "KaitlynXiaoLu99"
+              },
+              {
+                "end": 151,
+                "start": 138,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "☆流苏☆🐱IP杭州（100%互fo）",
+        "pinned_tweet_id": "1901903397277532265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1466,
+          "following_count": 1765,
+          "like_count": 28155,
+          "listed_count": 10,
+          "media_count": 795,
+          "tweet_count": 18275
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T09:19:43.000Z",
+        "description": "悲观主义者",
+        "id": "1866050038088024064",
+        "location": "Hokkaidō, Japan",
+        "name": "荻原沙优",
+        "pinned_tweet_id": "1886412746863808969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873386768524836864/dTJUI6I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 195,
+          "like_count": 37551,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 7392
+        },
+        "username": "123456wwerr",
+        "verified": false
+      }
+    ]
+  }
+}

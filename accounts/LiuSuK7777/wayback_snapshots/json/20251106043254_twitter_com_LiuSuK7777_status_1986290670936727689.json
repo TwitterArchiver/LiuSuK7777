@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1985943100947394693",
+    "created_at": "2025-11-06T04:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T05:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986290670936727689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1960187829687885824",
+          "start": 0,
+          "username": "huaxuejilebaike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986290670936727689",
+    "in_reply_to_user_id": "1960187829687885824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985943100947394693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huaxuejilebaike 普瑞赛斯开的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1985943093930258432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G498uNHacAAdgLz.jpg",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1985943100947394693",
+        "created_at": "2025-11-06T04:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T05:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986290670936727689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1960187829687885824",
+              "start": 0,
+              "username": "huaxuejilebaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986290670936727689",
+        "in_reply_to_user_id": "1960187829687885824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985943100947394693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huaxuejilebaike 普瑞赛斯开的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985943093930258432"
+          ]
+        },
+        "author_id": "1960187829687885824",
+        "conversation_id": "1985943100947394693",
+        "created_at": "2025-11-05T05:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T06:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985943100947394693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JCr6MtihHz",
+              "end": 29,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/1985943100947394693/photo/1",
+              "media_key": "3_1985943093930258432",
+              "start": 6,
+              "url": "https://t.co/JCr6MtihHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985943100947394693",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 10748,
+          "like_count": 206,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "什么巴林？ https://t.co/JCr6MtihHz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！\n主人♡@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 69,
+                "start": 56,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976703554758098945/2sn3KBuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2778,
+          "following_count": 2681,
+          "like_count": 35519,
+          "listed_count": 13,
+          "media_count": 1492,
+          "tweet_count": 31855
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "官网:https://t.co/DM4fmdhdkn\nTG频道:https://t.co/YoXqIDrwpe\n交流群:https://t.co/JfbYdIujGy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 26,
+                "expanded_url": "https://overdose.day/",
+                "start": 3,
+                "url": "https://t.co/DM4fmdhdkn"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaike",
+                "end": 55,
+                "expanded_url": "https://t.me/huaxuejilebaike",
+                "start": 32,
+                "url": "https://t.co/YoXqIDrwpe"
+              },
+              {
+                "display_url": "t.me/huaxuejile",
+                "end": 83,
+                "expanded_url": "https://t.me/huaxuejile",
+                "start": 60,
+                "url": "https://t.co/JfbYdIujGy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day/",
+                "start": 0,
+                "url": "https://t.co/DM4fmdhdkn"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "化学极乐百科🍥",
+        "pinned_tweet_id": "1982257451740070310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982252885577453568/G1aVUn34_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 342,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 306
+        },
+        "url": "https://t.co/DM4fmdhdkn",
+        "username": "huaxuejilebaike",
+        "verified": false
+      }
+    ]
+  }
+}

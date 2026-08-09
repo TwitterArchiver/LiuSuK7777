@@ -1,0 +1,602 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407811550987972617",
+          "name": "Industries"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1988083020352589935",
+    "created_at": "2025-11-11T03:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T04:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988083020352589935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1501136041956487171",
+          "start": 3,
+          "username": "AKEndfieldZHT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/uMxC5",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/uMxC5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988083020352589935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 554
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984232635455967676",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AKEndfieldZHT: 《明日方舟：終末地》全面測試PV \n\"越是探索，結論越是殘酷。 但我們，沒有回頭的理由。 終末地工業的齒輪已開始轉動，全新的征程正等待您親手書寫其序章。 管理員，請指引我們——前往那片未被照亮的世界。\" https://t.co/uMxC5…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 200216,
+        "height": 1716,
+        "media_key": "13_1983943078697381888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1983943078697381888/img/NTXsLbkHFdpFjyFl.jpg",
+        "public_metrics": {
+          "view_count": 11057
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983943078697381888/vid/avc1/858x360/eKlKVwXmA-I8mMbY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983943078697381888/vid/avc1/1718x720/b5rPmjqqnPVhnAkV.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983943078697381888/vid/avc1/2576x1080/tkt5Q4xs0sYGNPiC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1983943078697381888/pl/ZbkL88uv1RD8cfey.m3u8"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983943078697381888/vid/avc1/4096x1716/64B6gg0Z-ARoNU-B.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983943078697381888/vid/avc1/644x270/paMYWoTxC3m_qlKm.mp4"
+          }
+        ],
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1988083020352589935",
+        "created_at": "2025-11-11T03:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T04:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988083020352589935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1501136041956487171",
+              "start": 3,
+              "username": "AKEndfieldZHT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/uMxC5",
+              "end": 139,
+              "start": 121,
+              "url": "https://t.co/uMxC5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988083020352589935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 554
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984232635455967676",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AKEndfieldZHT: 《明日方舟：終末地》全面測試PV \n\"越是探索，結論越是殘酷。 但我們，沒有回頭的理由。 終末地工業的齒輪已開始轉動，全新的征程正等待您親手書寫其序章。 管理員，請指引我們——前往那片未被照亮的世界。\" https://t.co/uMxC5…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1983943078697381888"
+          ]
+        },
+        "author_id": "1501136041956487171",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1984232635455967676",
+        "created_at": "2025-10-31T12:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T13:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984232635455967676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uMxC5ssSlR",
+              "end": 125,
+              "expanded_url": "https://x.com/AKEndfieldZHT/status/1984232635455967676/video/1",
+              "media_key": "13_1983943078697381888",
+              "start": 102,
+              "url": "https://t.co/uMxC5ssSlR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984232635455967676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 61180,
+          "like_count": 454,
+          "quote_count": 19,
+          "reply_count": 28,
+          "retweet_count": 554
+        },
+        "reply_settings": "everyone",
+        "text": "《明日方舟：終末地》全面測試PV \n\"越是探索，結論越是殘酷。 但我們，沒有回頭的理由。 終末地工業的齒輪已開始轉動，全新的征程正等待您親手書寫其序章。 管理員，請指引我們——前往那片未被照亮的世界。\" https://t.co/uMxC5ssSlR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！\n主人♡@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 69,
+                "start": 56,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976703554758098945/2sn3KBuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2776,
+          "following_count": 2684,
+          "like_count": 35438,
+          "listed_count": 13,
+          "media_count": 1495,
+          "tweet_count": 31890
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-08T10:01:44.000Z",
+        "description": "《明日方舟：終末地》官方Twitter。《明日方舟：終末地》是一款由鷹角網絡出品的3D即時策略RPG。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "endfield.gryphline.com/zh-tw/",
+                "end": 23,
+                "expanded_url": "https://endfield.gryphline.com/zh-tw/",
+                "start": 0,
+                "url": "https://t.co/dj2hcd5U8O"
+              }
+            ]
+          }
+        },
+        "id": "1501136041956487171",
+        "name": "明日方舟：終末地",
+        "pinned_tweet_id": "1984232635455967676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984225639407529984/2_3-HRTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40435,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 83,
+          "media_count": 154,
+          "tweet_count": 163
+        },
+        "url": "https://t.co/dj2hcd5U8O",
+        "username": "AKEndfieldZHT",
+        "verified": true
+      }
+    ]
+  }
+}

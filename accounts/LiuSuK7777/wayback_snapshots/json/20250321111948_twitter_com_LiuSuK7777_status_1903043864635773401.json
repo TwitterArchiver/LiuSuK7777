@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1903043382911570283",
+    "created_at": "2025-03-21T11:19:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T12:19:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903043864635773401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1248637653001494529",
+          "start": 0,
+          "username": "Fomalhautawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903043864635773401",
+    "in_reply_to_user_id": "1248637653001494529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903043684175888511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fomalhautawa 我戴着拍吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1903043382911570283",
+        "created_at": "2025-03-21T11:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T12:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903043864635773401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1248637653001494529",
+              "start": 0,
+              "username": "Fomalhautawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903043864635773401",
+        "in_reply_to_user_id": "1248637653001494529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903043684175888511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fomalhautawa 我戴着拍吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248637653001494529",
+        "conversation_id": "1903043382911570283",
+        "created_at": "2025-03-21T11:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T12:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903043684175888511"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "尾巴",
+              "probability": 0.7235,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903043684175888511",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903043382911570283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 尾巴。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "Arknights/崩壊:スターレイル/Arcaea/MaimaiDX/東方Project/ VOCALOID/Galgame/主人@yeziyu7777 关注@_FiniteWorld @small_fun8964 @Huahe_wu @KaitlynXiaoLu99 小号@Loveyezi8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "_FiniteWorld"
+              },
+              {
+                "end": 108,
+                "start": 94,
+                "username": "small_fun8964"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "Huahe_wu"
+              },
+              {
+                "end": 135,
+                "start": 119,
+                "username": "KaitlynXiaoLu99"
+              },
+              {
+                "end": 151,
+                "start": 138,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "☆流苏☆🐱（100%互fo）",
+        "pinned_tweet_id": "1901903397277532265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 1737,
+          "like_count": 28033,
+          "listed_count": 10,
+          "media_count": 781,
+          "tweet_count": 17823
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "你好誒，可以叫我師師。\n一些碎碎唸和日常照片。\n偶爾澀澀抽象一下啊咪。\n會經常刪舊推文喵。\n謝謝你呀。\n一些碎碎念指路@Ning0809pepsi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 59,
+                "username": "Ning0809pepsi"
+              }
+            ]
+          }
+        },
+        "id": "1248637653001494529",
+        "location": "萱華軒",
+        "name": "師霂澪。",
+        "pinned_tweet_id": "1900761409329524973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901276682939760640/M7HGkXCx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 264,
+          "like_count": 112381,
+          "listed_count": 17,
+          "media_count": 39,
+          "tweet_count": 25123
+        },
+        "username": "Fomalhautawa",
+        "verified": false
+      }
+    ]
+  }
+}

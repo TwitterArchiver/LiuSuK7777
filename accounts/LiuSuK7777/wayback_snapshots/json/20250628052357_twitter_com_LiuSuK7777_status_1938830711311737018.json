@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1938655691201487219",
+    "created_at": "2025-06-28T05:23:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T06:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938830711311737018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1248637653001494529",
+          "start": 0,
+          "username": "Q2anmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938830711311737018",
+    "in_reply_to_user_id": "1248637653001494529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938655691201487219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Q2anmo 果然人脑有自动矫正的功能\n这不对吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1938655691201487219",
+        "created_at": "2025-06-28T05:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T06:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938830711311737018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1248637653001494529",
+              "start": 0,
+              "username": "Q2anmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938830711311737018",
+        "in_reply_to_user_id": "1248637653001494529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938655691201487219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Q2anmo 果然人脑有自动矫正的功能\n这不对吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248637653001494529",
+        "conversation_id": "1938655691201487219",
+        "created_at": "2025-06-27T17:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T18:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938655691201487219"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938655691201487219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1503,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咪，就算你穿得整整齐齐站在我面前，我也会对你动手动脚的。抱歉，放过你的事我做不到。嘿。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男|Arcaea|明日方舟|舞萌DX|火影忍者|社恐健全B|2008.02.29 |主人@yeziyu7777对象@zyh1428202小号@Loveyezi8964\n微信用户名同推特用户名",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1936314364468105461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2213,
+          "following_count": 2477,
+          "like_count": 34410,
+          "listed_count": 11,
+          "media_count": 1148,
+          "tweet_count": 26986
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "",
+        "id": "1248637653001494529",
+        "name": "千芊",
+        "pinned_tweet_id": "1926899255525916850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925091564696829957/BR40J6UP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2043,
+          "following_count": 254,
+          "like_count": 173050,
+          "listed_count": 31,
+          "media_count": 65,
+          "tweet_count": 40538
+        },
+        "username": "Q2anmo",
+        "verified": false
+      }
+    ]
+  }
+}

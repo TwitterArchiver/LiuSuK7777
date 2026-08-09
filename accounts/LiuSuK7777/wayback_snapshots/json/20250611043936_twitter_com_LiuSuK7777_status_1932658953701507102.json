@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1932462319277351341",
+    "created_at": "2025-06-11T04:39:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T05:39:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932658953701507102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1911628907842818049",
+          "start": 0,
+          "username": "codyhunk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932658953701507102",
+    "in_reply_to_user_id": "1911628907842818049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932462319277351341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@codyhunk 那很无聊了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1322,
+        "media_key": "3_1932462307025805312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtF8Osga4AADCIw.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1932462319277351341",
+        "created_at": "2025-06-11T04:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T05:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932658953701507102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911628907842818049",
+              "start": 0,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932658953701507102",
+        "in_reply_to_user_id": "1911628907842818049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932462319277351341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codyhunk 那很无聊了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932462307025805312"
+          ]
+        },
+        "author_id": "1911628907842818049",
+        "conversation_id": "1932462319277351341",
+        "created_at": "2025-06-10T15:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T16:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932462319277351341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oBcr3q0hpE",
+              "end": 23,
+              "expanded_url": "https://x.com/codyhunk/status/1932462319277351341/photo/1",
+              "media_key": "3_1932462307025805312",
+              "start": 0,
+              "url": "https://t.co/oBcr3q0hpE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932462319277351341",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 32783,
+          "like_count": 425,
+          "quote_count": 3,
+          "reply_count": 29,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oBcr3q0hpE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏，Arcaea/明日方舟/舞萌DX/火影忍者，线上淫乱线下社恐，健全B无心理疾病，经常搞砸让所有人都不开心，生日2008.02.29 |唯一的主人@yeziyu7777/对象@zyh1428202 小号@Loveyezi8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1931302860630688172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2127,
+          "following_count": 2400,
+          "like_count": 34148,
+          "listed_count": 11,
+          "media_count": 1104,
+          "tweet_count": 26122
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "大家好叫我半藏就好，喜欢和大家交朋友，平时分享沙雕图。没啥雷点，对任何群体都保持友好。爱打游戏不红温，互fo记得在顶置留言",
+        "id": "1911628907842818049",
+        "location": "距你0.2km",
+        "name": "岛田半藏(互fo",
+        "pinned_tweet_id": "1930171746898063515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912733546407686145/-TA4wnE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2951,
+          "following_count": 575,
+          "like_count": 837,
+          "listed_count": 2,
+          "media_count": 1424,
+          "tweet_count": 1587
+        },
+        "username": "codyhunk",
+        "verified": false
+      }
+    ]
+  }
+}

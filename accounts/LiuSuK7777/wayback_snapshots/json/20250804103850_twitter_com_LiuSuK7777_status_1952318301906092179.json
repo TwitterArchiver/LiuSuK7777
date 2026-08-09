@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951580798647402497"
+      ],
+      "media_source_tweet_id": [
+        "1951976348286857230"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "conversation_id": "1952318301906092179",
+    "created_at": "2025-08-04T10:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T11:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952318301906092179"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "フラン",
+          "probability": 0.8338,
+          "start": 21,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1670775426187395072",
+          "start": 3,
+          "username": "dZnjXe7kCN44608"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pz7mmSHbMx",
+          "end": 65,
+          "expanded_url": "https://x.com/dZnjXe7kCN44608/status/1951976348286857230/photo/1",
+          "media_key": "3_1951580798647402497",
+          "start": 42,
+          "url": "https://t.co/Pz7mmSHbMx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952318301906092179",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 342
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951976348286857230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dZnjXe7kCN44608: フランちゃんと情熱的なキスがしたい．．． https://t.co/Pz7mmSHbMx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1951580798647402497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxVoZX3aAAENd53.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951580798647402497"
+          ],
+          "media_source_tweet_id": [
+            "1951976348286857230"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "conversation_id": "1952318301906092179",
+        "created_at": "2025-08-04T10:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T11:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952318301906092179"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "フラン",
+              "probability": 0.8338,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1670775426187395072",
+              "start": 3,
+              "username": "dZnjXe7kCN44608"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pz7mmSHbMx",
+              "end": 65,
+              "expanded_url": "https://x.com/dZnjXe7kCN44608/status/1951976348286857230/photo/1",
+              "media_key": "3_1951580798647402497",
+              "start": 42,
+              "url": "https://t.co/Pz7mmSHbMx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952318301906092179",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 342
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951976348286857230",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dZnjXe7kCN44608: フランちゃんと情熱的なキスがしたい．．． https://t.co/Pz7mmSHbMx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951580798647402497"
+          ]
+        },
+        "author_id": "1670775426187395072",
+        "conversation_id": "1951976348286857230",
+        "created_at": "2025-08-03T12:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T13:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951976348286857230"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "フラン",
+              "probability": 0.8228,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pz7mmSHbMx",
+              "end": 44,
+              "expanded_url": "https://x.com/dZnjXe7kCN44608/status/1951976348286857230/photo/1",
+              "media_key": "3_1951580798647402497",
+              "start": 21,
+              "url": "https://t.co/Pz7mmSHbMx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951976348286857230",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 934,
+          "impression_count": 80614,
+          "like_count": 6400,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 342
+        },
+        "reply_settings": "everyone",
+        "text": "フランちゃんと情熱的なキスがしたい．．． https://t.co/Pz7mmSHbMx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男 | 御主/ダーリン@yeziyu7777 | 革命伴侣/契约者/運命の人@zyh1428202 | お姉ちゃん@ttkyyx03 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "ttkyyx03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "超高校级の無意識",
+        "pinned_tweet_id": "1949513211826377068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2532,
+          "following_count": 2647,
+          "like_count": 34961,
+          "listed_count": 10,
+          "media_count": 1278,
+          "tweet_count": 28910
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-19T12:48:09.000Z",
+        "description": "投稿しているイラストはAIで生成したものです。\nPatreonでも活動始めたのでよければ\nURL︰https://t.co/27h8YpK7bA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/cDGre",
+                "end": 72,
+                "expanded_url": "https://x.gd/cDGre",
+                "start": 49,
+                "url": "https://t.co/27h8YpK7bA"
+              }
+            ]
+          }
+        },
+        "id": "1670775426187395072",
+        "name": "ルウド",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946748098673250304/x2rGQ1q-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5671,
+          "following_count": 434,
+          "like_count": 8,
+          "listed_count": 28,
+          "media_count": 104,
+          "tweet_count": 295
+        },
+        "username": "dZnjXe7kCN44608",
+        "verified": true
+      }
+    ]
+  }
+}

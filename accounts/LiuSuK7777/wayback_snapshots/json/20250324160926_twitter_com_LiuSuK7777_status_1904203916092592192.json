@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1904195398618718617",
+    "created_at": "2025-03-24T16:09:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T17:09:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904203916092592192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822910760873537536",
+          "start": 0,
+          "username": "KaitlynXiaoLu99"
+        },
+        {
+          "end": 33,
+          "id": "1831363594556211200",
+          "start": 17,
+          "username": "SeventeenYizuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904203916092592192",
+    "in_reply_to_user_id": "1822910760873537536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904203802045280620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaitlynXiaoLu99 @SeventeenYizuka 下次一定"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1904203802045280620].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1904203802045280620",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1904203802045280620"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1904195398618718617",
+        "created_at": "2025-03-24T16:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T17:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904203916092592192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822910760873537536",
+              "start": 0,
+              "username": "KaitlynXiaoLu99"
+            },
+            {
+              "end": 33,
+              "id": "1831363594556211200",
+              "start": 17,
+              "username": "SeventeenYizuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904203916092592192",
+        "in_reply_to_user_id": "1822910760873537536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904203802045280620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaitlynXiaoLu99 @SeventeenYizuka 下次一定"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "想被一枪崩死",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "☆流苏☆🐱IP杭州（100%互fo）",
+        "pinned_tweet_id": "1903751125427515801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 1909,
+          "like_count": 28868,
+          "listed_count": 13,
+          "media_count": 832,
+          "tweet_count": 19522
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T08:19:35.000Z",
+        "description": "小鹿亲友号｜isfp-t｜バンドリ｜威权主义+建制派｜lgbtq尊重+不支持｜魔女之旅粉丝｜MyGO全员厨｜MaimaiDX｜愿我们都能走在有光的路上｜发癫小号：@XiaoLuNigeru｜筹备二周目ing…@LightlyXiaoLu99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "XiaoLuNigeru"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "LightlyXiaoLu99"
+              }
+            ]
+          }
+        },
+        "id": "1822910760873537536",
+        "location": "羽丘女子学园",
+        "name": "-小鹿小鹿-🦌🇨🇳",
+        "pinned_tweet_id": "1902459772336750656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902460825165819905/W63nvUfl_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1820,
+          "following_count": 1287,
+          "like_count": 21188,
+          "listed_count": 9,
+          "media_count": 469,
+          "tweet_count": 8485
+        },
+        "username": "KaitlynXiaoLu99",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T16:08:23.000Z",
+        "description": "et omnia vanitas｜小梓单推人！｜“たとえ全てが虚しいことだとしでも、それは今日最善を尽くさない理由にはならない。”｜中文/Chinglish/日本語(下手）｜無言フォロー失礼します｜见证小账@charming_azusa｜↓提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 103,
+                "username": "charming_azusa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/seventeenyizuka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/seventeenyizuka",
+                "start": 0,
+                "url": "https://t.co/I4rMCgSFjH"
+              }
+            ]
+          }
+        },
+        "id": "1831363594556211200",
+        "location": "記錄の地平線",
+        "name": "JYUSHITI拾柒",
+        "pinned_tweet_id": "1898218103731048603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902734496136564737/kY55O5fg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 725,
+          "like_count": 16784,
+          "listed_count": 4,
+          "media_count": 580,
+          "tweet_count": 6329
+        },
+        "url": "https://t.co/I4rMCgSFjH",
+        "username": "SeventeenYizuka",
+        "verified": false
+      }
+    ]
+  }
+}

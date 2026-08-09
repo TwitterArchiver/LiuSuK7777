@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1936124268620005688",
+    "created_at": "2025-06-21T06:48:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T07:48:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936315387525972040"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "大神",
+          "probability": 0.4965,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "KagurazakaAzure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936315387525972040",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936124268620005688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazakaAzure 大神😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 160500,
+        "height": 1080,
+        "media_key": "13_1936123619584638976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1936123619584638976/img/xGn4PClUgRiOpKs8.jpg",
+        "public_metrics": {
+          "view_count": 95
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936123619584638976/vid/avc1/480x360/il6eO8iqdv-VG3wO.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936123619584638976/vid/avc1/1440x1080/RpBpZvVaxBikXxmc.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936123619584638976/vid/avc1/360x270/8qsyiua5h7GYF5mK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1936123619584638976/pl/UHDcgi9hH5Cbhjjm.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936123619584638976/vid/avc1/960x720/094msQ5UlGMXyy19.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1936124268620005688",
+        "created_at": "2025-06-21T06:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T07:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936315387525972040"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "大神",
+              "probability": 0.4965,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "KagurazakaAzure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936315387525972040",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936124268620005688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaAzure 大神😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1936123619584638976"
+          ]
+        },
+        "author_id": "1807107145756008448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "1936124268620005688",
+        "created_at": "2025-06-20T18:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T19:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936124268620005688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AQHdlmju2E",
+              "end": 54,
+              "expanded_url": "https://x.com/KagurazakaAzure/status/1936124268620005688/video/1",
+              "media_key": "13_1936123619584638976",
+              "start": 31,
+              "url": "https://t.co/AQHdlmju2E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936124268620005688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 380,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这可能是我用 iPad Pro 2020 录制的最后一个手元 https://t.co/AQHdlmju2E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男|Arcaea|明日方舟|舞萌DX|火影忍者|社恐健全B|2008.02.29 |主人@yeziyu7777对象@zyh1428202小号@Loveyezi8964\n微信用户名同推特用户名",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1936040969012756602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2190,
+          "following_count": 2442,
+          "like_count": 34339,
+          "listed_count": 10,
+          "media_count": 1129,
+          "tweet_count": 26691
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "⛩️🧊🌊⁉️｜叫líng就好啦 ｜非二元MtX🏳️‍🌈🏳️‍⚧️｜🍥hrt24.4.20｜179cm55kg骨头架子｜🇬🇧预备役英区留子乐子人｜08｜重庆｜入坑半年音游人 ｜Arcaea&maimaiでらっくす｜曾列席特朗普马斯克对谈会 ｜买雌二醇找@minokakay｜对象@juhao0721❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 125,
+                "username": "minokakay"
+              },
+              {
+                "end": 148,
+                "start": 138,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "「查看更多」里面有自我介绍⬇️",
+        "name": "Λzure色號の水彩翎.🧊",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921288349119373312/6m5iNDhR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6984,
+          "following_count": 1220,
+          "like_count": 29042,
+          "listed_count": 8,
+          "media_count": 2101,
+          "tweet_count": 16360
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": false
+      }
+    ]
+  }
+}

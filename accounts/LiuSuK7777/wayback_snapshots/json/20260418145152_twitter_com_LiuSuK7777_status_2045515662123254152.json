@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2045515662123254152",
+    "created_at": "2026-04-18T14:51:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T15:51:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045515662123254152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kxk1388574/sta…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/kxk1388574/status/2045439740506497149",
+          "start": 13,
+          "url": "https://t.co/JD7iKR0qtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045515662123254152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045439740506497149",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不知道 但是万达有舞萌吗 https://t.co/JD7iKR0qtX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2045515662123254152",
+        "created_at": "2026-04-18T14:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T15:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045515662123254152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kxk1388574/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/kxk1388574/status/2045439740506497149",
+              "start": 13,
+              "url": "https://t.co/JD7iKR0qtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045515662123254152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045439740506497149",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不知道 但是万达有舞萌吗 https://t.co/JD7iKR0qtX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673364955171782657",
+        "conversation_id": "2045439740506497149",
+        "created_at": "2026-04-18T09:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T10:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045439740506497149"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045439740506497149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1907,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "全中国人口最密集的地方：万达广场"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 08年~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我喜欢你@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 38,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 67,
+                "start": 54,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2032828973374386365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030299474501971969/jf72wAsr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3134,
+          "following_count": 2692,
+          "like_count": 35055,
+          "listed_count": 14,
+          "media_count": 1655,
+          "tweet_count": 34767
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "*是一只路过的🍋～\n*想聊天欢迎随时聊就好，说错话也没关系的\n*妹@lumuyuanMadoka2\n*最好的大哥哥@liychn30019070",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "lumuyuanMadoka2"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "liychn30019070"
+              }
+            ]
+          }
+        },
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "kxk🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9155,
+          "following_count": 5775,
+          "like_count": 52163,
+          "listed_count": 12,
+          "media_count": 904,
+          "tweet_count": 7292
+        },
+        "username": "kxk1388574",
+        "verified": false
+      }
+    ]
+  }
+}

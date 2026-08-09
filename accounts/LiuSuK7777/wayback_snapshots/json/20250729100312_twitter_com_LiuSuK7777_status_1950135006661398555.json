@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1949513211826377068",
+    "created_at": "2025-07-29T10:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T11:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950135006661398555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1604733406608101376",
+          "start": 0,
+          "username": "iriumx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950135006661398555",
+    "in_reply_to_user_id": "1604733406608101376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950118557968150582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iriumx 正面评价"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1949513211826377068",
+        "created_at": "2025-07-29T10:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T11:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950135006661398555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1604733406608101376",
+              "start": 0,
+              "username": "iriumx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950135006661398555",
+        "in_reply_to_user_id": "1604733406608101376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950118557968150582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iriumx 正面评价"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604733406608101376",
+        "conversation_id": "1949513211826377068",
+        "created_at": "2025-07-29T08:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T09:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950118557968150582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950118557968150582",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949513211826377068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 玩源神的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "生理性别与性别认同都是男\n主人@yeziyu7777\n小号@Loveyezi8964 @luoyue_maimai\n笨蛋姐姐@TTKYYX03（不是现实中那个）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 42,
+                "start": 29,
+                "username": "Loveyezi8964"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "luoyue_maimai"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "超高校级の無意識",
+        "pinned_tweet_id": "1949513211826377068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2499,
+          "following_count": 2638,
+          "like_count": 34957,
+          "listed_count": 10,
+          "media_count": 1251,
+          "tweet_count": 28524
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-19T07:00:47.000Z",
+        "description": "cn准高二物化生\n喜欢van音游\n混迹于2.5次元\n无特别喜好啥都沾点\n学业繁忙淡推 :(",
+        "id": "1604733406608101376",
+        "location": "CHINA shanghai",
+        "name": "gxuuehdh",
+        "pinned_tweet_id": "1898013202593579410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901187554189471744/0XHFVvoa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 428,
+          "like_count": 3320,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 264
+        },
+        "username": "iriumx",
+        "verified": false
+      }
+    ]
+  }
+}

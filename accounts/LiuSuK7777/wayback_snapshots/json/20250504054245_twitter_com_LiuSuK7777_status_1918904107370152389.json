@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1918889774955327802",
+    "created_at": "2025-05-04T05:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T06:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918904107370152389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "VicoOci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918904107370152389",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918903470305751207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VicoOci ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1918889774955327802",
+        "created_at": "2025-05-04T05:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T06:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918904107370152389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "VicoOci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918904107370152389",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918903470305751207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VicoOci ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868205822511288320",
+        "conversation_id": "1918889774955327802",
+        "created_at": "2025-05-04T05:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T06:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918903470305751207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918903470305751207",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918889774955327802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 形象 我🙋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/挚友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1954,
+          "following_count": 2200,
+          "like_count": 32250,
+          "listed_count": 12,
+          "media_count": 1011,
+          "tweet_count": 23908
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "我的宝宝❤️🥺@isaactan8964 /妈妈@5mRtist / 妹妹@HyotoChandesuyo 闺蜜@freequan2025好厚米@kikyo4000 @LightlyXiaoLu99 @muska56368 @Lmao_Quien @SHEEPLOVESGRASS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 7,
+                "username": "isaactan8964"
+              },
+              {
+                "end": 32,
+                "start": 24,
+                "username": "5mRtist"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "HyotoChandesuyo"
+              },
+              {
+                "end": 69,
+                "start": 56,
+                "username": "freequan2025"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "kikyo4000"
+              },
+              {
+                "end": 99,
+                "start": 83,
+                "username": "LightlyXiaoLu99"
+              },
+              {
+                "end": 111,
+                "start": 100,
+                "username": "muska56368"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "Lmao_Quien"
+              },
+              {
+                "end": 140,
+                "start": 124,
+                "username": "SHEEPLOVESGRASS"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "距离2.50km",
+        "name": "vico_oci",
+        "pinned_tweet_id": "1918554372692222197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884095826739482624/oiePEXdO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3221,
+          "following_count": 208,
+          "like_count": 7231,
+          "listed_count": 5,
+          "media_count": 108,
+          "tweet_count": 2858
+        },
+        "username": "VicoOci",
+        "verified": false
+      }
+    ]
+  }
+}

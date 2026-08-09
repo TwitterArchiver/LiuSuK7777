@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1902663297926836628",
+    "created_at": "2025-03-20T10:23:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T11:23:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902667405689774349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1846255536687534086",
+          "start": 0,
+          "username": "snmqwq"
+        },
+        {
+          "end": 19,
+          "id": "1605171476881371136",
+          "start": 8,
+          "username": "haku_dabai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902667405689774349",
+    "in_reply_to_user_id": "1846255536687534086",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902665338246082982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snmqwq @haku_dabai 喵喵喵喵"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1902665338246082982].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1902665338246082982",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1902665338246082982"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1902663297926836628",
+        "created_at": "2025-03-20T10:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T11:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902667405689774349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1846255536687534086",
+              "start": 0,
+              "username": "snmqwq"
+            },
+            {
+              "end": 19,
+              "id": "1605171476881371136",
+              "start": 8,
+              "username": "haku_dabai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902667405689774349",
+        "in_reply_to_user_id": "1846255536687534086",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902665338246082982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snmqwq @haku_dabai 喵喵喵喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "Arknights/崩壊:スターレイル/Arcaea/MaimaiDX/東方Project/ VOCALOID/Galgame/唯一所爱主人@yeziyu7777 友跨友同 可以找我交朋友喵 好朋友 @_FiniteWorld @small_fun8964 @Huahe_wu @KaitlynXiaoLu99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 113,
+                "start": 100,
+                "username": "_FiniteWorld"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "small_fun8964"
+              },
+              {
+                "end": 138,
+                "start": 129,
+                "username": "Huahe_wu"
+              },
+              {
+                "end": 155,
+                "start": 139,
+                "username": "KaitlynXiaoLu99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "☆流苏☆🐱（fo必回）（目标是超过末裹清）",
+        "pinned_tweet_id": "1901903397277532265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 1674,
+          "like_count": 27689,
+          "listed_count": 10,
+          "media_count": 773,
+          "tweet_count": 17454
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T18:24:36.000Z",
+        "description": "08跨/重读高一/无证含糖/hrt-2025.2.1/抖s+m？/AFO/嵌入式/pcb layout/ALL in boom/轻度玉玉+中度焦虑/喜欢找同类贴贴/坐标重庆/求互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "snmqwq.online",
+                "end": 23,
+                "expanded_url": "https://snmqwq.online",
+                "start": 0,
+                "url": "https://t.co/mNl6h2IMDj"
+              }
+            ]
+          }
+        },
+        "id": "1846255536687534086",
+        "location": "重庆",
+        "name": "尚凝梦qwq8964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901910621677084672/2_69LYBg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 317,
+          "like_count": 245,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 698
+        },
+        "url": "https://t.co/mNl6h2IMDj",
+        "username": "snmqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T12:01:24.000Z",
+        "description": "最爱@2temisinin | 里@haku_uchi | mtf  持证含糖 家长党 | 躁郁 | ENFP-T | 化学 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "2temisinin"
+              },
+              {
+                "end": 27,
+                "start": 17,
+                "username": "haku_uchi"
+              }
+            ]
+          }
+        },
+        "id": "1605171476881371136",
+        "location": "中国-四川省",
+        "name": "大白-はく",
+        "pinned_tweet_id": "1849401311860867118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872460637403852800/NAq594BI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2386,
+          "following_count": 1450,
+          "like_count": 21041,
+          "listed_count": 10,
+          "media_count": 1089,
+          "tweet_count": 15918
+        },
+        "username": "haku_dabai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1992539280858927394",
+    "created_at": "2025-11-24T04:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T05:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992812484651348048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1504405808133865474",
+          "start": 0,
+          "username": "kazemio_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992812484651348048",
+    "in_reply_to_user_id": "1504405808133865474",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992539280858927394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kazemio_ 肯定是ai生成的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 807,
+        "media_key": "3_1992539274110234624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6br6bJa8AAJZbH.jpg",
+        "width": 550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1992539280858927394",
+        "created_at": "2025-11-24T04:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T05:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992812484651348048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1504405808133865474",
+              "start": 0,
+              "username": "kazemio_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992812484651348048",
+        "in_reply_to_user_id": "1504405808133865474",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992539280858927394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kazemio_ 肯定是ai生成的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992539274110234624"
+          ]
+        },
+        "author_id": "1504405808133865474",
+        "conversation_id": "1992539280858927394",
+        "created_at": "2025-11-23T10:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T11:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992539280858927394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FBwUEHKFQM",
+              "end": 26,
+              "expanded_url": "https://x.com/kazemio_/status/1992539280858927394/photo/1",
+              "media_key": "3_1992539274110234624",
+              "start": 3,
+              "url": "https://t.co/FBwUEHKFQM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992539280858927394",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 68390,
+          "like_count": 1187,
+          "quote_count": 2,
+          "reply_count": 40,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "假的 https://t.co/FBwUEHKFQM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1988989827262599538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988989009578848258/x7UX0Rgc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2802,
+          "following_count": 2678,
+          "like_count": 35383,
+          "listed_count": 13,
+          "media_count": 1508,
+          "tweet_count": 32110
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-17T10:34:36.000Z",
+        "description": "下一个天亮",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+0F6-_Zlb9ghmO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+0F6-_Zlb9ghmODgx",
+                "start": 0,
+                "url": "https://t.co/RaG8cWGzrN"
+              }
+            ]
+          }
+        },
+        "id": "1504405808133865474",
+        "name": "镜音未来",
+        "pinned_tweet_id": "1925199258170646912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985668500367818753/4YykOkFi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2211,
+          "following_count": 482,
+          "like_count": 1545,
+          "listed_count": 5,
+          "media_count": 95,
+          "tweet_count": 1318
+        },
+        "url": "https://t.co/RaG8cWGzrN",
+        "username": "kazemio_",
+        "verified": false
+      }
+    ]
+  }
+}

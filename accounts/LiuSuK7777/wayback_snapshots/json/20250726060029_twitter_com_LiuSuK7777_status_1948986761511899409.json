@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1948794542486159534",
+    "created_at": "2025-07-26T06:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T07:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948986761511899409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841847755691745280",
+          "start": 0,
+          "username": "jimi_yang22770"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948986761511899409",
+    "in_reply_to_user_id": "1841847755691745280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948986337698480201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jimi_yang22770 怎么会呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1948794542486159534",
+        "created_at": "2025-07-26T06:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T07:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948986761511899409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841847755691745280",
+              "start": 0,
+              "username": "jimi_yang22770"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948986761511899409",
+        "in_reply_to_user_id": "1841847755691745280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948986337698480201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jimi_yang22770 怎么会呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841847755691745280",
+        "conversation_id": "1948794542486159534",
+        "created_at": "2025-07-26T05:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T06:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948986337698480201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948986337698480201",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948794542486159534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 啊咧？\n我应该不是吧（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "生理性别与性别认同都是男\n主人@yeziyu7777\n对象@zyh1428202\n小号@Loveyezi8964 @luoyue_maimai\n笨蛋姐姐@TTKYYX03（不是现实中那个）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 56,
+                "start": 43,
+                "username": "Loveyezi8964"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "luoyue_maimai"
+              },
+              {
+                "end": 85,
+                "start": 76,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "超高校级の無意識",
+        "pinned_tweet_id": "1947272550418960732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2472,
+          "following_count": 2606,
+          "like_count": 34966,
+          "listed_count": 10,
+          "media_count": 1246,
+          "tweet_count": 28407
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T14:28:28.000Z",
+        "description": "友跨顺男（总有刁民想害朕翻车）\n  ENTJ  \n小鹿🦌@LightlyXiaoLu99    牢哥@AnYeEternal   一個抽象逼@Xinyi_ADHD\n\n怎么你们都那么变态，我跟不上节奏啊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 28,
+                "username": "LightlyXiaoLu99"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "AnYeEternal"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "Xinyi_ADHD"
+              }
+            ]
+          }
+        },
+        "id": "1841847755691745280",
+        "location": "距您0.02公里",
+        "name": "YYY",
+        "pinned_tweet_id": "1945808220922257895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906626847124983808/Ao9FzEG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1184,
+          "following_count": 1452,
+          "like_count": 65233,
+          "listed_count": 8,
+          "media_count": 484,
+          "tweet_count": 11471
+        },
+        "username": "jimi_yang22770",
+        "verified": false
+      }
+    ]
+  }
+}

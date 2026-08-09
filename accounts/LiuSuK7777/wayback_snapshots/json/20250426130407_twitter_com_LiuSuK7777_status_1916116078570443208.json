@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916046420903399431"
+      ],
+      "media_source_tweet_id": [
+        "1916046425730994583"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1916116078570443208",
+    "created_at": "2025-04-26T13:04:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T14:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916116078570443208"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 20,
+          "tag": "東方Project"
+        },
+        {
+          "end": 36,
+          "start": 31,
+          "tag": "魂魄妖夢"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1848355721563537408",
+          "start": 3,
+          "username": "Gakubuchi_9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SlFQQl5Vpk",
+          "end": 60,
+          "expanded_url": "https://x.com/Gakubuchi_9/status/1916046425730994583/photo/1",
+          "media_key": "3_1916046420903399431",
+          "start": 37,
+          "url": "https://t.co/SlFQQl5Vpk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916116078570443208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916046425730994583",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gakubuchi_9: 標的\n＃東方Project\n＃魂魄妖夢 https://t.co/SlFQQl5Vpk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916046420903399431",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpcqEXMbEAcN2JM.jpg",
+        "width": 1359
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916046420903399431"
+          ],
+          "media_source_tweet_id": [
+            "1916046425730994583"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1916116078570443208",
+        "created_at": "2025-04-26T13:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T14:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916116078570443208"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 20,
+              "tag": "東方Project"
+            },
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "魂魄妖夢"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1848355721563537408",
+              "start": 3,
+              "username": "Gakubuchi_9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SlFQQl5Vpk",
+              "end": 60,
+              "expanded_url": "https://x.com/Gakubuchi_9/status/1916046425730994583/photo/1",
+              "media_key": "3_1916046420903399431",
+              "start": 37,
+              "url": "https://t.co/SlFQQl5Vpk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916116078570443208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916046425730994583",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gakubuchi_9: 標的\n＃東方Project\n＃魂魄妖夢 https://t.co/SlFQQl5Vpk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916046420903399431"
+          ]
+        },
+        "author_id": "1848355721563537408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1916046425730994583",
+        "created_at": "2025-04-26T08:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T09:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916046425730994583"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 3,
+              "tag": "東方Project"
+            },
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "魂魄妖夢"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SlFQQl5Vpk",
+              "end": 43,
+              "expanded_url": "https://x.com/Gakubuchi_9/status/1916046425730994583/photo/1",
+              "media_key": "3_1916046420903399431",
+              "start": 20,
+              "url": "https://t.co/SlFQQl5Vpk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916046425730994583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 895,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "標的\n＃東方Project\n＃魂魄妖夢 https://t.co/SlFQQl5Vpk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 2149,
+          "like_count": 31240,
+          "listed_count": 12,
+          "media_count": 953,
+          "tweet_count": 22932
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-21T13:29:35.000Z",
+        "description": "「楽縁」は「がくぶち」と読みます/18↓/イラスト描きます（主に東方）/スマホ指描き/気になった方フォロー失礼します",
+        "id": "1848355721563537408",
+        "name": "楽縁にめ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913564349886791680/l3fmk3DO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 145,
+          "like_count": 2126,
+          "listed_count": 3,
+          "media_count": 55,
+          "tweet_count": 477
+        },
+        "username": "Gakubuchi_9",
+        "verified": false
+      }
+    ]
+  }
+}

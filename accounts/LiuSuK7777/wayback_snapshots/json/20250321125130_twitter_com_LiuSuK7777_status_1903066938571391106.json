@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1903043382911570283",
+    "created_at": "2025-03-21T12:51:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T13:51:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903066938571391106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1813971881990742016",
+          "start": 0,
+          "username": "TXTYYDZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903066938571391106",
+    "in_reply_to_user_id": "1813971881990742016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903065342773170262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TXTYYDZ ……？我的不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1903043382911570283",
+        "created_at": "2025-03-21T12:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T13:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903066938571391106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1813971881990742016",
+              "start": 0,
+              "username": "TXTYYDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903066938571391106",
+        "in_reply_to_user_id": "1813971881990742016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903065342773170262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TXTYYDZ ……？我的不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813971881990742016",
+        "conversation_id": "1903043382911570283",
+        "created_at": "2025-03-21T12:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T13:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903065342773170262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903065342773170262",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903065244966195679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 这玩意是食物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "Arknights/崩壊:スターレイル/Arcaea/MaimaiDX/東方Project/ VOCALOID/Galgame/主人@yeziyu7777 关注@_FiniteWorld @small_fun8964 @Huahe_wu @KaitlynXiaoLu99 小号@Loveyezi8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "_FiniteWorld"
+              },
+              {
+                "end": 108,
+                "start": 94,
+                "username": "small_fun8964"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "Huahe_wu"
+              },
+              {
+                "end": 135,
+                "start": 119,
+                "username": "KaitlynXiaoLu99"
+              },
+              {
+                "end": 151,
+                "start": 138,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "☆流苏☆🐱（100%互fo）",
+        "pinned_tweet_id": "1901903397277532265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 1738,
+          "like_count": 28067,
+          "listed_count": 9,
+          "media_count": 783,
+          "tweet_count": 17861
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T16:19:41.000Z",
+        "description": "抽象与生活，梗图即为艺术！\n唯一单推：@snhrlinglu\n废话小账:@TianXiaoTangDLZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "snhrlinglu"
+              },
+              {
+                "end": 52,
+                "start": 36,
+                "username": "TianXiaoTangDLZ"
+              }
+            ]
+          }
+        },
+        "id": "1813971881990742016",
+        "location": "铁西区是沈阳的不是鞍山也不是四平铁西区",
+        "name": "田小唐",
+        "pinned_tweet_id": "1861387934043381936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879614299683074048/oo3zvDbF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 959,
+          "like_count": 44383,
+          "listed_count": 8,
+          "media_count": 1885,
+          "tweet_count": 10796
+        },
+        "username": "TXTYYDZ",
+        "verified": true
+      }
+    ]
+  }
+}

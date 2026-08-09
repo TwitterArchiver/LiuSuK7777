@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1980958557085515910",
+    "created_at": "2025-10-22T13:41:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T14:41:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980992847450198042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1639816523190763521",
+          "start": 0,
+          "username": "ggdxfulan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980992847450198042",
+    "in_reply_to_user_id": "1639816523190763521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980958557085515910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ggdxfulan 你都那么好了那你操呗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1980958554619072512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G33HT1LXUAA7VLo.jpg",
+        "width": 664
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1980958557085515910",
+        "created_at": "2025-10-22T13:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T14:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980992847450198042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1639816523190763521",
+              "start": 0,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980992847450198042",
+        "in_reply_to_user_id": "1639816523190763521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980958557085515910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggdxfulan 你都那么好了那你操呗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980958554619072512"
+          ]
+        },
+        "author_id": "1639816523190763521",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1980958557085515910",
+        "created_at": "2025-10-22T11:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T12:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980958557085515910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vTgUON3CBh",
+              "end": 27,
+              "expanded_url": "https://x.com/ggdxfulan/status/1980958557085515910/photo/1",
+              "media_key": "3_1980958554619072512",
+              "start": 4,
+              "url": "https://t.co/vTgUON3CBh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980958557085515910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 574,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "还真是 https://t.co/vTgUON3CBh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！\n主人♡@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 69,
+                "start": 56,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976703554758098945/2sn3KBuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2786,
+          "following_count": 2683,
+          "like_count": 35516,
+          "listed_count": 14,
+          "media_count": 1458,
+          "tweet_count": 31507
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "我有乳头悲伤综合症，不要80我😭",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒芙兰",
+        "pinned_tweet_id": "1972915977861177561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977384975751335936/hdJMHO3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12547,
+          "following_count": 461,
+          "like_count": 28672,
+          "listed_count": 21,
+          "media_count": 3021,
+          "tweet_count": 10329
+        },
+        "username": "ggdxfulan",
+        "verified": false
+      }
+    ]
+  }
+}

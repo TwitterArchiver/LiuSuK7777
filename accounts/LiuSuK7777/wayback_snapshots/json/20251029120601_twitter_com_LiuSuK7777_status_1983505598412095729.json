@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1983505487271166026",
+    "created_at": "2025-10-29T12:06:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T13:06:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983505598412095729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1972236525191720960",
+          "start": 0,
+          "username": "dao_bei5670"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983505598412095729",
+    "in_reply_to_user_id": "1972236525191720960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983505487271166026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dao_bei5670 我真求你了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1246,
+        "media_key": "3_1983505484012552192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4bTuoibgAAHh9D.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1983505487271166026",
+        "created_at": "2025-10-29T12:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T13:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983505598412095729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1972236525191720960",
+              "start": 0,
+              "username": "dao_bei5670"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983505598412095729",
+        "in_reply_to_user_id": "1972236525191720960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983505487271166026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dao_bei5670 我真求你了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983505484012552192"
+          ]
+        },
+        "author_id": "1972236525191720960",
+        "conversation_id": "1983505487271166026",
+        "created_at": "2025-10-29T12:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T13:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983505487271166026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hynVHxZePT",
+              "end": 23,
+              "expanded_url": "https://x.com/dao_bei5670/status/1983505487271166026/photo/1",
+              "media_key": "3_1983505484012552192",
+              "start": 0,
+              "url": "https://t.co/hynVHxZePT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983505487271166026",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hynVHxZePT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！\n主人♡@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 69,
+                "start": 56,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976703554758098945/2sn3KBuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2779,
+          "following_count": 2673,
+          "like_count": 35502,
+          "listed_count": 13,
+          "media_count": 1474,
+          "tweet_count": 31629
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-28T09:47:01.000Z",
+        "description": "军舰爱好者⚓/热爱日本二战军舰以及二次元舰娘/也是一个女装爱好者/支持民主自由复兴东亚/台日友谊永存🇹🇼🇯🇵",
+        "id": "1972236525191720960",
+        "location": "広島",
+        "name": "北島🇹🇼🇯🇵",
+        "pinned_tweet_id": "1982772834704478309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982057878568439808/f1Vl_nCL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 256,
+          "like_count": 1963,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 201
+        },
+        "username": "dao_bei5670",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1958092660977307687",
+    "created_at": "2025-08-20T09:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T10:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958092857849622671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1663066129923981312",
+          "start": 0,
+          "username": "kawaii_akiiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958092857849622671",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958092660977307687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawaii_akiiko 脸型：❤️"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1958092660977307687].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1958092660977307687",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1958092660977307687"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1958092660977307687",
+        "created_at": "2025-08-20T09:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T10:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958092857849622671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "kawaii_akiiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958092857849622671",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958092660977307687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaii_akiiko 脸型：❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "❤️@zyh842159145\n🐷@yeziyu7777 @TTKYYX03",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "zyh842159145"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 38,
+                "start": 29,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1954538422728585308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954809051319267328/I8I9Z1CP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2586,
+          "following_count": 2646,
+          "like_count": 35105,
+          "listed_count": 13,
+          "media_count": 1317,
+          "tweet_count": 29415
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "永不言弃 | 你觉得我是什么我就是什么吧 | best friends forever 可爱小秋月 @qiuylove 和 香香软软紫薇 @saoweve",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "qiuylove"
+              },
+              {
+                "end": 77,
+                "start": 69,
+                "username": "saoweve"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "name": "秋以降🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957261994161221632/FCYC9-hA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 999,
+          "like_count": 153757,
+          "listed_count": 4,
+          "media_count": 1222,
+          "tweet_count": 7544
+        },
+        "username": "kawaii_akiiko",
+        "verified": false
+      }
+    ]
+  }
+}

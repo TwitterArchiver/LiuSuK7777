@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1924603655027913173",
+    "created_at": "2025-05-20T11:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T12:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924787406764703925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1657288224451203073",
+          "start": 0,
+          "username": "Cialloi"
+        },
+        {
+          "end": 18,
+          "id": "1589809419822329857",
+          "start": 9,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924787406764703925",
+    "in_reply_to_user_id": "1657288224451203073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924786811773321593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cialloi @jianlvup 当我的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1924603655027913173",
+        "created_at": "2025-05-20T11:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T12:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924787406764703925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1657288224451203073",
+              "start": 0,
+              "username": "Cialloi"
+            },
+            {
+              "end": 18,
+              "id": "1589809419822329857",
+              "start": 9,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924787406764703925",
+        "in_reply_to_user_id": "1657288224451203073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924786811773321593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cialloi @jianlvup 当我的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657288224451203073",
+        "conversation_id": "1924603655027913173",
+        "created_at": "2025-05-20T11:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T12:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924786811773321593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924786811773321593",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924603655027913173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 活着呗不然就是死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "😣",
+        "name": "流苏1号😺",
+        "pinned_tweet_id": "1923615398567833920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2044,
+          "following_count": 2307,
+          "like_count": 33624,
+          "listed_count": 11,
+          "media_count": 1070,
+          "tweet_count": 25062
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T07:34:48.000Z",
+        "description": "耶耶的主人@_NekoMoonLight\n\n小号喵@Ciallo003（负能）互私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "_NekoMoonLight"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "Ciallo003"
+              }
+            ]
+          }
+        },
+        "id": "1657288224451203073",
+        "name": "耶",
+        "pinned_tweet_id": "1904008072143479278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911713586650476544/ZJv4PVD8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1323,
+          "following_count": 553,
+          "like_count": 44598,
+          "listed_count": 4,
+          "media_count": 225,
+          "tweet_count": 10662
+        },
+        "username": "Cialloi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人 可互fo（私信） INTJ 二次元热爱与大家讨论交流 爱评论点赞 华北人 人物志评分创始人 逃生舱：待定\n搭档:@KawawaDiana8964\n朋友:@hhjnjkoguyunmo\n伙伴：@RealColidora3\n前身：@Jianlv117（复活赛中）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 63,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 98,
+                "start": 83,
+                "username": "hhjnjkoguyunmo"
+              },
+              {
+                "end": 116,
+                "start": 102,
+                "username": "RealColidora3"
+              },
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Jianlv117"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E6%90%9E%E7%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E6%90%9E%E7%AC%91%E8%A7%86%E9%A2%91-mvp",
+                "start": 0,
+                "url": "https://t.co/391J9kVPFC"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（回复1和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律·繁律（互fo私信）",
+        "pinned_tweet_id": "1924351852596072470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1943,
+          "following_count": 548,
+          "like_count": 7779,
+          "listed_count": 8,
+          "media_count": 356,
+          "tweet_count": 893
+        },
+        "url": "https://t.co/391J9kVPFC",
+        "username": "jianlvup",
+        "verified": false
+      }
+    ]
+  }
+}

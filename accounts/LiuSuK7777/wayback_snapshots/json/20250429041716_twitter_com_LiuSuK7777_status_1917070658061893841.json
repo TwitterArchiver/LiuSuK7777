@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1917062118530252904",
+    "created_at": "2025-04-29T04:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T05:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917070658061893841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1802674143030374400",
+          "start": 0,
+          "username": "Mikhail_712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917070658061893841",
+    "in_reply_to_user_id": "1802674143030374400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917067862923247800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mikhail_712 喵喵？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1917067862923247800].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1917067862923247800",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1917067862923247800"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1917062118530252904",
+        "created_at": "2025-04-29T04:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T05:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917070658061893841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1802674143030374400",
+              "start": 0,
+              "username": "Mikhail_712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917070658061893841",
+        "in_reply_to_user_id": "1802674143030374400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917067862923247800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mikhail_712 喵喵？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1908,
+          "following_count": 2173,
+          "like_count": 31591,
+          "listed_count": 13,
+          "media_count": 965,
+          "tweet_count": 23273
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T12:06:44.000Z",
+        "description": "米沙好，世界坏！\n@misa2333qwq|可以叫「米沙」的啦～\n中文|日本語|拒极端壬\n欢迎好友友——！qwq\n性奴@baojiangdilei @enosima_asahi可爱主人@qHanTinp|互fo联系我！\n可爱|详见置顶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "misa2333qwq"
+              },
+              {
+                "end": 73,
+                "start": 59,
+                "username": "baojiangdilei"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "enosima_asahi"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "qHanTinp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mikhail_7121",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mikhail_7121",
+                "start": 0,
+                "url": "https://t.co/VW9vsBPqMf"
+              }
+            ]
+          }
+        },
+        "id": "1802674143030374400",
+        "location": "米哈伊尔无限逃避责任很有限公司",
+        "name": "【半退推】Mikhailのパイプオルガン🎏🏳️",
+        "pinned_tweet_id": "1901260705141334286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912879585081139201/2Nly1bpT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 954,
+          "like_count": 7546,
+          "listed_count": 3,
+          "media_count": 285,
+          "tweet_count": 2463
+        },
+        "url": "https://t.co/VW9vsBPqMf",
+        "username": "Mikhail_712",
+        "verified": false
+      }
+    ]
+  }
+}

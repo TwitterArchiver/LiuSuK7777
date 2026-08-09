@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939968100620754944"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1939967451598385191",
+    "created_at": "2025-07-01T08:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T09:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939968113048457243"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jlT0ycHz9c",
+          "end": 23,
+          "expanded_url": "https://x.com/LiuSuK7777/status/1939968113048457243/photo/1",
+          "media_key": "3_1939968100620754944",
+          "start": 0,
+          "url": "https://t.co/jlT0ycHz9c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939968113048457243",
+    "in_reply_to_user_id": "1504799211799265282",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939967601959907361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/jlT0ycHz9c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1939968100620754944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuwmtYkW4AAa3oC.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939968100620754944"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1939967451598385191",
+        "created_at": "2025-07-01T08:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T09:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939968113048457243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jlT0ycHz9c",
+              "end": 23,
+              "expanded_url": "https://x.com/LiuSuK7777/status/1939968113048457243/photo/1",
+              "media_key": "3_1939968100620754944",
+              "start": 0,
+              "url": "https://t.co/jlT0ycHz9c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939968113048457243",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939967601959907361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/jlT0ycHz9c"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1939967451598385191",
+        "created_at": "2025-07-01T08:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T09:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939967601959907361"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939967601959907361",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939967451598385191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈哈我就知道会这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "主人@yeziyu7777对象@zyh1428202小号@Loveyezi8964\n笨蛋姐姐@TTKYYX03",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 26,
+                "start": 15,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 41,
+                "start": 28,
+                "username": "Loveyezi8964"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1936314364468105461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2236,
+          "following_count": 2491,
+          "like_count": 34520,
+          "listed_count": 10,
+          "media_count": 1178,
+          "tweet_count": 27271
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      }
+    ]
+  }
+}

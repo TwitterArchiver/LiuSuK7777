@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2000371910119678430",
+    "created_at": "2025-12-16T04:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T05:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000783907101519921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "123617511",
+          "start": 0,
+          "username": "fexisnpc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000783907101519921",
+    "in_reply_to_user_id": "123617511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000371910119678430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fexisnpc 同学是什么东西  不认识喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2000371910119678430",
+        "created_at": "2025-12-16T04:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T05:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000783907101519921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "123617511",
+              "start": 0,
+              "username": "fexisnpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000783907101519921",
+        "in_reply_to_user_id": "123617511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000371910119678430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fexisnpc 同学是什么东西  不认识喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "123617511",
+        "conversation_id": "2000371910119678430",
+        "created_at": "2025-12-15T01:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T02:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000371910119678430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/WomSleeping/st…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/WomSleeping/status/2000093165425135709",
+              "start": 146,
+              "url": "https://t.co/ymWGP2MB5X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000371910119678430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3349,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000093165425135709",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前阵子还有中学年代完全不熟甚至很不待见我的“同学”突然问了其他人要我微信，还莫名其妙套了半天近乎\n到最后才知道想干啥\n——“能帮我约个入校不，想带孩子去学习学习”\n不好意思啊，校友只有校庆当天有预约入校的权限，平时只有自己能进\n（其实某人当然能，但是你在我这里声望是冷淡，我不会帮你做这个的 https://t.co/ymWGP2MB5X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "1995540883278889351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000419861345026048/OuRHQUY0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2952,
+          "following_count": 2790,
+          "like_count": 35558,
+          "listed_count": 13,
+          "media_count": 1573,
+          "tweet_count": 33696
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-16T17:30:58.000Z",
+        "description": "【感谢夢夢 @Yayoi_no_yume 送咱可爱头像】\n本体是老年肥宅 aka. 入土二次元\n近期是班味老登，没时间玩\n学院路某校基础医学PhD，已退圈——目前不从事科研。\n老婆@Kirashmily33。\n是出版业意识形态审查制度的帮凶。\n中医黑，厌蠢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Yayoi_no_yume"
+              },
+              {
+                "end": 103,
+                "start": 90,
+                "username": "Kirashmily33"
+              }
+            ]
+          }
+        },
+        "id": "123617511",
+        "location": "Sanctuary",
+        "name": "MonoFevc",
+        "pinned_tweet_id": "1900094510098768220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997838446350712833/2u6pOhpt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 1137,
+          "like_count": 29835,
+          "listed_count": 7,
+          "media_count": 3074,
+          "tweet_count": 17443
+        },
+        "username": "fexisnpc",
+        "verified": false
+      }
+    ]
+  }
+}

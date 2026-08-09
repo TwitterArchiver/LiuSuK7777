@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1918587339850317944",
+    "created_at": "2025-05-03T12:37:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T13:37:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918646005698109836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1859486191281897477",
+          "start": 0,
+          "username": "liveDeath750122"
+        },
+        {
+          "end": 28,
+          "id": "1791687125533958144",
+          "start": 17,
+          "username": "rosmarinou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918646005698109836",
+    "in_reply_to_user_id": "1859486191281897477",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918611557078249651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liveDeath750122 @rosmarinou xql"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1918611557078249651].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1918611557078249651",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1918611557078249651"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1918587339850317944",
+        "created_at": "2025-05-03T12:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T13:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918646005698109836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1859486191281897477",
+              "start": 0,
+              "username": "liveDeath750122"
+            },
+            {
+              "end": 28,
+              "id": "1791687125533958144",
+              "start": 17,
+              "username": "rosmarinou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918646005698109836",
+        "in_reply_to_user_id": "1859486191281897477",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918611557078249651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liveDeath750122 @rosmarinou xql"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/好友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1943,
+          "following_count": 2193,
+          "like_count": 32175,
+          "listed_count": 12,
+          "media_count": 1008,
+          "tweet_count": 23840
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T06:37:55.000Z",
+        "description": "doctor is Promised Land HappyDeath or live 天天开心 努力生活 不自残 不OD 不自杀 精神状态良好/TARDIS 驾驶员 professor @Muoujiang_  香姐姐@Shenyuebanran @mishamimihemumu\n作为时间之子我会为善良的孩子带来欢乐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 93,
+                "username": "Muoujiang_"
+              },
+              {
+                "end": 123,
+                "start": 109,
+                "username": "Shenyuebanran"
+              },
+              {
+                "end": 140,
+                "start": 124,
+                "username": "mishamimihemumu"
+              }
+            ]
+          }
+        },
+        "id": "1859486191281897477",
+        "location": "MTF应许之地",
+        "name": "木偶女仆一号/不是木偶酱 母畜 贱货 坏猫🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1875459798365565213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916008497835347971/uPSkMaTG_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 394,
+          "like_count": 13126,
+          "listed_count": 3,
+          "media_count": 290,
+          "tweet_count": 4071
+        },
+        "username": "liveDeath750122",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T04:28:16.000Z",
+        "description": "07年重度抑郁的废物呢，很高兴认识大家。可以称呼咱为ros哦 姐姐：@yehai0032                                                           晚安啦🕯️，面码姐姐@TianqiChen666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "yehai0032"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "TianqiChen666"
+              }
+            ]
+          }
+        },
+        "id": "1791687125533958144",
+        "location": "河南新乡",
+        "name": "Rosmarinus🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895856134432452609/ys8gvkqj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 46,
+          "like_count": 8420,
+          "listed_count": 0,
+          "media_count": 607,
+          "tweet_count": 1067
+        },
+        "username": "rosmarinou",
+        "verified": false
+      }
+    ]
+  }
+}

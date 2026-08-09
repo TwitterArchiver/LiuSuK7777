@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1906681264327004266",
+    "created_at": "2025-03-31T14:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T15:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906721769375089010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1871474805578371072",
+          "start": 0,
+          "username": "fengjiezi"
+        },
+        {
+          "end": 24,
+          "id": "1248637653001494529",
+          "start": 11,
+          "username": "Fomalhautawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906721769375089010",
+    "in_reply_to_user_id": "1871474805578371072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906721439975186694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fengjiezi @Fomalhautawa 想看我穿什麼類型的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1906721439975186694].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1906721439975186694",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1906721439975186694"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1906681264327004266",
+        "created_at": "2025-03-31T14:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T15:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906721769375089010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1871474805578371072",
+              "start": 0,
+              "username": "fengjiezi"
+            },
+            {
+              "end": 24,
+              "id": "1248637653001494529",
+              "start": 11,
+              "username": "Fomalhautawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906721769375089010",
+        "in_reply_to_user_id": "1871474805578371072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906721439975186694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fengjiezi @Fomalhautawa 想看我穿什麼類型的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "💞@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "跟我面基可以随便摸我",
+        "name": "苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1708,
+          "following_count": 2031,
+          "like_count": 29633,
+          "listed_count": 12,
+          "media_count": 871,
+          "tweet_count": 21008
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T08:36:08.000Z",
+        "description": "",
+        "id": "1871474805578371072",
+        "name": "isolation",
+        "pinned_tweet_id": "1877150469887328539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904602819497545728/by_DDd_s_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 83,
+          "like_count": 5574,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 2281
+        },
+        "username": "fengjiezi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "你好哦，這裡是師師。\n謝謝你來。\n@Ning0809pepsi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "Ning0809pepsi"
+              }
+            ]
+          }
+        },
+        "id": "1248637653001494529",
+        "location": "萱華軒",
+        "name": "師霂澪",
+        "pinned_tweet_id": "1906040752888832458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906383529644355584/Lg2WkvZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1630,
+          "following_count": 280,
+          "like_count": 125614,
+          "listed_count": 20,
+          "media_count": 53,
+          "tweet_count": 27654
+        },
+        "username": "Fomalhautawa",
+        "verified": false
+      }
+    ]
+  }
+}

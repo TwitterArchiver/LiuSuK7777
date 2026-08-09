@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2082984714940391424"
+      ],
+      "media_source_tweet_id": [
+        "2082984832322199822"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "conversation_id": "2084585914249224619",
+    "created_at": "2026-08-04T10:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T11:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084585914249224619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1835309913406619648",
+          "start": 3,
+          "username": "dorachipss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Uq28Yym60H",
+          "end": 43,
+          "expanded_url": "https://x.com/PupperDavey/status/2082984832322199822/video/1",
+          "media_key": "7_2082984714940391424",
+          "start": 20,
+          "url": "https://t.co/Uq28Yym60H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084585914249224619",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084025349474808251",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dorachipss: Omg https://t.co/Uq28Yym60H"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31122,
+        "height": 1920,
+        "media_key": "7_2082984714940391424",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2082984714940391424/pu/img/lP49zu5umLy_CKnL.jpg",
+        "public_metrics": {
+          "view_count": 353014
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2082984714940391424/pu/pl/oKaP4aRCQ4zMU7qN.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2082984714940391424/pu/vid/avc1/320x568/0cTEInQCGuFTMNYe.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2082984714940391424/pu/vid/avc1/1080x1920/jgbqO6IpGsO-t4Sq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2082984714940391424/pu/vid/avc1/480x852/UWKzFN52MxdcNnPg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2082984714940391424/pu/vid/avc1/720x1280/99HiR0VPpYGMVTl2.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2082984714940391424"
+          ]
+        },
+        "author_id": "1159458015424241665",
+        "conversation_id": "2082984832322199822",
+        "created_at": "2026-07-31T00:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T01:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082984832322199822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 52,
+              "id": "821281330705170432",
+              "start": 42,
+              "username": "PupKaiser"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hyj1wbO4os",
+              "end": 76,
+              "expanded_url": "https://x.com/PupperDavey/status/2082984832322199822/video/1",
+              "media_key": "7_2082984714940391424",
+              "start": 53,
+              "url": "https://t.co/Hyj1wbO4os"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082984832322199822",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5662,
+          "impression_count": 241616,
+          "like_count": 13457,
+          "quote_count": 7,
+          "reply_count": 42,
+          "retweet_count": 822
+        },
+        "reply_settings": "everyone",
+        "text": "Just LOOK at that depth I just managed! 🥴\n@PupKaiser https://t.co/Hyj1wbO4os"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2082984714940391424"
+          ],
+          "media_source_tweet_id": [
+            "2082984832322199822"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "conversation_id": "2084585914249224619",
+        "created_at": "2026-08-04T10:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084585914249224619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1835309913406619648",
+              "start": 3,
+              "username": "dorachipss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uq28Yym60H",
+              "end": 43,
+              "expanded_url": "https://x.com/PupperDavey/status/2082984832322199822/video/1",
+              "media_key": "7_2082984714940391424",
+              "start": 20,
+              "url": "https://t.co/Uq28Yym60H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084585914249224619",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084025349474808251",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dorachipss: Omg https://t.co/Uq28Yym60H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2082984714940391424"
+          ],
+          "media_source_tweet_id": [
+            "2082984832322199822"
+          ]
+        },
+        "author_id": "1835309913406619648",
+        "conversation_id": "2084025349474808251",
+        "created_at": "2026-08-02T21:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T22:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084025349474808251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uq28Yym60H",
+              "end": 27,
+              "expanded_url": "https://x.com/PupperDavey/status/2082984832322199822/video/1",
+              "media_key": "7_2082984714940391424",
+              "start": 4,
+              "url": "https://t.co/Uq28Yym60H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084025349474808251",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 8600,
+          "like_count": 207,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "Omg https://t.co/Uq28Yym60H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 杭州 08年 舞萌/东方/Arcaea/明日方舟/三角洲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2068533981818290551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060157452931465216/9MujmSVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3635,
+          "following_count": 2780,
+          "like_count": 34240,
+          "listed_count": 14,
+          "media_count": 1709,
+          "tweet_count": 35402
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T13:29:42.000Z",
+        "description": "搞黄专用",
+        "id": "1835309913406619648",
+        "location": "Melbourne, Victoria",
+        "name": "漂亮受就是要被草哭的呀",
+        "pinned_tweet_id": "2059177538241626307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059178167764656128/CJbA5UNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21150,
+          "following_count": 352,
+          "like_count": 292,
+          "listed_count": 20,
+          "media_count": 204,
+          "tweet_count": 839
+        },
+        "url": "",
+        "username": "dorachipss",
+        "verified": false
+      }
+    ]
+  }
+}

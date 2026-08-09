@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1903039247709507857",
+    "created_at": "2025-03-21T11:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T12:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903044738682589349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885436187046817792",
+          "start": 0,
+          "username": "LTYY_QwQ"
+        },
+        {
+          "end": 26,
+          "id": "1889157954143981568",
+          "start": 10,
+          "username": "_blueberrysauce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903044738682589349",
+    "in_reply_to_user_id": "1885436187046817792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903044374646210910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LTYY_QwQ @_blueberrysauce mg（纠正）\n伤不伤无所谓了 死掉都无所谓"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1903044374646210910].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1903044374646210910",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1903044374646210910"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1903039247709507857",
+        "created_at": "2025-03-21T11:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T12:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903044738682589349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885436187046817792",
+              "start": 0,
+              "username": "LTYY_QwQ"
+            },
+            {
+              "end": 26,
+              "id": "1889157954143981568",
+              "start": 10,
+              "username": "_blueberrysauce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903044738682589349",
+        "in_reply_to_user_id": "1885436187046817792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903044374646210910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LTYY_QwQ @_blueberrysauce mg（纠正）\n伤不伤无所谓了 死掉都无所谓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "Arknights/崩壊:スターレイル/Arcaea/MaimaiDX/東方Project/ VOCALOID/Galgame/主人@yeziyu7777 关注@_FiniteWorld @small_fun8964 @Huahe_wu @KaitlynXiaoLu99 小号@Loveyezi8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "_FiniteWorld"
+              },
+              {
+                "end": 108,
+                "start": 94,
+                "username": "small_fun8964"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "Huahe_wu"
+              },
+              {
+                "end": 135,
+                "start": 119,
+                "username": "KaitlynXiaoLu99"
+              },
+              {
+                "end": 151,
+                "start": 138,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "☆流苏☆🐱（100%互fo）",
+        "pinned_tweet_id": "1901903397277532265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 1737,
+          "like_count": 28037,
+          "listed_count": 10,
+          "media_count": 781,
+          "tweet_count": 17827
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T21:13:44.000Z",
+        "description": "此账号个人号‖一定会回关‖ISTJ-T‖not good at English‖喜欢可爱的小猫猫🥰‖不喜欢谈论政事‖无宗教，要说信仰..钱?‖热爱二次元(特别是Miku🥰🥰🥰)‖我只是在阴暗地盯着所有人👀‖有任何事可✉️‖广告一律ban了😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/LTYY_SOE",
+                "end": 23,
+                "expanded_url": "https://x.com/LTYY_SOE",
+                "start": 0,
+                "url": "https://t.co/9ubxRkSAhz"
+              }
+            ]
+          }
+        },
+        "id": "1885436187046817792",
+        "location": "地狱与天堂的交界处",
+        "name": "浪天幽影(状态:上学版限时返厂)✟升天✟",
+        "pinned_tweet_id": "1885543866503233899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901284911602073600/hPLri5uN_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 76,
+          "like_count": 4662,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 2217
+        },
+        "url": "https://t.co/9ubxRkSAhz",
+        "username": "LTYY_QwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T03:42:26.000Z",
+        "description": "曾用名 是奶糖吖 10年 I mtf I 爱玩崩铁 I 想要交朋友QAQ 大号@MilkSugar223 I 私信包回 好朋友@liciiQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "MilkSugar223"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "liciiQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/milksugar17165",
+                "end": 23,
+                "expanded_url": "https://ngl.link/milksugar17165",
+                "start": 0,
+                "url": "https://t.co/7oEMPv0yii"
+              }
+            ]
+          }
+        },
+        "id": "1889157954143981568",
+        "location": "♪往世乐土♪",
+        "name": "菠萝爱吃面包🍥",
+        "pinned_tweet_id": "1892200148526047718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891965211952742401/AjYHGciB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 679,
+          "like_count": 6234,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1419
+        },
+        "url": "https://t.co/7oEMPv0yii",
+        "username": "_blueberrysauce",
+        "verified": false
+      }
+    ]
+  }
+}

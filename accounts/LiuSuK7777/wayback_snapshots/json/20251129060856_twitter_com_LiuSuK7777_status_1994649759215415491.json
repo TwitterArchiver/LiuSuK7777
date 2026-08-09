@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1994417443683619223",
+    "created_at": "2025-11-29T06:08:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T07:08:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994649759215415491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1966505502919270400",
+          "start": 0,
+          "username": "QiShuiBuXing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994649759215415491",
+    "in_reply_to_user_id": "1966505502919270400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994648518993350807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiShuiBuXing 我没钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1994417443683619223",
+        "created_at": "2025-11-29T06:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T07:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994649759215415491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1966505502919270400",
+              "start": 0,
+              "username": "QiShuiBuXing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994649759215415491",
+        "in_reply_to_user_id": "1966505502919270400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994648518993350807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiShuiBuXing 我没钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966505502919270400",
+        "conversation_id": "1994417443683619223",
+        "created_at": "2025-11-29T06:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T07:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994648518993350807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994648518993350807",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994417443683619223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 v我50可以当你的舔狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1994457982331961835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993261518008598535/GunVE9W__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2830,
+          "following_count": 2690,
+          "like_count": 35388,
+          "listed_count": 13,
+          "media_count": 1528,
+          "tweet_count": 32450
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T14:13:54.000Z",
+        "description": "我们一生中可能遇到那么一两个人，也许相见的时间只有一场雷雨或者一个春天那么短，但他们却伸手把我们从深渊里拉了出来，不为什么，只因为他们看见了我们的绝望与悲伤。然后，即便永不相见，也觉常在身旁。",
+        "id": "1966505502919270400",
+        "name": "Qi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987177220130119680/y9K2ZMnS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 254,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 23
+        },
+        "username": "QiShuiBuXing",
+        "verified": false
+      }
+    ]
+  }
+}

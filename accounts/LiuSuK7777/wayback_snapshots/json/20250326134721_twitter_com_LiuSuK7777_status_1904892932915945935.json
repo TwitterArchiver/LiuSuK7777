@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1904892615515894130",
+    "created_at": "2025-03-26T13:47:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T14:47:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904892932915945935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1491279928561524737",
+          "start": 0,
+          "username": "qreewwe2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904892932915945935",
+    "in_reply_to_user_id": "1491279928561524737",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904892615515894130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qreewwe2 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1904892615515894130",
+        "created_at": "2025-03-26T13:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T14:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904892932915945935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1491279928561524737",
+              "start": 0,
+              "username": "qreewwe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904892932915945935",
+        "in_reply_to_user_id": "1491279928561524737",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904892615515894130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qreewwe2 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491279928561524737",
+        "conversation_id": "1904892615515894130",
+        "created_at": "2025-03-26T13:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T14:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904892615515894130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904892615515894130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你自己一个人等着别人爱你吧，我先走了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "08男高想谈恋爱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb700j"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "☆流苏☆🐱IP杭州（100%互fo）",
+        "pinned_tweet_id": "1903751125427515801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1669,
+          "following_count": 1971,
+          "like_count": 28995,
+          "listed_count": 13,
+          "media_count": 845,
+          "tweet_count": 19985
+        },
+        "url": "https://t.co/2xm6Tb700j",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T05:16:59.000Z",
+        "description": "好友费5.20",
+        "id": "1491279928561524737",
+        "location": "0.00km",
+        "name": "しか",
+        "pinned_tweet_id": "1903107227654779367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899791817488617472/XHZryaKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 168,
+          "like_count": 8349,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 2292
+        },
+        "username": "qreewwe2",
+        "verified": false
+      }
+    ]
+  }
+}

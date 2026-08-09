@@ -1,0 +1,466 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938902426469167104"
+      ],
+      "media_source_tweet_id": [
+        "1938932643648688414"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      }
+    ],
+    "conversation_id": "1939496473030520920",
+    "created_at": "2025-06-30T01:29:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T02:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939496473030520920"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 26,
+          "tag": "pixai"
+        },
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "東方"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1304245126097592321",
+          "start": 3,
+          "username": "nukozoone"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/93NQkeNuYF",
+          "end": 60,
+          "expanded_url": "https://x.com/nukozoone/status/1938932643648688414/photo/1",
+          "media_key": "3_1938902426469167104",
+          "start": 37,
+          "url": "https://t.co/93NQkeNuYF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939496473030520920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 259
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938932643648688414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nukozoone: 水着パーカーさとり👁 #pixai #東方 https://t.co/93NQkeNuYF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1244,
+        "media_key": "3_1938902426469167104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guhde-_WcAAyBw6.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938902426469167104"
+          ],
+          "media_source_tweet_id": [
+            "1938932643648688414"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "1939496473030520920",
+        "created_at": "2025-06-30T01:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T02:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939496473030520920"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 26,
+              "tag": "pixai"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "東方"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1304245126097592321",
+              "start": 3,
+              "username": "nukozoone"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/93NQkeNuYF",
+              "end": 60,
+              "expanded_url": "https://x.com/nukozoone/status/1938932643648688414/photo/1",
+              "media_key": "3_1938902426469167104",
+              "start": 37,
+              "url": "https://t.co/93NQkeNuYF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939496473030520920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 259
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938932643648688414",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nukozoone: 水着パーカーさとり👁 #pixai #東方 https://t.co/93NQkeNuYF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938902426469167104"
+          ]
+        },
+        "author_id": "1304245126097592321",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "1938932643648688414",
+        "created_at": "2025-06-28T12:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T13:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938932643648688414"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 11,
+              "tag": "pixai"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "東方"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/93NQkeNuYF",
+              "end": 45,
+              "expanded_url": "https://x.com/nukozoone/status/1938932643648688414/photo/1",
+              "media_key": "3_1938902426469167104",
+              "start": 22,
+              "url": "https://t.co/93NQkeNuYF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938932643648688414",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 406,
+          "impression_count": 39374,
+          "like_count": 3034,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 259
+        },
+        "reply_settings": "everyone",
+        "text": "水着パーカーさとり👁 #pixai #東方 https://t.co/93NQkeNuYF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男|Arcaea|明日方舟|舞萌DX|火影忍者|社恐健全B|2008.02.29 |主人@yeziyu7777对象@zyh1428202小号@Loveyezi8964\n微信用户名同推特用户名",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1936314364468105461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2235,
+          "following_count": 2491,
+          "like_count": 34462,
+          "listed_count": 10,
+          "media_count": 1162,
+          "tweet_count": 27148
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-11T02:27:31.000Z",
+        "description": "illust:PixAI\nurl: https://t.co/9u6uG7dKgn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixai.art",
+                "end": 41,
+                "expanded_url": "https://pixai.art/",
+                "start": 18,
+                "url": "https://t.co/9u6uG7dKgn"
+              }
+            ]
+          }
+        },
+        "id": "1304245126097592321",
+        "name": "ぬこぞーん🐈‍⬛",
+        "pinned_tweet_id": "1934584491936547076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727569714321539072/9raPHRmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10158,
+          "following_count": 1766,
+          "like_count": 19145,
+          "listed_count": 54,
+          "media_count": 612,
+          "tweet_count": 16469
+        },
+        "username": "nukozoone",
+        "verified": false
+      }
+    ]
+  }
+}

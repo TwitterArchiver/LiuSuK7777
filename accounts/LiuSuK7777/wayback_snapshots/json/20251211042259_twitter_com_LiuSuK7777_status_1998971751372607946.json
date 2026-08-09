@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998971744854618120"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1998969742238134435",
+    "created_at": "2025-12-11T04:22:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T05:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998971751372607946"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/e8JTXWBq9Z",
+          "end": 31,
+          "expanded_url": "https://x.com/LiuSuK7777/status/1998971751372607946/photo/1",
+          "media_key": "3_1998971744854618120",
+          "start": 8,
+          "url": "https://t.co/e8JTXWBq9Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998971751372607946",
+    "in_reply_to_user_id": "1504799211799265282",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998969742238134435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我belike https://t.co/e8JTXWBq9Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 828,
+        "media_key": "3_1998971744854618120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G73GNgAaMAgqGzP.jpg",
+        "width": 964
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998971744854618120"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1998969742238134435",
+        "created_at": "2025-12-11T04:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T05:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998971751372607946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e8JTXWBq9Z",
+              "end": 31,
+              "expanded_url": "https://x.com/LiuSuK7777/status/1998971751372607946/photo/1",
+              "media_key": "3_1998971744854618120",
+              "start": 8,
+              "url": "https://t.co/e8JTXWBq9Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998971751372607946",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998969742238134435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我belike https://t.co/e8JTXWBq9Z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1998969742238134435",
+        "created_at": "2025-12-11T04:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T05:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998969742238134435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998969742238134435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么辨别别人是不是喜欢我\n我有点不太确定"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1995540883278889351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998267978916528128/FNUZvgoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2923,
+          "following_count": 2759,
+          "like_count": 35480,
+          "listed_count": 13,
+          "media_count": 1560,
+          "tweet_count": 33389
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      }
+    ]
+  }
+}

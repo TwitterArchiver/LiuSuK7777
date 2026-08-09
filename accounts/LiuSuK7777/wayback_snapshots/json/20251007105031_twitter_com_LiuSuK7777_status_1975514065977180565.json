@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1975501740889043432",
+    "created_at": "2025-10-07T10:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T11:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975514065977180565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1813191847264854019",
+          "start": 0,
+          "username": "hhngki7292924"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975514065977180565",
+    "in_reply_to_user_id": "1813191847264854019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975501740889043432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhngki7292924 你是猪 我是青石巷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1975501740889043432",
+        "created_at": "2025-10-07T10:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T11:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975514065977180565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1813191847264854019",
+              "start": 0,
+              "username": "hhngki7292924"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975514065977180565",
+        "in_reply_to_user_id": "1813191847264854019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975501740889043432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhngki7292924 你是猪 我是青石巷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813191847264854019",
+        "conversation_id": "1975501740889043432",
+        "created_at": "2025-10-07T10:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T11:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975501740889043432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qingshixiang25…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/qingshixiang258/status/1975281139993747848",
+              "start": 9,
+              "url": "https://t.co/43SLglydlS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975501740889043432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975281139993747848",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我才是青石巷！😡 https://t.co/43SLglydlS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "……\n逃生舱@liusuk8888\n我是男孩子！\n主人♡@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 41,
+                "start": 28,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969600938567745538/genz-feI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2689,
+          "following_count": 2648,
+          "like_count": 35460,
+          "listed_count": 15,
+          "media_count": 1420,
+          "tweet_count": 30990
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T12:40:39.000Z",
+        "description": "先活着吧，剩下的我再想办法。。。（戒od中。。。）（头像玩抽象的）对37很好很好的妈咪@qingshixiang258宝宝1ka酱@ElP15_🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "qingshixiang258"
+              },
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ElP15_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hhngki7262624",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hhngki7262624",
+                "start": 0,
+                "url": "https://t.co/eTZfSf7jUs"
+              }
+            ]
+          }
+        },
+        "id": "1813191847264854019",
+        "location": "圣洛夫基金会",
+        "name": "37（😇）",
+        "pinned_tweet_id": "1975070210504958054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960006568197672961/LAGLusSI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 1101,
+          "like_count": 2424,
+          "listed_count": 6,
+          "media_count": 372,
+          "tweet_count": 4825
+        },
+        "url": "https://t.co/eTZfSf7jUs",
+        "username": "hhngki7292924",
+        "verified": false
+      }
+    ]
+  }
+}

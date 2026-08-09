@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1951864975754232045",
+    "created_at": "2025-08-03T04:39:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T05:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951865406362411101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1902568136450424832",
+          "start": 0,
+          "username": "aoim02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951865406362411101",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951864975754232045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoim02 你不是说你男娘体质"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1951864975754232045",
+        "created_at": "2025-08-03T04:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T05:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951865406362411101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951865406362411101",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951864975754232045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim02 你不是说你男娘体质"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "1951864975754232045",
+        "created_at": "2025-08-03T04:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T05:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951864975754232045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LiuSuK7777/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/LiuSuK7777/status/1951852172469207144",
+              "start": 17,
+              "url": "https://t.co/Y0b7r6crlb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951864975754232045",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951852172469207144",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我虽然 168 但我不是\nQED https://t.co/Y0b7r6crlb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男 | 御主/ダーリン@yeziyu7777 | 革命伴侣/契约者/運命の人@zyh1428202 | お姉ちゃん@ttkyyx03 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "ttkyyx03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "超高校级の無意識",
+        "pinned_tweet_id": "1949513211826377068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2506,
+          "following_count": 2643,
+          "like_count": 34939,
+          "listed_count": 10,
+          "media_count": 1266,
+          "tweet_count": 28823
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD 発達障害 / 人間観察 言語学 撮影 花畑 罠 音ゲー 白猫 Arcaea PTT 10.57 maimai 13,143 hoyoverse / CN EN JP KR  / 無言フォロー失礼と、相互フォロー大歓迎 / Telegram group ⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A9vj_WSFaT1iN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A9vj_WSFaT1iNWU1",
+                "start": 0,
+                "url": "https://t.co/p1hcclps2c"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "Shagcheng HZH ZJ & SHA CN",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950069662638886912/p4gVxjZ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 336,
+          "like_count": 2584,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 635
+        },
+        "url": "https://t.co/p1hcclps2c",
+        "username": "aoim02",
+        "verified": true
+      }
+    ]
+  }
+}

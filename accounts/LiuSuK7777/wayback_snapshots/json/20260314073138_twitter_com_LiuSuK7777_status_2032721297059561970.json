@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032721288259842051"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2032721297059561970",
+    "created_at": "2026-03-14T07:31:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T08:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032721297059561970"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/38OehsZXmv",
+          "end": 40,
+          "expanded_url": "https://x.com/LiuSuK7777/status/2032721297059561970/photo/1",
+          "media_key": "3_2032721288259842051",
+          "start": 17,
+          "url": "https://t.co/38OehsZXmv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032721297059561970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哈哈哈哈怎么这里也有加速部队的事 https://t.co/38OehsZXmv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2032721288259842051",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDWtPeoaMAMlmob.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032721288259842051"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032721297059561970",
+        "created_at": "2026-03-14T07:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T08:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032721297059561970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/38OehsZXmv",
+              "end": 40,
+              "expanded_url": "https://x.com/LiuSuK7777/status/2032721297059561970/photo/1",
+              "media_key": "3_2032721288259842051",
+              "start": 17,
+              "url": "https://t.co/38OehsZXmv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032721297059561970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈怎么这里也有加速部队的事 https://t.co/38OehsZXmv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 08年~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n对象@zyh842159145\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 38,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2027413414931227039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030299474501971969/jf72wAsr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3107,
+          "following_count": 2732,
+          "like_count": 35265,
+          "listed_count": 15,
+          "media_count": 1635,
+          "tweet_count": 34575
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      }
+    ]
+  }
+}

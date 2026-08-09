@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2017783816904155516",
+    "created_at": "2026-02-01T08:08:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T09:08:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017872738141032493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1937086999548035072",
+          "start": 0,
+          "username": "Jaime_Rimi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017872738141032493",
+    "in_reply_to_user_id": "1937086999548035072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017786374837997881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jaime_Rimi 穿之前已经洗干净了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2017783816904155516",
+        "created_at": "2026-02-01T08:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T09:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017872738141032493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1937086999548035072",
+              "start": 0,
+              "username": "Jaime_Rimi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017872738141032493",
+        "in_reply_to_user_id": "1937086999548035072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017786374837997881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jaime_Rimi 穿之前已经洗干净了）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937086999548035072",
+        "conversation_id": "2017783816904155516",
+        "created_at": "2026-02-01T02:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T03:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017786374837997881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017786374837997881",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017783816904155516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 帮流苏舔干净😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "1995540883278889351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013512258702258176/JqziB8tV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2943,
+          "following_count": 2748,
+          "like_count": 35464,
+          "listed_count": 15,
+          "media_count": 1591,
+          "tweet_count": 34115
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:55:18.000Z",
+        "description": "ACGN爱好者，温和右翼，支持🇮🇱&🇺🇦，友性少数群体。\n🈲政治内容生活号@vivahumanrights，里账@0222ArayaTouka。\n主人: @K1raK1ra818",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 37,
+                "username": "vivahumanrights"
+              },
+              {
+                "end": 71,
+                "start": 56,
+                "username": "0222ArayaTouka"
+              },
+              {
+                "end": 89,
+                "start": 77,
+                "username": "K1raK1ra818"
+              }
+            ]
+          }
+        },
+        "id": "1937086999548035072",
+        "location": "QC",
+        "name": "Léo ⚜️",
+        "pinned_tweet_id": "1999371414390841634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016378797541486592/dTaapTTM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 1186,
+          "like_count": 3870,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1346
+        },
+        "username": "Jaime_Rimi",
+        "verified": false
+      }
+    ]
+  }
+}

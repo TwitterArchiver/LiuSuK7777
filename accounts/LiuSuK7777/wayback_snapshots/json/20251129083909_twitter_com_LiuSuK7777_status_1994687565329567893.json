@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1994603843364204783",
+    "created_at": "2025-11-29T08:39:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T09:39:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994687565329567893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1722166624453861376",
+          "start": 0,
+          "username": "shzhnto289941"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994687565329567893",
+    "in_reply_to_user_id": "1722166624453861376",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994683901948891275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shzhnto289941 ✓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1994603843364204783",
+        "created_at": "2025-11-29T08:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T09:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994687565329567893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1722166624453861376",
+              "start": 0,
+              "username": "shzhnto289941"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994687565329567893",
+        "in_reply_to_user_id": "1722166624453861376",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994683901948891275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shzhnto289941 ✓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722166624453861376",
+        "conversation_id": "1994603843364204783",
+        "created_at": "2025-11-29T08:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T09:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994683901948891275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994683901948891275",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994603843364204783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 不知道的一律算为南梁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1994457982331961835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993261518008598535/GunVE9W__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2832,
+          "following_count": 2691,
+          "like_count": 35390,
+          "listed_count": 13,
+          "media_count": 1530,
+          "tweet_count": 32490
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-08T08:18:44.000Z",
+        "description": "阿米诺斯",
+        "id": "1722166624453861376",
+        "location": "平壤市",
+        "name": "孙吧驻X大使",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722166750295523328/5HfBQVh4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 66,
+          "like_count": 3687,
+          "listed_count": 1,
+          "media_count": 449,
+          "tweet_count": 4089
+        },
+        "username": "shzhnto289941",
+        "verified": false
+      }
+    ]
+  }
+}

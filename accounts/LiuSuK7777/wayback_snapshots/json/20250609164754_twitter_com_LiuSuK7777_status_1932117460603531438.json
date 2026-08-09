@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932057393019715584"
+      ],
+      "media_source_tweet_id": [
+        "1932057697513623607"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      }
+    ],
+    "conversation_id": "1932117460603531438",
+    "created_at": "2025-06-09T16:47:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T17:47:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932117460603531438"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 15,
+          "tag": "arcaea_art"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1457124659091378176",
+          "start": 3,
+          "username": "SmooD____"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oIB8SygsAo",
+          "end": 50,
+          "expanded_url": "https://x.com/SmooD____/status/1932057697513623607/photo/1",
+          "media_key": "3_1932057393019715584",
+          "start": 27,
+          "url": "https://t.co/oIB8SygsAo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932117460603531438",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932057697513623607",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SmooD____: #arcaea_art https://t.co/oIB8SygsAo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2815,
+        "media_key": "3_1932057393019715584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtAL9mSbgAAnPOe.jpg",
+        "width": 3187
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932057393019715584"
+          ],
+          "media_source_tweet_id": [
+            "1932057697513623607"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "1932117460603531438",
+        "created_at": "2025-06-09T16:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T17:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932117460603531438"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 15,
+              "tag": "arcaea_art"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1457124659091378176",
+              "start": 3,
+              "username": "SmooD____"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oIB8SygsAo",
+              "end": 50,
+              "expanded_url": "https://x.com/SmooD____/status/1932057697513623607/photo/1",
+              "media_key": "3_1932057393019715584",
+              "start": 27,
+              "url": "https://t.co/oIB8SygsAo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932117460603531438",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932057697513623607",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SmooD____: #arcaea_art https://t.co/oIB8SygsAo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932057393019715584"
+          ]
+        },
+        "author_id": "1457124659091378176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "1932057697513623607",
+        "created_at": "2025-06-09T12:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T13:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932057697513623607"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "arcaea_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oIB8SygsAo",
+              "end": 35,
+              "expanded_url": "https://x.com/SmooD____/status/1932057697513623607/photo/1",
+              "media_key": "3_1932057393019715584",
+              "start": 12,
+              "url": "https://t.co/oIB8SygsAo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932057697513623607",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 2392,
+          "like_count": 233,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "#arcaea_art https://t.co/oIB8SygsAo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏，Arcaea/明日方舟/舞萌DX/火影忍者，线上淫乱线下社恐，健全B无心理疾病，经常搞砸让所有人都不开心，生日2008.02.29 |唯一的主人@yeziyu7777/对象@zyh1428202 小号@Loveyezi8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1931302860630688172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2124,
+          "following_count": 2395,
+          "like_count": 34143,
+          "listed_count": 11,
+          "media_count": 1104,
+          "tweet_count": 26079
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-06T23:16:15.000Z",
+        "description": "계정주 둘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/5527655810?c=3",
+                "end": 23,
+                "expanded_url": "http://pushoong.com/5527655810?c=3",
+                "start": 0,
+                "url": "https://t.co/p3iHtZWIzn"
+              }
+            ]
+          }
+        },
+        "id": "1457124659091378176",
+        "name": "SmooD",
+        "pinned_tweet_id": "1763230849355682268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779815643002654720/sZID7vVO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 356,
+          "like_count": 7119,
+          "listed_count": 11,
+          "media_count": 2751,
+          "tweet_count": 30539
+        },
+        "url": "https://t.co/p3iHtZWIzn",
+        "username": "SmooD____",
+        "verified": false
+      }
+    ]
+  }
+}

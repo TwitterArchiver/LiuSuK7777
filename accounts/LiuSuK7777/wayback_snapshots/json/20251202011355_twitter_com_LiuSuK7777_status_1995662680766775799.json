@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1995537150532878663",
+    "created_at": "2025-12-02T01:13:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T02:13:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995662680766775799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1570754042590285825",
+          "start": 0,
+          "username": "_ShadowTwilight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995662680766775799",
+    "in_reply_to_user_id": "1570754042590285825",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995560909495042368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ShadowTwilight 收到！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1995537150532878663",
+        "created_at": "2025-12-02T01:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T02:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995662680766775799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1570754042590285825",
+              "start": 0,
+              "username": "_ShadowTwilight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995662680766775799",
+        "in_reply_to_user_id": "1570754042590285825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995560909495042368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ShadowTwilight 收到！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570754042590285825",
+        "conversation_id": "1995537150532878663",
+        "created_at": "2025-12-01T18:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T19:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995560909495042368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995560909495042368",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995537150532878663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 互fo喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1994457982331961835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994695488520835072/aNvlyX-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2893,
+          "following_count": 2740,
+          "like_count": 35412,
+          "listed_count": 13,
+          "media_count": 1538,
+          "tweet_count": 32879
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-16T12:38:51.000Z",
+        "description": "互fo/欢迎和我聊天/自由&和平\n—执着于理想，纯粹于当下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Satitobi",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Satitobi",
+                "start": 0,
+                "url": "https://t.co/pID89sGYkq"
+              }
+            ]
+          }
+        },
+        "id": "1570754042590285825",
+        "location": " 不知名城市",
+        "name": "紗千鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984807268664442880/7xDISsnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 60,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 201
+        },
+        "url": "https://t.co/pID89sGYkq",
+        "username": "_ShadowTwilight",
+        "verified": false
+      }
+    ]
+  }
+}

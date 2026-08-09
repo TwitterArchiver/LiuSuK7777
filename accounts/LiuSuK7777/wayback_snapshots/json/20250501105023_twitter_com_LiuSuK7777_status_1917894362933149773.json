@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1917536286820425751",
+    "created_at": "2025-05-01T10:50:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T11:50:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917894362933149773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "962324914098196480",
+          "start": 0,
+          "username": "nanami_SAIKOU"
+        },
+        {
+          "end": 26,
+          "id": "1646550974553522183",
+          "start": 15,
+          "username": "yeziyu7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917894362933149773",
+    "in_reply_to_user_id": "962324914098196480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917536286820425751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanami_SAIKOU @yeziyu7777 好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1917536283204935681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpx1FwxaYAEpLMM.jpg",
+        "width": 1811
+      },
+      {
+        "height": 1327,
+        "media_key": "3_1917536283133632512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpx1FwgaYAAiqDE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1917536286820425751",
+        "created_at": "2025-05-01T10:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T11:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917894362933149773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "962324914098196480",
+              "start": 0,
+              "username": "nanami_SAIKOU"
+            },
+            {
+              "end": 26,
+              "id": "1646550974553522183",
+              "start": 15,
+              "username": "yeziyu7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917894362933149773",
+        "in_reply_to_user_id": "962324914098196480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917536286820425751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami_SAIKOU @yeziyu7777 好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917536283204935681",
+            "3_1917536283133632512"
+          ]
+        },
+        "author_id": "962324914098196480",
+        "conversation_id": "1917536286820425751",
+        "created_at": "2025-04-30T11:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T12:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917536286820425751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SbuQqv6tbv",
+              "end": 25,
+              "expanded_url": "https://x.com/nanami_SAIKOU/status/1917536286820425751/photo/1",
+              "media_key": "3_1917536283204935681",
+              "start": 2,
+              "url": "https://t.co/SbuQqv6tbv"
+            },
+            {
+              "display_url": "pic.x.com/SbuQqv6tbv",
+              "end": 25,
+              "expanded_url": "https://x.com/nanami_SAIKOU/status/1917536286820425751/photo/1",
+              "media_key": "3_1917536283133632512",
+              "start": 2,
+              "url": "https://t.co/SbuQqv6tbv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917536286820425751",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 7551,
+          "like_count": 335,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "水 https://t.co/SbuQqv6tbv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 2187,
+          "like_count": 31926,
+          "listed_count": 13,
+          "media_count": 983,
+          "tweet_count": 23604
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-10T13:58:33.000Z",
+        "description": "一般路过女装萌新，可以随意转发，\n欢迎同好扩列，基本全平台同名。\n不约/不线下/不键政/清水——\nVRChat ID: 在原七海SAIKOU / 哔哩哔哩ID：多练 ///\n写真を撮ることと踊ることが好きで、人の話を聞くことも好きです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vrchat.com/home/user/usr_…",
+                "end": 23,
+                "expanded_url": "https://vrchat.com/home/user/usr_9e12d4e1-8621-4b4d-baf6-9c918a4664b8",
+                "start": 0,
+                "url": "https://t.co/vNBJs6t71k"
+              }
+            ]
+          }
+        },
+        "id": "962324914098196480",
+        "name": "在原七海saikou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833278491640651776/woNM2aUp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2507,
+          "following_count": 170,
+          "like_count": 3291,
+          "listed_count": 13,
+          "media_count": 175,
+          "tweet_count": 835
+        },
+        "url": "https://t.co/vNBJs6t71k",
+        "username": "nanami_SAIKOU",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T16:28:58.000Z",
+        "description": "这里是小叶or叶子｜ADHD｜拒绝见证｜社恐 喜欢贴贴？）｜睡觉爱好者｜笨蛋日常 搞砸是常态｜互fo随意～｜流苏会顶号｜唯一所爱之人@LiuSuK7777🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "LiuSuK7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yeziyu7771",
+                "end": 23,
+                "expanded_url": "http://ngl.link/yeziyu7771",
+                "start": 0,
+                "url": "https://t.co/omZuBL0LWf"
+              }
+            ]
+          }
+        },
+        "id": "1646550974553522183",
+        "name": "永远の叶_",
+        "pinned_tweet_id": "1895089052631867899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900535737810096128/aoUgCYAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 668,
+          "like_count": 57635,
+          "listed_count": 10,
+          "media_count": 353,
+          "tweet_count": 6031
+        },
+        "url": "https://t.co/omZuBL0LWf",
+        "username": "yeziyu7777",
+        "verified": false
+      }
+    ]
+  }
+}

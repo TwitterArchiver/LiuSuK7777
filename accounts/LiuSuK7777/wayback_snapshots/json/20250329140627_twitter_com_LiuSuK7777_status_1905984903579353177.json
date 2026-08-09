@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1905972994268410126",
+    "created_at": "2025-03-29T14:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T15:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905984903579353177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1693561958899892224",
+          "start": 0,
+          "username": "Ning0809pepsi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905984903579353177",
+    "in_reply_to_user_id": "1693561958899892224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905972994268410126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ning0809pepsi 有着时间我自己都能做奶茶出来了\n只不过会放的糖有点多（不是）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1905972994268410126",
+        "created_at": "2025-03-29T14:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T15:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905984903579353177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1693561958899892224",
+              "start": 0,
+              "username": "Ning0809pepsi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905984903579353177",
+        "in_reply_to_user_id": "1693561958899892224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905972994268410126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ning0809pepsi 有着时间我自己都能做奶茶出来了\n只不过会放的糖有点多（不是）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693561958899892224",
+        "conversation_id": "1905972994268410126",
+        "created_at": "2025-03-29T13:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T14:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905972994268410126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905972994268410126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么回事怎么回事 一杯奶茶送了两个小时都还没送到 平台显示还要半个小时..\n我是犯天条了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "💞@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "AAA_流苏批发",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1680,
+          "following_count": 1998,
+          "like_count": 29379,
+          "listed_count": 13,
+          "media_count": 861,
+          "tweet_count": 20557
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T09:53:45.000Z",
+        "description": "你我 同困在这漩涡｜💞@Fomalhautawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "Fomalhautawa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B2%81",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B2%81",
+                "start": 0,
+                "url": "https://t.co/OLxFrlOquU"
+              }
+            ]
+          }
+        },
+        "id": "1693561958899892224",
+        "location": "冰岛",
+        "name": "岁",
+        "pinned_tweet_id": "1897994834339938413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711049894151266304/n0xTSYTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 242,
+          "like_count": 396,
+          "listed_count": 8,
+          "media_count": 62,
+          "tweet_count": 613
+        },
+        "url": "https://t.co/OLxFrlOquU",
+        "username": "Ning0809pepsi",
+        "verified": false
+      }
+    ]
+  }
+}

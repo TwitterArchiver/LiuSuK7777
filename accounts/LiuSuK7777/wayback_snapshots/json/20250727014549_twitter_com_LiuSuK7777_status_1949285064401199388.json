@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1948982853011943901",
+    "created_at": "2025-07-27T01:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T02:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949285064401199388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1433428454494457861",
+          "start": 0,
+          "username": "JackSmi53515661"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949285064401199388",
+    "in_reply_to_user_id": "1433428454494457861",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949201805625422297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JackSmi53515661 不是"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1949201805625422297].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1949201805625422297",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1949201805625422297"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1948982853011943901",
+        "created_at": "2025-07-27T01:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T02:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949285064401199388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1433428454494457861",
+              "start": 0,
+              "username": "JackSmi53515661"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949285064401199388",
+        "in_reply_to_user_id": "1433428454494457861",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949201805625422297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JackSmi53515661 不是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "生理性别与性别认同都是男\n主人@yeziyu7777\n对象@zyh1428202\n小号@Loveyezi8964 @luoyue_maimai\n笨蛋姐姐@TTKYYX03（不是现实中那个）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 56,
+                "start": 43,
+                "username": "Loveyezi8964"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "luoyue_maimai"
+              },
+              {
+                "end": 85,
+                "start": 76,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "超高校级の無意識",
+        "pinned_tweet_id": "1949006123966824631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2488,
+          "following_count": 2603,
+          "like_count": 34951,
+          "listed_count": 10,
+          "media_count": 1250,
+          "tweet_count": 28473
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-02T13:55:56.000Z",
+        "description": "你好，这里是奥斯虎，🇨🇳，浙里人。不设症，不关注任何网舆。语言：中文(中级）英语（中级）德语（初级），LGBTQIA+， 是一只喜欢自然与科技的小脑斧，NSFW，锁推眼熟进，初来乍到，请多多指教！",
+        "id": "1433428454494457861",
+        "location": "Zhejiang",
+        "name": "Jack Smith",
+        "pinned_tweet_id": "1502546973244727300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938439126866632704/vKD3dwrl_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 2173,
+          "like_count": 8638,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 5918
+        },
+        "username": "JackSmi53515661",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1994603843364204783",
+    "created_at": "2025-11-29T10:42:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T11:42:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994718657365381351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1739186378687369216",
+          "start": 0,
+          "username": "xtian_912778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994718657365381351",
+    "in_reply_to_user_id": "1739186378687369216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994717268128010628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xtian_912778 女"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1994603843364204783",
+        "created_at": "2025-11-29T10:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T11:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994718657365381351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1739186378687369216",
+              "start": 0,
+              "username": "xtian_912778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994718657365381351",
+        "in_reply_to_user_id": "1739186378687369216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994717268128010628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xtian_912778 女"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739186378687369216",
+        "conversation_id": "1994603843364204783",
+        "created_at": "2025-11-29T10:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T11:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994717268128010628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994717268128010628",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994603843364204783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 猜猜我是男拉拉还是女给给"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1994457982331961835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994695488520835072/aNvlyX-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2839,
+          "following_count": 2695,
+          "like_count": 35391,
+          "listed_count": 13,
+          "media_count": 1532,
+          "tweet_count": 32550
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T07:29:37.000Z",
+        "description": "最喜欢香娜wwww",
+        "id": "1739186378687369216",
+        "location": "伟大航路",
+        "name": "、",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978862408706748423/aunyEDEk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 70,
+          "like_count": 942,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 52
+        },
+        "username": "xtian_912778",
+        "verified": false
+      }
+    ]
+  }
+}

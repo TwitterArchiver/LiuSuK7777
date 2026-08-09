@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1903620853730021714",
+    "created_at": "2025-03-23T06:37:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T07:37:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903697503691890827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "934816023777198081",
+          "start": 0,
+          "username": "Arcrisu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903697503691890827",
+    "in_reply_to_user_id": "934816023777198081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903695893926142109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arcrisu 阴间吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1903620853730021714",
+        "created_at": "2025-03-23T06:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T07:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903697503691890827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "934816023777198081",
+              "start": 0,
+              "username": "Arcrisu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903697503691890827",
+        "in_reply_to_user_id": "934816023777198081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903695893926142109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arcrisu 阴间吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "934816023777198081",
+        "conversation_id": "1903620853730021714",
+        "created_at": "2025-03-23T06:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T07:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903695893926142109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903695893926142109",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903620853730021714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 作息的阴间程度在我之上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "08顺男/Arknights/崩壊:スターレイル/Arcaea/MaimaiDX/東方Project/ VOCALOID/Galgame/主人@yeziyu7777 关注@_FiniteWorld @small_fun8964 @Huahe_wu @KaitlynXiaoLu99 小号@Loveyezi8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "_FiniteWorld"
+              },
+              {
+                "end": 113,
+                "start": 99,
+                "username": "small_fun8964"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "Huahe_wu"
+              },
+              {
+                "end": 140,
+                "start": 124,
+                "username": "KaitlynXiaoLu99"
+              },
+              {
+                "end": 156,
+                "start": 143,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "☆流苏☆🐱IP杭州（100%互fo）",
+        "pinned_tweet_id": "1901903397277532265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1550,
+          "following_count": 1836,
+          "like_count": 28560,
+          "listed_count": 11,
+          "media_count": 810,
+          "tweet_count": 18818
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-26T16:08:02.000Z",
+        "description": "如果在一个社会中，大部分成年人认为谈梦想是一件奢侈，甚至是可笑的事情，那么学医和习武都救不了这个社会。因为这种社会最需要的早已不是医疗保障水平和治安水平，而是对生活的激情。这就是我放弃学医和习武，转而使用https://t.co/lr5yW7LEOo的原因。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 125,
+                "expanded_url": "http://x.com",
+                "start": 102,
+                "url": "https://t.co/lr5yW7LEOo"
+              }
+            ]
+          }
+        },
+        "id": "934816023777198081",
+        "location": "🚪your soul",
+        "name": "梦醒",
+        "pinned_tweet_id": "1755233955807371632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900686418911129602/JuFku6dP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 88,
+          "like_count": 4050,
+          "listed_count": 4,
+          "media_count": 60,
+          "tweet_count": 1687
+        },
+        "username": "Arcrisu",
+        "verified": false
+      }
+    ]
+  }
+}

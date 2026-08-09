@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1914590197544558592"
+      ],
+      "media_source_tweet_id": [
+        "1914590512457175119"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "conversation_id": "1915064521196237308",
+    "created_at": "2025-04-23T15:25:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T16:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915064521196237308"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 28,
+          "tag": "こいここ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1867170899600056320",
+          "start": 3,
+          "username": "fubimanjiman"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/slBs1MjR9Q",
+          "end": 57,
+          "expanded_url": "https://x.com/fubimanjiman/status/1914590512457175119/photo/1",
+          "media_key": "3_1914590197544558592",
+          "start": 34,
+          "url": "https://t.co/slBs1MjR9Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915064521196237308",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 282
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914590512457175119",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fubimanjiman: こいここミーム再掲\n#こいここ https://t.co/slBs1MjR9Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2189,
+        "media_key": "3_1914590197544558592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpH9pAcWoAA2-Ec.jpg",
+        "width": 1756
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914590197544558592"
+          ],
+          "media_source_tweet_id": [
+            "1914590512457175119"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "conversation_id": "1915064521196237308",
+        "created_at": "2025-04-23T15:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T16:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915064521196237308"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "こいここ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1867170899600056320",
+              "start": 3,
+              "username": "fubimanjiman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/slBs1MjR9Q",
+              "end": 57,
+              "expanded_url": "https://x.com/fubimanjiman/status/1914590512457175119/photo/1",
+              "media_key": "3_1914590197544558592",
+              "start": 34,
+              "url": "https://t.co/slBs1MjR9Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915064521196237308",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 282
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914590512457175119",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fubimanjiman: こいここミーム再掲\n#こいここ https://t.co/slBs1MjR9Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914590197544558592"
+          ]
+        },
+        "author_id": "1867170899600056320",
+        "conversation_id": "1914590512457175119",
+        "created_at": "2025-04-22T08:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T09:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914590512457175119"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "こいここ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/slBs1MjR9Q",
+              "end": 39,
+              "expanded_url": "https://x.com/fubimanjiman/status/1914590512457175119/photo/1",
+              "media_key": "3_1914590197544558592",
+              "start": 16,
+              "url": "https://t.co/slBs1MjR9Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914590512457175119",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 284,
+          "impression_count": 23100,
+          "like_count": 2670,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 282
+        },
+        "reply_settings": "everyone",
+        "text": "こいここミーム再掲\n#こいここ https://t.co/slBs1MjR9Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1796,
+          "following_count": 2100,
+          "like_count": 30799,
+          "listed_count": 12,
+          "media_count": 936,
+          "tweet_count": 22563
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T11:33:55.000Z",
+        "description": "悪党に凍結され地獄から帰ってきた男スパイダーマッ！！！ﾃﾞｯﾃﾞ　ﾃﾞﾃﾞｰ\nこいここは良き",
+        "id": "1867170899600056320",
+        "name": "fub@新アカ",
+        "pinned_tweet_id": "1904448475971940481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867171225447088128/j6t_XLNw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1524,
+          "following_count": 240,
+          "like_count": 2100,
+          "listed_count": 2,
+          "media_count": 127,
+          "tweet_count": 1570
+        },
+        "username": "fubimanjiman",
+        "verified": false
+      }
+    ]
+  }
+}

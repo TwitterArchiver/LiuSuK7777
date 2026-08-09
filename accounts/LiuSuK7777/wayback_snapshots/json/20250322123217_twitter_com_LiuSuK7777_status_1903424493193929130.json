@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1903424491583381504"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "conversation_id": "1903424488286666938",
+    "created_at": "2025-03-22T12:32:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T13:32:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903424493193929130"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1903424493193929130",
+    "in_reply_to_user_id": "1504799211799265282",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903424488286666938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "投票"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2025-03-23T12:32:17.000Z",
+        "id": "1903424491583381504",
+        "options": [
+          {
+            "label": "发",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "不发",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1903424491583381504"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "conversation_id": "1903424488286666938",
+        "created_at": "2025-03-22T12:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T13:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903424493193929130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903424493193929130",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903424488286666938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "投票"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1903424488286666938",
+        "created_at": "2025-03-22T12:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T13:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903424488286666938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LiuSuK7777/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/LiuSuK7777/status/1903394016756134288",
+              "start": 7,
+              "url": "https://t.co/dtyQVpu66X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903424488286666938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903394016756134288",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唧唧要真发吗 https://t.co/dtyQVpu66X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "Arknights/崩壊:スターレイル/Arcaea/MaimaiDX/東方Project/ VOCALOID/Galgame/主人@yeziyu7777 关注@_FiniteWorld @small_fun8964 @Huahe_wu @KaitlynXiaoLu99 小号@Loveyezi8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "_FiniteWorld"
+              },
+              {
+                "end": 108,
+                "start": 94,
+                "username": "small_fun8964"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "Huahe_wu"
+              },
+              {
+                "end": 135,
+                "start": 119,
+                "username": "KaitlynXiaoLu99"
+              },
+              {
+                "end": 151,
+                "start": 138,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "☆流苏☆🐱IP杭州（100%互fo）",
+        "pinned_tweet_id": "1901903397277532265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 1786,
+          "like_count": 28326,
+          "listed_count": 10,
+          "media_count": 800,
+          "tweet_count": 18518
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      }
+    ]
+  }
+}

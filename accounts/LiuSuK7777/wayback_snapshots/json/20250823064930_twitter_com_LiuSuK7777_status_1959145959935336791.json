@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1958956540251255151",
+    "created_at": "2025-08-23T06:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T07:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959145959935336791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1902568136450424832",
+          "start": 0,
+          "username": "aoim02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959145959935336791",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958956540251255151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoim02 主包你有对象了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1958956540251255151",
+        "created_at": "2025-08-23T06:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T07:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959145959935336791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959145959935336791",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958956540251255151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim02 主包你有对象了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "1958956540251255151",
+        "created_at": "2025-08-22T18:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T19:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958956540251255151"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "C 氏",
+              "probability": 0.5178,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/wanzi0209/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/wanzi0209/status/1958922741693714792",
+              "start": 12,
+              "url": "https://t.co/6kz90guw1d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958956540251255151",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958922741693714792",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "C 氏の話を信じるなら https://t.co/6kz90guw1d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "❤️@zyh842159145\n🐷@yeziyu7777 @TTKYYX03",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "zyh842159145"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 38,
+                "start": 29,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1954538422728585308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958537533626933248/NcXsU-el_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2593,
+          "following_count": 2649,
+          "like_count": 35143,
+          "listed_count": 13,
+          "media_count": 1325,
+          "tweet_count": 29523
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 人間観察 言語学 撮影 花畑 罠 音ゲー 白猫 / Arcaea PTT 10.57 maimai 13,244 hoyoverse / CN EN JP KR / 無言フォロー失礼が相互は大歓迎 / 🤍 @CyronANNO @wanzi0209",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 116,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 137,
+                "start": 127,
+                "username": "wanzi0209"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "上城 杭州 浙江 & 普陀 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1953933496906563809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958874019845087233/syNvNL_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 692,
+          "like_count": 6267,
+          "listed_count": 1,
+          "media_count": 324,
+          "tweet_count": 1579
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim02",
+        "verified": true
+      }
+    ]
+  }
+}

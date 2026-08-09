@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1995159537956065455",
+    "created_at": "2025-11-30T23:27:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T00:27:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995273505144017266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1701051815260004353",
+          "start": 0,
+          "username": "zhiweiwar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995273505144017266",
+    "in_reply_to_user_id": "1701051815260004353",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995223584684556409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhiweiwar 不是（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1995159537956065455",
+        "created_at": "2025-11-30T23:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T00:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995273505144017266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1701051815260004353",
+              "start": 0,
+              "username": "zhiweiwar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995273505144017266",
+        "in_reply_to_user_id": "1701051815260004353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995223584684556409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiweiwar 不是（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701051815260004353",
+        "conversation_id": "1995159537956065455",
+        "created_at": "2025-11-30T20:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T21:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995223584684556409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995223584684556409",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995159537956065455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 是不是女的，来向我表白吧宝，我会好好疼爱你的哟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1994457982331961835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994695488520835072/aNvlyX-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2889,
+          "following_count": 2715,
+          "like_count": 35407,
+          "listed_count": 13,
+          "media_count": 1535,
+          "tweet_count": 32816
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-11T01:56:34.000Z",
+        "description": "孤山月影照金河，不见人间惆怅客",
+        "id": "1701051815260004353",
+        "location": "…..",
+        "name": "之wei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980698866090487808/T5zzr77w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 114,
+          "like_count": 545,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1287
+        },
+        "username": "zhiweiwar",
+        "verified": false
+      }
+    ]
+  }
+}

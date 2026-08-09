@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1959565809879294251",
+    "created_at": "2025-08-24T12:32:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T13:32:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959594556296770041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1919296206381170688",
+          "start": 0,
+          "username": "juhao0721"
+        },
+        {
+          "end": 27,
+          "id": "1807107145756008448",
+          "start": 11,
+          "username": "KagurazakaAzure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959594556296770041",
+    "in_reply_to_user_id": "1919296206381170688",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959565809879294251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@juhao0721 @KagurazakaAzure xmsl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1959565746071343104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzHGqfCbEAAnBz3.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1959565809879294251",
+        "created_at": "2025-08-24T12:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T13:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959594556296770041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1919296206381170688",
+              "start": 0,
+              "username": "juhao0721"
+            },
+            {
+              "end": 27,
+              "id": "1807107145756008448",
+              "start": 11,
+              "username": "KagurazakaAzure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959594556296770041",
+        "in_reply_to_user_id": "1919296206381170688",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959565809879294251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juhao0721 @KagurazakaAzure xmsl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959565746071343104"
+          ]
+        },
+        "author_id": "1919296206381170688",
+        "conversation_id": "1959565809879294251",
+        "created_at": "2025-08-24T10:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T11:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959565809879294251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "KagurazakaAzure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7otPb9xppN",
+              "end": 47,
+              "expanded_url": "https://x.com/juhao0721/status/1959565809879294251/photo/1",
+              "media_key": "3_1959565746071343104",
+              "start": 24,
+              "url": "https://t.co/7otPb9xppN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959565809879294251",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 289,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "@KagurazakaAzure ：呀，没收住 https://t.co/7otPb9xppN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "我是男的！不要叫我宝宝不要问我找不找对象❤️@zyh842159145\n🐷@yeziyu7777 @TTKYYX03",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "zyh842159145"
+              },
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1954538422728585308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959324604528496640/LLEAx0Ic_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2597,
+          "following_count": 2649,
+          "like_count": 35156,
+          "listed_count": 14,
+          "media_count": 1330,
+          "tweet_count": 29561
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T07:42:19.000Z",
+        "description": "全是负能量/对象 @KagurazakaAzure",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "KagurazakaAzure"
+              }
+            ]
+          }
+        },
+        "id": "1919296206381170688",
+        "location": "翎家",
+        "name": "baka_0v0",
+        "pinned_tweet_id": "1958538045520830802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958939031838011392/Dlid9juR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 74,
+          "like_count": 1960,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 744
+        },
+        "username": "juhao0721",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "我可能是全网第一个因为身高和唧唧打不了中二的人 我身高两米三 唧唧长度30 每次反手的时候会摸到自己的唧唧 还时不时判定不上air sega就不能考虑一下我们这种又高又大的男生吗 真的好苦恼啊 我真的很想玩中二节奏这个游戏 我之前玩舞萌和Phigros的时候怎么就没这个问题 ❤️@juhao0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 140,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "7sRef",
+        "name": "水彩翎🍋",
+        "pinned_tweet_id": "1958802147761332521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958894427491246083/an3vCJp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7917,
+          "following_count": 1358,
+          "like_count": 44614,
+          "listed_count": 11,
+          "media_count": 3225,
+          "tweet_count": 25913
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": true
+      }
+    ]
+  }
+}

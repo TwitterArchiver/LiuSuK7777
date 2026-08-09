@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1906646895495455009",
+    "created_at": "2025-03-31T23:29:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T00:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906851364619378928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1691242509815754754",
+          "start": 0,
+          "username": "LastTrouvaille"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906851364619378928",
+    "in_reply_to_user_id": "1691242509815754754",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906646895495455009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LastTrouvaille 😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1906646892790026241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnXFP0TaEAEk4cn.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1906646895495455009",
+        "created_at": "2025-03-31T23:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T00:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906851364619378928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906851364619378928",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906646895495455009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906646892790026241"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1906646895495455009",
+        "created_at": "2025-03-31T09:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T10:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906646895495455009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1906251370073927680/R8ipQ7fc?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1906251370073927680/R8ipQ7fc?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/GpxI32G3Sl"
+            },
+            {
+              "display_url": "pic.x.com/ZMEcLxHmNp",
+              "end": 64,
+              "expanded_url": "https://x.com/LastTrouvaille/status/1906646895495455009/photo/1",
+              "media_key": "3_1906646892790026241",
+              "start": 41,
+              "url": "https://t.co/ZMEcLxHmNp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906646895495455009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 649,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/GpxI32G3Sl https://t.co/ZMEcLxHmNp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "💞@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "跟我面基可以随便摸我",
+        "name": "苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1704,
+          "following_count": 2027,
+          "like_count": 29695,
+          "listed_count": 12,
+          "media_count": 873,
+          "tweet_count": 21054
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖INFP‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2230,
+          "following_count": 2666,
+          "like_count": 18546,
+          "listed_count": 12,
+          "media_count": 388,
+          "tweet_count": 4510
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

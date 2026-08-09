@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1973937837281325420",
+    "created_at": "2025-10-03T03:00:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T04:00:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973946345259217186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1816274994298580992",
+          "start": 0,
+          "username": "745xhncwl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973946345259217186",
+    "in_reply_to_user_id": "1816274994298580992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973937837281325420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@745xhncwl 那送给我吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1973937837281325420",
+        "created_at": "2025-10-03T03:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T04:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973946345259217186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1816274994298580992",
+              "start": 0,
+              "username": "745xhncwl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973946345259217186",
+        "in_reply_to_user_id": "1816274994298580992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973937837281325420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@745xhncwl 那送给我吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816274994298580992",
+        "conversation_id": "1973937837281325420",
+        "created_at": "2025-10-03T02:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T03:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973937837281325420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xuyaobabaiwan/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/xuyaobabaiwan/status/1973729276034986363",
+              "start": 11,
+              "url": "https://t.co/Ua1uZsq4Lg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973937837281325420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973729276034986363",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我倒贴都没人要怎么办 https://t.co/Ua1uZsq4Lg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "……\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969600938567745538/genz-feI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2678,
+          "following_count": 2649,
+          "like_count": 35385,
+          "listed_count": 15,
+          "media_count": 1405,
+          "tweet_count": 30748
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T00:51:54.000Z",
+        "description": "ENFP|🥰我是女孩子|聊骚的4000+|努力打工中！！||全平台最猎奇的守财奴😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/745xhncwl1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/745xhncwl1",
+                "start": 0,
+                "url": "https://t.co/EOGMmGn30Q"
+              }
+            ]
+          }
+        },
+        "id": "1816274994298580992",
+        "location": "财窝",
+        "name": "牛奶有点咸",
+        "pinned_tweet_id": "1973655819284783576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969613112979701763/mYSLA3v9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 320,
+          "like_count": 42654,
+          "listed_count": 4,
+          "media_count": 149,
+          "tweet_count": 4687
+        },
+        "url": "https://t.co/EOGMmGn30Q",
+        "username": "745xhncwl",
+        "verified": false
+      }
+    ]
+  }
+}

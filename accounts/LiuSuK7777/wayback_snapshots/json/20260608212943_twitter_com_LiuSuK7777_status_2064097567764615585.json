@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2063911906805690556",
+    "created_at": "2026-06-08T21:29:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T22:29:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064097567764615585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1439874052957491204",
+          "start": 0,
+          "username": "AyanMR_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064097567764615585",
+    "in_reply_to_user_id": "1439874052957491204",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064027094204768361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyanMR_ 职高3+2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2063911906805690556",
+        "created_at": "2026-06-08T21:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T22:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064097567764615585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1439874052957491204",
+              "start": 0,
+              "username": "AyanMR_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064097567764615585",
+        "in_reply_to_user_id": "1439874052957491204",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064027094204768361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyanMR_ 职高3+2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439874052957491204",
+        "conversation_id": "2063911906805690556",
+        "created_at": "2026-06-08T16:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064027094204768361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064027094204768361",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063919694906818826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 有点好奇还没考完就知道自己去什么大学了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 杭州 08年 舞萌/东方/Arcaea/明日方舟/三角洲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2032828973374386365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060157452931465216/9MujmSVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3529,
+          "following_count": 2709,
+          "like_count": 34390,
+          "listed_count": 14,
+          "media_count": 1672,
+          "tweet_count": 35046
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-20T08:48:39.000Z",
+        "description": "非经院式的马列毛主义学习者",
+        "id": "1439874052957491204",
+        "location": "乌尔比诺",
+        "name": "ayanmr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852951157343469568/Gi7_WPMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 1961,
+          "like_count": 2065,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 957
+        },
+        "username": "AyanMR_",
+        "verified": false
+      }
+    ]
+  }
+}

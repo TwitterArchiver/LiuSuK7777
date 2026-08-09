@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2000571267456663951",
+    "created_at": "2025-12-15T15:53:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T16:53:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000595021968687478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1991364416823259139",
+          "start": 0,
+          "username": "NikaidoHiro0110"
+        },
+        {
+          "end": 26,
+          "id": "1611426453547257857",
+          "start": 17,
+          "username": "ChocoQvQ"
+        },
+        {
+          "end": 39,
+          "id": "1567925783288774656",
+          "start": 27,
+          "username": "Retijk_Miqo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000595021968687478",
+    "in_reply_to_user_id": "1991364416823259139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000586032589246585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NikaidoHiro0110 @ChocoQvQ @Retijk_Miqo 小雷还不好？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2000571267456663951",
+        "created_at": "2025-12-15T15:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T16:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000595021968687478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1991364416823259139",
+              "start": 0,
+              "username": "NikaidoHiro0110"
+            },
+            {
+              "end": 26,
+              "id": "1611426453547257857",
+              "start": 17,
+              "username": "ChocoQvQ"
+            },
+            {
+              "end": 39,
+              "id": "1567925783288774656",
+              "start": 27,
+              "username": "Retijk_Miqo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000595021968687478",
+        "in_reply_to_user_id": "1991364416823259139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000586032589246585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NikaidoHiro0110 @ChocoQvQ @Retijk_Miqo 小雷还不好？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991364416823259139",
+        "conversation_id": "2000571267456663951",
+        "created_at": "2025-12-15T15:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T16:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000586032589246585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1611426453547257857",
+              "start": 0,
+              "username": "ChocoQvQ"
+            },
+            {
+              "end": 22,
+              "id": "1567925783288774656",
+              "start": 10,
+              "username": "Retijk_Miqo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000586032589246585",
+        "in_reply_to_user_id": "1611426453547257857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000585032684167199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChocoQvQ @Retijk_Miqo 不好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "1995540883278889351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000419861345026048/OuRHQUY0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2956,
+          "following_count": 2790,
+          "like_count": 35544,
+          "listed_count": 13,
+          "media_count": 1570,
+          "tweet_count": 33650
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T04:34:18.000Z",
+        "description": "男  喜欢碎碎念 不想当小透明 b站：https://t.co/D8SULUCESy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b23.tv/kTDbwUY",
+                "end": 42,
+                "expanded_url": "https://b23.tv/kTDbwUY",
+                "start": 19,
+                "url": "https://t.co/D8SULUCESy"
+              }
+            ]
+          }
+        },
+        "id": "1991364416823259139",
+        "name": "Nikaido Hiro",
+        "pinned_tweet_id": "1999531536501055893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991365556956807168/b84rccpy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 403,
+          "like_count": 2112,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 533
+        },
+        "username": "NikaidoHiro0110",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T18:16:31.000Z",
+        "description": "固炮（）@7nnn_n （塞黄瓜🥒）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "7nnn_n"
+              }
+            ]
+          }
+        },
+        "id": "1611426453547257857",
+        "location": "特招到工地的路上",
+        "name": "待兼伶（二手烟熏肉.ver）",
+        "pinned_tweet_id": "1668594067335446528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997078201714331651/YUuQi8f1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 2094,
+          "like_count": 91669,
+          "listed_count": 3,
+          "media_count": 1398,
+          "tweet_count": 9082
+        },
+        "username": "ChocoQvQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-08T17:20:20.000Z",
+        "description": "无🚪，可以私聊刷好感度，随机掉落涩图，....欢迎私戳...看到都会回的喵 最可爱的依依@Rinni_Candy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Rinni_Candy"
+              }
+            ]
+          }
+        },
+        "id": "1567925783288774656",
+        "name": "I hate you all",
+        "pinned_tweet_id": "1950073490389749997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1691148294125436929/QlpPAk36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3728,
+          "following_count": 491,
+          "like_count": 5088,
+          "listed_count": 13,
+          "media_count": 171,
+          "tweet_count": 473
+        },
+        "username": "Retijk_Miqo",
+        "verified": false
+      }
+    ]
+  }
+}

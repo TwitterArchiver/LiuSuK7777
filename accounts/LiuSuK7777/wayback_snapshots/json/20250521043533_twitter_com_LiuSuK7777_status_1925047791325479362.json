@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1925047272188084500",
+    "created_at": "2025-05-21T04:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T05:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925047791325479362"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1925047791325479362",
+    "in_reply_to_user_id": "1504799211799265282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925047272188084500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下午放学删"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 866,
+        "media_key": "3_1925047261308059648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrckSOobAAAHIAI.png",
+        "width": 634
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1925047272188084500",
+        "created_at": "2025-05-21T04:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T05:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925047791325479362"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925047791325479362",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925047272188084500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下午放学删"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925047261308059648"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "conversation_id": "1925047272188084500",
+        "created_at": "2025-05-21T04:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T05:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925047272188084500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GbAvmQVpoR",
+              "end": 23,
+              "expanded_url": "https://x.com/LiuSuK7777/status/1925047272188084500/photo/1",
+              "media_key": "3_1925047261308059648",
+              "start": 0,
+              "url": "https://t.co/GbAvmQVpoR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925047272188084500",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GbAvmQVpoR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "😣",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1923615398567833920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2045,
+          "following_count": 2311,
+          "like_count": 33666,
+          "listed_count": 11,
+          "media_count": 1072,
+          "tweet_count": 25108
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      }
+    ]
+  }
+}

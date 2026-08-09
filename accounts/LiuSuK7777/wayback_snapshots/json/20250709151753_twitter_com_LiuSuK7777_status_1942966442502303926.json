@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1942949708554703211",
+    "created_at": "2025-07-09T15:17:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T16:17:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942966442502303926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1626578993821675521",
+          "start": 0,
+          "username": "linmen589064"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942966442502303926",
+    "in_reply_to_user_id": "1626578993821675521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942965858646790496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linmen589064 哼哼 父母绝对权力 应该是没办法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1942949708554703211",
+        "created_at": "2025-07-09T15:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T16:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942966442502303926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1626578993821675521",
+              "start": 0,
+              "username": "linmen589064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942966442502303926",
+        "in_reply_to_user_id": "1626578993821675521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942965858646790496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linmen589064 哼哼 父母绝对权力 应该是没办法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626578993821675521",
+        "conversation_id": "1942949708554703211",
+        "created_at": "2025-07-09T15:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T16:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942965858646790496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942965858646790496",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942949708554703211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 看《如何让别人不叫你看书》"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "主人@yeziyu7777\n对象@zyh1428202\n小号@Loveyezi8964\n笨蛋姐姐@TTKYYX03（不是现实中那个）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "Loveyezi8964"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1940766254266302907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2304,
+          "following_count": 2508,
+          "like_count": 34768,
+          "listed_count": 10,
+          "media_count": 1202,
+          "tweet_count": 27713
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-17T13:48:49.000Z",
+        "description": "一个普通的躺平教教主罢了|诚念躺平大法好，三不保平安不结婚不买房不生子享幸福人生l认真b滚，小狗@elonmusk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "elonmusk"
+              }
+            ]
+          }
+        },
+        "id": "1626578993821675521",
+        "name": "川和 丶柠檬🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935710523359637504/KlKWhm_-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 424,
+          "like_count": 49866,
+          "listed_count": 4,
+          "media_count": 749,
+          "tweet_count": 13189
+        },
+        "username": "linmen589064",
+        "verified": false
+      }
+    ]
+  }
+}

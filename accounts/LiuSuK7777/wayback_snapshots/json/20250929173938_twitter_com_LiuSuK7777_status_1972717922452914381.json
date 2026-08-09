@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1972717922452914381",
+    "created_at": "2025-09-29T17:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T18:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972717922452914381"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/su134297/statu…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/su134297/status/1972688866755645683",
+          "start": 31,
+          "url": "https://t.co/Q2kx0pdzNi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972717922452914381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972688866755645683",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉男装实用性高设计性小比较丑\n女装实用性低设计性高比较好看 https://t.co/Q2kx0pdzNi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1972717922452914381",
+        "created_at": "2025-09-29T17:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T18:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972717922452914381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/su134297/statu…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/su134297/status/1972688866755645683",
+              "start": 31,
+              "url": "https://t.co/Q2kx0pdzNi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972717922452914381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972688866755645683",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉男装实用性高设计性小比较丑\n女装实用性低设计性高比较好看 https://t.co/Q2kx0pdzNi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677540817089728517",
+        "conversation_id": "1972678031140356189",
+        "created_at": "2025-09-29T15:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T16:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972688866755645683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1581609984755830784",
+              "start": 0,
+              "username": "smallchili04186"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972688866755645683",
+        "in_reply_to_user_id": "1581609984755830784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972678031140356189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smallchili04186 感觉好看和男装不搭边（无贬义）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "……\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969600938567745538/genz-feI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2662,
+          "following_count": 2646,
+          "like_count": 35370,
+          "listed_count": 14,
+          "media_count": 1398,
+          "tweet_count": 30604
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T04:51:18.000Z",
+        "description": "是笨比|是坏人|INFP？ENFP？| 鸽子王|友跨|空闲中|微键政？|欢迎互fo|是土豆地雷（易炸）|点赞摸摸bot？（bushi\n虽然不是mzk（咳咳）但是可爱的东西我也会照单全收哦\n对了！此人是一个大笨蛋xwx，请谅解喵\n（是不是太多标签了）",
+        "id": "1677540817089728517",
+        "location": "太空",
+        "name": "sutianxing",
+        "pinned_tweet_id": "1968376963841900737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776245691389747200/A9bj-L2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 81,
+          "like_count": 23145,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 688
+        },
+        "username": "su134297",
+        "verified": false
+      }
+    ]
+  }
+}

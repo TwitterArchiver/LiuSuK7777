@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969340933440487424"
+      ],
+      "media_source_tweet_id": [
+        "1969340942671917462"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "conversation_id": "1969362123404034238",
+    "created_at": "2025-09-20T11:24:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T12:24:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969362123404034238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "114668129",
+          "start": 3,
+          "username": "yu_zu_co_kuro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jsKFK2LMol",
+          "end": 47,
+          "expanded_url": "https://x.com/yu_zu_co_kuro/status/1969340942671917462/photo/1",
+          "media_key": "3_1969340933440487424",
+          "start": 24,
+          "url": "https://t.co/jsKFK2LMol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969362123404034238",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969340942671917462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yu_zu_co_kuro: らふみゃ https://t.co/jsKFK2LMol"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1045,
+        "media_key": "3_1969340933440487424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1SBJRtbQAAAaLW.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969340933440487424"
+          ],
+          "media_source_tweet_id": [
+            "1969340942671917462"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "conversation_id": "1969362123404034238",
+        "created_at": "2025-09-20T11:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T12:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969362123404034238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "114668129",
+              "start": 3,
+              "username": "yu_zu_co_kuro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jsKFK2LMol",
+              "end": 47,
+              "expanded_url": "https://x.com/yu_zu_co_kuro/status/1969340942671917462/photo/1",
+              "media_key": "3_1969340933440487424",
+              "start": 24,
+              "url": "https://t.co/jsKFK2LMol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969362123404034238",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969340942671917462",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yu_zu_co_kuro: らふみゃ https://t.co/jsKFK2LMol"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969340933440487424"
+          ]
+        },
+        "author_id": "114668129",
+        "conversation_id": "1969340942671917462",
+        "created_at": "2025-09-20T10:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T11:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969340942671917462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jsKFK2LMol",
+              "end": 28,
+              "expanded_url": "https://x.com/yu_zu_co_kuro/status/1969340942671917462/photo/1",
+              "media_key": "3_1969340933440487424",
+              "start": 5,
+              "url": "https://t.co/jsKFK2LMol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969340942671917462",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 253,
+          "impression_count": 15214,
+          "like_count": 1398,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "らふみゃ https://t.co/jsKFK2LMol"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1966750967149588919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966711124734410752/71NBjUL5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2647,
+          "following_count": 2639,
+          "like_count": 35385,
+          "listed_count": 14,
+          "media_count": 1376,
+          "tweet_count": 30340
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-16T06:24:55.000Z",
+        "description": "■ご依頼はDMへ\n■FANBOX（https://t.co/QOucqwdAES）\n■Fantia（https://t.co/O0SRHvCv0c）\n@yuzuco_sub\n絵の差分や削除してしまったものは各リンクにあるのでそちらへ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "yuzuco_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yuzuco.fanbox.cc",
+                "end": 40,
+                "expanded_url": "https://yuzuco.fanbox.cc/",
+                "start": 17,
+                "url": "https://t.co/QOucqwdAES"
+              },
+              {
+                "display_url": "fantia.jp/fanclubs/490382",
+                "end": 73,
+                "expanded_url": "https://fantia.jp/fanclubs/490382",
+                "start": 50,
+                "url": "https://t.co/O0SRHvCv0c"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yuzuc0",
+                "end": 23,
+                "expanded_url": "https://lit.link/yuzuc0",
+                "start": 0,
+                "url": "https://t.co/qcbmTcfBSO"
+              }
+            ]
+          }
+        },
+        "id": "114668129",
+        "location": "ネオドミノシティ",
+        "name": "yuzuco🍋",
+        "pinned_tweet_id": "1962155549342257517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945262550544998401/D_ynEkpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116054,
+          "following_count": 339,
+          "like_count": 15256,
+          "listed_count": 748,
+          "media_count": 43,
+          "tweet_count": 1759
+        },
+        "url": "https://t.co/qcbmTcfBSO",
+        "username": "yu_zu_co_kuro",
+        "verified": false
+      }
+    ]
+  }
+}

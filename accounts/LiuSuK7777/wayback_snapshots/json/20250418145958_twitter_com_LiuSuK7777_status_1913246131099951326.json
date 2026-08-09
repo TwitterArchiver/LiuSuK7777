@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1913238076446703878",
+    "created_at": "2025-04-18T14:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T15:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913246131099951326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1840746951522095104",
+          "start": 0,
+          "username": "poor_tomato_qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913246131099951326",
+    "in_reply_to_user_id": "1840746951522095104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913245893106762034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@poor_tomato_qaq 不🔒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1913238076446703878",
+        "created_at": "2025-04-18T14:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T15:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913246131099951326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1840746951522095104",
+              "start": 0,
+              "username": "poor_tomato_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913246131099951326",
+        "in_reply_to_user_id": "1840746951522095104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913245893106762034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@poor_tomato_qaq 不🔒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840746951522095104",
+        "conversation_id": "1913238076446703878",
+        "created_at": "2025-04-18T14:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T15:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913245893106762034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913245893106762034",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913243158554792171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 没看懂说的什么，可以细🔒🐴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 2081,
+          "like_count": 30379,
+          "listed_count": 12,
+          "media_count": 905,
+          "tweet_count": 22142
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T13:34:22.000Z",
+        "description": "一只北方小城的社恐/*时不时发癫/富哥可以V50吗/回复会一个一个看的/友跨/连直线都不会画的画渣/isfp/不涉政/定期回fo/日常推/可以聊天\n匿名提问：https://t.co/Cdv6kfoKQ3（原来的掉了）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/poor_tomato_qa…",
+                "end": 102,
+                "expanded_url": "https://ngl.link/poor_tomato_qaq1",
+                "start": 79,
+                "url": "https://t.co/Cdv6kfoKQ3"
+              }
+            ]
+          }
+        },
+        "id": "1840746951522095104",
+        "location": "番茄种植基地",
+        "name": "可憐の拖碼頭（坐牢中）",
+        "pinned_tweet_id": "1908544188381356202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906203587572797440/BEjRtMnp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 231,
+          "like_count": 9396,
+          "listed_count": 1,
+          "media_count": 266,
+          "tweet_count": 2723
+        },
+        "username": "poor_tomato_qaq",
+        "verified": false
+      }
+    ]
+  }
+}

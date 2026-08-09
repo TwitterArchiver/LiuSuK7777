@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1136329838350880768",
+          "name": "Naruto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1136329838350880768",
+          "name": "Naruto"
+        }
+      }
+    ],
+    "conversation_id": "1917203727188152503",
+    "created_at": "2025-04-29T13:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T14:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917203727188152503"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 41,
+          "normalized_text": "火影忍者",
+          "probability": 0.3472,
+          "start": 38,
+          "type": "Other"
+        },
+        {
+          "end": 50,
+          "normalized_text": "火影忍者",
+          "probability": 0.3793,
+          "start": 47,
+          "type": "Other"
+        },
+        {
+          "end": 59,
+          "normalized_text": "火影忍者",
+          "probability": 0.3955,
+          "start": 56,
+          "type": "Other"
+        },
+        {
+          "end": 68,
+          "normalized_text": "火影忍者",
+          "probability": 0.3101,
+          "start": 65,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/hgds01/status/…",
+          "end": 93,
+          "expanded_url": "https://twitter.com/hgds01/status/1917110978497679598",
+          "start": 70,
+          "url": "https://t.co/YanYpt76On"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917203727188152503",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917110978497679598",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "五一计划\n4.29:火影忍者\n4.30:火影忍者\n5.1：火影忍者\n5.2：火影忍者\n5.3：火影忍者\n5.4：火影忍者\n5.5：火影忍者 https://t.co/YanYpt76On"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1136329838350880768",
+              "name": "Naruto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1136329838350880768",
+              "name": "Naruto"
+            }
+          }
+        ],
+        "conversation_id": "1917203727188152503",
+        "created_at": "2025-04-29T13:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T14:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917203727188152503"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "火影忍者",
+              "probability": 0.3472,
+              "start": 38,
+              "type": "Other"
+            },
+            {
+              "end": 50,
+              "normalized_text": "火影忍者",
+              "probability": 0.3793,
+              "start": 47,
+              "type": "Other"
+            },
+            {
+              "end": 59,
+              "normalized_text": "火影忍者",
+              "probability": 0.3955,
+              "start": 56,
+              "type": "Other"
+            },
+            {
+              "end": 68,
+              "normalized_text": "火影忍者",
+              "probability": 0.3101,
+              "start": 65,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/hgds01/status/…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/hgds01/status/1917110978497679598",
+              "start": 70,
+              "url": "https://t.co/YanYpt76On"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917203727188152503",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917110978497679598",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "五一计划\n4.29:火影忍者\n4.30:火影忍者\n5.1：火影忍者\n5.2：火影忍者\n5.3：火影忍者\n5.4：火影忍者\n5.5：火影忍者 https://t.co/YanYpt76On"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507396901594820608",
+        "conversation_id": "1917110978497679598",
+        "created_at": "2025-04-29T06:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T07:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917110978497679598"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917110978497679598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 13778,
+          "like_count": 370,
+          "quote_count": 6,
+          "reply_count": 14,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "五一计划\n4.29:手冲\n4.30:手冲\n5.1：手冲\n5.2：手冲\n5.3：手冲\n5.4：手冲\n5.5：手冲\n5.6：手冲\n5.7：手冲\n5.8：在推上说打了十天炮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1908,
+          "following_count": 2172,
+          "like_count": 31671,
+          "listed_count": 13,
+          "media_count": 971,
+          "tweet_count": 23359
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "‼️广告自辩‼️/感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删/小号@hgds520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "hgds520"
+              }
+            ]
+          }
+        },
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1916876717773476054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73166,
+          "following_count": 2902,
+          "like_count": 42473,
+          "listed_count": 94,
+          "media_count": 2025,
+          "tweet_count": 6298
+        },
+        "username": "hgds01",
+        "verified": true
+      }
+    ]
+  }
+}

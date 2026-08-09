@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1936031645326561691",
+    "created_at": "2025-06-20T12:34:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T13:34:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936040071423311992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1846866898681843712",
+          "start": 0,
+          "username": "bo_wang57855"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936040071423311992",
+    "in_reply_to_user_id": "1846866898681843712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936039901616881813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bo_wang57855 😉我刚刚吃完"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1936031645326561691",
+        "created_at": "2025-06-20T12:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T13:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936040071423311992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1846866898681843712",
+              "start": 0,
+              "username": "bo_wang57855"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936040071423311992",
+        "in_reply_to_user_id": "1846866898681843712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936039901616881813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bo_wang57855 😉我刚刚吃完"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846866898681843712",
+        "conversation_id": "1936031645326561691",
+        "created_at": "2025-06-20T12:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T13:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936039901616881813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936039901616881813",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936031645326561691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 挖槽 这我是真能来 我自行车过去都就10分钟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男|Arcaea|明日方舟|舞萌DX|火影忍者|社恐健全B|2008.02.29 |主人@yeziyu7777对象@zyh1428202小号@Loveyezi8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1934919167632920968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2185,
+          "following_count": 2437,
+          "like_count": 34321,
+          "listed_count": 11,
+          "media_count": 1126,
+          "tweet_count": 26621
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T10:52:49.000Z",
+        "description": "可接待短期庇护 提供基础生活物质 //杭州 男 泛性恋 性格温柔 收m sub 想要会自己把脸贴到手上的小狗  infj  接陪玩 情绪回收站，树洞倾听者 and可以喊姐姐 妈妈或者奶茶同意的称呼（另想养猫娘 或者小狗 （xyn,xnn） 可提供猫窝/笼子 餐食   好看的项圈  或许你会需要奶茶的陪伴～",
+        "id": "1846866898681843712",
+        "location": "杭州",
+        "name": "行未行之事：奶茶（想养只“宠物”",
+        "pinned_tweet_id": "1911613158118039987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858026958317301761/beLtXlxZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 598,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 70
+        },
+        "username": "bo_wang57855",
+        "verified": false
+      }
+    ]
+  }
+}

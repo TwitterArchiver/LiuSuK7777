@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1916015460274913441",
+    "created_at": "2025-04-26T23:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T00:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916272330919317746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1866879305525104641",
+          "start": 0,
+          "username": "sadwarrior111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916272330919317746",
+    "in_reply_to_user_id": "1866879305525104641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916265151868899531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sadwarrior111 你当饭吃？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1916015460274913441",
+        "created_at": "2025-04-26T23:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T00:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916272330919317746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1866879305525104641",
+              "start": 0,
+              "username": "sadwarrior111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916272330919317746",
+        "in_reply_to_user_id": "1866879305525104641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916265151868899531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sadwarrior111 你当饭吃？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866879305525104641",
+        "conversation_id": "1916015460274913441",
+        "created_at": "2025-04-26T22:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T23:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916265151868899531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916265151868899531",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916015860373655699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 小学出门旅游的时候一天六罐（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 2153,
+          "like_count": 31360,
+          "listed_count": 12,
+          "media_count": 955,
+          "tweet_count": 23032
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-11T16:15:00.000Z",
+        "description": "一空输出动 忠！诚！",
+        "id": "1866879305525104641",
+        "location": "保安司第六分室",
+        "name": "一空输",
+        "pinned_tweet_id": "1887474986052690188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910827150326063105/Wfo7zhaf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 157,
+          "like_count": 3382,
+          "listed_count": 3,
+          "media_count": 664,
+          "tweet_count": 1891
+        },
+        "username": "sadwarrior111",
+        "verified": false
+      }
+    ]
+  }
+}

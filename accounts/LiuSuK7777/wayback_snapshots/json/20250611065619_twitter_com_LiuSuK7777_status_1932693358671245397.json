@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1932693191842828486",
+    "created_at": "2025-06-11T06:56:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T07:56:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932693358671245397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1753348784573001728",
+          "start": 0,
+          "username": "Cheshire_kwine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932693358671245397",
+    "in_reply_to_user_id": "1753348784573001728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932693191842828486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheshire_kwine 这是我能刷到的吗\n我不是未成年吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 52966,
+        "height": 848,
+        "media_key": "13_1932692985575251968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1932692985575251968/img/IAMfqKNzwNhGpXYm.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932692985575251968/vid/avc1/320x402/skvkJPitHSA7U6xZ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932692985575251968/vid/avc1/480x604/_gzn3pQ6RQGzCqZq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932692985575251968/vid/avc1/672x848/uO5MFVM0nz0Tp43X.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1932692985575251968/pl/xoU7svYzGGsP01mv.m3u8?tag=14"
+          }
+        ],
+        "width": 672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1932693191842828486",
+        "created_at": "2025-06-11T06:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T07:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932693358671245397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753348784573001728",
+              "start": 0,
+              "username": "Cheshire_kwine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932693358671245397",
+        "in_reply_to_user_id": "1753348784573001728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932693191842828486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheshire_kwine 这是我能刷到的吗\n我不是未成年吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1932692985575251968"
+          ]
+        },
+        "author_id": "1753348784573001728",
+        "conversation_id": "1932693191842828486",
+        "created_at": "2025-06-11T06:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T07:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932693191842828486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f7J5nYbeUP",
+              "end": 54,
+              "expanded_url": "https://x.com/Cheshire_kwine/status/1932693191842828486/video/1",
+              "media_key": "13_1932692985575251968",
+              "start": 31,
+              "url": "https://t.co/f7J5nYbeUP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932693191842828486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我嘞个肛门打气啊，脑海里已经出现肠子像自行车胎一样膨胀的画面 https://t.co/f7J5nYbeUP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏，Arcaea/明日方舟/舞萌DX/火影忍者，线上淫乱线下社恐，健全B无心理疾病，经常搞砸让所有人都不开心，生日2008.02.29 |唯一的主人@yeziyu7777/对象@zyh1428202 小号@Loveyezi8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1931302860630688172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2126,
+          "following_count": 2402,
+          "like_count": 34154,
+          "listed_count": 11,
+          "media_count": 1104,
+          "tweet_count": 26133
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T09:25:33.000Z",
+        "description": "接占卜接算命，具体请私🙇🏻‍♂️🙇🏻‍♀️",
+        "id": "1753348784573001728",
+        "location": "暹罗",
+        "name": "大猫猫归来，中间忘了后面也忘了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932085518961176577/thMyIA3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3443,
+          "following_count": 1288,
+          "like_count": 78409,
+          "listed_count": 11,
+          "media_count": 1719,
+          "tweet_count": 13548
+        },
+        "username": "Cheshire_kwine",
+        "verified": false
+      }
+    ]
+  }
+}

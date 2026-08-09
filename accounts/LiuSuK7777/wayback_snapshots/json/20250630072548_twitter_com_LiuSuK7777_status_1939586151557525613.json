@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1939576180912635955",
+    "created_at": "2025-06-30T07:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T08:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939586151557525613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748763011140169729",
+          "start": 0,
+          "username": "sxshuishuimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939586151557525613",
+    "in_reply_to_user_id": "1748763011140169729",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939576180912635955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sxshuishuimao od爽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 683,
+        "media_key": "3_1939576170158194688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GurCQB0XgAAwofj.jpg",
+        "width": 951
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1939576180912635955",
+        "created_at": "2025-06-30T07:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T08:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939586151557525613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "sxshuishuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939586151557525613",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939576180912635955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sxshuishuimao od爽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939576170158194688"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "1939576180912635955",
+        "created_at": "2025-06-30T06:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T07:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939576180912635955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1DUJdK04NF",
+              "end": 32,
+              "expanded_url": "https://x.com/sxshuishuimao/status/1939576180912635955/photo/1",
+              "media_key": "3_1939576170158194688",
+              "start": 9,
+              "url": "https://t.co/1DUJdK04NF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939576180912635955",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "o爽（bushi https://t.co/1DUJdK04NF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男|Arcaea|明日方舟|舞萌DX|火影忍者|社恐健全B|2008.02.29 |主人@yeziyu7777对象@zyh1428202小号@Loveyezi8964\n笨蛋姐姐@TTKYYX03",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Loveyezi8964"
+              },
+              {
+                "end": 97,
+                "start": 88,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1936314364468105461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2235,
+          "following_count": 2492,
+          "like_count": 34516,
+          "listed_count": 10,
+          "media_count": 1173,
+          "tweet_count": 27237
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "07 ｜互fo｜INFP-t｜ HRT咨詢｜不吃肉不是素食主義者喵｜灌注水貓謝謝喵｜拼圖積木代拼｜最喜歡14歲了｜不o不圓不割不死｜提問箱鏈接↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "神仙水水猫🍕🧊",
+        "pinned_tweet_id": "1938631516348887501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922116318553141248/h-kb4WKM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1421,
+          "following_count": 1037,
+          "like_count": 192,
+          "listed_count": 4,
+          "media_count": 1104,
+          "tweet_count": 6916
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "sxshuishuimao",
+        "verified": true
+      }
+    ]
+  }
+}

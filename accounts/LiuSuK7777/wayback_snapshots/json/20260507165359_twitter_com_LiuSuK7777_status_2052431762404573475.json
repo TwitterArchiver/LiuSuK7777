@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2052416925653942638",
+    "created_at": "2026-05-07T16:53:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T17:53:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052431762404573475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1433833820810211332",
+          "start": 0,
+          "username": "Ettf_Cabage"
+        },
+        {
+          "end": 26,
+          "id": "1624312752453091328",
+          "start": 13,
+          "username": "XiaoSuZi1125"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052431762404573475",
+    "in_reply_to_user_id": "1433833820810211332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052424837508067829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ettf_Cabage @XiaoSuZi1125 转发的好啊 我也爱看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2052416925653942638",
+        "created_at": "2026-05-07T16:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052431762404573475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1433833820810211332",
+              "start": 0,
+              "username": "Ettf_Cabage"
+            },
+            {
+              "end": 26,
+              "id": "1624312752453091328",
+              "start": 13,
+              "username": "XiaoSuZi1125"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052431762404573475",
+        "in_reply_to_user_id": "1433833820810211332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052424837508067829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ettf_Cabage @XiaoSuZi1125 转发的好啊 我也爱看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1433833820810211332",
+        "conversation_id": "2052416925653942638",
+        "created_at": "2026-05-07T16:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052424837508067829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1624312752453091328",
+              "start": 0,
+              "username": "XiaoSuZi1125"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052424837508067829",
+        "in_reply_to_user_id": "1624312752453091328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052416925653942638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoSuZi1125 爱看喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 08年~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n我喜欢你♡@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2032828973374386365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030299474501971969/jf72wAsr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3406,
+          "following_count": 2715,
+          "like_count": 34485,
+          "listed_count": 14,
+          "media_count": 1659,
+          "tweet_count": 34873
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T16:46:52.000Z",
+        "description": "中文/English 我是白菜！ 双性恋 男孩子！活动范围以泉州／厦门为主 现在是19岁想可爱的183cm 91kg性压抑肥猪 - Citroen C4 Coupe车主 - 坚定的伊蕾娜厨 r18转发bot（x）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ettfcabage.airrice.cn",
+                "end": 23,
+                "expanded_url": "http://ettfcabage.airrice.cn",
+                "start": 0,
+                "url": "https://t.co/p5B0lrWGcf"
+              }
+            ]
+          }
+        },
+        "id": "1433833820810211332",
+        "location": "Airrice space center",
+        "name": "Ettf Cabage @什么都只会一点的废物人生",
+        "pinned_tweet_id": "2032747309088518195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617749411005857793/1ffSoHVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 1920,
+          "like_count": 59556,
+          "listed_count": 13,
+          "media_count": 385,
+          "tweet_count": 16009
+        },
+        "url": "https://t.co/p5B0lrWGcf",
+        "username": "Ettf_Cabage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T07:42:18.000Z",
+        "description": "不含糖🍥/战争雷霆糕手/平日看心情随缘更新/⚠️注意：本人只①不0️⃣/可爱的小男娘快来找我贴贴，坐标广东/香港 \nPS：鉴政一律拉黑",
+        "id": "1624312752453091328",
+        "location": "神圣泰拉",
+        "name": "速速子",
+        "pinned_tweet_id": "2038850011107295493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036772667232243712/wwUt0fzt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4816,
+          "following_count": 878,
+          "like_count": 5420,
+          "listed_count": 15,
+          "media_count": 75,
+          "tweet_count": 2002
+        },
+        "username": "XiaoSuZi1125",
+        "verified": false
+      }
+    ]
+  }
+}

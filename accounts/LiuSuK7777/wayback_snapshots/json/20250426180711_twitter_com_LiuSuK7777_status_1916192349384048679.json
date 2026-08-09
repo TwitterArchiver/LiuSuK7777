@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1915947673972314525",
+    "created_at": "2025-04-26T18:07:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T19:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916192349384048679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1657288224451203073",
+          "start": 0,
+          "username": "Cialloi"
+        },
+        {
+          "end": 16,
+          "id": "1011861281387655169",
+          "start": 9,
+          "username": "nxssvk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916192349384048679",
+    "in_reply_to_user_id": "1657288224451203073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916190566024679605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cialloi @nxssvk 杀掉我喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1915947673972314525",
+        "created_at": "2025-04-26T18:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T19:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916192349384048679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1657288224451203073",
+              "start": 0,
+              "username": "Cialloi"
+            },
+            {
+              "end": 16,
+              "id": "1011861281387655169",
+              "start": 9,
+              "username": "nxssvk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916192349384048679",
+        "in_reply_to_user_id": "1657288224451203073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916190566024679605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cialloi @nxssvk 杀掉我喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657288224451203073",
+        "conversation_id": "1915947673972314525",
+        "created_at": "2025-04-26T18:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T19:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916190566024679605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1011861281387655169",
+              "start": 0,
+              "username": "nxssvk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916190566024679605",
+        "in_reply_to_user_id": "1011861281387655169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915947673972314525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nxssvk 所有人都杀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 2153,
+          "like_count": 31327,
+          "listed_count": 12,
+          "media_count": 955,
+          "tweet_count": 22996
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T07:34:48.000Z",
+        "description": "小号喵@Ciallo003（负能）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "Ciallo003"
+              }
+            ]
+          }
+        },
+        "id": "1657288224451203073",
+        "name": "耶",
+        "pinned_tweet_id": "1904008072143479278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911713586650476544/ZJv4PVD8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 513,
+          "like_count": 43803,
+          "listed_count": 4,
+          "media_count": 207,
+          "tweet_count": 10173
+        },
+        "username": "Cialloi",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-27T06:38:23.000Z",
+        "description": "杀人放火",
+        "id": "1011861281387655169",
+        "location": "向日葵的坂道",
+        "name": "好运金币姬",
+        "pinned_tweet_id": "1874817823773737252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915071335249874944/oRpr-fcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 2249,
+          "like_count": 36325,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 3701
+        },
+        "username": "nxssvk",
+        "verified": false
+      }
+    ]
+  }
+}

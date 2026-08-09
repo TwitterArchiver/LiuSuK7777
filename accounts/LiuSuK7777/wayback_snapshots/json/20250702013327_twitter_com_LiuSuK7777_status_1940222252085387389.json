@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1940222252085387389",
+    "created_at": "2025-07-02T01:33:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T02:33:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940222252085387389"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BiliKimily/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/BiliKimily/status/1940222130127610208",
+          "start": 7,
+          "url": "https://t.co/ZElOKx24Sd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940222252085387389",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940222130127610208",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不是姐妹啊 https://t.co/ZElOKx24Sd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1940222252085387389",
+        "created_at": "2025-07-02T01:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T02:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940222252085387389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BiliKimily/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/BiliKimily/status/1940222130127610208",
+              "start": 7,
+              "url": "https://t.co/ZElOKx24Sd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940222252085387389",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940222130127610208",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不是姐妹啊 https://t.co/ZElOKx24Sd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528492344906919936",
+        "conversation_id": "1939918309425922295",
+        "created_at": "2025-07-02T01:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T02:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940222130127610208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940222130127610208",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939918309425922295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 省劲呀姐妹，拿着行李有时候真的好累"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "主人@yeziyu7777\n对象@zyh1428202\n小号@Loveyezi8964\n笨蛋姐姐@TTKYYX03（不是现实中那个）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "Loveyezi8964"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1939923011571773935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2255,
+          "following_count": 2493,
+          "like_count": 34660,
+          "listed_count": 10,
+          "media_count": 1189,
+          "tweet_count": 27428
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-22T21:45:59.000Z",
+        "description": "再也不会有自由的意志，只有我的意志",
+        "id": "1528492344906919936",
+        "name": "破六韩拔陵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860914401626480640/AJS4HsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 369,
+          "like_count": 101,
+          "listed_count": 6,
+          "media_count": 438,
+          "tweet_count": 11334
+        },
+        "username": "BiliKimily",
+        "verified": false
+      }
+    ]
+  }
+}

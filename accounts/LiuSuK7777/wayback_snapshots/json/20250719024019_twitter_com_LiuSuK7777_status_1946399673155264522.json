@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1946289013939437809",
+    "created_at": "2025-07-19T02:40:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T03:40:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946399673155264522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1909216235868557312",
+          "start": 0,
+          "username": "zhongcun_1"
+        },
+        {
+          "end": 21,
+          "id": "1793963191451398144",
+          "start": 12,
+          "username": "moli8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946399673155264522",
+    "in_reply_to_user_id": "1909216235868557312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946335535657578746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhongcun_1 @moli8964 这是我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1946335532201443332",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwLF2rqWgAQEjE5.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1946289013939437809",
+        "created_at": "2025-07-19T02:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T03:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946399673155264522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1909216235868557312",
+              "start": 0,
+              "username": "zhongcun_1"
+            },
+            {
+              "end": 21,
+              "id": "1793963191451398144",
+              "start": 12,
+              "username": "moli8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946399673155264522",
+        "in_reply_to_user_id": "1909216235868557312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946335535657578746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhongcun_1 @moli8964 这是我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946335532201443332"
+          ]
+        },
+        "author_id": "1909216235868557312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1946289013939437809",
+        "created_at": "2025-07-18T22:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T23:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946335535657578746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1793963191451398144",
+              "start": 0,
+              "username": "moli8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IZk8W47rtw",
+              "end": 35,
+              "expanded_url": "https://x.com/zhongcun_1/status/1946335535657578746/photo/1",
+              "media_key": "3_1946335532201443332",
+              "start": 12,
+              "url": "https://t.co/IZk8W47rtw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946335535657578746",
+        "in_reply_to_user_id": "1793963191451398144",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946289013939437809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moli8964 🤬 https://t.co/IZk8W47rtw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "主人@yeziyu7777\n对象@zyh1428202\n小号@Loveyezi8964 @luoyue_maimai\n笨蛋姐姐@TTKYYX03（不是现实中那个）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "Loveyezi8964"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "luoyue_maimai"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1945463247110570264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2421,
+          "following_count": 2536,
+          "like_count": 34873,
+          "listed_count": 10,
+          "media_count": 1220,
+          "tweet_count": 28004
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T12:06:56.000Z",
+        "description": "中華人民共和國萬歲！世界人民大團結萬歲！台灣必將回歸大陸！台灣從來都不是一個獨立國家！Taiwan has never been an independent country！我看不慣的自然會ban 小號是這個@zhongcun_2 👆🏻我平時是友善的 別逼我罵人 為什麼ban你？因為你就是個無可救藥的傻逼\n😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 105,
+                "username": "zhongcun_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E4%B8%AD%E6%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E4%B8%AD%E6%9D%91%E3%81%95%E3%82%93-16",
+                "start": 0,
+                "url": "https://t.co/L9uE5RlIzk"
+              }
+            ]
+          }
+        },
+        "id": "1909216235868557312",
+        "location": "中華人民共和國 台灣省 台北市 遼寧省 沈陽市",
+        "name": "中村涼介",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911990905684275200/8myTjlC6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 1064,
+          "like_count": 7201,
+          "listed_count": 5,
+          "media_count": 180,
+          "tweet_count": 2386
+        },
+        "url": "https://t.co/L9uE5RlIzk",
+        "username": "zhongcun_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T11:12:45.000Z",
+        "description": "",
+        "id": "1793963191451398144",
+        "location": "包子神社",
+        "name": "睦头掉进海里😹🍄🍁🌠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932657401137958912/3rpgKdNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 757,
+          "like_count": 47815,
+          "listed_count": 2,
+          "media_count": 617,
+          "tweet_count": 5173
+        },
+        "username": "moli8964",
+        "verified": false
+      }
+    ]
+  }
+}

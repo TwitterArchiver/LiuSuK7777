@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1913525261586538884",
+    "created_at": "2025-04-19T09:30:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T10:30:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913525531871678710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1753581477705777152",
+          "start": 0,
+          "username": "PoloCoconut2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913525531871678710",
+    "in_reply_to_user_id": "1753581477705777152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913525261586538884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PoloCoconut2 凤凤－－"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1913525261586538884].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1913525261586538884",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1913525261586538884"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1913525261586538884",
+        "created_at": "2025-04-19T09:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T10:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913525531871678710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753581477705777152",
+              "start": 0,
+              "username": "PoloCoconut2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913525531871678710",
+        "in_reply_to_user_id": "1753581477705777152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913525261586538884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PoloCoconut2 凤凤－－"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1776,
+          "following_count": 2088,
+          "like_count": 30422,
+          "listed_count": 12,
+          "media_count": 907,
+          "tweet_count": 22200
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T00:49:48.000Z",
+        "description": "这里是可爱的🥥，请和我眼熟吧！/互fo/友跨人士/双相患者/INTP-T/可爱猫猫/♡@Ivy250104 @AtriAzuki♡/\n大号@PoloCoconut永封 三代目：@PoloCoconut3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "Ivy250104"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "AtriAzuki"
+              },
+              {
+                "end": 81,
+                "start": 69,
+                "username": "PoloCoconut"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "PoloCoconut3"
+              }
+            ]
+          }
+        },
+        "id": "1753581477705777152",
+        "name": "PoloCoconut 二代目",
+        "pinned_tweet_id": "1904737269728379088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901421541348585472/7_3z3M5B_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 924,
+          "like_count": 3724,
+          "listed_count": 3,
+          "media_count": 291,
+          "tweet_count": 1318
+        },
+        "username": "PoloCoconut2",
+        "verified": false
+      }
+    ]
+  }
+}

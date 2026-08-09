@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1905599810293694721",
+    "created_at": "2025-03-28T12:41:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T13:41:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905601162071736625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1329698933703016448",
+          "start": 0,
+          "username": "raidraptormirai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905601162071736625",
+    "in_reply_to_user_id": "1329698933703016448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905600221364850779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raidraptormirai 他人机 发一句回一句 感觉没啥互动性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1905599810293694721",
+        "created_at": "2025-03-28T12:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T13:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905601162071736625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1329698933703016448",
+              "start": 0,
+              "username": "raidraptormirai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905601162071736625",
+        "in_reply_to_user_id": "1329698933703016448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905600221364850779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raidraptormirai 他人机 发一句回一句 感觉没啥互动性"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1329698933703016448",
+        "conversation_id": "1905599810293694721",
+        "created_at": "2025-03-28T12:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T13:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905600221364850779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905600221364850779",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905599810293694721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 为啥不行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "💞@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "AAA_流苏批发",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1672,
+          "following_count": 1991,
+          "like_count": 29179,
+          "listed_count": 13,
+          "media_count": 850,
+          "tweet_count": 20276
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-20T08:11:55.000Z",
+        "description": "每一条河每一片山原都被我祝愿\n 戳戳@_XiaoYu_OvO_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "_XiaoYu_OvO_"
+              }
+            ]
+          }
+        },
+        "id": "1329698933703016448",
+        "location": "地球",
+        "name": "curiosity",
+        "pinned_tweet_id": "1854129467310190618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899651055253860352/dzsWZbu0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 522,
+          "like_count": 39489,
+          "listed_count": 1,
+          "media_count": 337,
+          "tweet_count": 2736
+        },
+        "username": "raidraptormirai",
+        "verified": false
+      }
+    ]
+  }
+}

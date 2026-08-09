@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1996556790595747840"
+      ],
+      "media_source_tweet_id": [
+        "1996556816940167447"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1996776783799312439",
+    "created_at": "2025-12-05T03:00:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T04:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996776783799312439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1581308931346833414",
+          "start": 3,
+          "username": "240mmAP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RkO2kiye6e",
+          "end": 36,
+          "expanded_url": "https://x.com/240mmAP/status/1996556816940167447/video/1",
+          "media_key": "13_1996556790595747840",
+          "start": 13,
+          "url": "https://t.co/RkO2kiye6e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996776783799312439",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 813
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996556816940167447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @240mmAP: https://t.co/RkO2kiye6e"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12004,
+        "height": 854,
+        "media_key": "13_1996556790595747840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1996556790595747840/img/64FP62K-HmpBa5PI.jpg",
+        "public_metrics": {
+          "view_count": 87193
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996556790595747840/vid/avc1/320x568/BsjPgXx4fTbekZPK.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996556790595747840/vid/avc1/480x854/5h3krWWZJxgA8z5m.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1996556790595747840/pl/HoUpQmXLnw6udQhr.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996556790595747840"
+          ],
+          "media_source_tweet_id": [
+            "1996556816940167447"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1996776783799312439",
+        "created_at": "2025-12-05T03:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T04:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996776783799312439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1581308931346833414",
+              "start": 3,
+              "username": "240mmAP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RkO2kiye6e",
+              "end": 36,
+              "expanded_url": "https://x.com/240mmAP/status/1996556816940167447/video/1",
+              "media_key": "13_1996556790595747840",
+              "start": 13,
+              "url": "https://t.co/RkO2kiye6e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996776783799312439",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 813
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996556816940167447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @240mmAP: https://t.co/RkO2kiye6e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996556790595747840"
+          ]
+        },
+        "author_id": "1581308931346833414",
+        "conversation_id": "1996556816940167447",
+        "created_at": "2025-12-04T12:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T13:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996556816940167447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RkO2kiye6e",
+              "end": 23,
+              "expanded_url": "https://x.com/240mmAP/status/1996556816940167447/video/1",
+              "media_key": "13_1996556790595747840",
+              "start": 0,
+              "url": "https://t.co/RkO2kiye6e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996556816940167447",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4593,
+          "impression_count": 185455,
+          "like_count": 13441,
+          "quote_count": 15,
+          "reply_count": 11,
+          "retweet_count": 813
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RkO2kiye6e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1996143989125419275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994695488520835072/aNvlyX-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2904,
+          "following_count": 2749,
+          "like_count": 35429,
+          "listed_count": 13,
+          "media_count": 1544,
+          "tweet_count": 33066
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-15T15:40:22.000Z",
+        "description": "一条巡洋舰 爱好是收集黄色手办 非常感谢你的关注！             https://t.co/Cljc79GBa0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/65407801",
+                "end": 61,
+                "expanded_url": "https://www.pixiv.net/users/65407801",
+                "start": 38,
+                "url": "https://t.co/Cljc79GBa0"
+              }
+            ]
+          }
+        },
+        "id": "1581308931346833414",
+        "name": "孔代Condé",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872656072089206784/lLJ8aSq3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18798,
+          "following_count": 116,
+          "like_count": 1638,
+          "listed_count": 104,
+          "media_count": 73,
+          "tweet_count": 170
+        },
+        "username": "240mmAP",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2074563722958528755",
+    "created_at": "2026-07-08T00:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T01:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074645131454779703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2008790392469417986",
+          "start": 0,
+          "username": "Yanhe_use"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074645131454779703",
+    "in_reply_to_user_id": "2008790392469417986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074563722958528755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yanhe_use 我才是废物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2074563722958528755",
+        "created_at": "2026-07-08T00:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T01:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074645131454779703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2008790392469417986",
+              "start": 0,
+              "username": "Yanhe_use"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074645131454779703",
+        "in_reply_to_user_id": "2008790392469417986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074563722958528755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yanhe_use 我才是废物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008790392469417986",
+        "conversation_id": "2074563722958528755",
+        "created_at": "2026-07-07T18:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T19:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074563722958528755"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074563722958528755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 473,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不行了，晚上随便看看一些大佬的作品，就觉得自己是废物，这辈子都找不到合适自己的工作，赚不到钱，还不如一个人在房间里面孤独的死去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 杭州 08年 舞萌/东方/Arcaea/明日方舟/三角洲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2068533981818290551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060157452931465216/9MujmSVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3569,
+          "following_count": 2738,
+          "like_count": 34261,
+          "listed_count": 14,
+          "media_count": 1694,
+          "tweet_count": 35203
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T06:39:14.000Z",
+        "description": "",
+        "id": "2008790392469417986",
+        "name": "言和",
+        "pinned_tweet_id": "2074573124545446380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046262642629804034/mroEoSfp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 24,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "Yanhe_use",
+        "verified": false
+      }
+    ]
+  }
+}

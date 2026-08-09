@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1994407084600013150",
+    "created_at": "2025-11-28T16:04:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T17:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994437216169513218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1682084166798815232",
+          "start": 0,
+          "username": "wuminzhe45"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994437216169513218",
+    "in_reply_to_user_id": "1682084166798815232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994436386716319799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuminzhe45 什么看见？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1994407084600013150",
+        "created_at": "2025-11-28T16:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T17:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994437216169513218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1682084166798815232",
+              "start": 0,
+              "username": "wuminzhe45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994437216169513218",
+        "in_reply_to_user_id": "1682084166798815232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994436386716319799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuminzhe45 什么看见？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682084166798815232",
+        "conversation_id": "1994407084600013150",
+        "created_at": "2025-11-28T16:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T17:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994436386716319799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994436386716319799",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994407084600013150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 你是看见了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1991206540901339270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993261518008598535/GunVE9W__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2828,
+          "following_count": 2690,
+          "like_count": 35382,
+          "listed_count": 13,
+          "media_count": 1525,
+          "tweet_count": 32386
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T17:45:30.000Z",
+        "description": "正天雾行 天祁证名 天渦亦旋",
+        "id": "1682084166798815232",
+        "location": "🚪88 送你个教训",
+        "name": "annakamusha(镜心通明)(喵派)(托管ing）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891145214200598528/5A9KPMtG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 1910,
+          "like_count": 7925,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 2440
+        },
+        "username": "wuminzhe45",
+        "verified": false
+      }
+    ]
+  }
+}

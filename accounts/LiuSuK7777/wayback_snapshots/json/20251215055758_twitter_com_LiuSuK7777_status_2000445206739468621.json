@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2000157960656535636",
+    "created_at": "2025-12-15T05:57:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T06:57:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000445206739468621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1619666446719807488",
+          "start": 0,
+          "username": "twinewss"
+        },
+        {
+          "end": 15,
+          "id": "1720665183188922368",
+          "start": 10,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000445206739468621",
+    "in_reply_to_user_id": "1619666446719807488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000157960656535636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twinewss @grok事实核查"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41810,
+        "height": 1596,
+        "media_key": "13_1972094754302447618",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1972094754302447618/img/r0NQQvoCy8gTCPiU.jpg",
+        "public_metrics": {
+          "view_count": 2505049
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972094754302447618/vid/avc1/720x1296/SxOWGEe4_cxBHn0S.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972094754302447618/vid/avc1/320x576/aUZQYxRdrYwsftrb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1972094754302447618/pl/jZG2JjGUuaITIboH.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972094754302447618/vid/avc1/886x1596/cDQG2QFeXhchJHuf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972094754302447618/vid/avc1/480x864/vuuTMWA5UltvaYF4.mp4"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2000157960656535636",
+        "created_at": "2025-12-15T05:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T06:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000445206739468621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1619666446719807488",
+              "start": 0,
+              "username": "twinewss"
+            },
+            {
+              "end": 15,
+              "id": "1720665183188922368",
+              "start": 10,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000445206739468621",
+        "in_reply_to_user_id": "1619666446719807488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000157960656535636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twinewss @grok事实核查"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1972094754302447618"
+          ],
+          "media_source_tweet_id": [
+            "1972094884174877119"
+          ]
+        },
+        "author_id": "1619666446719807488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000157960656535636",
+        "created_at": "2025-12-14T10:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T11:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000157960656535636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mtJ3GFnGRP",
+              "end": 81,
+              "expanded_url": "https://x.com/i/status/1972094884174877119/video/1",
+              "media_key": "13_1972094754302447618",
+              "start": 58,
+              "url": "https://t.co/mtJ3GFnGRP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000157960656535636",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 1703494,
+          "like_count": 2264,
+          "quote_count": 58,
+          "reply_count": 149,
+          "retweet_count": 548
+        },
+        "reply_settings": "everyone",
+        "text": "在日中国人は煙で火事を通報したが、消防士は責任を持って状況を確認していたが、彼はそれを「跪いてサービス」と嘲笑した。https://t.co/mtJ3GFnGRP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "1995540883278889351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000419861345026048/OuRHQUY0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2951,
+          "following_count": 2782,
+          "like_count": 35521,
+          "listed_count": 13,
+          "media_count": 1567,
+          "tweet_count": 33586
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-29T11:59:20.000Z",
+        "description": "日本が大好きです☀️メディア・世論・時事世界のニュースからネタまで話題になっている出来事を引用元を明記してツイートしています📣📣※ポスト内容は過去の出来事もポストする事があります",
+        "id": "1619666446719807488",
+        "location": "ご用件のある方はお手数ですがDMまで✉️",
+        "name": "報道Japan🇯🇵",
+        "pinned_tweet_id": "1961008616460136725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758410246090084352/9CDhp80k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173406,
+          "following_count": 25375,
+          "like_count": 947,
+          "listed_count": 450,
+          "media_count": 92,
+          "tweet_count": 5186
+        },
+        "username": "twinewss",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6780643,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 5454,
+          "media_count": 2791102,
+          "tweet_count": 74415408
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

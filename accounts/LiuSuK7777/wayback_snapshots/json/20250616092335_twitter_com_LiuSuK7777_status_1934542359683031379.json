@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934237149106442240"
+      ],
+      "media_source_tweet_id": [
+        "1934237156454842702"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "conversation_id": "1934542359683031379",
+    "created_at": "2025-06-16T09:23:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T10:23:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934542359683031379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1763790130110967808",
+          "start": 3,
+          "username": "amatukimahoro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o9oQfj1Myx",
+          "end": 42,
+          "expanded_url": "https://x.com/amatukimahoro/status/1934237156454842702/photo/1",
+          "media_key": "3_1934237149106442240",
+          "start": 19,
+          "url": "https://t.co/o9oQfj1Myx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934542359683031379",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 772
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934237156454842702",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amatukimahoro: https://t.co/o9oQfj1Myx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1934237149106442240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtfKcGfakAArURg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934237149106442240"
+          ],
+          "media_source_tweet_id": [
+            "1934237156454842702"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "conversation_id": "1934542359683031379",
+        "created_at": "2025-06-16T09:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T10:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934542359683031379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1763790130110967808",
+              "start": 3,
+              "username": "amatukimahoro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o9oQfj1Myx",
+              "end": 42,
+              "expanded_url": "https://x.com/amatukimahoro/status/1934237156454842702/photo/1",
+              "media_key": "3_1934237149106442240",
+              "start": 19,
+              "url": "https://t.co/o9oQfj1Myx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934542359683031379",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 772
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934237156454842702",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amatukimahoro: https://t.co/o9oQfj1Myx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934237149106442240"
+          ]
+        },
+        "author_id": "1763790130110967808",
+        "conversation_id": "1934237156454842702",
+        "created_at": "2025-06-15T13:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T14:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934237156454842702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o9oQfj1Myx",
+              "end": 23,
+              "expanded_url": "https://x.com/amatukimahoro/status/1934237156454842702/photo/1",
+              "media_key": "3_1934237149106442240",
+              "start": 0,
+              "url": "https://t.co/o9oQfj1Myx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934237156454842702",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 761,
+          "impression_count": 49878,
+          "like_count": 6365,
+          "quote_count": 9,
+          "reply_count": 10,
+          "retweet_count": 772
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/o9oQfj1Myx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏，Arcaea/明日方舟/舞萌DX/火影忍者，线上淫乱线下社恐，健全B无心理疾病，经常搞砸让所有人都不开心，生日2008.02.29 |主人@yeziyu7777对象@zyh1428202小号@Loveyezi8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 99,
+                "start": 88,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1933059730144211014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2166,
+          "following_count": 2436,
+          "like_count": 34235,
+          "listed_count": 11,
+          "media_count": 1118,
+          "tweet_count": 26390
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-02T04:56:13.000Z",
+        "description": "18↓ 東方、ボカロ、プロセカ好きです。好きな物描いてます！イラストはメディア欄から。基本的にフォロバしません。返信遅れがち。雑多。skeb: https://t.co/dyyxs0DQtr BOOTH：https://t.co/ZKeEmONrSH サブ垢:@subamatuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "subamatuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@amatukimahoro",
+                "end": 95,
+                "expanded_url": "https://skeb.jp/@amatukimahoro",
+                "start": 72,
+                "url": "https://t.co/dyyxs0DQtr"
+              },
+              {
+                "display_url": "mochinabe.booth.pm",
+                "end": 125,
+                "expanded_url": "https://mochinabe.booth.pm/",
+                "start": 102,
+                "url": "https://t.co/ZKeEmONrSH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/103958393",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/103958393",
+                "start": 0,
+                "url": "https://t.co/z59c7bvGSs"
+              }
+            ]
+          }
+        },
+        "id": "1763790130110967808",
+        "location": "無断転載、AI学習禁止",
+        "name": "雨月まほろ@skeb募集中",
+        "pinned_tweet_id": "1842756990441078825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933506577123999744/Bnl2EM8P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9121,
+          "following_count": 1395,
+          "like_count": 12511,
+          "listed_count": 43,
+          "media_count": 165,
+          "tweet_count": 1426
+        },
+        "url": "https://t.co/z59c7bvGSs",
+        "username": "amatukimahoro",
+        "verified": false
+      }
+    ]
+  }
+}

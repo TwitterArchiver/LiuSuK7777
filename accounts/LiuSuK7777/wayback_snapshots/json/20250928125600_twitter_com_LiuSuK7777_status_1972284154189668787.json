@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972284146446917632"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1972264332714258762",
+    "created_at": "2025-09-28T12:56:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T13:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972284154189668787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1871474805578371072",
+          "start": 0,
+          "username": "8c4356"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xTWzp6744J",
+          "end": 35,
+          "expanded_url": "https://x.com/LiuSuK7777/status/1972284154189668787/photo/1",
+          "media_key": "3_1972284146446917632",
+          "start": 12,
+          "url": "https://t.co/xTWzp6744J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972284154189668787",
+    "in_reply_to_user_id": "1871474805578371072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972264332714258762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8c4356 姐妹~ https://t.co/xTWzp6744J"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1972264332714258762].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1972264332714258762",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1972264332714258762"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 820,
+        "media_key": "3_1972284146446917632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G171-0kaYAA0ddI.jpg",
+        "width": 820
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972284146446917632"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1972264332714258762",
+        "created_at": "2025-09-28T12:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T13:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972284154189668787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1871474805578371072",
+              "start": 0,
+              "username": "8c4356"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xTWzp6744J",
+              "end": 35,
+              "expanded_url": "https://x.com/LiuSuK7777/status/1972284154189668787/photo/1",
+              "media_key": "3_1972284146446917632",
+              "start": 12,
+              "url": "https://t.co/xTWzp6744J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972284154189668787",
+        "in_reply_to_user_id": "1871474805578371072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972264332714258762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8c4356 姐妹~ https://t.co/xTWzp6744J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "……\n逃生舱@liusuk8888",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969600938567745538/genz-feI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2663,
+          "following_count": 2646,
+          "like_count": 35391,
+          "listed_count": 14,
+          "media_count": 1397,
+          "tweet_count": 30569
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T08:36:08.000Z",
+        "description": "意识上传中",
+        "id": "1871474805578371072",
+        "location": "地灵殿",
+        "name": "la priere",
+        "pinned_tweet_id": "1938692356254970273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927408250737045505/eiNlUdlC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 227,
+          "like_count": 16663,
+          "listed_count": 0,
+          "media_count": 936,
+          "tweet_count": 8711
+        },
+        "username": "8c4356",
+        "verified": false
+      }
+    ]
+  }
+}

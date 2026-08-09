@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1906208656431133117",
+    "created_at": "2025-03-30T10:13:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T11:13:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906288594555109391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1490976522362302465",
+          "start": 0,
+          "username": "whyuounot"
+        },
+        {
+          "end": 19,
+          "id": "1433678976564662273",
+          "start": 11,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906288594555109391",
+    "in_reply_to_user_id": "1490976522362302465",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906288084926578873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyuounot @hsn8086 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1906208656431133117",
+        "created_at": "2025-03-30T10:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T11:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906288594555109391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1490976522362302465",
+              "start": 0,
+              "username": "whyuounot"
+            },
+            {
+              "end": 19,
+              "id": "1433678976564662273",
+              "start": 11,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906288594555109391",
+        "in_reply_to_user_id": "1490976522362302465",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906288084926578873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyuounot @hsn8086 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490976522362302465",
+        "conversation_id": "1906208656431133117",
+        "created_at": "2025-03-30T10:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T11:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906288084926578873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906288084926578873",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906208656431133117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 查档/黑客/开户/查定位/开盒/查开房记录/人肉搜索/社工库/盗号/查聊天记录/查个人信息/查定位"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "💞@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "跟我面基可以随便摸我",
+        "name": "苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1689,
+          "following_count": 2019,
+          "like_count": 29515,
+          "listed_count": 13,
+          "media_count": 868,
+          "tweet_count": 20817
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T09:11:27.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bocchi.rocks",
+                "end": 23,
+                "expanded_url": "https://bocchi.rocks/",
+                "start": 0,
+                "url": "https://t.co/RB0YNUTOVV"
+              }
+            ]
+          }
+        },
+        "id": "1490976522362302465",
+        "location": "52/88/168",
+        "name": "星酱ouo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899092064437936128/xkbjHlEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5820,
+          "following_count": 1141,
+          "like_count": 7191,
+          "listed_count": 12,
+          "media_count": 1710,
+          "tweet_count": 11678
+        },
+        "url": "https://t.co/RB0YNUTOVV",
+        "username": "whyuounot",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1898763769171542384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52698,
+          "following_count": 946,
+          "like_count": 38134,
+          "listed_count": 127,
+          "media_count": 8270,
+          "tweet_count": 14138
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

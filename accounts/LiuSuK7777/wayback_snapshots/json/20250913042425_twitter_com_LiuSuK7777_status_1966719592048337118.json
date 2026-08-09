@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1966709696305467842",
+    "created_at": "2025-09-13T04:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T05:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966719592048337118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1608747238741753856",
+          "start": 0,
+          "username": "haorouyizhiji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966719592048337118",
+    "in_reply_to_user_id": "1608747238741753856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966719343808725220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haorouyizhiji 为什么要在意这个！？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1966709696305467842",
+        "created_at": "2025-09-13T04:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T05:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966719592048337118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1608747238741753856",
+              "start": 0,
+              "username": "haorouyizhiji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966719592048337118",
+        "in_reply_to_user_id": "1608747238741753856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966719343808725220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haorouyizhiji 为什么要在意这个！？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608747238741753856",
+        "conversation_id": "1966709696305467842",
+        "created_at": "2025-09-13T04:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T05:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966719343808725220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966719343808725220",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966709696305467842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 好白的腿🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "老公的id太难记了不想打 反正是939\n本人男 17岁 三角洲/明日方舟/arcaea/舞萌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1965688889072591191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966711124734410752/71NBjUL5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2630,
+          "following_count": 2635,
+          "like_count": 35384,
+          "listed_count": 14,
+          "media_count": 1354,
+          "tweet_count": 30040
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T08:50:29.000Z",
+        "description": "",
+        "id": "1608747238741753856",
+        "name": "肉叽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790606930538377216/pWkQMhZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 77,
+          "like_count": 6271,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1585
+        },
+        "username": "haorouyizhiji",
+        "verified": false
+      }
+    ]
+  }
+}

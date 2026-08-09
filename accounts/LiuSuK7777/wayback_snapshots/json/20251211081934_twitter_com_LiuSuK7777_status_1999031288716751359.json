@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1998993833057726570",
+    "created_at": "2025-12-11T08:19:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T09:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999031288716751359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1993637326464155648",
+          "start": 0,
+          "username": "Gethin38"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999031288716751359",
+    "in_reply_to_user_id": "1993637326464155648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999010590162026850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gethin38 你是？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 224,
+        "media_key": "16_1999010580913692672",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G73piDmboAAcUQ9.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G73piDmboAAcUQ9.mp4"
+          }
+        ],
+        "width": 362
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1998993833057726570",
+        "created_at": "2025-12-11T08:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T09:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999031288716751359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1993637326464155648",
+              "start": 0,
+              "username": "Gethin38"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999031288716751359",
+        "in_reply_to_user_id": "1993637326464155648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999010590162026850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gethin38 你是？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1999010580913692672"
+          ]
+        },
+        "author_id": "1993637326464155648",
+        "conversation_id": "1998993833057726570",
+        "created_at": "2025-12-11T06:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T07:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999010590162026850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4oqtIlGlRZ",
+              "end": 35,
+              "expanded_url": "https://x.com/Gethin38/status/1999010590162026850/photo/1",
+              "media_key": "16_1999010580913692672",
+              "start": 12,
+              "url": "https://t.co/4oqtIlGlRZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999010590162026850",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998993833057726570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 https://t.co/4oqtIlGlRZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "1995540883278889351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998267978916528128/FNUZvgoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2928,
+          "following_count": 2759,
+          "like_count": 35483,
+          "listed_count": 13,
+          "media_count": 1561,
+          "tweet_count": 33402
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T11:06:02.000Z",
+        "description": "大号@Gethin0308 莫寒浪暂被封禁，想重新复活扣1帮我 依然是那个喜欢运动健身拥有有趣灵魂的人物💪💪💪 Everything will be fine , Never Give Up （会互fo）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Gethin0308"
+              }
+            ]
+          }
+        },
+        "id": "1993637326464155648",
+        "name": "莫寒浪（秽土转生2号机）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993637659869425664/uCmob3io_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 175,
+          "like_count": 1556,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1337
+        },
+        "username": "Gethin38",
+        "verified": false
+      }
+    ]
+  }
+}

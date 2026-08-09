@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1946172304066838655",
+    "created_at": "2025-07-18T16:05:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T17:05:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946239825541206111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1551454468398411776",
+          "start": 0,
+          "username": "chosen_shotgun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946239825541206111",
+    "in_reply_to_user_id": "1551454468398411776",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 30,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946172473885569079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chosen_shotgun 😵‍💫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1946172304066838655",
+        "created_at": "2025-07-18T16:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T17:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946239825541206111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1551454468398411776",
+              "start": 0,
+              "username": "chosen_shotgun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946239825541206111",
+        "in_reply_to_user_id": "1551454468398411776",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946172473885569079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chosen_shotgun 😵‍💫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551454468398411776",
+        "conversation_id": "1946172304066838655",
+        "created_at": "2025-07-18T11:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T12:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946172473885569079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946172473885569079",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946172304066838655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "主人@yeziyu7777\n对象@zyh1428202\n小号@Loveyezi8964 @luoyue_maimai\n笨蛋姐姐@TTKYYX03（不是现实中那个）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "Loveyezi8964"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "luoyue_maimai"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1945463247110570264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2417,
+          "following_count": 2536,
+          "like_count": 34873,
+          "listed_count": 10,
+          "media_count": 1220,
+          "tweet_count": 28000
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T06:29:18.000Z",
+        "description": "############################ -------------------------------------------------------- 已授權資訊： 霰霰啦 /一個自認為特別卻很平凡的人/不定時負面炸彈/INFP-T/ FPS+音遊再加上一點點的遊戲王/ 拜託跟我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/chosen_shotgun",
+                "end": 23,
+                "expanded_url": "https://twitch.tv/chosen_shotgun",
+                "start": 0,
+                "url": "https://t.co/YTQhxHtrfN"
+              }
+            ]
+          }
+        },
+        "id": "1551454468398411776",
+        "location": "hardcore的kick中爆發出的音壓裡",
+        "name": "霰霰啦|想被RNG眷顧系",
+        "pinned_tweet_id": "1613192002644119556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853608192183574528/vWuIszPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 428,
+          "like_count": 13863,
+          "listed_count": 3,
+          "media_count": 711,
+          "tweet_count": 9402
+        },
+        "url": "https://t.co/YTQhxHtrfN",
+        "username": "chosen_shotgun",
+        "verified": false
+      }
+    ]
+  }
+}

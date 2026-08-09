@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1924374525485216114",
+    "created_at": "2025-05-19T08:00:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T09:00:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924374624277848331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1871474805578371072",
+          "start": 0,
+          "username": "8c4356"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924374624277848331",
+    "in_reply_to_user_id": "1871474805578371072",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924374525485216114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8c4356 xx"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1924374525485216114].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1924374525485216114",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1924374525485216114"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1924374525485216114",
+        "created_at": "2025-05-19T08:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T09:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924374624277848331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1871474805578371072",
+              "start": 0,
+              "username": "8c4356"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924374624277848331",
+        "in_reply_to_user_id": "1871474805578371072",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924374525485216114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8c4356 xx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": " 🔪‌",
+        "name": "流苏",
+        "pinned_tweet_id": "1923615398567833920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2044,
+          "following_count": 2301,
+          "like_count": 33516,
+          "listed_count": 11,
+          "media_count": 1066,
+          "tweet_count": 24915
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T08:36:08.000Z",
+        "description": "我有厌蠢症",
+        "id": "1871474805578371072",
+        "name": "satori",
+        "pinned_tweet_id": "1877150469887328539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922377735340539905/Su5jQsp2_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 160,
+          "like_count": 13052,
+          "listed_count": 2,
+          "media_count": 641,
+          "tweet_count": 5316
+        },
+        "username": "8c4356",
+        "verified": false
+      }
+    ]
+  }
+}

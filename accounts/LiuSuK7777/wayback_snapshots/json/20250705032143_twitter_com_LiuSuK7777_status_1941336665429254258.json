@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1941269474734375305",
+    "created_at": "2025-07-05T03:21:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T04:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941336665429254258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1263250188757426176",
+          "start": 0,
+          "username": "yunyunyunnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941336665429254258",
+    "in_reply_to_user_id": "1263250188757426176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941274535350894944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunyunyunnya 咕噜咕噜"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1941274535350894944].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1941274535350894944",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1941274535350894944"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1941269474734375305",
+        "created_at": "2025-07-05T03:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T04:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941336665429254258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1263250188757426176",
+              "start": 0,
+              "username": "yunyunyunnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941336665429254258",
+        "in_reply_to_user_id": "1263250188757426176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941274535350894944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunyunyunnya 咕噜咕噜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "主人@yeziyu7777\n对象@zyh1428202\n小号@Loveyezi8964\n笨蛋姐姐@TTKYYX03（不是现实中那个）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "Loveyezi8964"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1940766254266302907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2306,
+          "following_count": 2504,
+          "like_count": 34736,
+          "listed_count": 10,
+          "media_count": 1197,
+          "tweet_count": 27560
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-20T23:28:22.000Z",
+        "description": "在你眼中的我 是什么颜色的呢",
+        "id": "1263250188757426176",
+        "name": "口腔溃疡！！！！！！",
+        "pinned_tweet_id": "1854636951338631206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925180057993334786/DIfqYJRH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 1220,
+          "like_count": 115832,
+          "listed_count": 3,
+          "media_count": 706,
+          "tweet_count": 8434
+        },
+        "username": "yunyunyunnya",
+        "verified": false
+      }
+    ]
+  }
+}

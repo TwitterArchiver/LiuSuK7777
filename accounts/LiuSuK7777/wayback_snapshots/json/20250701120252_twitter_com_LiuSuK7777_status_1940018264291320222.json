@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1940018264291320222",
+    "created_at": "2025-07-01T12:02:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T13:02:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940018264291320222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1835753359015624704",
+          "start": 3,
+          "username": "aoi_mti"
+        },
+        {
+          "end": 80,
+          "id": "1504799211799265282",
+          "start": 69,
+          "username": "LiuSuK7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940018264291320222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940018040730775613",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoi_mti: 8分钟\n解决了流苏被家里人夺命连环 call，精神压力过大的 bug\n附带给他家里人留下了非常深刻的印象\n😋\n\n@LiuSuK7777"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1940018264291320222",
+        "created_at": "2025-07-01T12:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T13:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940018264291320222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1835753359015624704",
+              "start": 3,
+              "username": "aoi_mti"
+            },
+            {
+              "end": 80,
+              "id": "1504799211799265282",
+              "start": 69,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940018264291320222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940018040730775613",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoi_mti: 8分钟\n解决了流苏被家里人夺命连环 call，精神压力过大的 bug\n附带给他家里人留下了非常深刻的印象\n😋\n\n@LiuSuK7777"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835753359015624704",
+        "conversation_id": "1940018040730775613",
+        "created_at": "2025-07-01T12:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T13:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940018040730775613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 67,
+              "id": "1504799211799265282",
+              "start": 56,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940018040730775613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "8分钟\n解决了流苏被家里人夺命连环 call，精神压力过大的 bug\n附带给他家里人留下了非常深刻的印象\n😋\n\n@LiuSuK7777"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "主人@yeziyu7777对象@zyh1428202小号@Loveyezi8964\n笨蛋姐姐@TTKYYX03",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 26,
+                "start": 15,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 41,
+                "start": 28,
+                "username": "Loveyezi8964"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1939923011571773935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2242,
+          "following_count": 2491,
+          "like_count": 34581,
+          "listed_count": 10,
+          "media_count": 1182,
+          "tweet_count": 27311
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T18:51:28.000Z",
+        "description": "Weibo: @三澄葵 / 微信公众号 aoinoheya / maimai / AuDHD / 英語教師 / @aoimti02 / https://t.co/WLQhXMNMNv / 非二元性别努力中 / 日本語可 / 連絡はメールまで / 上海言话学习中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "aoimti02"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/j8aX2rt2",
+                "end": 91,
+                "expanded_url": "https://discord.gg/j8aX2rt2",
+                "start": 68,
+                "url": "https://t.co/WLQhXMNMNv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "msmaoi.link",
+                "end": 23,
+                "expanded_url": "https://msmaoi.link",
+                "start": 0,
+                "url": "https://t.co/gjzPrisrKk"
+              }
+            ]
+          }
+        },
+        "id": "1835753359015624704",
+        "location": "Hangzhou, Zhejiang & Shanghai ",
+        "name": "Aoi M - T.I.",
+        "pinned_tweet_id": "1938301670561354055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929219142609154048/Opc5NMtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 1360,
+          "like_count": 36913,
+          "listed_count": 5,
+          "media_count": 1873,
+          "tweet_count": 7600
+        },
+        "url": "https://t.co/gjzPrisrKk",
+        "username": "aoi_mti",
+        "verified": true
+      }
+    ]
+  }
+}

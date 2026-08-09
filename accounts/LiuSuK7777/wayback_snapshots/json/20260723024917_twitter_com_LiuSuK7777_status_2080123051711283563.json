@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2080122623888118022",
+    "created_at": "2026-07-23T02:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T03:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080123051711283563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1821312171923644416",
+          "start": 0,
+          "username": "jagaimo6681"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080123051711283563",
+    "in_reply_to_user_id": "1821312171923644416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080122887734976530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jagaimo6681 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2080122623888118022",
+        "created_at": "2026-07-23T02:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080123051711283563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1821312171923644416",
+              "start": 0,
+              "username": "jagaimo6681"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080123051711283563",
+        "in_reply_to_user_id": "1821312171923644416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080122887734976530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jagaimo6681 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821312171923644416",
+        "conversation_id": "2080122623888118022",
+        "created_at": "2026-07-23T02:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080122887734976530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080122887734976530",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080122834723143759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 你别死。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 杭州 08年 舞萌/东方/Arcaea/明日方舟/三角洲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2068533981818290551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060157452931465216/9MujmSVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3609,
+          "following_count": 2751,
+          "like_count": 34260,
+          "listed_count": 14,
+          "media_count": 1706,
+          "tweet_count": 35289
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T22:27:26.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "picawang.com",
+                "end": 23,
+                "expanded_url": "https://picawang.com/",
+                "start": 0,
+                "url": "https://t.co/F3AUMZjoSQ"
+              }
+            ]
+          }
+        },
+        "id": "1821312171923644416",
+        "location": "東京は愛せど何もない",
+        "name": "にゃがいも",
+        "pinned_tweet_id": "2076130776987648112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077327666164977664/vmW7Toyq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3671,
+          "following_count": 736,
+          "like_count": 49927,
+          "listed_count": 7,
+          "media_count": 803,
+          "tweet_count": 15007
+        },
+        "url": "https://t.co/F3AUMZjoSQ",
+        "username": "jagaimo6681",
+        "verified": false
+      }
+    ]
+  }
+}

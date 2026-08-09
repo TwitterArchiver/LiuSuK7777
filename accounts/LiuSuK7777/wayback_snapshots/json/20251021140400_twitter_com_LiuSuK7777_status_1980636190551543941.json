@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980636178874343424"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1980632817978773554",
+    "created_at": "2025-10-21T14:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T15:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980636190551543941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1892965164347199488",
+          "start": 0,
+          "username": "liang080423"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wZ0Ac03EKR",
+          "end": 36,
+          "expanded_url": "https://x.com/LiuSuK7777/status/1980636190551543941/photo/1",
+          "media_key": "3_1980636178874343424",
+          "start": 13,
+          "url": "https://t.co/wZ0Ac03EKR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980636190551543941",
+    "in_reply_to_user_id": "1892965164347199488",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980632817978773554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liang080423 https://t.co/wZ0Ac03EKR"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1980632817978773554].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1980632817978773554",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1980632817978773554"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1633,
+        "media_key": "3_1980636178874343424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3yiHF8XoAAqXe9.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980636178874343424"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1980632817978773554",
+        "created_at": "2025-10-21T14:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T15:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980636190551543941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892965164347199488",
+              "start": 0,
+              "username": "liang080423"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wZ0Ac03EKR",
+              "end": 36,
+              "expanded_url": "https://x.com/LiuSuK7777/status/1980636190551543941/photo/1",
+              "media_key": "3_1980636178874343424",
+              "start": 13,
+              "url": "https://t.co/wZ0Ac03EKR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980636190551543941",
+        "in_reply_to_user_id": "1892965164347199488",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980632817978773554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liang080423 https://t.co/wZ0Ac03EKR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "Error",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏苏苏",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976703554758098945/2sn3KBuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2783,
+          "following_count": 2675,
+          "like_count": 35513,
+          "listed_count": 14,
+          "media_count": 1452,
+          "tweet_count": 31445
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T15:50:50.000Z",
+        "description": "08年od雌二醇的神｜颜控！！！！！｜我很抽象可以跟我一起搞抽象｜东京喰种全看过｜孤独摇滚｜孩子们我不是山田凉｜打算活到20就紫砂｜凭什么我看不了黄推😡｜凉是小粉毛｜QQ:3563875001｜亲友：@qikiqwq｜幻想中的自己的设定：半人半喰种，身份属于月计后巷的收尾人。素质就是良秀一样的 。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 100,
+                "username": "qikiqwq"
+              }
+            ]
+          }
+        },
+        "id": "1892965164347199488",
+        "location": "湖北",
+        "name": "凉·秀🍥",
+        "pinned_tweet_id": "1980251689618919577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975737149095092225/IiL2Mtkx_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 500,
+          "like_count": 4279,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 660
+        },
+        "username": "liang080423",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1968611485925494792",
+    "created_at": "2025-09-18T22:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T23:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968811923366875616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1626578993821675521",
+          "start": 0,
+          "username": "linmen589064"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968811923366875616",
+    "in_reply_to_user_id": "1626578993821675521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968809112260444444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linmen589064 确实如此"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1968611485925494792",
+        "created_at": "2025-09-18T22:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T23:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968811923366875616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1626578993821675521",
+              "start": 0,
+              "username": "linmen589064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968811923366875616",
+        "in_reply_to_user_id": "1626578993821675521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968809112260444444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linmen589064 确实如此"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626578993821675521",
+        "conversation_id": "1968611485925494792",
+        "created_at": "2025-09-18T22:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T23:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968809112260444444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968809112260444444",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968611485925494792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 记不住也没关系，反正也没交集"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "老公的id太难记了不想打 反正是939\n本人男 17岁 三角洲/明日方舟/arcaea/舞萌 小号@jinxing0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 49,
+                "username": "jinxing0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1966750967149588919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966711124734410752/71NBjUL5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2651,
+          "following_count": 2644,
+          "like_count": 35371,
+          "listed_count": 14,
+          "media_count": 1371,
+          "tweet_count": 30261
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-17T13:48:49.000Z",
+        "description": "一个普通的躺平教教主罢了|诚念躺平大法好，三不保平安不结婚不买房不生子享幸福人生l认真b滚，小狗@elonmusk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "elonmusk"
+              }
+            ]
+          }
+        },
+        "id": "1626578993821675521",
+        "name": "川和 丶柠檬🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935710523359637504/KlKWhm_-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 433,
+          "like_count": 57324,
+          "listed_count": 3,
+          "media_count": 895,
+          "tweet_count": 16277
+        },
+        "username": "linmen589064",
+        "verified": false
+      }
+    ]
+  }
+}

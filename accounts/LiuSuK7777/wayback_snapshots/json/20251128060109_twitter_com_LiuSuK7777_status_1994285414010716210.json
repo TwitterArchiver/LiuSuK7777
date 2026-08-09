@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1994270087214227837",
+    "created_at": "2025-11-28T06:01:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T07:01:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994285414010716210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1690570637499154432",
+          "start": 0,
+          "username": "saonanaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994285414010716210",
+    "in_reply_to_user_id": "1690570637499154432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994270087214227837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saonanaa 特别好看！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1994270087214227837",
+        "created_at": "2025-11-28T06:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T07:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994285414010716210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "saonanaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994285414010716210",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994270087214227837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saonanaa 特别好看！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "conversation_id": "1994270087214227837",
+        "created_at": "2025-11-28T05:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T06:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994270087214227837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/1994269376371986595",
+              "start": 29,
+              "url": "https://t.co/7CCIKvq7ES"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994270087214227837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 442,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994269376371986595",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Zhi Wei好看嘛\n（我是说线下啦面过窝的推u可以来答 https://t.co/7CCIKvq7ES"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1991206540901339270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993261518008598535/GunVE9W__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2826,
+          "following_count": 2689,
+          "like_count": 35377,
+          "listed_count": 13,
+          "media_count": 1522,
+          "tweet_count": 32355
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei｜高贵顺直男｜.NET开发者 & 构建 OneLauncher & 欢迎光顾GitHub｜大坏猫 @lovelyshuimao & 浙江穷入 & 欢迎来找我玩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "lovelyshuimao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyzXWN"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "pinned_tweet_id": "1993980106398896618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984943840160256000/CDlRt_Jg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6575,
+          "following_count": 430,
+          "like_count": 32877,
+          "listed_count": 15,
+          "media_count": 2096,
+          "tweet_count": 18525
+        },
+        "url": "https://t.co/Lsl0VyzXWN",
+        "username": "saonanaa",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2061737251789570249",
+    "created_at": "2026-06-02T10:40:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T11:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061759874334327280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1821849172368355328",
+          "start": 0,
+          "username": "L98808Lju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061759874334327280",
+    "in_reply_to_user_id": "1821849172368355328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061737251789570249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L98808Lju i了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 114300,
+        "height": 1402,
+        "media_key": "13_2061735545471111168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061735545471111168/img/aS3f-nq-HehaKSTk.jpg",
+        "public_metrics": {
+          "view_count": 67
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061735545471111168/pl/ggSM9rkP5nI7VLF1.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061735545471111168/vid/avc1/480x598/p4c-fzSGNQMmlHZH.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061735545471111168/vid/avc1/1122x1402/F8s_tLjZT3svwNBU.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061735545471111168/vid/avc1/320x398/XlGPXqMIMpooFrqr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061735545471111168/vid/avc1/720x898/ZIr-S583w_wH4T1s.mp4"
+          }
+        ],
+        "width": 1122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2061737251789570249",
+        "created_at": "2026-06-02T10:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061759874334327280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1821849172368355328",
+              "start": 0,
+              "username": "L98808Lju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061759874334327280",
+        "in_reply_to_user_id": "1821849172368355328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061737251789570249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L98808Lju i了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061735545471111168"
+          ]
+        },
+        "author_id": "1821849172368355328",
+        "conversation_id": "2061737251789570249",
+        "created_at": "2026-06-02T09:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T10:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061737251789570249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y1x2bgn6Qi",
+              "end": 91,
+              "expanded_url": "https://x.com/L98808Lju/status/2061737251789570249/video/1",
+              "media_key": "13_2061735545471111168",
+              "start": 68,
+              "url": "https://t.co/y1x2bgn6Qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061737251789570249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 258,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "主持人: 时光流逝，你是否还记得曾经陪伴你的故人，接下来有请和平路小学6年4班的Yoyi同学毫无感情地演唱一首《嘉宾》，大家掌声欢迎👏 https://t.co/y1x2bgn6Qi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 08年~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n可爱小南梁@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2032828973374386365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060157452931465216/9MujmSVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3520,
+          "following_count": 2713,
+          "like_count": 34434,
+          "listed_count": 14,
+          "media_count": 1669,
+          "tweet_count": 34965
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-09T10:01:27.000Z",
+        "description": "I’m Anon’s (千早爱音) sister. PhD in Science🎓,首席AI政治学家🦋,谣言家^_^Share Knowledge/Social View/Animation. 亲爱的骑士@Romanorum_ 学生@C4_rRed 油管有时直播CS/日麻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "Romanorum_"
+              },
+              {
+                "end": 124,
+                "start": 116,
+                "username": "C4_rRed"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yoyi-f6q",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@yoyi-f6q",
+                "start": 0,
+                "url": "https://t.co/fyCyiOfIWn"
+              }
+            ]
+          }
+        },
+        "id": "1821849172368355328",
+        "location": "Singapore",
+        "name": "神樂坂🌸Yoyi🇸🇬",
+        "pinned_tweet_id": "1928006182108614978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920668084102459395/1OyHpsxL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2175,
+          "following_count": 548,
+          "like_count": 48214,
+          "listed_count": 10,
+          "media_count": 1014,
+          "tweet_count": 16173
+        },
+        "url": "https://t.co/fyCyiOfIWn",
+        "username": "L98808Lju",
+        "verified": true
+      }
+    ]
+  }
+}

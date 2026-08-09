@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970207826237857792"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1970207833762484382",
+    "created_at": "2025-09-22T19:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T20:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970207833762484382"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2XFK3bte2v",
+          "end": 40,
+          "expanded_url": "https://x.com/LiuSuK7777/status/1970207833762484382/photo/1",
+          "media_key": "3_1970207826237857792",
+          "start": 17,
+          "url": "https://t.co/2XFK3bte2v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970207833762484382",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "孩子们只要队友死了我枪法就不马了 https://t.co/2XFK3bte2v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1970207826237857792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1eVlFCaIAArdLI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970207826237857792"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1970207833762484382",
+        "created_at": "2025-09-22T19:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T20:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970207833762484382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2XFK3bte2v",
+              "end": 40,
+              "expanded_url": "https://x.com/LiuSuK7777/status/1970207833762484382/photo/1",
+              "media_key": "3_1970207826237857792",
+              "start": 17,
+              "url": "https://t.co/2XFK3bte2v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970207833762484382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们只要队友死了我枪法就不马了 https://t.co/2XFK3bte2v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969600938567745538/genz-feI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2648,
+          "following_count": 2643,
+          "like_count": 35400,
+          "listed_count": 14,
+          "media_count": 1386,
+          "tweet_count": 30437
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      }
+    ]
+  }
+}

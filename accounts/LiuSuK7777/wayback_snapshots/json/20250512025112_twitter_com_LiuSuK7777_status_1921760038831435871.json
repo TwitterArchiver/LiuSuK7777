@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1921178411369718010",
+    "created_at": "2025-05-12T02:51:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T03:51:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921760038831435871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1243945571796295681",
+          "start": 0,
+          "username": "ryq59"
+        },
+        {
+          "end": 15,
+          "id": "1835753359015624704",
+          "start": 7,
+          "username": "aoi_mti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921760038831435871",
+    "in_reply_to_user_id": "1243945571796295681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921178411369718010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ryq59 @aoi_mti 玩arc玩的\n不过确实好玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1452,
+        "media_key": "3_1921178399633965056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqllk1xWAAAMlRE.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1921178411369718010",
+        "created_at": "2025-05-12T02:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T03:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921760038831435871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1243945571796295681",
+              "start": 0,
+              "username": "ryq59"
+            },
+            {
+              "end": 15,
+              "id": "1835753359015624704",
+              "start": 7,
+              "username": "aoi_mti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921760038831435871",
+        "in_reply_to_user_id": "1243945571796295681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921178411369718010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ryq59 @aoi_mti 玩arc玩的\n不过确实好玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921178399633965056"
+          ]
+        },
+        "author_id": "1243945571796295681",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1921178411369718010",
+        "created_at": "2025-05-10T12:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T13:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921178411369718010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1835753359015624704",
+              "start": 5,
+              "username": "aoi_mti"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5zXBFsXN4L",
+              "end": 37,
+              "expanded_url": "https://x.com/ryq59/status/1921178411369718010/photo/1",
+              "media_key": "3_1921178399633965056",
+              "start": 14,
+              "url": "https://t.co/5zXBFsXN4L"
+            },
+            {
+              "display_url": "x.com/ryq59/status/1…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/ryq59/status/1921094205822132690",
+              "start": 38,
+              "url": "https://t.co/5n5s5jGe2n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921178411369718010",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 197862,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921094205822132690",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "From @aoi_mti https://t.co/5zXBFsXN4L https://t.co/5n5s5jGe2n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": " 🔪‌",
+        "name": "流苏",
+        "pinned_tweet_id": "1921196565060088153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2031,
+          "following_count": 2281,
+          "like_count": 32915,
+          "listed_count": 11,
+          "media_count": 1045,
+          "tweet_count": 24455
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "MTX 🏳️‍⚧️ / Think Different / @aoi_mti",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "aoi_mti"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "Tianjin, Hangzhou, Hong Kong ",
+        "name": "你是想气死铨酱么🍥",
+        "pinned_tweet_id": "1765934211918397447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920674697257381889/7MXMdhXk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17380,
+          "following_count": 4953,
+          "like_count": 181123,
+          "listed_count": 70,
+          "media_count": 5300,
+          "tweet_count": 23370
+        },
+        "username": "ryq59",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-16T18:51:28.000Z",
+        "description": "tutor / hsr, zzz, maimai, arcaea / another me @aoimti02 / an officer / @ryq59",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "aoimti02"
+              },
+              {
+                "end": 77,
+                "start": 71,
+                "username": "ryq59"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "msmaoi.link",
+                "end": 23,
+                "expanded_url": "https://msmaoi.link",
+                "start": 0,
+                "url": "https://t.co/x62gJuJwi9"
+              }
+            ]
+          }
+        },
+        "id": "1835753359015624704",
+        "location": "WNZ HGH ZJ & SH CHN",
+        "name": "Aoi M - T.I.",
+        "pinned_tweet_id": "1915194181427048710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919211686529323008/8Z0xs56f_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 1100,
+          "like_count": 30818,
+          "listed_count": 6,
+          "media_count": 1433,
+          "tweet_count": 5896
+        },
+        "url": "https://t.co/x62gJuJwi9",
+        "username": "aoi_mti",
+        "verified": true
+      }
+    ]
+  }
+}

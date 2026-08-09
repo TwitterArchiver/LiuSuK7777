@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1939580078654108142",
+    "created_at": "2025-06-30T11:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T12:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939644272854380843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1839064900158554113",
+          "start": 0,
+          "username": "TTKYYX03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939644272854380843",
+    "in_reply_to_user_id": "1839064900158554113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939643625308389480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTKYYX03 可以去玩自己的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1939580078654108142",
+        "created_at": "2025-06-30T11:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T12:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939644272854380843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1839064900158554113",
+              "start": 0,
+              "username": "TTKYYX03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939644272854380843",
+        "in_reply_to_user_id": "1839064900158554113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939643625308389480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTKYYX03 可以去玩自己的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839064900158554113",
+        "conversation_id": "1939580078654108142",
+        "created_at": "2025-06-30T11:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T12:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939643625308389480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939643625308389480",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939580078654108142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 我捏捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男|Arcaea|明日方舟|舞萌DX|火影忍者|社恐健全B|2008.02.29 |主人@yeziyu7777对象@zyh1428202小号@Loveyezi8964\n笨蛋姐姐@TTKYYX03",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Loveyezi8964"
+              },
+              {
+                "end": 97,
+                "start": 88,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1936314364468105461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2234,
+          "following_count": 2491,
+          "like_count": 34520,
+          "listed_count": 10,
+          "media_count": 1173,
+          "tweet_count": 27247
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-25T22:10:24.000Z",
+        "description": "宅女！可以聊涩涩？18 153 94肥宅~\n哥哥 @fnmu174306 愚蠢的欧豆豆@LiuSuK7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "fnmu174306"
+              },
+              {
+                "end": 54,
+                "start": 43,
+                "username": "LiuSuK7777"
+              }
+            ]
+          }
+        },
+        "id": "1839064900158554113",
+        "name": "天甜科音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939549075465969664/Z52SCFFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 92,
+          "like_count": 338,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 159
+        },
+        "username": "TTKYYX03",
+        "verified": false
+      }
+    ]
+  }
+}

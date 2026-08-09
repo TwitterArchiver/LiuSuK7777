@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1966995972137120178",
+    "created_at": "2025-09-14T00:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T01:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967022041464557715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1934423287729455105",
+          "start": 0,
+          "username": "AoS_Aur0raSky"
+        },
+        {
+          "end": 20,
+          "id": "1720665183188922368",
+          "start": 15,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967022041464557715",
+    "in_reply_to_user_id": "1934423287729455105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966995972137120178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AoS_Aur0raSky @grok 你是猪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1966995972137120178",
+        "created_at": "2025-09-14T00:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T01:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967022041464557715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1934423287729455105",
+              "start": 0,
+              "username": "AoS_Aur0raSky"
+            },
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967022041464557715",
+        "in_reply_to_user_id": "1934423287729455105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966995972137120178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AoS_Aur0raSky @grok 你是猪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934423287729455105",
+        "conversation_id": "1966995972137120178",
+        "created_at": "2025-09-13T22:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T23:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966995972137120178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "1720665183188922368",
+              "start": 24,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/mtnyan8964/sta…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/mtnyan8964/status/1966804448333693035",
+              "start": 30,
+              "url": "https://t.co/DHSEKD553H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966995972137120178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966804448333693035",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果我是一只猫，请你根据我的推文画出我猫的形象\n@grok https://t.co/DHSEKD553H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "老公的id太难记了不想打 反正是939\n本人男 17岁 三角洲/明日方舟/arcaea/舞萌 小号@jinxing0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 49,
+                "username": "jinxing0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1966750967149588919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966711124734410752/71NBjUL5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2630,
+          "following_count": 2640,
+          "like_count": 35428,
+          "listed_count": 14,
+          "media_count": 1364,
+          "tweet_count": 30189
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T01:30:35.000Z",
+        "description": "这里是立志要变好看的的小极光♡\n\n♡我永远的一切……我的爱人@yeziyu7777 ♡\n\n「You are my forever PERFECTION. 」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "yeziyu7777"
+              }
+            ]
+          }
+        },
+        "id": "1934423287729455105",
+        "location": "永远依偎在叶叶的怀里呐♡",
+        "name": "𝙰𝚞𝚛𝚘𝚛𝚊𝚕𝚒𝚊…",
+        "pinned_tweet_id": "1963017759572529210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964180368439070722/GsHJLg3S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 94,
+          "like_count": 2086,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 667
+        },
+        "username": "AoS_Aur0raSky",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6255361,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 4925,
+          "media_count": 2632681,
+          "tweet_count": 48051905
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

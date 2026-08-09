@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1924788063865340352",
+    "created_at": "2025-05-20T23:02:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T00:02:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924963934467195177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1700935161301655552",
+          "start": 0,
+          "username": "qingshixiang258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924963934467195177",
+    "in_reply_to_user_id": "1700935161301655552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924837742258561150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingshixiang258 做不到吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1924788063865340352",
+        "created_at": "2025-05-20T23:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T00:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924963934467195177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924963934467195177",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924837742258561150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 做不到吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1924788063865340352",
+        "created_at": "2025-05-20T14:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T15:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924837742258561150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924837742258561150",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924788063865340352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 啊～🍥，srs（挠头"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "😣",
+        "name": "流苏1号😺",
+        "pinned_tweet_id": "1923615398567833920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2044,
+          "following_count": 2308,
+          "like_count": 33636,
+          "listed_count": 11,
+          "media_count": 1071,
+          "tweet_count": 25073
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923782731843923968/-97dXFEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 974,
+          "like_count": 20814,
+          "listed_count": 5,
+          "media_count": 380,
+          "tweet_count": 9081
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

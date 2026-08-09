@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1973715219848564736"
+      ],
+      "media_source_tweet_id": [
+        "1973715326396498151"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1974078621464899849",
+    "created_at": "2025-10-03T11:46:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T12:46:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974078621464899849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1909553877739085825",
+          "start": 3,
+          "username": "heshan258"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/10YZuGZJHL",
+          "end": 57,
+          "expanded_url": "https://x.com/TOKYO8964/status/1973715326396498151/video/1",
+          "media_key": "13_1973715219848564736",
+          "start": 34,
+          "url": "https://t.co/10YZuGZJHL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974078621464899849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973715326396498151",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @heshan258: 一小伙为给祖国庆生到机厅怒扇日本机器 https://t.co/10YZuGZJHL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15000,
+        "height": 1280,
+        "media_key": "13_1973715219848564736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1973715219848564736/img/sqC7ui9PWUhs8RR0.jpg",
+        "public_metrics": {
+          "view_count": 10337
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1973715219848564736/vid/avc1/320x568/IJxZr73UJxoP8Siq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1973715219848564736/vid/avc1/480x852/WFlone9gK6RQMV0S.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1973715219848564736/vid/avc1/720x1280/uxOtRFhj40Dm0cKi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1973715219848564736/pl/PFo0mHo78VGCaH6n.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1973715219848564736"
+          ],
+          "media_source_tweet_id": [
+            "1973715326396498151"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1974078621464899849",
+        "created_at": "2025-10-03T11:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T12:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974078621464899849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1909553877739085825",
+              "start": 3,
+              "username": "heshan258"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/10YZuGZJHL",
+              "end": 57,
+              "expanded_url": "https://x.com/TOKYO8964/status/1973715326396498151/video/1",
+              "media_key": "13_1973715219848564736",
+              "start": 34,
+              "url": "https://t.co/10YZuGZJHL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974078621464899849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973715326396498151",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @heshan258: 一小伙为给祖国庆生到机厅怒扇日本机器 https://t.co/10YZuGZJHL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1973715219848564736"
+          ]
+        },
+        "author_id": "1909553877739085825",
+        "conversation_id": "1973715326396498151",
+        "created_at": "2025-10-02T11:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T12:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973715326396498151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/10YZuGZJHL",
+              "end": 42,
+              "expanded_url": "https://x.com/TOKYO8964/status/1973715326396498151/video/1",
+              "media_key": "13_1973715219848564736",
+              "start": 19,
+              "url": "https://t.co/10YZuGZJHL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973715326396498151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 19763,
+          "like_count": 332,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "一小伙为给祖国庆生到机厅怒扇日本机器 https://t.co/10YZuGZJHL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "……\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969600938567745538/genz-feI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2677,
+          "following_count": 2651,
+          "like_count": 35404,
+          "listed_count": 15,
+          "media_count": 1409,
+          "tweet_count": 30823
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T10:28:26.000Z",
+        "description": "坐标🇯🇵東京／🇨🇳武汉｜🏳️‍⚧️07伪娘｜🌊自由民主｜🏳️‍🌈友跨友同｜🍯包蜜｜🍀雏草姬｜舞萌痴｜纯搞抽象乐子人 日本語勉强中 喜欢看番玩galgame和打各种音游二游 欢迎友好交流 极端魔怔人会b 时不时更新奇异搞笑幽默抽象TV和女装照",
+        "id": "1909553877739085825",
+        "location": "東京",
+        "name": "抽象イェーガー",
+        "pinned_tweet_id": "1932095364385153188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960310976596889600/7GPALHar_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7680,
+          "following_count": 688,
+          "like_count": 870,
+          "listed_count": 31,
+          "media_count": 520,
+          "tweet_count": 908
+        },
+        "username": "heshan258",
+        "verified": false
+      }
+    ]
+  }
+}

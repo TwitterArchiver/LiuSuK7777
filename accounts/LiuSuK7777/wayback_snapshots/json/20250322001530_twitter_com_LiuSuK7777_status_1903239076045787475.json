@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1903090211854209393",
+    "created_at": "2025-03-22T00:15:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T01:15:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903239076045787475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1267850413442600960",
+          "start": 0,
+          "username": "Youker_Doaget"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903239076045787475",
+    "in_reply_to_user_id": "1267850413442600960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903238835800293822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Youker_Doaget 对不起没钱了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1903238835800293822].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1903238835800293822",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1903238835800293822"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1903090211854209393",
+        "created_at": "2025-03-22T00:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T01:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903239076045787475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1267850413442600960",
+              "start": 0,
+              "username": "Youker_Doaget"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903239076045787475",
+        "in_reply_to_user_id": "1267850413442600960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903238835800293822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Youker_Doaget 对不起没钱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "Arknights/崩壊:スターレイル/Arcaea/MaimaiDX/東方Project/ VOCALOID/Galgame/主人@yeziyu7777 关注@_FiniteWorld @small_fun8964 @Huahe_wu @KaitlynXiaoLu99 小号@Loveyezi8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "_FiniteWorld"
+              },
+              {
+                "end": 108,
+                "start": 94,
+                "username": "small_fun8964"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "Huahe_wu"
+              },
+              {
+                "end": 135,
+                "start": 119,
+                "username": "KaitlynXiaoLu99"
+              },
+              {
+                "end": 151,
+                "start": 138,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "☆流苏☆🐱（100%互fo）",
+        "pinned_tweet_id": "1901903397277532265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 1749,
+          "like_count": 27984,
+          "listed_count": 10,
+          "media_count": 785,
+          "tweet_count": 18027
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-02T16:08:04.000Z",
+        "description": "I'm Youker. /ゆかちゃん/中国人です/touhou lover/東方がすき/车万人",
+        "id": "1267850413442600960",
+        "location": "幻想郷",
+        "name": "ゆか",
+        "pinned_tweet_id": "1357286447955341315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682983024894541824/TLUPI82x_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 702,
+          "like_count": 4949,
+          "listed_count": 5,
+          "media_count": 665,
+          "tweet_count": 5258
+        },
+        "username": "Youker_Doaget",
+        "verified": false
+      }
+    ]
+  }
+}

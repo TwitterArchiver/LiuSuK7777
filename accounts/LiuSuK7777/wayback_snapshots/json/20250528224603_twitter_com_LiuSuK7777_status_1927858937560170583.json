@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1927743833250390478",
+    "created_at": "2025-05-28T22:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T23:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927858937560170583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1871474805578371072",
+          "start": 0,
+          "username": "8c4356"
+        },
+        {
+          "end": 23,
+          "id": "1794131217463615488",
+          "start": 8,
+          "username": "satsushou_sonn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927858937560170583",
+    "in_reply_to_user_id": "1871474805578371072",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927775953511391302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8c4356 @satsushou_sonn ？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1927775953511391302].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1927775953511391302",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1927775953511391302"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1927743833250390478",
+        "created_at": "2025-05-28T22:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T23:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927858937560170583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1871474805578371072",
+              "start": 0,
+              "username": "8c4356"
+            },
+            {
+              "end": 23,
+              "id": "1794131217463615488",
+              "start": 8,
+              "username": "satsushou_sonn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927858937560170583",
+        "in_reply_to_user_id": "1871474805578371072",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927775953511391302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8c4356 @satsushou_sonn ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏，Arcaea/明日方舟/舞萌DX/火影忍者，线上淫乱线下社恐，健全B无心理疾病，经常搞砸让所有人都不开心，生日2008.02.29 |唯一的主人@yeziyu7777/对象@zyh1428202 小号@Loveyezi8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb700j"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1923615398567833920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2097,
+          "following_count": 2378,
+          "like_count": 34085,
+          "listed_count": 11,
+          "media_count": 1083,
+          "tweet_count": 25665
+        },
+        "url": "https://t.co/2xm6Tb700j",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T08:36:08.000Z",
+        "description": "请重新确认一下",
+        "id": "1871474805578371072",
+        "name": "satori",
+        "pinned_tweet_id": "1927805145141645771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927408250737045505/eiNlUdlC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 157,
+          "like_count": 13466,
+          "listed_count": 2,
+          "media_count": 660,
+          "tweet_count": 5824
+        },
+        "username": "8c4356",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T22:20:05.000Z",
+        "description": "加奈ちゃん/カナちゃん（ka na chan） ｜希望和大家作为好朋友，基本上fo的都会回｜头像画师：@yangyan88596853｜中国からの友情，ご清聴ありがとうございました，私は日本語が話せませんが、英語または通訳を通してコミュニケーションを取ることができます。皆様のご無事をお祈り申し上げます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "yangyan88596853"
+              }
+            ]
+          }
+        },
+        "id": "1794131217463615488",
+        "location": "中华人民共和国",
+        "name": "加奈ちゃん",
+        "pinned_tweet_id": "1889937031511548353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876295299439939584/KPTvk2v1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2703,
+          "following_count": 3710,
+          "like_count": 1866,
+          "listed_count": 9,
+          "media_count": 239,
+          "tweet_count": 4732
+        },
+        "username": "satsushou_sonn",
+        "verified": false
+      }
+    ]
+  }
+}

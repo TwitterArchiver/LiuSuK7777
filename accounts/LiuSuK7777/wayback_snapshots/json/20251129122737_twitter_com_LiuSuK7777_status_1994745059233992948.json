@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1994733229639962989",
+    "created_at": "2025-11-29T12:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T13:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994745059233992948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1464477075033702400",
+          "start": 0,
+          "username": "DuiMiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994745059233992948",
+    "in_reply_to_user_id": "1464477075033702400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994743704045896088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DuiMiao 我当然未成年"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1994733229639962989",
+        "created_at": "2025-11-29T12:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T13:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994745059233992948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1464477075033702400",
+              "start": 0,
+              "username": "DuiMiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994745059233992948",
+        "in_reply_to_user_id": "1464477075033702400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994743704045896088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DuiMiao 我当然未成年"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464477075033702400",
+        "conversation_id": "1994733229639962989",
+        "created_at": "2025-11-29T12:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T13:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994743704045896088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994743704045896088",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994733229639962989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 你居然是未成年？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1994457982331961835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994695488520835072/aNvlyX-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2849,
+          "following_count": 2701,
+          "like_count": 35403,
+          "listed_count": 13,
+          "media_count": 1535,
+          "tweet_count": 32606
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-27T06:12:08.000Z",
+        "description": "夏天将要到来",
+        "id": "1464477075033702400",
+        "name": "洋葱乳酪味鲨鱼",
+        "pinned_tweet_id": "1975967110385021140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983196575506829312/dCsmlQ8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 1637,
+          "like_count": 26515,
+          "listed_count": 3,
+          "media_count": 18,
+          "tweet_count": 354
+        },
+        "username": "DuiMiao",
+        "verified": false
+      }
+    ]
+  }
+}

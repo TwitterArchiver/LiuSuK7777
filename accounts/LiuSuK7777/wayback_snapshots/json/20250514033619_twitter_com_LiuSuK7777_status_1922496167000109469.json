@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922306152265826304"
+      ],
+      "media_source_tweet_id": [
+        "1922306157789499883"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "conversation_id": "1922496167000109469",
+    "created_at": "2025-05-14T03:36:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T04:36:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922496167000109469"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 22,
+          "tag": "5月14日はこいしの日"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "447842888",
+          "start": 3,
+          "username": "east01_06"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gWms4IpHNb",
+          "end": 58,
+          "expanded_url": "https://x.com/east01_06/status/1922306157789499883/photo/1",
+          "media_key": "3_1922306152265826304",
+          "start": 35,
+          "url": "https://t.co/gWms4IpHNb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922496167000109469",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 287
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922306157789499883",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @east01_06: こいしすき。 #5月14日はこいしの日 https://t.co/gWms4IpHNb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1012,
+        "media_key": "3_1922306152265826304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq1nQrtaQAAdwUr.jpg",
+        "width": 686
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922306152265826304"
+          ],
+          "media_source_tweet_id": [
+            "1922306157789499883"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "conversation_id": "1922496167000109469",
+        "created_at": "2025-05-14T03:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T04:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922496167000109469"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 22,
+              "tag": "5月14日はこいしの日"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "447842888",
+              "start": 3,
+              "username": "east01_06"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gWms4IpHNb",
+              "end": 58,
+              "expanded_url": "https://x.com/east01_06/status/1922306157789499883/photo/1",
+              "media_key": "3_1922306152265826304",
+              "start": 35,
+              "url": "https://t.co/gWms4IpHNb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922496167000109469",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 287
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922306157789499883",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @east01_06: こいしすき。 #5月14日はこいしの日 https://t.co/gWms4IpHNb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922306152265826304"
+          ]
+        },
+        "author_id": "447842888",
+        "conversation_id": "1922306157789499883",
+        "created_at": "2025-05-13T15:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T16:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922306157789499883"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 7,
+              "tag": "5月14日はこいしの日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gWms4IpHNb",
+              "end": 43,
+              "expanded_url": "https://x.com/east01_06/status/1922306157789499883/photo/1",
+              "media_key": "3_1922306152265826304",
+              "start": 20,
+              "url": "https://t.co/gWms4IpHNb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922306157789499883",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 11284,
+          "like_count": 1210,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 287
+        },
+        "reply_settings": "everyone",
+        "text": "こいしすき。 #5月14日はこいしの日 https://t.co/gWms4IpHNb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": " 🔪‌",
+        "name": "流苏",
+        "pinned_tweet_id": "1921196565060088153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2032,
+          "following_count": 2287,
+          "like_count": 33099,
+          "listed_count": 11,
+          "media_count": 1051,
+          "tweet_count": 24588
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-27T09:51:13.000Z",
+        "description": "低浮上インターネット落書きマン。※いーすとから改名しました。(きゃしゃあん)と読みます。 前からご存じの方はいーすと呼びでﾄﾞｿﾞｰ お仕事関係はDMかメールでお願いします。mail:a60_10tsae@yahoo.co.jp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/member.php?id=3597135",
+                "start": 0,
+                "url": "https://t.co/QEMSxGxyJg"
+              }
+            ]
+          }
+        },
+        "id": "447842888",
+        "location": "北海道",
+        "name": "華奢菴",
+        "pinned_tweet_id": "1922306157789499883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859539283247497219/vtKerTMn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1982,
+          "following_count": 723,
+          "like_count": 6131,
+          "listed_count": 53,
+          "media_count": 642,
+          "tweet_count": 9992
+        },
+        "url": "https://t.co/QEMSxGxyJg",
+        "username": "east01_06",
+        "verified": false
+      }
+    ]
+  }
+}

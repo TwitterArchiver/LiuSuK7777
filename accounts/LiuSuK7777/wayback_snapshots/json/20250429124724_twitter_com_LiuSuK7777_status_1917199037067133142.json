@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917192579558617088"
+      ],
+      "media_source_tweet_id": [
+        "1917192721858806262"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "conversation_id": "1917199037067133142",
+    "created_at": "2025-04-29T12:47:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T13:47:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917199037067133142"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "奏ちゃん",
+          "probability": 0.9149,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 41,
+          "tag": "GWはフォロワーさんが増えるらしい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3274652864",
+          "start": 3,
+          "username": "ShikineXion"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dd7lLY82N8",
+          "end": 83,
+          "expanded_url": "https://x.com/ShikineXion/status/1917192721858806262/photo/1",
+          "media_key": "3_1917192579558617088",
+          "start": 60,
+          "url": "https://t.co/dd7lLY82N8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917199037067133142",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917192721858806262",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShikineXion: 奏ちゃん描いてます!!よろしくお願いします!!\n#GWはフォロワーさんが増えるらしい https://t.co/dd7lLY82N8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1917192579558617088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gps8fk6bMAAsjO2.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917192579558617088"
+          ],
+          "media_source_tweet_id": [
+            "1917192721858806262"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "conversation_id": "1917199037067133142",
+        "created_at": "2025-04-29T12:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T13:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917199037067133142"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "奏ちゃん",
+              "probability": 0.9149,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 41,
+              "tag": "GWはフォロワーさんが増えるらしい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3274652864",
+              "start": 3,
+              "username": "ShikineXion"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dd7lLY82N8",
+              "end": 83,
+              "expanded_url": "https://x.com/ShikineXion/status/1917192721858806262/photo/1",
+              "media_key": "3_1917192579558617088",
+              "start": 60,
+              "url": "https://t.co/dd7lLY82N8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917199037067133142",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917192721858806262",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShikineXion: 奏ちゃん描いてます!!よろしくお願いします!!\n#GWはフォロワーさんが増えるらしい https://t.co/dd7lLY82N8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917192579558617088"
+          ]
+        },
+        "author_id": "3274652864",
+        "conversation_id": "1917192721858806262",
+        "created_at": "2025-04-29T12:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T13:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917192721858806262"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "奏ちゃん",
+              "probability": 0.9226,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 24,
+              "tag": "GWはフォロワーさんが増えるらしい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dd7lLY82N8",
+              "end": 66,
+              "expanded_url": "https://x.com/ShikineXion/status/1917192721858806262/photo/1",
+              "media_key": "3_1917192579558617088",
+              "start": 43,
+              "url": "https://t.co/dd7lLY82N8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917192721858806262",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 466,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "奏ちゃん描いてます!!よろしくお願いします!!\n#GWはフォロワーさんが増えるらしい https://t.co/dd7lLY82N8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1908,
+          "following_count": 2172,
+          "like_count": 31668,
+          "listed_count": 13,
+          "media_count": 969,
+          "tweet_count": 23348
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-10T15:18:17.000Z",
+        "description": "イラスト描いてます！奏ちゃん推し💜プロセカ／アークナイツ／原神をまったりプレイ中✨イラストの無断使用、無断転載は止めてください！sᴋᴇʙ: https://t.co/ldydGGkmeX ғᴀɴʙᴏx:https://t.co/QBEjGA9mEU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@ShikineXion",
+                "end": 93,
+                "expanded_url": "https://skeb.jp/@ShikineXion",
+                "start": 70,
+                "url": "https://t.co/ldydGGkmeX"
+              },
+              {
+                "display_url": "shikinexion.fanbox.cc",
+                "end": 124,
+                "expanded_url": "http://shikinexion.fanbox.cc",
+                "start": 101,
+                "url": "https://t.co/QBEjGA9mEU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=35947794",
+                "start": 0,
+                "url": "https://t.co/gz1ke0FImF"
+              }
+            ]
+          }
+        },
+        "id": "3274652864",
+        "location": "☘YUME YUME JUMP！☘",
+        "name": "四季音シオン",
+        "pinned_tweet_id": "1788527711688032329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880557701832601600/dTWNoAHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8901,
+          "following_count": 294,
+          "like_count": 25962,
+          "listed_count": 32,
+          "media_count": 1521,
+          "tweet_count": 5795
+        },
+        "url": "https://t.co/gz1ke0FImF",
+        "username": "ShikineXion",
+        "verified": false
+      }
+    ]
+  }
+}

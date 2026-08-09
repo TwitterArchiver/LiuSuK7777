@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1959136552849707207",
+    "created_at": "2025-08-23T06:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T07:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959139091368276121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870052270836199424",
+          "start": 0,
+          "username": "JadezKayoko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959139091368276121",
+    "in_reply_to_user_id": "1870052270836199424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959136552849707207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JadezKayoko 帮我咬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1959136552849707207",
+        "created_at": "2025-08-23T06:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T07:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959139091368276121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870052270836199424",
+              "start": 0,
+              "username": "JadezKayoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959139091368276121",
+        "in_reply_to_user_id": "1870052270836199424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959136552849707207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JadezKayoko 帮我咬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870052270836199424",
+        "conversation_id": "1959136552849707207",
+        "created_at": "2025-08-23T06:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T07:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959136552849707207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959136552849707207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "卖屁股\n新人五折，随机掉落兑换码，不支持未成年人退款，不支持仅退款，价格私\n注意事项：\n1.草的时候不可以说我屁股不舒服，我会咬人\n2.草的时候不可以骂我，我会咬人\n3.草的时候我会咬人\n4.我会咬人\n5.我不卖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "❤️@zyh842159145\n🐷@yeziyu7777 @TTKYYX03",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "zyh842159145"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 38,
+                "start": 29,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1954538422728585308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958537533626933248/NcXsU-el_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2593,
+          "following_count": 2649,
+          "like_count": 35141,
+          "listed_count": 13,
+          "media_count": 1325,
+          "tweet_count": 29519
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T10:23:06.000Z",
+        "description": "🍥很闲很闲的芙泗，随时都可以找我私信聊天，深柜，脾气超好的，不用害怕我喔，应该是mtx｜匿名提问链接https://t.co/shf7QG8175｜最爱的妹妹@ElP15_｜最笨的咩咩@littlelambqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 79,
+                "username": "ElP15_"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "littlelambqwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jadez40430",
+                "end": 73,
+                "expanded_url": "https://ngl.link/jadez40430",
+                "start": 50,
+                "url": "https://t.co/shf7QG8175"
+              }
+            ]
+          }
+        },
+        "id": "1870052270836199424",
+        "name": "Fusi④（冷狐版）",
+        "pinned_tweet_id": "1947918707877155135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959138403293044740/0ubHKPQ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 201,
+          "like_count": 4760,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 1964
+        },
+        "username": "JadezKayoko",
+        "verified": false
+      }
+    ]
+  }
+}

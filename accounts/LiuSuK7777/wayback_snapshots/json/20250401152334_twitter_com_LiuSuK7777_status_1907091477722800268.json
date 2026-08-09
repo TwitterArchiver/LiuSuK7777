@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1907091040483643584",
+    "created_at": "2025-04-01T15:23:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T16:23:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907091477722800268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1780965445018783744",
+          "start": 0,
+          "username": "xbkpmn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907091477722800268",
+    "in_reply_to_user_id": "1780965445018783744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907091434257158373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xbkpmn 好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1907091040483643584",
+        "created_at": "2025-04-01T15:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T16:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907091477722800268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1780965445018783744",
+              "start": 0,
+              "username": "xbkpmn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907091477722800268",
+        "in_reply_to_user_id": "1780965445018783744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907091434257158373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xbkpmn 好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780965445018783744",
+        "conversation_id": "1907091040483643584",
+        "created_at": "2025-04-01T15:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T16:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907091434257158373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907091434257158373",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907091152282517943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 没瞎呢，本来就看见了，🤪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "跟我面基可以随便摸我",
+        "name": "流苏🍥（@愚人节快乐",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1714,
+          "following_count": 2034,
+          "like_count": 29806,
+          "listed_count": 12,
+          "media_count": 875,
+          "tweet_count": 21222
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T14:24:10.000Z",
+        "description": "无聊死了🤪，2+3=5\n😋🤪\n不再继续作画（懒），等哪天有性情在下笔",
+        "id": "1780965445018783744",
+        "name": "此方",
+        "pinned_tweet_id": "1903048893069512915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900591793940422656/0I6hdIUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 1613,
+          "like_count": 2877,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1742
+        },
+        "username": "xbkpmn",
+        "verified": false
+      }
+    ]
+  }
+}

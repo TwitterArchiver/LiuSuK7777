@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1904096138871079192",
+    "created_at": "2025-03-24T09:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T10:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1904096138871079192"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Huahe_wu/statu…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/Huahe_wu/status/1904095985594499408",
+          "start": 10,
+          "url": "https://t.co/ilcZ6GtbKU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904096138871079192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904095985594499408",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "满眼都是我（迫真） https://t.co/ilcZ6GtbKU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1857,
+        "media_key": "3_1904095970968907777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmy1Mn_asAEdrU9.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1904096138871079192",
+        "created_at": "2025-03-24T09:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T10:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904096138871079192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Huahe_wu/statu…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Huahe_wu/status/1904095985594499408",
+              "start": 10,
+              "url": "https://t.co/ilcZ6GtbKU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904096138871079192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904095985594499408",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "满眼都是我（迫真） https://t.co/ilcZ6GtbKU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904095970968907777"
+          ]
+        },
+        "author_id": "1795157811518898179",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1904093871233265953",
+        "created_at": "2025-03-24T09:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T10:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904095985594499408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rrwpyf0yFz",
+              "end": 35,
+              "expanded_url": "https://x.com/Huahe_wu/status/1904095985594499408/photo/1",
+              "media_key": "3_1904095970968907777",
+              "start": 12,
+              "url": "https://t.co/rrwpyf0yFz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904095985594499408",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904093871233265953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 https://t.co/rrwpyf0yFz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "想被一枪崩死",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "☆流苏☆🐱IP杭州（100%互fo）",
+        "pinned_tweet_id": "1903751125427515801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1598,
+          "following_count": 1904,
+          "like_count": 28780,
+          "listed_count": 13,
+          "media_count": 827,
+          "tweet_count": 19333
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T18:19:31.000Z",
+        "description": "叫我 化合物 就好 qwq‖\n喜欢 东方Project ❤️ 是阿求和灵梦厨‖\n玩过 少前 方舟 坎公 BA‖\n爱好 着付 画画 聊天 👘‖\n性格 社恐内向 是笨蛋 ISFP-T‖\n想和 可爱有趣的大家交朋友‖\n关注 @Huahe_wu 谢谢喵‖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 109,
+                "username": "Huahe_wu"
+              }
+            ]
+          }
+        },
+        "id": "1795157811518898179",
+        "location": "博丽神社",
+        "name": "某不可溶化合物",
+        "pinned_tweet_id": "1835360940747006438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897118841370763271/khikB8Ig_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 121,
+          "like_count": 28268,
+          "listed_count": 2,
+          "media_count": 2208,
+          "tweet_count": 3480
+        },
+        "username": "Huahe_wu",
+        "verified": false
+      }
+    ]
+  }
+}

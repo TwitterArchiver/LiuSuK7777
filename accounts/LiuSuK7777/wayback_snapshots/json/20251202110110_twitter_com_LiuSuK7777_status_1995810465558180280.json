@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995655500298584064"
+      ],
+      "media_source_tweet_id": [
+        "1995655517713383707"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "conversation_id": "1995810465558180280",
+    "created_at": "2025-12-02T11:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T12:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995810465558180280"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 15,
+          "tag": "maimai_art"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900402382061920257",
+          "start": 3,
+          "username": "wusem0108"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Me6uCvq6dG",
+          "end": 50,
+          "expanded_url": "https://x.com/wusem0108/status/1995655517713383707/photo/1",
+          "media_key": "3_1995655500298584064",
+          "start": 27,
+          "url": "https://t.co/Me6uCvq6dG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995810465558180280",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 234
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995655517713383707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wusem0108: #maimai_art https://t.co/Me6uCvq6dG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2955,
+        "media_key": "3_1995655500298584064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7H-GqVaAAA3HO3.jpg",
+        "width": 2386
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995655500298584064"
+          ],
+          "media_source_tweet_id": [
+            "1995655517713383707"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "conversation_id": "1995810465558180280",
+        "created_at": "2025-12-02T11:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T12:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995810465558180280"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 15,
+              "tag": "maimai_art"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900402382061920257",
+              "start": 3,
+              "username": "wusem0108"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Me6uCvq6dG",
+              "end": 50,
+              "expanded_url": "https://x.com/wusem0108/status/1995655517713383707/photo/1",
+              "media_key": "3_1995655500298584064",
+              "start": 27,
+              "url": "https://t.co/Me6uCvq6dG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995810465558180280",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 234
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995655517713383707",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wusem0108: #maimai_art https://t.co/Me6uCvq6dG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995655500298584064"
+          ]
+        },
+        "author_id": "1900402382061920257",
+        "conversation_id": "1995655517713383707",
+        "created_at": "2025-12-02T00:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T01:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995655517713383707"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "maimai_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Me6uCvq6dG",
+              "end": 35,
+              "expanded_url": "https://x.com/wusem0108/status/1995655517713383707/photo/1",
+              "media_key": "3_1995655500298584064",
+              "start": 12,
+              "url": "https://t.co/Me6uCvq6dG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995655517713383707",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 18255,
+          "like_count": 1539,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 234
+        },
+        "reply_settings": "everyone",
+        "text": "#maimai_art https://t.co/Me6uCvq6dG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1995540883278889351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994695488520835072/aNvlyX-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2895,
+          "following_count": 2741,
+          "like_count": 35413,
+          "listed_count": 13,
+          "media_count": 1539,
+          "tweet_count": 32909
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T04:23:39.000Z",
+        "description": "🎨🐡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/5E2shcpZ89L",
+                "end": 23,
+                "expanded_url": "https://xhslink.com/m/5E2shcpZ89L",
+                "start": 0,
+                "url": "https://t.co/hPumGOLzHo"
+              }
+            ]
+          }
+        },
+        "id": "1900402382061920257",
+        "location": "CN",
+        "name": "物黍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903947803145256960/OIztVR7K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4321,
+          "following_count": 86,
+          "like_count": 871,
+          "listed_count": 29,
+          "media_count": 200,
+          "tweet_count": 444
+        },
+        "url": "https://t.co/hPumGOLzHo",
+        "username": "wusem0108",
+        "verified": false
+      }
+    ]
+  }
+}

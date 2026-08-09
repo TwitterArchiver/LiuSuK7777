@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1905574150233883096",
+    "created_at": "2025-03-28T12:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T13:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905591505328419229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1729027777062641664",
+          "start": 0,
+          "username": "missdozi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905591505328419229",
+    "in_reply_to_user_id": "1729027777062641664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905574150233883096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@missdozi 啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1905574150233883096",
+        "created_at": "2025-03-28T12:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T13:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905591505328419229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1729027777062641664",
+              "start": 0,
+              "username": "missdozi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905591505328419229",
+        "in_reply_to_user_id": "1729027777062641664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905574150233883096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@missdozi 啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729027777062641664",
+        "conversation_id": "1905574150233883096",
+        "created_at": "2025-03-28T10:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T11:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905574150233883096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905574150233883096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 989,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "性取向有啥用吗？男的女的谁喜欢你？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "💞@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "AAA_流苏批发",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1672,
+          "following_count": 1991,
+          "like_count": 29177,
+          "listed_count": 13,
+          "media_count": 850,
+          "tweet_count": 20261
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T06:42:11.000Z",
+        "description": "无聊就去找缺爱逼 聊两天就把你挂顶置了 还会记住你很久 为你掉眼泪",
+        "id": "1729027777062641664",
+        "location": "🚪188 ",
+        "name": "呆呆豆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901036529595936768/JH9fzE1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 10,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 51
+        },
+        "username": "missdozi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1945426456731062411",
+    "created_at": "2025-07-16T10:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T11:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945429244512997860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1768487038645678080",
+          "start": 0,
+          "username": "Yamada_Ryo4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945429244512997860",
+    "in_reply_to_user_id": "1768487038645678080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945426456731062411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yamada_Ryo4 我必须要前来抽奖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1548,
+        "media_key": "3_1945426452603674624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv-LDSQXIAArDMI.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1926,
+        "media_key": "3_1945426452972716032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv-LDToWQAA9kRQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1945426456731062411",
+        "created_at": "2025-07-16T10:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T11:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945429244512997860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryo4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945429244512997860",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945426456731062411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryo4 我必须要前来抽奖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945426452603674624",
+            "3_1945426452972716032"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1945426456731062411",
+        "created_at": "2025-07-16T10:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T11:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945426456731062411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AtRluJiIxP",
+              "end": 122,
+              "expanded_url": "https://x.com/Yamada_Ryo4/status/1945426456731062411/photo/1",
+              "media_key": "3_1945426452603674624",
+              "start": 99,
+              "url": "https://t.co/AtRluJiIxP"
+            },
+            {
+              "display_url": "pic.x.com/AtRluJiIxP",
+              "end": 122,
+              "expanded_url": "https://x.com/Yamada_Ryo4/status/1945426456731062411/photo/1",
+              "media_key": "3_1945426452972716032",
+              "start": 99,
+              "url": "https://t.co/AtRluJiIxP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945426456731062411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "终于到4000fo啦！接下来是4000fo抽奖：喜多、波奇、虹夏的塑胶杯垫各1，喜多冰箱贴*1（均为仅拆袋确定人物）\n开奖时间：8月1号，采用随机数抽奖\n参与条件：关注+点赞+转发+评论\n🥰🥰🥰🥰 https://t.co/AtRluJiIxP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "主人@yeziyu7777\n对象@zyh1428202\n小号@Loveyezi8964\n笨蛋姐姐@TTKYYX03（不是现实中那个）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "Loveyezi8964"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1940766254266302907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2392,
+          "following_count": 2538,
+          "like_count": 34860,
+          "listed_count": 10,
+          "media_count": 1214,
+          "tweet_count": 27930
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜逃生艙 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY｜🚪：1 ₿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 106,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 83,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yamadaryo.me",
+                "end": 23,
+                "expanded_url": "https://yamadaryo.me",
+                "start": 0,
+                "url": "https://t.co/czFMqdFO4N"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4002,
+          "following_count": 680,
+          "like_count": 12202,
+          "listed_count": 18,
+          "media_count": 1290,
+          "tweet_count": 7239
+        },
+        "url": "https://t.co/czFMqdFO4N",
+        "username": "Yamada_Ryo4",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1975484645203669022",
+    "created_at": "2025-10-08T10:16:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T11:16:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975867997555442088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1603600643528105984",
+          "start": 0,
+          "username": "baobei520313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975867997555442088",
+    "in_reply_to_user_id": "1603600643528105984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975866601548529842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baobei520313 可能有吧……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1975484645203669022",
+        "created_at": "2025-10-08T10:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T11:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975867997555442088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1603600643528105984",
+              "start": 0,
+              "username": "baobei520313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975867997555442088",
+        "in_reply_to_user_id": "1603600643528105984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975866601548529842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baobei520313 可能有吧……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1603600643528105984",
+        "conversation_id": "1975484645203669022",
+        "created_at": "2025-10-08T10:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T11:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975866601548529842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975866601548529842",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975484645203669022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 ？你有病我看是真的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "……\n逃生舱@liusuk8888\n我是男孩子！\n主人♡@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 41,
+                "start": 28,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969600938567745538/genz-feI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2722,
+          "following_count": 2652,
+          "like_count": 35463,
+          "listed_count": 14,
+          "media_count": 1421,
+          "tweet_count": 31050
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-16T03:59:29.000Z",
+        "description": "💩🚪 520（➕v） & 1314（v➕面基🙅‍♀️🔞） 📪提问箱📪：https://t.co/LriinEgAwQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zaizaio3o_",
+                "end": 58,
+                "expanded_url": "https://ngl.link/zaizaio3o_",
+                "start": 35,
+                "url": "https://t.co/LriinEgAwQ"
+              }
+            ]
+          }
+        },
+        "id": "1603600643528105984",
+        "location": "East Chicago, IN",
+        "name": "北京神童王翠花💩",
+        "pinned_tweet_id": "1966897084935926210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829091235237388288/sV700A84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33042,
+          "following_count": 48,
+          "like_count": 1607,
+          "listed_count": 108,
+          "media_count": 1001,
+          "tweet_count": 4983
+        },
+        "username": "baobei520313",
+        "verified": false
+      }
+    ]
+  }
+}

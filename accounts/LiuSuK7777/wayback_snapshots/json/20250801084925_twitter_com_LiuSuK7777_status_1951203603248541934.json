@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1951200877164806182",
+    "created_at": "2025-08-01T08:49:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T09:49:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951203603248541934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "KagurazakaAzure"
+        },
+        {
+          "end": 30,
+          "id": "1767161673566359552",
+          "start": 17,
+          "username": "willa_citrus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951203603248541934",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951203416673341777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazakaAzure @willa_citrus ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1951200877164806182",
+        "created_at": "2025-08-01T08:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T09:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951203603248541934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "KagurazakaAzure"
+            },
+            {
+              "end": 30,
+              "id": "1767161673566359552",
+              "start": 17,
+              "username": "willa_citrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951203603248541934",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951203416673341777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaAzure @willa_citrus ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807107145756008448",
+        "conversation_id": "1951200877164806182",
+        "created_at": "2025-08-01T08:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T09:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951203416673341777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767161673566359552",
+              "start": 0,
+              "username": "willa_citrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951203416673341777",
+        "in_reply_to_user_id": "1767161673566359552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951200877164806182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@willa_citrus 媽媽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男 | 御主/ダーリン@yeziyu7777 | 革命伴侣/契约者/運命の人@zyh1428202 | お姉ちゃん@ttkyyx03 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "ttkyyx03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "超高校级の無意識",
+        "pinned_tweet_id": "1949513211826377068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2510,
+          "following_count": 2639,
+          "like_count": 34905,
+          "listed_count": 10,
+          "media_count": 1263,
+          "tweet_count": 28725
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "⛩️🌊洞烛の摩耶薛定谔态男娘🏳️‍⚧️｜🇨🇳🇬🇧&🇭🇰🇯🇵🇹🇼學習中｜墙外弱智吧管理&梗图bot｜líng ｜MtX｜hrt24.4.20｜持证ADHD&ASD｜179cm54kg｜08｜川渝｜Arcaea&maimaiでらっくす｜推荐雌二醇药商@minokakay｜对象@juhao0721❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "minokakay"
+              },
+              {
+                "end": 146,
+                "start": 136,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "爱我的人的怀里",
+        "name": "「翎」かめりあ⛩️-RESURRECTION-",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941707843977261056/0OzLQ_0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7945,
+          "following_count": 1279,
+          "like_count": 41265,
+          "listed_count": 10,
+          "media_count": 2950,
+          "tweet_count": 23634
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-11T12:12:39.000Z",
+        "description": "MtF, post-SRS / 想当个可爱的孩子 / 杭州三本工科PhD在读 / 怪猎以及魂系玩家 / 多给我点赞啊！/ 碰到漂亮或者说话好玩的孩子就会试图交朋友 / 如果空下来一定要做个播客节目 / 甜甜同居五年啦 @rat_miyari",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 109,
+                "username": "rat_miyari"
+              }
+            ]
+          }
+        },
+        "id": "1767161673566359552",
+        "location": "杭州",
+        "name": "王小檬𝖂𝖎𝖑𝖑𝖆🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922847776272154626/ZKQ1W7GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11354,
+          "following_count": 176,
+          "like_count": 2873,
+          "listed_count": 35,
+          "media_count": 196,
+          "tweet_count": 3715
+        },
+        "username": "willa_citrus",
+        "verified": false
+      }
+    ]
+  }
+}

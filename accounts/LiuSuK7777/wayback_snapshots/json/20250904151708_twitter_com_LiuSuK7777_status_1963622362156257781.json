@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1963468554680111286",
+    "created_at": "2025-09-04T15:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T16:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963622362156257781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1390652924481527810",
+          "start": 0,
+          "username": "zqtlovekris99"
+        },
+        {
+          "end": 31,
+          "id": "1807107145756008448",
+          "start": 15,
+          "username": "KagurazakaAzure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963622362156257781",
+    "in_reply_to_user_id": "1390652924481527810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963523123371745598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zqtlovekris99 @KagurazakaAzure 你们几个万fo大佬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1963468554680111286",
+        "created_at": "2025-09-04T15:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T16:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963622362156257781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            },
+            {
+              "end": 31,
+              "id": "1807107145756008448",
+              "start": 15,
+              "username": "KagurazakaAzure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963622362156257781",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963523123371745598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 @KagurazakaAzure 你们几个万fo大佬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1963468554680111286",
+        "created_at": "2025-09-04T08:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T09:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963523123371745598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "KagurazakaAzure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963523123371745598",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963522175618400499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaAzure 但你这个号是24年注册的所以比我长得快（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "❤️@？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "没有容身之地。",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1962804814611652676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963419713868021760/WH1CVS5o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2628,
+          "following_count": 2637,
+          "like_count": 35269,
+          "listed_count": 14,
+          "media_count": 1342,
+          "tweet_count": 29768
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，帮助竹蜻蜓冲萬fo谢谢喵🐱 | ❤️ @04177_realname | 💊蓝v互fo 防走丢小号 @nktblovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "04177_realname"
+              },
+              {
+                "end": 98,
+                "start": 83,
+                "username": "nktblovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9848,
+          "following_count": 929,
+          "like_count": 21115,
+          "listed_count": 11,
+          "media_count": 3405,
+          "tweet_count": 21785
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "我17岁没成年，推特不会给我推送黄色内容，我既不会传播淫秽物品也不可能拍。第二我是顺直男，性取向正常和任何🏳️‍🌈圈子没有任何关系。第三我没有也不会药物滥用，事实上这些年我一直在劝阻大家进行类似行为。第四，我有精神病。第五，我爱党爱国爱社会主义，请不要给我扣上反革命的帽子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/SFZpOvz5Se"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "重庆市渝北区红锦大道60号",
+        "name": "翎野 游戳🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958894427491246083/an3vCJp3_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7925,
+          "following_count": 1403,
+          "like_count": 45443,
+          "listed_count": 11,
+          "media_count": 3328,
+          "tweet_count": 27048
+        },
+        "url": "https://t.co/SFZpOvz5Se",
+        "username": "KagurazakaAzure",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922307115101913088"
+      ],
+      "media_source_tweet_id": [
+        "1922307286359224429"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "conversation_id": "1922496361133441334",
+    "created_at": "2025-05-14T03:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T04:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922496361133441334"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "こいしちゃん",
+          "probability": 0.4903,
+          "start": 20,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 27,
+          "tag": "5月14日はこいしの日"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "971105936805789696",
+          "start": 3,
+          "username": "tosakaoil"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dLI883mZEf",
+          "end": 63,
+          "expanded_url": "https://x.com/tosakaoil/status/1922307286359224429/photo/1",
+          "media_key": "3_1922307115101913088",
+          "start": 40,
+          "url": "https://t.co/dLI883mZEf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922496361133441334",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 315
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922307286359224429",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tosakaoil: ロングヘアこいしちゃん\n#5月14日はこいしの日 https://t.co/dLI883mZEf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1129,
+        "media_key": "3_1922307115101913088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq1oIujbAAAYVeQ.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922307115101913088"
+          ],
+          "media_source_tweet_id": [
+            "1922307286359224429"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "conversation_id": "1922496361133441334",
+        "created_at": "2025-05-14T03:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T04:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922496361133441334"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "こいしちゃん",
+              "probability": 0.4903,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 27,
+              "tag": "5月14日はこいしの日"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "971105936805789696",
+              "start": 3,
+              "username": "tosakaoil"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dLI883mZEf",
+              "end": 63,
+              "expanded_url": "https://x.com/tosakaoil/status/1922307286359224429/photo/1",
+              "media_key": "3_1922307115101913088",
+              "start": 40,
+              "url": "https://t.co/dLI883mZEf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922496361133441334",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 315
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922307286359224429",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tosakaoil: ロングヘアこいしちゃん\n#5月14日はこいしの日 https://t.co/dLI883mZEf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922307115101913088"
+          ]
+        },
+        "author_id": "971105936805789696",
+        "conversation_id": "1922307286359224429",
+        "created_at": "2025-05-13T15:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T16:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922307286359224429"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "こいしちゃん",
+              "probability": 0.5699,
+              "start": 5,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 12,
+              "tag": "5月14日はこいしの日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dLI883mZEf",
+              "end": 48,
+              "expanded_url": "https://x.com/tosakaoil/status/1922307286359224429/photo/1",
+              "media_key": "3_1922307115101913088",
+              "start": 25,
+              "url": "https://t.co/dLI883mZEf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922307286359224429",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 13049,
+          "like_count": 1381,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 315
+        },
+        "reply_settings": "everyone",
+        "text": "ロングヘアこいしちゃん\n#5月14日はこいしの日 https://t.co/dLI883mZEf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": " 🔪‌",
+        "name": "流苏",
+        "pinned_tweet_id": "1921196565060088153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2032,
+          "following_count": 2287,
+          "like_count": 33102,
+          "listed_count": 11,
+          "media_count": 1051,
+          "tweet_count": 24591
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-06T19:31:12.000Z",
+        "description": "きままにお絵描きしてます。\n連絡先：tosaka_oil☆yahoo .co.jp (☆→@)\nskeb：https://t.co/3pOeDQ7t4Q\nFANBOX：https://t.co/DIQxG0vizf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@tosakaoil",
+                "end": 76,
+                "expanded_url": "http://skeb.jp/@tosakaoil",
+                "start": 53,
+                "url": "https://t.co/3pOeDQ7t4Q"
+              },
+              {
+                "display_url": "tosakaoil.fanbox.cc",
+                "end": 107,
+                "expanded_url": "http://tosakaoil.fanbox.cc",
+                "start": 84,
+                "url": "https://t.co/DIQxG0vizf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/tosakaoil",
+                "end": 23,
+                "expanded_url": "https://pixiv.me/tosakaoil",
+                "start": 0,
+                "url": "https://t.co/OWjxDyOi7z"
+              }
+            ]
+          }
+        },
+        "id": "971105936805789696",
+        "name": "とさかオイル",
+        "pinned_tweet_id": "1889641737330520491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515448136650862592/nrDsXErK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13486,
+          "following_count": 69,
+          "like_count": 1612,
+          "listed_count": 170,
+          "media_count": 131,
+          "tweet_count": 5243
+        },
+        "url": "https://t.co/OWjxDyOi7z",
+        "username": "tosakaoil",
+        "verified": false
+      }
+    ]
+  }
+}

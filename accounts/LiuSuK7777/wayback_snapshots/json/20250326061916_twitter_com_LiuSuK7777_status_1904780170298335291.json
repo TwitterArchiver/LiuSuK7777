@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1904780107199254528"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      }
+    ],
+    "conversation_id": "1904780170298335291",
+    "created_at": "2025-03-26T06:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T07:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1904780170298335291"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/glQnpHKRnm",
+          "end": 41,
+          "expanded_url": "https://x.com/LiuSuK7777/status/1904780170298335291/photo/1",
+          "media_key": "3_1904780107199254528",
+          "start": 18,
+          "url": "https://t.co/glQnpHKRnm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904780170298335291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我Arcaea打的依托\n好久没玩了 https://t.co/glQnpHKRnm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1412,
+        "media_key": "3_1904780107199254528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm8jamDXkAA0VPq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904780107199254528"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "1904780170298335291",
+        "created_at": "2025-03-26T06:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T07:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904780170298335291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/glQnpHKRnm",
+              "end": 41,
+              "expanded_url": "https://x.com/LiuSuK7777/status/1904780170298335291/photo/1",
+              "media_key": "3_1904780107199254528",
+              "start": 18,
+              "url": "https://t.co/glQnpHKRnm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904780170298335291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我Arcaea打的依托\n好久没玩了 https://t.co/glQnpHKRnm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "我是男的 不是跨性别 生病中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb700j"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "☆流苏☆🐱IP杭州（100%互fo）",
+        "pinned_tweet_id": "1903751125427515801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1668,
+          "following_count": 1970,
+          "like_count": 28946,
+          "listed_count": 13,
+          "media_count": 838,
+          "tweet_count": 19832
+        },
+        "url": "https://t.co/2xm6Tb700j",
+        "username": "LiuSuK7777",
+        "verified": false
+      }
+    ]
+  }
+}

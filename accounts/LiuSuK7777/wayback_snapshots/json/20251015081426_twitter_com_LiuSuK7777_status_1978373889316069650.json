@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1978038769765744769",
+    "created_at": "2025-10-15T08:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T09:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978373889316069650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "42653798",
+          "start": 0,
+          "username": "kiradokisoyorin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978373889316069650",
+    "in_reply_to_user_id": "42653798",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978328808726909308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiradokisoyorin 啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1978038769765744769",
+        "created_at": "2025-10-15T08:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T09:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978373889316069650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "42653798",
+              "start": 0,
+              "username": "kiradokisoyorin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978373889316069650",
+        "in_reply_to_user_id": "42653798",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978328808726909308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiradokisoyorin 啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "42653798",
+        "conversation_id": "1978038769765744769",
+        "created_at": "2025-10-15T05:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T06:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978328808726909308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978328808726909308",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978038769765744769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分基本上是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！\n主人♡@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb700j"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "K",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976703554758098945/2sn3KBuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2767,
+          "following_count": 2678,
+          "like_count": 35499,
+          "listed_count": 14,
+          "media_count": 1435,
+          "tweet_count": 31255
+        },
+        "url": "https://t.co/2xm6Tb700j",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-26T16:01:30.000Z",
+        "description": "08/可以叫我库库/167-55-80C/其实很混沌但是没想好人设所以不写了/你说得对可是库库时间到了来和库库玩儿/这辈子再也不玩抽象了/随缘上推回消息慢是正常的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kukutime",
+                "end": 23,
+                "expanded_url": "http://t.me/kukutime",
+                "start": 0,
+                "url": "https://t.co/HDmEepKsb5"
+              }
+            ]
+          }
+        },
+        "id": "42653798",
+        "location": "好库库公司",
+        "name": "小库小库~",
+        "pinned_tweet_id": "1978093404283097294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972579241893208064/b2SXBBRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 505,
+          "like_count": 769,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 191
+        },
+        "url": "https://t.co/HDmEepKsb5",
+        "username": "kiradokisoyorin",
+        "verified": true
+      }
+    ]
+  }
+}

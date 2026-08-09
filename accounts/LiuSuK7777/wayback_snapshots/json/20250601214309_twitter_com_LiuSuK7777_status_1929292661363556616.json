@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1929203726033559730",
+    "created_at": "2025-06-01T21:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T22:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929292661363556616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1634535757410111489",
+          "start": 0,
+          "username": "woshi_caicai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929292661363556616",
+    "in_reply_to_user_id": "1634535757410111489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929203726033559730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woshi_caicai 谁是笨蛋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1929203726033559730",
+        "created_at": "2025-06-01T21:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T22:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929292661363556616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634535757410111489",
+              "start": 0,
+              "username": "woshi_caicai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929292661363556616",
+        "in_reply_to_user_id": "1634535757410111489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929203726033559730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshi_caicai 谁是笨蛋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634535757410111489",
+        "conversation_id": "1929203726033559730",
+        "created_at": "2025-06-01T15:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T16:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929203726033559730"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929203726033559730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "目前好感度高的推友们：\n小浪（最近应该备高考没咋见到了）\n小耶（妈妈）\n流苏（可爱笨蛋）\nanon、asaki（有趣的人）\n清水和hibiki（喜欢两个人的相处方式，很有趣）\n时行（刚来就喜欢的人）\n1ka（小孩bushi）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏，Arcaea/明日方舟/舞萌DX/火影忍者，线上淫乱线下社恐，健全B无心理疾病，经常搞砸让所有人都不开心，生日2008.02.29 |唯一的主人@yeziyu7777/对象@zyh1428202 小号@Loveyezi8964 这位非常可爱@8c4356",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "Loveyezi8964"
+              },
+              {
+                "end": 133,
+                "start": 126,
+                "username": "8c4356"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1928493663765803223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2108,
+          "following_count": 2382,
+          "like_count": 34158,
+          "listed_count": 11,
+          "media_count": 1090,
+          "tweet_count": 25780
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T12:44:37.000Z",
+        "description": "中性|不键政|工作日在上学＝似了",
+        "id": "1634535757410111489",
+        "location": "🚪0.4",
+        "name": "虹雨",
+        "pinned_tweet_id": "1908340991272378395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923338673476816897/TtY_Yipm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 232,
+          "like_count": 6321,
+          "listed_count": 4,
+          "media_count": 96,
+          "tweet_count": 2418
+        },
+        "username": "woshi_caicai",
+        "verified": false
+      }
+    ]
+  }
+}

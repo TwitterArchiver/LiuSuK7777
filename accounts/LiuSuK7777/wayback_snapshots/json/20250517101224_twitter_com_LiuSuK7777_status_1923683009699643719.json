@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "id": "1131277895010099201",
+          "name": "Epic Games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1131277895010099201",
+          "name": "Epic Games"
+        }
+      }
+    ],
+    "conversation_id": "1923682953567273191",
+    "created_at": "2025-05-17T10:12:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T11:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923683009699643719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1690570637499154432",
+          "start": 0,
+          "username": "saonanaa"
+        },
+        {
+          "end": 20,
+          "id": "121258930",
+          "start": 10,
+          "username": "EpicGames"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923683009699643719",
+    "in_reply_to_user_id": "1690570637499154432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923682953567273191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saonanaa @EpicGames 羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1131277895010099201",
+              "name": "Epic Games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1131277895010099201",
+              "name": "Epic Games"
+            }
+          }
+        ],
+        "conversation_id": "1923682953567273191",
+        "created_at": "2025-05-17T10:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T11:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923683009699643719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "saonanaa"
+            },
+            {
+              "end": 20,
+              "id": "121258930",
+              "start": 10,
+              "username": "EpicGames"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923683009699643719",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923682953567273191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saonanaa @EpicGames 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1131277895010099201",
+              "name": "Epic Games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1131277895010099201",
+              "name": "Epic Games"
+            }
+          }
+        ],
+        "conversation_id": "1923682953567273191",
+        "created_at": "2025-05-17T10:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T11:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923682953567273191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "121258930",
+              "start": 9,
+              "username": "EpicGames"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923682953567273191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【本周最佳金主】\n@epicgames ！\n累计投喂我（估计有好几百了没算）元！\n谢谢E父！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": " 🔪‌",
+        "name": "流苏",
+        "pinned_tweet_id": "1923615398567833920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2043,
+          "following_count": 2302,
+          "like_count": 33423,
+          "listed_count": 11,
+          "media_count": 1062,
+          "tweet_count": 24821
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "想要看简介？多翻翻推文其实可以查找印象！",
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921431206236712960/Y1-TRkVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2919,
+          "following_count": 352,
+          "like_count": 22198,
+          "listed_count": 13,
+          "media_count": 1331,
+          "tweet_count": 12311
+        },
+        "username": "saonanaa",
+        "verified": true
+      },
+      {
+        "created_at": "2010-03-08T23:26:58.000Z",
+        "description": "A curated digital storefront designed with both players and creators in mind. Available now on Mobile, PC & Mac!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "epic.gm/mobile",
+                "end": 23,
+                "expanded_url": "https://epic.gm/mobile",
+                "start": 0,
+                "url": "https://t.co/8e8NwDjIai"
+              }
+            ]
+          }
+        },
+        "id": "121258930",
+        "location": "Cary, NC",
+        "name": "Epic Games Store",
+        "pinned_tweet_id": "1923038483406323983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923038470676549632/ZL2fJ0V-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5499726,
+          "following_count": 298,
+          "like_count": 1342,
+          "listed_count": 8021,
+          "media_count": 5042,
+          "tweet_count": 11381
+        },
+        "url": "https://t.co/8e8NwDjIai",
+        "username": "EpicGames",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1980607369538335211",
+    "created_at": "2025-10-21T13:14:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T14:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980623747385291136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1891722301584048128",
+          "start": 0,
+          "username": "Shrimp_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980623747385291136",
+    "in_reply_to_user_id": "1891722301584048128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980607369538335211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Shrimp_8964 我吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980607356300869634",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3yH5ZfWwAIgPwm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1980607369538335211",
+        "created_at": "2025-10-21T13:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T14:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980623747385291136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1891722301584048128",
+              "start": 0,
+              "username": "Shrimp_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980623747385291136",
+        "in_reply_to_user_id": "1891722301584048128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980607369538335211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Shrimp_8964 我吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980607356300869634"
+          ]
+        },
+        "author_id": "1891722301584048128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1980607369538335211",
+        "created_at": "2025-10-21T12:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T13:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980607369538335211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RDLC3gBpvI",
+              "end": 23,
+              "expanded_url": "https://x.com/Shrimp_8964/status/1980607369538335211/photo/1",
+              "media_key": "3_1980607356300869634",
+              "start": 0,
+              "url": "https://t.co/RDLC3gBpvI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980607369538335211",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 119,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/RDLC3gBpvI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "Error",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏苏苏",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976703554758098945/2sn3KBuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2783,
+          "following_count": 2675,
+          "like_count": 35513,
+          "listed_count": 14,
+          "media_count": 1451,
+          "tweet_count": 31439
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T05:32:05.000Z",
+        "description": "雜魚雨夏老婆：@xaa386| 有老婆但是不嫌多（|🍥HRT 2025.3.12 |已炸櫃家長黨| 邊緣人，雙向b，單車佬（Giant PP SL）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 7,
+                "username": "xaa386"
+              }
+            ]
+          }
+        },
+        "id": "1891722301584048128",
+        "name": "8964蝦蝦醬🍥🦈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897917125999968257/QaYuwvTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 538,
+          "like_count": 8097,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 835
+        },
+        "username": "Shrimp_8964",
+        "verified": false
+      }
+    ]
+  }
+}

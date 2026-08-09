@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1917536286820425751",
+    "created_at": "2025-05-01T10:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T11:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917894804031283679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1871474805578371072",
+          "start": 0,
+          "username": "fengjiezi"
+        },
+        {
+          "end": 25,
+          "id": "962324914098196480",
+          "start": 11,
+          "username": "nanami_SAIKOU"
+        },
+        {
+          "end": 37,
+          "id": "1646550974553522183",
+          "start": 26,
+          "username": "yeziyu7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917894804031283679",
+    "in_reply_to_user_id": "1871474805578371072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917894590344102362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fengjiezi @nanami_SAIKOU @yeziyu7777 我出钱 叶子快换"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1917894590344102362].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1917894590344102362",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1917894590344102362"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1917536286820425751",
+        "created_at": "2025-05-01T10:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T11:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917894804031283679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1871474805578371072",
+              "start": 0,
+              "username": "fengjiezi"
+            },
+            {
+              "end": 25,
+              "id": "962324914098196480",
+              "start": 11,
+              "username": "nanami_SAIKOU"
+            },
+            {
+              "end": 37,
+              "id": "1646550974553522183",
+              "start": 26,
+              "username": "yeziyu7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917894804031283679",
+        "in_reply_to_user_id": "1871474805578371072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917894590344102362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fengjiezi @nanami_SAIKOU @yeziyu7777 我出钱 叶子快换"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 2187,
+          "like_count": 31932,
+          "listed_count": 13,
+          "media_count": 983,
+          "tweet_count": 23606
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T08:36:08.000Z",
+        "description": "我有厌蠢症",
+        "id": "1871474805578371072",
+        "name": "isolation",
+        "pinned_tweet_id": "1877150469887328539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904602819497545728/by_DDd_s_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 150,
+          "like_count": 10794,
+          "listed_count": 2,
+          "media_count": 521,
+          "tweet_count": 4103
+        },
+        "username": "fengjiezi",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-10T13:58:33.000Z",
+        "description": "一般路过女装萌新，可以随意转发，\n欢迎同好扩列，基本全平台同名。\n不约/不线下/不键政/清水——\nVRChat ID: 在原七海SAIKOU / 哔哩哔哩ID：多练 ///\n写真を撮ることと踊ることが好きで、人の話を聞くことも好きです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vrchat.com/home/user/usr_…",
+                "end": 23,
+                "expanded_url": "https://vrchat.com/home/user/usr_9e12d4e1-8621-4b4d-baf6-9c918a4664b8",
+                "start": 0,
+                "url": "https://t.co/vNBJs6t71k"
+              }
+            ]
+          }
+        },
+        "id": "962324914098196480",
+        "name": "在原七海saikou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833278491640651776/woNM2aUp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2507,
+          "following_count": 170,
+          "like_count": 3291,
+          "listed_count": 13,
+          "media_count": 175,
+          "tweet_count": 835
+        },
+        "url": "https://t.co/vNBJs6t71k",
+        "username": "nanami_SAIKOU",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T16:28:58.000Z",
+        "description": "这里是小叶or叶子｜ADHD｜拒绝见证｜社恐 喜欢贴贴？）｜睡觉爱好者｜笨蛋日常 搞砸是常态｜互fo随意～｜流苏会顶号｜唯一所爱之人@LiuSuK7777🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "LiuSuK7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yeziyu7771",
+                "end": 23,
+                "expanded_url": "http://ngl.link/yeziyu7771",
+                "start": 0,
+                "url": "https://t.co/omZuBL0LWf"
+              }
+            ]
+          }
+        },
+        "id": "1646550974553522183",
+        "name": "永远の叶_",
+        "pinned_tweet_id": "1895089052631867899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900535737810096128/aoUgCYAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 668,
+          "like_count": 57635,
+          "listed_count": 10,
+          "media_count": 353,
+          "tweet_count": 6031
+        },
+        "url": "https://t.co/omZuBL0LWf",
+        "username": "yeziyu7777",
+        "verified": false
+      }
+    ]
+  }
+}

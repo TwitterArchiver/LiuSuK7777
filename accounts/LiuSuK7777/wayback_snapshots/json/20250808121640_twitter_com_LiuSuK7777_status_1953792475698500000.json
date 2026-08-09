@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1953726895029395735",
+    "created_at": "2025-08-08T12:16:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T13:16:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953792475698500000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929159802477010944",
+          "start": 0,
+          "username": "1207auggnoD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953792475698500000",
+    "in_reply_to_user_id": "1929159802477010944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953792251957506412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1207auggnoD 放心 说什么都听不进去的 只会听自己觉得是什么就是什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1953726895029395735",
+        "created_at": "2025-08-08T12:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T13:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953792475698500000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929159802477010944",
+              "start": 0,
+              "username": "1207auggnoD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953792475698500000",
+        "in_reply_to_user_id": "1929159802477010944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953792251957506412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1207auggnoD 放心 说什么都听不进去的 只会听自己觉得是什么就是什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929159802477010944",
+        "conversation_id": "1953726895029395735",
+        "created_at": "2025-08-08T12:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T13:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953792251957506412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953792251957506412",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953726895029395735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 跟她说 我xx岁了 狗都出去配种了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男 | 御主/ダーリン@yeziyu7777 | 革命伴侣/契约者/運命の人@zyh1428202 | お姉ちゃん@ttkyyx03 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "ttkyyx03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "超高校级の無意識",
+        "pinned_tweet_id": "1949513211826377068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2557,
+          "following_count": 2659,
+          "like_count": 34963,
+          "listed_count": 10,
+          "media_count": 1287,
+          "tweet_count": 29052
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T12:55:39.000Z",
+        "description": "中华土产顺直男",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dgtea.site",
+                "end": 23,
+                "expanded_url": "http://dgtea.site",
+                "start": 0,
+                "url": "https://t.co/jGKac3YEAL"
+              }
+            ]
+          }
+        },
+        "id": "1929159802477010944",
+        "location": "OL63",
+        "name": "冬瓜极速版 — 分DXCC",
+        "pinned_tweet_id": "1951612018747965857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949243126729900032/zxA48yfi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 134,
+          "like_count": 2290,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 746
+        },
+        "url": "https://t.co/jGKac3YEAL",
+        "username": "1207auggnoD",
+        "verified": false
+      }
+    ]
+  }
+}

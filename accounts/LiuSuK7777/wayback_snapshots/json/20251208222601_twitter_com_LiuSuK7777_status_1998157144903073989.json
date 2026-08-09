@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1998092387965718581",
+    "created_at": "2025-12-08T22:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T23:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998157144903073989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1316464341407993856",
+          "start": 0,
+          "username": "Reda94038902"
+        },
+        {
+          "end": 26,
+          "id": "993214852813541376",
+          "start": 14,
+          "username": "Spekulant17"
+        },
+        {
+          "end": 36,
+          "id": "451380608",
+          "start": 27,
+          "username": "angriest"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998157144903073989",
+    "in_reply_to_user_id": "1316464341407993856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998092387965718581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Reda94038902 @Spekulant17 @angriest 你是？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1998092387965718581",
+        "created_at": "2025-12-08T22:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T23:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998157144903073989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1316464341407993856",
+              "start": 0,
+              "username": "Reda94038902"
+            },
+            {
+              "end": 26,
+              "id": "993214852813541376",
+              "start": 14,
+              "username": "Spekulant17"
+            },
+            {
+              "end": 36,
+              "id": "451380608",
+              "start": 27,
+              "username": "angriest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998157144903073989",
+        "in_reply_to_user_id": "1316464341407993856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998092387965718581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reda94038902 @Spekulant17 @angriest 你是？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1316464341407993856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1301229157511168001",
+              "name": "$ETH"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1301229157511168001",
+              "name": "$ETH"
+            }
+          }
+        ],
+        "conversation_id": "1998092387965718581",
+        "created_at": "2025-12-08T18:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T19:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998092387965718581"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 93,
+              "normalized_text": "ETH",
+              "probability": 0.5221,
+              "start": 91,
+              "type": "Other"
+            }
+          ],
+          "cashtags": [
+            {
+              "end": 94,
+              "start": 90,
+              "tag": "ETH"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 14,
+              "tag": "Сryрtо"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "РUMР"
+            },
+            {
+              "end": 35,
+              "start": 28,
+              "tag": "Signаl"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 106,
+              "id": "1504799211799265282",
+              "start": 95,
+              "username": "LiuSuK7777"
+            },
+            {
+              "end": 119,
+              "id": "993214852813541376",
+              "start": 107,
+              "username": "Spekulant17"
+            },
+            {
+              "end": 129,
+              "id": "451380608",
+              "start": 120,
+              "username": "angriest"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/communities/…",
+              "end": 89,
+              "expanded_url": "https://x.com/i/communities/1996278122841276477?aeimeiyZWsFAFZnXaBrT",
+              "start": 66,
+              "status": 404,
+              "unwound_url": "https://x.com/i/communities/1996278122841276477?aeimeiyZWsFAFZnXaBrT",
+              "url": "https://t.co/svLix8iEBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998092387965718581",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🔥 The BIGGЕST #Сryрtо #РUMР #Signаl is here! 🚀 Jоin the actiоn!\n\n https://t.co/svLix8iEBT $ETH @LiuSuK7777 @Spekulant17 @angriest"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1995540883278889351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997939028583481344/eFEs-90h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2932,
+          "following_count": 2759,
+          "like_count": 35471,
+          "listed_count": 13,
+          "media_count": 1557,
+          "tweet_count": 33292
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-14T19:42:30.000Z",
+        "description": "",
+        "id": "1316464341407993856",
+        "name": "Reda",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 494
+        },
+        "username": "Reda94038902",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-06T19:44:08.000Z",
+        "description": "Twoje życie jest odzwierciedleniem twoich myśli.",
+        "id": "993214852813541376",
+        "location": "PLANETA ZIEMIA",
+        "name": "Mateusz Jankowski",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1072573914847559680/xpA2tF2R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 276,
+          "like_count": 16835,
+          "listed_count": 8,
+          "media_count": 5,
+          "tweet_count": 462
+        },
+        "username": "Spekulant17",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-31T11:10:38.000Z",
+        "description": "Angriest Alive",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angriest.xyz",
+                "end": 23,
+                "expanded_url": "https://www.angriest.xyz/",
+                "start": 0,
+                "url": "https://t.co/2R59QbCQ3S"
+              }
+            ]
+          }
+        },
+        "id": "451380608",
+        "name": "ANGRY",
+        "pinned_tweet_id": "1971592799251578913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927014898288017408/uhNqRjzq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 4,
+          "like_count": 2,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "url": "https://t.co/2R59QbCQ3S",
+        "username": "angriest",
+        "verified": false
+      }
+    ]
+  }
+}

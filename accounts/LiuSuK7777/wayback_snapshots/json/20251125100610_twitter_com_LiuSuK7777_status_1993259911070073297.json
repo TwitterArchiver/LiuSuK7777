@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1993259705754607950",
+    "created_at": "2025-11-25T10:06:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T11:06:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993259911070073297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1688101533198475264",
+          "start": 0,
+          "username": "Chise_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993259911070073297",
+    "in_reply_to_user_id": "1688101533198475264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993259705754607950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chise_awa 哇还是3p"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1993259705754607950",
+        "created_at": "2025-11-25T10:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T11:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993259911070073297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1688101533198475264",
+              "start": 0,
+              "username": "Chise_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993259911070073297",
+        "in_reply_to_user_id": "1688101533198475264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993259705754607950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chise_awa 哇还是3p"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688101533198475264",
+        "conversation_id": "1993259705754607950",
+        "created_at": "2025-11-25T10:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T11:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993259705754607950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Pomelo114514/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/Pomelo114514/status/1992959200012673533",
+              "start": 2,
+              "url": "https://t.co/6IOWoUstiW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993259705754607950",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992959200012673533",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "? https://t.co/6IOWoUstiW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1991206540901339270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993212696540725250/GFlbKqVG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2811,
+          "following_count": 2680,
+          "like_count": 35386,
+          "listed_count": 13,
+          "media_count": 1514,
+          "tweet_count": 32187
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T08:16:08.000Z",
+        "description": "千世单推人💙💙💙 | 喜欢听HDM | TANO*C👊👊👊 | Kobaryo爽💜💜💜 | 音游人 | 神人高中生 | 可以叫我小千 | 想要变可爱 | 微量键政 | 老公❤ @Fisa_wo | 小号：@distorted114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 88,
+                "username": "Fisa_wo"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "distorted114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chise_kawaii",
+                "end": 23,
+                "expanded_url": "http://t.me/chise_kawaii",
+                "start": 0,
+                "url": "https://t.co/yj1O6fwKB6"
+              }
+            ]
+          }
+        },
+        "id": "1688101533198475264",
+        "name": "千千千世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989972715093229568/t3amFrH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 1061,
+          "like_count": 16872,
+          "listed_count": 2,
+          "media_count": 252,
+          "tweet_count": 4824
+        },
+        "url": "https://t.co/yj1O6fwKB6",
+        "username": "Chise_awa",
+        "verified": false
+      }
+    ]
+  }
+}

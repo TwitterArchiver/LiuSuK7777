@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1940046316471804023",
+    "created_at": "2025-07-01T13:54:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T14:54:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940046442019922241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1835753359015624704",
+          "start": 0,
+          "username": "aoi_mti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940046442019922241",
+    "in_reply_to_user_id": "1835753359015624704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940046316471804023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoi_mti 下次等那个18-21叫我吧（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1940046316471804023",
+        "created_at": "2025-07-01T13:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T14:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940046442019922241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1835753359015624704",
+              "start": 0,
+              "username": "aoi_mti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940046442019922241",
+        "in_reply_to_user_id": "1835753359015624704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940046316471804023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoi_mti 下次等那个18-21叫我吧（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835753359015624704",
+        "conversation_id": "1940046316471804023",
+        "created_at": "2025-07-01T13:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T14:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940046316471804023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liusuk7777/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/liusuk7777/status/1939990763095695612",
+              "start": 12,
+              "url": "https://t.co/lG0KW0zFpB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940046316471804023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939990763095695612",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下次再见，出门记得叫我 https://t.co/lG0KW0zFpB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "主人@yeziyu7777\n对象@zyh1428202\n小号@Loveyezi8964\n笨蛋姐姐@TTKYYX03",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "Loveyezi8964"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1939923011571773935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243,
+          "following_count": 2490,
+          "like_count": 34598,
+          "listed_count": 10,
+          "media_count": 1186,
+          "tweet_count": 27327
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T18:51:28.000Z",
+        "description": "Weibo: @三澄葵 / 微信公众号 aoinoheya / maimai / AuDHD / 英語教師 / @aoimti02 / https://t.co/WLQhXMNMNv / 非二元性别努力中 / 日本語可 / 連絡はメールまで / 上海言话学习中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "aoimti02"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/j8aX2rt2",
+                "end": 91,
+                "expanded_url": "https://discord.gg/j8aX2rt2",
+                "start": 68,
+                "url": "https://t.co/WLQhXMNMNv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "msmaoi.link",
+                "end": 23,
+                "expanded_url": "https://msmaoi.link",
+                "start": 0,
+                "url": "https://t.co/gjzPrisrKk"
+              }
+            ]
+          }
+        },
+        "id": "1835753359015624704",
+        "location": "Hangzhou, Zhejiang & Shanghai ",
+        "name": "Aoi M - T.I.",
+        "pinned_tweet_id": "1938301670561354055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929219142609154048/Opc5NMtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1499,
+          "following_count": 1361,
+          "like_count": 36942,
+          "listed_count": 5,
+          "media_count": 1874,
+          "tweet_count": 7613
+        },
+        "url": "https://t.co/gjzPrisrKk",
+        "username": "aoi_mti",
+        "verified": true
+      }
+    ]
+  }
+}

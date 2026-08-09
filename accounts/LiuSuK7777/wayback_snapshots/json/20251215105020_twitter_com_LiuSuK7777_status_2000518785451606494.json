@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2000511775117340984",
+    "created_at": "2025-12-15T10:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T11:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000518785451606494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1998084152214921216",
+          "start": 0,
+          "username": "o39HgaHat132859"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000518785451606494",
+    "in_reply_to_user_id": "1998084152214921216",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000516727759577151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o39HgaHat132859 ）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2000511775117340984",
+        "created_at": "2025-12-15T10:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T11:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000518785451606494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1998084152214921216",
+              "start": 0,
+              "username": "o39HgaHat132859"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000518785451606494",
+        "in_reply_to_user_id": "1998084152214921216",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000516727759577151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o39HgaHat132859 ）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998084152214921216",
+        "conversation_id": "2000511775117340984",
+        "created_at": "2025-12-15T10:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T11:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000516727759577151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000516727759577151",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000511775117340984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 dd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "1995540883278889351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000419861345026048/OuRHQUY0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2955,
+          "following_count": 2787,
+          "like_count": 35541,
+          "listed_count": 13,
+          "media_count": 1570,
+          "tweet_count": 33633
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T17:36:08.000Z",
+        "description": "",
+        "id": "1998084152214921216",
+        "name": "达瓦里希",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998084969118437376/OuYtXdq1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 5,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "o39HgaHat132859",
+        "verified": false
+      }
+    ]
+  }
+}

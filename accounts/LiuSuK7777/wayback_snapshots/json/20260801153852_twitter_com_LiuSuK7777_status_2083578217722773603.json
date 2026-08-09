@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2083575659671245000",
+    "created_at": "2026-08-01T15:38:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T16:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083578217722773603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1841098665001435141",
+          "start": 0,
+          "username": "yinsuecci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083578217722773603",
+    "in_reply_to_user_id": "1841098665001435141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083577907734315400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yinsuecci 这样啊 不过我感觉我腿毛不长没做过这方面的攻略呢……你是小南梁嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2083575659671245000",
+        "created_at": "2026-08-01T15:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083578217722773603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1841098665001435141",
+              "start": 0,
+              "username": "yinsuecci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083578217722773603",
+        "in_reply_to_user_id": "1841098665001435141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083577907734315400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yinsuecci 这样啊 不过我感觉我腿毛不长没做过这方面的攻略呢……你是小南梁嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841098665001435141",
+        "conversation_id": "2083575659671245000",
+        "created_at": "2026-08-01T15:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083577907734315400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083577907734315400",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083577756617679037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 因为我要来上学了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 杭州 08年 舞萌/东方/Arcaea/明日方舟/三角洲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2068533981818290551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060157452931465216/9MujmSVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3619,
+          "following_count": 2752,
+          "like_count": 34243,
+          "listed_count": 14,
+          "media_count": 1709,
+          "tweet_count": 35342
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T12:52:21.000Z",
+        "description": "Math ｜ Investment ｜ AI\n🎓 08男大，努力攒学费中\n⚡ 境外代充 / 数学竞赛，高中数理化授课\n💬 纯音乐 / 写文看文 / 投资心得\n📌 请称呼我：黄狗 / 小樱（En & Ch)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rw.udclass.top",
+                "end": 23,
+                "expanded_url": "https://rw.udclass.top",
+                "start": 0,
+                "url": "https://t.co/TaH2ekJBau"
+              }
+            ]
+          }
+        },
+        "id": "1841098665001435141",
+        "location": "Mars",
+        "name": "櫻序曦葉",
+        "pinned_tweet_id": "2067124610534150624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975161887664050176/xM8Jqs6-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 289,
+          "like_count": 106,
+          "listed_count": 1,
+          "media_count": 243,
+          "tweet_count": 1408
+        },
+        "url": "https://t.co/TaH2ekJBau",
+        "username": "yinsuecci",
+        "verified": true
+      }
+    ]
+  }
+}

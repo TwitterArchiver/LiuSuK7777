@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1908380234069794911",
+    "created_at": "2025-04-05T05:50:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T06:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908396929588802034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1871474805578371072",
+          "start": 0,
+          "username": "fengjiezi"
+        },
+        {
+          "end": 27,
+          "id": "1859486191281897477",
+          "start": 11,
+          "username": "liveDeath750122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908396929588802034",
+    "in_reply_to_user_id": "1871474805578371072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908396698436862418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fengjiezi @liveDeath750122 我为什么要害怕\n我没o过晚安 感觉都是谵妄剂可能和苯海索差不多"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1908396698436862418].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1908396698436862418",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1908396698436862418"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1908380234069794911",
+        "created_at": "2025-04-05T05:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T06:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908396929588802034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1871474805578371072",
+              "start": 0,
+              "username": "fengjiezi"
+            },
+            {
+              "end": 27,
+              "id": "1859486191281897477",
+              "start": 11,
+              "username": "liveDeath750122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908396929588802034",
+        "in_reply_to_user_id": "1871474805578371072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908396698436862418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fengjiezi @liveDeath750122 我为什么要害怕\n我没o过晚安 感觉都是谵妄剂可能和苯海索差不多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏（我是叶子的狗）",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 2058,
+          "like_count": 30226,
+          "listed_count": 12,
+          "media_count": 878,
+          "tweet_count": 21663
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T08:36:08.000Z",
+        "description": "我有厌蠢症",
+        "id": "1871474805578371072",
+        "name": "isolation",
+        "pinned_tweet_id": "1877150469887328539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904602819497545728/by_DDd_s_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 127,
+          "like_count": 6083,
+          "listed_count": 2,
+          "media_count": 331,
+          "tweet_count": 2756
+        },
+        "username": "fengjiezi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T06:37:55.000Z",
+        "description": "doctor is Promised Land\nHappyDeath or live\n天天开心 努力生活\n不自残 不OD 不自杀 精神状态良好/TARDIS 驾驶员\n哥哥（professor @Muoujiang_\n\n作为时间之子 我会为善良的孩子带来欢乐\n我是有主人的猫猫",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "Muoujiang_"
+              }
+            ]
+          }
+        },
+        "id": "1859486191281897477",
+        "location": "MTF应许之地",
+        "name": "liveDeath🏳️‍⚧️🏳️‍⚧️🍥🍥",
+        "pinned_tweet_id": "1877948978815521050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859712046000111618/6j7gDy8w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 366,
+          "like_count": 9886,
+          "listed_count": 3,
+          "media_count": 227,
+          "tweet_count": 3324
+        },
+        "username": "liveDeath750122",
+        "verified": false
+      }
+    ]
+  }
+}

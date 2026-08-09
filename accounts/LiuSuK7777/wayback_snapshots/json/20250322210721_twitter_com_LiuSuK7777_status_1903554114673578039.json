@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1903442541745435094",
+    "created_at": "2025-03-22T21:07:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T22:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903554114673578039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1709605194919813120",
+          "start": 0,
+          "username": "A4dezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903554114673578039",
+    "in_reply_to_user_id": "1709605194919813120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903465797357649940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A4dezhi 好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1903442541745435094",
+        "created_at": "2025-03-22T21:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T22:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903554114673578039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1709605194919813120",
+              "start": 0,
+              "username": "A4dezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903554114673578039",
+        "in_reply_to_user_id": "1709605194919813120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903465797357649940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A4dezhi 好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709605194919813120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "1903442541745435094",
+        "created_at": "2025-03-22T15:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T16:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903465797357649940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903465797357649940",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903442541745435094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 陪我打chunithm（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "08顺男/Arknights/崩壊:スターレイル/Arcaea/MaimaiDX/東方Project/ VOCALOID/Galgame/主人@yeziyu7777 关注@_FiniteWorld @small_fun8964 @Huahe_wu @KaitlynXiaoLu99 小号@Loveyezi8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "_FiniteWorld"
+              },
+              {
+                "end": 113,
+                "start": 99,
+                "username": "small_fun8964"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "Huahe_wu"
+              },
+              {
+                "end": 140,
+                "start": 124,
+                "username": "KaitlynXiaoLu99"
+              },
+              {
+                "end": 156,
+                "start": 143,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "☆流苏☆🐱IP杭州（100%互fo）",
+        "pinned_tweet_id": "1901903397277532265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1517,
+          "following_count": 1816,
+          "like_count": 28453,
+          "listed_count": 10,
+          "media_count": 805,
+          "tweet_count": 18638
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T16:23:47.000Z",
+        "description": "（中文/English使用）\n称我幻旅即可，一个苦逼高中生罢了，不必在意＝）\n喜欢打音游和……阴游？\n感觉啥音游都碰一点但没有一个能精通的\n信奉睡教和飞天意面神教（信仰不纯）",
+        "id": "1709605194919813120",
+        "location": "某个阴暗角落",
+        "name": "幻旅☆～MOTO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818719397198151682/jsoQMbmh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 2036,
+          "like_count": 1946,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 826
+        },
+        "username": "A4dezhi",
+        "verified": false
+      }
+    ]
+  }
+}

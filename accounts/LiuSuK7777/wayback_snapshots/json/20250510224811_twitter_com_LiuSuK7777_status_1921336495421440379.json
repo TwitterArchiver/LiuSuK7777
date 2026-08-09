@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1921233757849239567",
+    "created_at": "2025-05-10T22:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T23:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921336495421440379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1815097256112201728",
+          "start": 0,
+          "username": "Sora06222206"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921336495421440379",
+    "in_reply_to_user_id": "1815097256112201728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921322630226809009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sora06222206 我168"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1921233757849239567",
+        "created_at": "2025-05-10T22:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T23:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921336495421440379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1815097256112201728",
+              "start": 0,
+              "username": "Sora06222206"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921336495421440379",
+        "in_reply_to_user_id": "1815097256112201728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921322630226809009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sora06222206 我168"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815097256112201728",
+        "conversation_id": "1921233757849239567",
+        "created_at": "2025-05-10T21:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T22:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921322630226809009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921322630226809009",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921233757849239567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 矮在哪我问问了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": " 🔪‌",
+        "name": "流苏",
+        "pinned_tweet_id": "1921196565060088153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2007,
+          "following_count": 2271,
+          "like_count": 32803,
+          "listed_count": 11,
+          "media_count": 1030,
+          "tweet_count": 24328
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T18:51:37.000Z",
+        "description": "一般路过二次元/\n心智小学生水准的大学生/\n友跨顺男绝不翻车（？）/\n基本都会回fo/\n在这里大概发一些不想现实认识的人看到的生活碎碎念/",
+        "id": "1815097256112201728",
+        "location": "广州",
+        "name": "是悠空喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907706746266857473/DMO0DG0H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 274,
+          "like_count": 2196,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 710
+        },
+        "username": "Sora06222206",
+        "verified": false
+      }
+    ]
+  }
+}

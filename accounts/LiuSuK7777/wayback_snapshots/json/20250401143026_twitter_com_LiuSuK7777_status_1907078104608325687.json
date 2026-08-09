@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1907051068363788631",
+    "created_at": "2025-04-01T14:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T15:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907078104608325687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1871474805578371072",
+          "start": 0,
+          "username": "fengjiezi"
+        },
+        {
+          "end": 22,
+          "id": "1596652915959078913",
+          "start": 11,
+          "username": "nanami5513"
+        },
+        {
+          "end": 35,
+          "id": "1818678630824001538",
+          "start": 23,
+          "username": "Misako_25ji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907078104608325687",
+    "in_reply_to_user_id": "1871474805578371072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907077791843291563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fengjiezi @nanami5513 @Misako_25ji 原来是这么个原因啊🤔"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1907077791843291563].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1907077791843291563",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1907077791843291563"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1907051068363788631",
+        "created_at": "2025-04-01T14:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T15:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907078104608325687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1871474805578371072",
+              "start": 0,
+              "username": "fengjiezi"
+            },
+            {
+              "end": 22,
+              "id": "1596652915959078913",
+              "start": 11,
+              "username": "nanami5513"
+            },
+            {
+              "end": 35,
+              "id": "1818678630824001538",
+              "start": 23,
+              "username": "Misako_25ji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907078104608325687",
+        "in_reply_to_user_id": "1871474805578371072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907077791843291563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fengjiezi @nanami5513 @Misako_25ji 原来是这么个原因啊🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "跟我面基可以随便摸我",
+        "name": "流苏🍥（@愚人节快乐",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1712,
+          "following_count": 2034,
+          "like_count": 29778,
+          "listed_count": 12,
+          "media_count": 875,
+          "tweet_count": 21200
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T08:36:08.000Z",
+        "description": "",
+        "id": "1871474805578371072",
+        "name": "isolation",
+        "pinned_tweet_id": "1877150469887328539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904602819497545728/by_DDd_s_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 85,
+          "like_count": 5724,
+          "listed_count": 1,
+          "media_count": 300,
+          "tweet_count": 2458
+        },
+        "username": "fengjiezi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T23:51:38.000Z",
+        "description": "是主人的猫猫～mcew～ /ixxx(混沌)/05年MtF/大证/天残家长吓坏党/HRT 2024.9.9/七海最喜欢的/最爱最爱的/独占的/要一直陪七海的/对象/主人@nanami_mua /捞七海回来的人@miya051223 /然然@shenyuebanran /C&P在读/以后可能考408（大一试图跑路中）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 84,
+                "username": "nanami_mua"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "miya051223"
+              },
+              {
+                "end": 133,
+                "start": 119,
+                "username": "shenyuebanran"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nanami99230",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nanami99230",
+                "start": 0,
+                "url": "https://t.co/X8pmKTexG8"
+              }
+            ]
+          }
+        },
+        "id": "1596652915959078913",
+        "location": "主人衣服里",
+        "name": "七海～四悸～🍥",
+        "pinned_tweet_id": "1907025971343135137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905276702319943680/VEHSyuLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 391,
+          "like_count": 15889,
+          "listed_count": 2,
+          "media_count": 249,
+          "tweet_count": 2414
+        },
+        "url": "https://t.co/X8pmKTexG8",
+        "username": "nanami5513",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-31T16:02:39.000Z",
+        "description": "HRT 2024.05.09 ｜ 坐标杭州 ｜ 堕落的天使（下海） ｜ 链接可以投喂哦！｜  未成年开卡bot  ｜🚪50 （可加微信/QQ） 推特私信免费～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buy.stripe.com/4gw9E94T95XUc1…",
+                "end": 23,
+                "expanded_url": "https://buy.stripe.com/4gw9E94T95XUc12dQR",
+                "start": 0,
+                "url": "https://t.co/Lbi9jYVczo"
+              }
+            ]
+          }
+        },
+        "id": "1818678630824001538",
+        "location": "Inkar-usi.",
+        "name": "Misako～美沙子喵🏳️‍⚧️",
+        "pinned_tweet_id": "1901163767465210252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900767621165051904/vDuXtCBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 536,
+          "like_count": 747,
+          "listed_count": 3,
+          "media_count": 106,
+          "tweet_count": 431
+        },
+        "url": "https://t.co/Lbi9jYVczo",
+        "username": "Misako_25ji",
+        "verified": true
+      }
+    ]
+  }
+}

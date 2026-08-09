@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1985671496774402285",
+    "created_at": "2025-11-06T04:32:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T05:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986290447871058191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1299312684991569920",
+          "start": 0,
+          "username": "DanJack67524194"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986290447871058191",
+    "in_reply_to_user_id": "1299312684991569920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985671496774402285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DanJack67524194 烧b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1326,
+        "media_key": "3_1985671490495479808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G46FszeagAAQ_ev.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1985671496774402285",
+        "created_at": "2025-11-06T04:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T05:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986290447871058191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1299312684991569920",
+              "start": 0,
+              "username": "DanJack67524194"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986290447871058191",
+        "in_reply_to_user_id": "1299312684991569920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985671496774402285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DanJack67524194 烧b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985671490495479808"
+          ]
+        },
+        "author_id": "1299312684991569920",
+        "conversation_id": "1985671496774402285",
+        "created_at": "2025-11-04T11:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T12:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985671496774402285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IfmXDpvyJz",
+              "end": 23,
+              "expanded_url": "https://x.com/DanJack67524194/status/1985671496774402285/photo/1",
+              "media_key": "3_1985671490495479808",
+              "start": 0,
+              "url": "https://t.co/IfmXDpvyJz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985671496774402285",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 22810,
+          "like_count": 267,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IfmXDpvyJz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！\n主人♡@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 69,
+                "start": 56,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976703554758098945/2sn3KBuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2778,
+          "following_count": 2681,
+          "like_count": 35519,
+          "listed_count": 13,
+          "media_count": 1492,
+          "tweet_count": 31853
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-28T11:48:01.000Z",
+        "description": "（大部分梗圖皆為轉載）（現在也有自己翻譯的梗圖*如有翻譯圖，皆有翻譯浮水印*）\nthreads ：https://t.co/uiN3asDWEM\n\nig（梗圖帳）：https://t.co/4O83ZaXG7x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "threads.com/@fox_sun_moon",
+                "end": 72,
+                "expanded_url": "https://www.threads.com/@fox_sun_moon",
+                "start": 49,
+                "url": "https://t.co/uiN3asDWEM"
+              },
+              {
+                "display_url": "instagram.com/fox_sun_moon?i…",
+                "end": 105,
+                "expanded_url": "https://www.instagram.com/fox_sun_moon?igsh=ZXh3MXpyb",
+                "start": 82,
+                "url": "https://t.co/4O83ZaXG7x"
+              }
+            ]
+          }
+        },
+        "id": "1299312684991569920",
+        "location": "羅馬帝國—君士坦丁堡",
+        "name": "狐曌🦊北上生存戰——打響！",
+        "pinned_tweet_id": "1963584776155144438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923538905741111296/OuHg0oGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7301,
+          "following_count": 1964,
+          "like_count": 31268,
+          "listed_count": 25,
+          "media_count": 7178,
+          "tweet_count": 32536
+        },
+        "username": "DanJack67524194",
+        "verified": false
+      }
+    ]
+  }
+}

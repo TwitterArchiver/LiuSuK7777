@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2060629319370842379",
+    "created_at": "2026-05-30T14:30:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T15:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060730689637745122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1866381473512935424",
+          "start": 0,
+          "username": "jtt733063"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060730689637745122",
+    "in_reply_to_user_id": "1866381473512935424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060679207269945648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jtt733063 喵（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2060629319370842379",
+        "created_at": "2026-05-30T14:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060730689637745122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1866381473512935424",
+              "start": 0,
+              "username": "jtt733063"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060730689637745122",
+        "in_reply_to_user_id": "1866381473512935424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060679207269945648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jtt733063 喵（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866381473512935424",
+        "conversation_id": "2060629319370842379",
+        "created_at": "2026-05-30T11:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060679207269945648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060679207269945648",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060629319370842379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 我去找你玩！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 08年~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n可爱小南梁@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2032828973374386365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060157452931465216/9MujmSVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3518,
+          "following_count": 2716,
+          "like_count": 34436,
+          "listed_count": 14,
+          "media_count": 1668,
+          "tweet_count": 34955
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T07:17:16.000Z",
+        "description": "",
+        "id": "1866381473512935424",
+        "name": "j tt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866381654962708480/nevowIVq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 63,
+          "like_count": 476,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 27
+        },
+        "username": "jtt733063",
+        "verified": false
+      }
+    ]
+  }
+}

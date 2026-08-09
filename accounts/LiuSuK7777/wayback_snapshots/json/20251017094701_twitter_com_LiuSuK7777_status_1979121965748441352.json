@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1979067176054329679",
+    "created_at": "2025-10-17T09:47:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T10:47:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979121965748441352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1813971881990742016",
+          "start": 0,
+          "username": "TXTYYDZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979121965748441352",
+    "in_reply_to_user_id": "1813971881990742016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979120072053658050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TXTYYDZ 不要 这种话我才不会说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1979067176054329679",
+        "created_at": "2025-10-17T09:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T10:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979121965748441352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1813971881990742016",
+              "start": 0,
+              "username": "TXTYYDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979121965748441352",
+        "in_reply_to_user_id": "1813971881990742016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979120072053658050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TXTYYDZ 不要 这种话我才不会说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813971881990742016",
+        "conversation_id": "1979067176054329679",
+        "created_at": "2025-10-17T09:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T10:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979120072053658050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979120072053658050",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979067176054329679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 我不喜欢你这样的说辞，这就好像承认他说的事实并且寻求正当性一样。\n你还不如直接操他祖宗十八代直接 ("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分基本上是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！\n主人♡@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb700j"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "K",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976703554758098945/2sn3KBuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2783,
+          "following_count": 2673,
+          "like_count": 35504,
+          "listed_count": 14,
+          "media_count": 1441,
+          "tweet_count": 31320
+        },
+        "url": "https://t.co/2xm6Tb700j",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T16:19:41.000Z",
+        "description": "热爱抽象艺术的精神状态令人担忧的不正常人类，也可能不是人类。\n县城社畜一枚，不爱干活，经常辞职。\n唯一单推：@snhrlinglu\n废话小账:@TianXiaoTangDLZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "snhrlinglu"
+              },
+              {
+                "end": 87,
+                "start": 71,
+                "username": "TianXiaoTangDLZ"
+              }
+            ]
+          }
+        },
+        "id": "1813971881990742016",
+        "location": "全中国空气最埋汰的地方",
+        "name": "田小唐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975034385557757952/QQJXjIRY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 993,
+          "like_count": 51551,
+          "listed_count": 7,
+          "media_count": 2282,
+          "tweet_count": 13896
+        },
+        "username": "TXTYYDZ",
+        "verified": true
+      }
+    ]
+  }
+}

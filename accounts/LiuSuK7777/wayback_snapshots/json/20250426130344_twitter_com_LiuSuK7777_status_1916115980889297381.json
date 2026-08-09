@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916083202365730816"
+      ],
+      "media_source_tweet_id": [
+        "1916083204777558052"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1916115980889297381",
+    "created_at": "2025-04-26T13:03:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T14:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916115980889297381"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "フランちゃん",
+          "probability": 0.836,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 24,
+          "tag": "東方Project"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622094256247828481",
+          "start": 3,
+          "username": "ako_oekaki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JNzD36MSmT",
+          "end": 58,
+          "expanded_url": "https://x.com/ako_oekaki/status/1916083204777558052/photo/1",
+          "media_key": "3_1916083202365730816",
+          "start": 35,
+          "url": "https://t.co/JNzD36MSmT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916115980889297381",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916083204777558052",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ako_oekaki: フランちゃん\n #東方Project https://t.co/JNzD36MSmT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1109,
+        "media_key": "3_1916083202365730816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpdLhU0aMAApqmm.jpg",
+        "width": 1479
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916083202365730816"
+          ],
+          "media_source_tweet_id": [
+            "1916083204777558052"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1916115980889297381",
+        "created_at": "2025-04-26T13:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T14:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916115980889297381"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "フランちゃん",
+              "probability": 0.836,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 24,
+              "tag": "東方Project"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622094256247828481",
+              "start": 3,
+              "username": "ako_oekaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JNzD36MSmT",
+              "end": 58,
+              "expanded_url": "https://x.com/ako_oekaki/status/1916083204777558052/photo/1",
+              "media_key": "3_1916083202365730816",
+              "start": 35,
+              "url": "https://t.co/JNzD36MSmT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916115980889297381",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916083204777558052",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ako_oekaki: フランちゃん\n #東方Project https://t.co/JNzD36MSmT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916083202365730816"
+          ]
+        },
+        "author_id": "1622094256247828481",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1916083204777558052",
+        "created_at": "2025-04-26T10:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T11:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916083204777558052"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "フランちゃん",
+              "probability": 0.8475,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 8,
+              "tag": "東方Project"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JNzD36MSmT",
+              "end": 42,
+              "expanded_url": "https://x.com/ako_oekaki/status/1916083204777558052/photo/1",
+              "media_key": "3_1916083202365730816",
+              "start": 19,
+              "url": "https://t.co/JNzD36MSmT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916083204777558052",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1327,
+          "like_count": 202,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "フランちゃん\n #東方Project https://t.co/JNzD36MSmT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 2149,
+          "like_count": 31236,
+          "listed_count": 12,
+          "media_count": 953,
+          "tweet_count": 22929
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T04:46:56.000Z",
+        "description": "東方Projectをメインで描いている絵描きです…!!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/94229124",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/94229124",
+                "start": 0,
+                "url": "https://t.co/gLp8v7Atlq"
+              }
+            ]
+          }
+        },
+        "id": "1622094256247828481",
+        "name": "あこ🍀🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916084535609200641/4NWW1wCX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3630,
+          "following_count": 62,
+          "like_count": 28393,
+          "listed_count": 24,
+          "media_count": 323,
+          "tweet_count": 3456
+        },
+        "url": "https://t.co/gLp8v7Atlq",
+        "username": "ako_oekaki",
+        "verified": false
+      }
+    ]
+  }
+}

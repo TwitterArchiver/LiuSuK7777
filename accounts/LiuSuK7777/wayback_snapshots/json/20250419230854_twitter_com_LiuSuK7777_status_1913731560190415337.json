@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1913525803897524646",
+    "created_at": "2025-04-19T23:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T00:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913731560190415337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1771131154214932480",
+          "start": 0,
+          "username": "ace_in_sana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913731560190415337",
+    "in_reply_to_user_id": "1771131154214932480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913663109975445506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ace_in_sana 是笨蛋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1913525803897524646",
+        "created_at": "2025-04-19T23:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T00:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913731560190415337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1771131154214932480",
+              "start": 0,
+              "username": "ace_in_sana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913731560190415337",
+        "in_reply_to_user_id": "1771131154214932480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913663109975445506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ace_in_sana 是笨蛋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "1913525803897524646",
+        "created_at": "2025-04-19T18:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T19:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913663109975445506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913663109975445506",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913525803897524646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 不是笨蛋！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1776,
+          "following_count": 2092,
+          "like_count": 30477,
+          "listed_count": 12,
+          "media_count": 914,
+          "tweet_count": 22257
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "这个入傻了",
+        "id": "1771131154214932480",
+        "location": "👁️",
+        "name": "散",
+        "pinned_tweet_id": "1896158147414536514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895697108293865472/VgxJf1dy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 132,
+          "like_count": 6379,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 1436
+        },
+        "username": "ace_in_sana",
+        "verified": false
+      }
+    ]
+  }
+}

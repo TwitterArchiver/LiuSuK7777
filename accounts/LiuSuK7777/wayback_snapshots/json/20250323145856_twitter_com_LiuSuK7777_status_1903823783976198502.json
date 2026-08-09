@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1903823363870453870",
+    "created_at": "2025-03-23T14:58:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T15:58:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903823783976198502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1839630193608282112",
+          "start": 0,
+          "username": "zzg114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903823783976198502",
+    "in_reply_to_user_id": "1839630193608282112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903823363870453870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzg114514 我也有2024 感觉没必要买那么贵（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2193,
+        "media_key": "3_1903823293943062528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmu9Mu6XIAAn6dg.jpg",
+        "width": 1645
+      },
+      {
+        "height": 2193,
+        "media_key": "3_1903823293938831360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmu9Mu5WkAAVMGm.jpg",
+        "width": 1645
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1903823363870453870",
+        "created_at": "2025-03-23T14:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T15:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903823783976198502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839630193608282112",
+              "start": 0,
+              "username": "zzg114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903823783976198502",
+        "in_reply_to_user_id": "1839630193608282112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903823363870453870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzg114514 我也有2024 感觉没必要买那么贵（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903823293943062528",
+            "3_1903823293938831360"
+          ]
+        },
+        "author_id": "1839630193608282112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1903823363870453870",
+        "created_at": "2025-03-23T14:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T15:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903823363870453870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CAMKsdOmme",
+              "end": 42,
+              "expanded_url": "https://x.com/zzg114514/status/1903823363870453870/photo/1",
+              "media_key": "3_1903823293943062528",
+              "start": 19,
+              "url": "https://t.co/CAMKsdOmme"
+            },
+            {
+              "display_url": "pic.x.com/CAMKsdOmme",
+              "end": 42,
+              "expanded_url": "https://x.com/zzg114514/status/1903823363870453870/photo/1",
+              "media_key": "3_1903823293938831360",
+              "start": 19,
+              "url": "https://t.co/CAMKsdOmme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903823363870453870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "换平板了\n6年的差别......😅😅 https://t.co/CAMKsdOmme"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "可爱男娘：@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "☆流苏☆🐱IP杭州（100%互fo）",
+        "pinned_tweet_id": "1901903397277532265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1568,
+          "following_count": 1853,
+          "like_count": 28640,
+          "listed_count": 12,
+          "media_count": 816,
+          "tweet_count": 19017
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-27T11:36:41.000Z",
+        "description": "🎸//GTA，极品飞车，COD，战地风云,RDR2//🇯🇵JDM，🇺🇸💪🏻//蔚蓝档案，MIKU，轻音少女，孤独摇滚，少女与战车，柯南//星战，速激，MARVEL//🏸//@Skrillex🌹对除了魔怔以外的人保持友好🌹广告和黄推滚蛋 防伪标签:ᶻᶻᵍ❶❶❹❺❶❹😇😇😇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "Skrillex"
+              }
+            ]
+          }
+        },
+        "id": "1839630193608282112",
+        "location": "🌑🌒🌓🌔🌕🌖🌗🌘🌑",
+        "name": "島田愛里壽",
+        "pinned_tweet_id": "1894920386191474813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902380625899769856/o8-VZ-XY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 556,
+          "like_count": 16641,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 1657
+        },
+        "username": "zzg114514",
+        "verified": false
+      }
+    ]
+  }
+}

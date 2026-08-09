@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1905708129561825346",
+    "created_at": "2025-03-28T19:54:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T20:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905709988460581057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900175240690622464",
+          "start": 0,
+          "username": "XiaoLuNigeru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905709988460581057",
+    "in_reply_to_user_id": "1900175240690622464",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905708129561825346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoLuNigeru 👀……？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1905708129561825346].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1905708129561825346",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1905708129561825346"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1905708129561825346",
+        "created_at": "2025-03-28T19:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T20:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905709988460581057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900175240690622464",
+              "start": 0,
+              "username": "XiaoLuNigeru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905709988460581057",
+        "in_reply_to_user_id": "1900175240690622464",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905708129561825346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoLuNigeru 👀……？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "💞@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "AAA_流苏批发",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1672,
+          "following_count": 1991,
+          "like_count": 29223,
+          "listed_count": 13,
+          "media_count": 853,
+          "tweet_count": 20337
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T13:21:10.000Z",
+        "description": "",
+        "id": "1900175240690622464",
+        "location": "任何地方",
+        "name": "-小鹿-🦌🇨🇳🇭🇰🇲🇴☮️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904268189049196544/wteMOyZj_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 78,
+          "like_count": 537,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 261
+        },
+        "username": "XiaoLuNigeru",
+        "verified": false
+      }
+    ]
+  }
+}

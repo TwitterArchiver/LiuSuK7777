@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1936789876940390632",
+    "created_at": "2025-06-22T14:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T15:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936791375867203590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1684994154550685696",
+          "start": 0,
+          "username": "zyh1428202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936791375867203590",
+    "in_reply_to_user_id": "1684994154550685696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936790298598019475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyh1428202 你晓得的吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1936789876940390632",
+        "created_at": "2025-06-22T14:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T15:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936791375867203590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684994154550685696",
+              "start": 0,
+              "username": "zyh1428202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936791375867203590",
+        "in_reply_to_user_id": "1684994154550685696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936790298598019475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyh1428202 你晓得的吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684994154550685696",
+        "conversation_id": "1936789876940390632",
+        "created_at": "2025-06-22T14:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T15:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936790298598019475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936790298598019475",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936789876940390632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 和谁喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男|Arcaea|明日方舟|舞萌DX|火影忍者|社恐健全B|2008.02.29 |主人@yeziyu7777对象@zyh1428202小号@Loveyezi8964\n微信用户名同推特用户名",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏流苏流",
+        "pinned_tweet_id": "1936314364468105461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196,
+          "following_count": 2451,
+          "like_count": 34374,
+          "listed_count": 10,
+          "media_count": 1137,
+          "tweet_count": 26787
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T18:28:15.000Z",
+        "description": "你是猪\n流猪老婆@liusuk7777 /叶子老公@yeziyu7777 /toki酱@TokiDustNights /ros妹妹(不许似😡)@rosmarinou /可爱小弟弟@flytometeor",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "liusuk7777"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "TokiDustNights"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "rosmarinou"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "flytometeor"
+              }
+            ]
+          }
+        },
+        "id": "1684994154550685696",
+        "location": "北京",
+        "name": "939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782822410603098112/lf37URSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 137,
+          "like_count": 1698,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1280
+        },
+        "username": "zyh1428202",
+        "verified": false
+      }
+    ]
+  }
+}

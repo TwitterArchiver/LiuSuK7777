@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1982860583704887615",
+    "created_at": "2025-10-27T17:30:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T18:30:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982862520273830200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841801152381558784",
+          "start": 0,
+          "username": "Amemiya_Hasumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982862520273830200",
+    "in_reply_to_user_id": "1841801152381558784",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982860776705798618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amemiya_Hasumi baka"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1982860583704887615",
+        "created_at": "2025-10-27T17:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T18:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982862520273830200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841801152381558784",
+              "start": 0,
+              "username": "Amemiya_Hasumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982862520273830200",
+        "in_reply_to_user_id": "1841801152381558784",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982860776705798618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amemiya_Hasumi baka"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841801152381558784",
+        "conversation_id": "1982860583704887615",
+        "created_at": "2025-10-27T17:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T18:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982860776705798618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982860776705798618",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982860639329759541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 （在床上咕蛹）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！\n主人♡@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 69,
+                "start": 56,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976703554758098945/2sn3KBuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2777,
+          "following_count": 2675,
+          "like_count": 35502,
+          "listed_count": 13,
+          "media_count": 1469,
+          "tweet_count": 31582
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T11:23:15.000Z",
+        "description": "「万千蝴蝶敛翼而坠 风的末尾。」\nCoser & 摄影，性取向女，抖m，偶尔是男娘。\n第二人格@Hasumi_Amemiya。\n往期照片请见亮点，禁敏感政治 No serious Politics。\n↓更多",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "Hasumi_Amemiya"
+              }
+            ]
+          }
+        },
+        "id": "1841801152381558784",
+        "location": "永恆之地 翁法羅斯",
+        "name": "雨宮 蓮見",
+        "pinned_tweet_id": "1871596096461713573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918165588679245825/T3Da3VAP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4568,
+          "following_count": 2670,
+          "like_count": 40824,
+          "listed_count": 10,
+          "media_count": 1350,
+          "tweet_count": 9738
+        },
+        "username": "Amemiya_Hasumi",
+        "verified": true
+      }
+    ]
+  }
+}

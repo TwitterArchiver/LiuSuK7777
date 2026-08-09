@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2012107980934983694",
+    "created_at": "2026-01-16T11:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T12:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012129603805204685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1969670166423228416",
+          "start": 0,
+          "username": "h2o2333"
+        },
+        {
+          "end": 19,
+          "id": "1898090579269230592",
+          "start": 9,
+          "username": "Nyakori__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012129603805204685",
+    "in_reply_to_user_id": "1969670166423228416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012118411015516195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h2o2333 @Nyakori__ 其实是明恋"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2012118411015516195].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2012118411015516195",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2012118411015516195"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2012107980934983694",
+        "created_at": "2026-01-16T11:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T12:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012129603805204685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1969670166423228416",
+              "start": 0,
+              "username": "h2o2333"
+            },
+            {
+              "end": 19,
+              "id": "1898090579269230592",
+              "start": 9,
+              "username": "Nyakori__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012129603805204685",
+        "in_reply_to_user_id": "1969670166423228416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012118411015516195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h2o2333 @Nyakori__ 其实是明恋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "1995540883278889351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009961353205923840/TsgZdod5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2952,
+          "following_count": 2764,
+          "like_count": 35516,
+          "listed_count": 14,
+          "media_count": 1582,
+          "tweet_count": 34055
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T07:49:04.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/h2o2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/h2o2333",
+                "start": 0,
+                "url": "https://t.co/jdGmbf9qDI"
+              }
+            ]
+          }
+        },
+        "id": "1969670166423228416",
+        "location": "level 790",
+        "name": "一氧化二氢🍥#天棓四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009273766329847808/fTVfTHn__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 650,
+          "like_count": 1558,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 3192
+        },
+        "url": "https://t.co/jdGmbf9qDI",
+        "username": "h2o2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T19:17:26.000Z",
+        "description": "喵喵喵（互关喵\n/绝区零💤/蔚蓝档案",
+        "id": "1898090579269230592",
+        "location": "New Eridu",
+        "name": "Nyakori",
+        "pinned_tweet_id": "1996602755302236344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997131620315500544/_QogUEc-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 170,
+          "like_count": 599,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 98
+        },
+        "username": "Nyakori__",
+        "verified": false
+      }
+    ]
+  }
+}

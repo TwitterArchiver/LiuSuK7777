@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1922957398618276214",
+    "created_at": "2025-05-15T10:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T11:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922958067081048415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1871474805578371072",
+          "start": 0,
+          "username": "8c4356"
+        },
+        {
+          "end": 21,
+          "id": "1521781722551103490",
+          "start": 8,
+          "username": "_XiaoYu_OvO_"
+        },
+        {
+          "end": 37,
+          "id": "1882563916632666112",
+          "start": 22,
+          "username": "hhjnjkoguyunmo"
+        },
+        {
+          "end": 49,
+          "id": "1646550974553522183",
+          "start": 38,
+          "username": "yeziyu7777"
+        },
+        {
+          "end": 59,
+          "id": "1802884729412161537",
+          "start": 50,
+          "username": "Realze47"
+        },
+        {
+          "end": 71,
+          "id": "1684994154550685696",
+          "start": 60,
+          "username": "zyh1428202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922958067081048415",
+    "in_reply_to_user_id": "1871474805578371072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922957972214362560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8c4356 @_XiaoYu_OvO_ @hhjnjkoguyunmo @yeziyu7777 @Realze47 @zyh1428202 妈妈"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1922957972214362560].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1922957972214362560",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1922957972214362560"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1922957398618276214",
+        "created_at": "2025-05-15T10:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T11:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922958067081048415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1871474805578371072",
+              "start": 0,
+              "username": "8c4356"
+            },
+            {
+              "end": 21,
+              "id": "1521781722551103490",
+              "start": 8,
+              "username": "_XiaoYu_OvO_"
+            },
+            {
+              "end": 37,
+              "id": "1882563916632666112",
+              "start": 22,
+              "username": "hhjnjkoguyunmo"
+            },
+            {
+              "end": 49,
+              "id": "1646550974553522183",
+              "start": 38,
+              "username": "yeziyu7777"
+            },
+            {
+              "end": 59,
+              "id": "1802884729412161537",
+              "start": 50,
+              "username": "Realze47"
+            },
+            {
+              "end": 71,
+              "id": "1684994154550685696",
+              "start": 60,
+              "username": "zyh1428202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922958067081048415",
+        "in_reply_to_user_id": "1871474805578371072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922957972214362560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8c4356 @_XiaoYu_OvO_ @hhjnjkoguyunmo @yeziyu7777 @Realze47 @zyh1428202 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": " 🔪‌",
+        "name": "流苏",
+        "pinned_tweet_id": "1922584505790972392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2033,
+          "following_count": 2298,
+          "like_count": 33297,
+          "listed_count": 11,
+          "media_count": 1057,
+          "tweet_count": 24732
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T08:36:08.000Z",
+        "description": "我有厌蠢症",
+        "id": "1871474805578371072",
+        "name": "satori",
+        "pinned_tweet_id": "1877150469887328539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922377735340539905/Su5jQsp2_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 157,
+          "like_count": 12714,
+          "listed_count": 2,
+          "media_count": 622,
+          "tweet_count": 5082
+        },
+        "username": "8c4356",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T09:20:23.000Z",
+        "description": "| 小破县城高二在读的笨蛋 | 奇怪的数字之071230和241002 | 可能会发带有各种情绪的推文 | 贴贴姐姐@porphyrin49 | 蹭蹭妹妹@Panxi___ | 呆受的k酱@raidraptormirai | hmm不知道说什么好了 祝看到的你开心快乐每一天awa（ '▿ ' ）|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "porphyrin49"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "Panxi___"
+              },
+              {
+                "end": 110,
+                "start": 94,
+                "username": "raidraptormirai"
+              }
+            ]
+          }
+        },
+        "id": "1521781722551103490",
+        "location": "距你2147483647米",
+        "name": "筱雨awa",
+        "pinned_tweet_id": "1922606074273661215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842600495145168896/d9a8nlO-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 215,
+          "like_count": 9386,
+          "listed_count": 1,
+          "media_count": 289,
+          "tweet_count": 1570
+        },
+        "username": "_XiaoYu_OvO_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T23:00:12.000Z",
+        "description": "学过国学、美术、c/c++、古建筑的小学五年级辍学废物，也是一名诗人，同时还是一位心学家，热爱中国文化，逍遥自在，无为无不为。喜欢交朋友，欢迎大家找我玩。😋\n挚友@Konekoutena",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "Konekoutena"
+              }
+            ]
+          }
+        },
+        "id": "1882563916632666112",
+        "name": "变成阿良河的顾云沫",
+        "pinned_tweet_id": "1913025345101725722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909435314600644608/kr_0pOtE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 324,
+          "like_count": 85672,
+          "listed_count": 6,
+          "media_count": 74,
+          "tweet_count": 12158
+        },
+        "username": "hhjnjkoguyunmo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T16:28:58.000Z",
+        "description": "这里是小叶or叶子｜ADHD｜拒绝见证｜社恐 喜欢贴贴？）｜睡觉爱好者｜笨蛋日常 搞砸是常态｜互fo随意～｜流苏会顶号｜唯一所爱之人@LiuSuK7777🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "LiuSuK7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yeziyu7771",
+                "end": 23,
+                "expanded_url": "http://ngl.link/yeziyu7771",
+                "start": 0,
+                "url": "https://t.co/omZuBL0LWf"
+              }
+            ]
+          }
+        },
+        "id": "1646550974553522183",
+        "name": "永远の叶_",
+        "pinned_tweet_id": "1895089052631867899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900535737810096128/aoUgCYAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 687,
+          "like_count": 59488,
+          "listed_count": 9,
+          "media_count": 361,
+          "tweet_count": 6136
+        },
+        "url": "https://t.co/omZuBL0LWf",
+        "username": "yeziyu7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T02:03:20.000Z",
+        "description": "保持该有的风度/\n可以叫我小真/呆萌小化合物@kgdyodyi /逃生舱@realze74",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "kgdyodyi"
+              },
+              {
+                "end": 45,
+                "start": 36,
+                "username": "realze74"
+              }
+            ]
+          }
+        },
+        "id": "1802884729412161537",
+        "location": "星夜下的宁静海面",
+        "name": "枫糖小真",
+        "pinned_tweet_id": "1887841528883687845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899403523537924096/zOlslRcV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 219,
+          "like_count": 129791,
+          "listed_count": 7,
+          "media_count": 340,
+          "tweet_count": 8651
+        },
+        "username": "Realze47",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T18:28:15.000Z",
+        "description": "你是猪\n可爱杂鱼木头入机矮子哑巴小萝莉流猪@LiuSuK7777/\n懒惰toki酱@TokiDustNights/\n可爱ros妹妹@rosmarinou/\n懒猪吃货涩批叶子@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "LiuSuK7777"
+              },
+              {
+                "end": 56,
+                "start": 41,
+                "username": "TokiDustNights"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "rosmarinou"
+              },
+              {
+                "end": 97,
+                "start": 86,
+                "username": "yeziyu7777"
+              }
+            ]
+          }
+        },
+        "id": "1684994154550685696",
+        "location": "北京",
+        "name": "9391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782822410603098112/lf37URSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 117,
+          "like_count": 1272,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1092
+        },
+        "username": "zyh1428202",
+        "verified": false
+      }
+    ]
+  }
+}

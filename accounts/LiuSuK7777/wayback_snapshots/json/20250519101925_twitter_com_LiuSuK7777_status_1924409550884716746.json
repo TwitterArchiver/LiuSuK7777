@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1924398651251794238",
+    "created_at": "2025-05-19T10:19:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T11:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924409550884716746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882268275574517760",
+          "start": 0,
+          "username": "Nagatayume2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924409550884716746",
+    "in_reply_to_user_id": "1882268275574517760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924408990097981771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nagatayume2 不"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1924408990097981771].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1924408990097981771",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1924408990097981771"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1924398651251794238",
+        "created_at": "2025-05-19T10:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T11:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924409550884716746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882268275574517760",
+              "start": 0,
+              "username": "Nagatayume2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924409550884716746",
+        "in_reply_to_user_id": "1882268275574517760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924408990097981771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nagatayume2 不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "😣",
+        "name": "流苏1号😺",
+        "pinned_tweet_id": "1923615398567833920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2046,
+          "following_count": 2307,
+          "like_count": 33549,
+          "listed_count": 11,
+          "media_count": 1066,
+          "tweet_count": 24951
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T03:25:13.000Z",
+        "description": "@Topia_Urbica",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "Topia_Urbica"
+              }
+            ]
+          }
+        },
+        "id": "1882268275574517760",
+        "location": "多瑙河联邦",
+        "name": "永田ゆめ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923561375143460864/lpJq41Mm_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 37,
+          "like_count": 2919,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 294
+        },
+        "username": "Nagatayume2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1930999334801457259",
+    "created_at": "2025-06-07T10:36:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T11:36:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931299242422980981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "936469476433948672",
+          "start": 0,
+          "username": "sugarie1l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931299242422980981",
+    "in_reply_to_user_id": "936469476433948672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931298749860794630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sugarie1l 看过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1930999334801457259",
+        "created_at": "2025-06-07T10:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T11:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931299242422980981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "936469476433948672",
+              "start": 0,
+              "username": "sugarie1l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931299242422980981",
+        "in_reply_to_user_id": "936469476433948672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931298749860794630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sugarie1l 看过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "936469476433948672",
+        "conversation_id": "1930999334801457259",
+        "created_at": "2025-06-07T10:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T11:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931298749860794630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931298749860794630",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930999334801457259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 补another"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏，Arcaea/明日方舟/舞萌DX/火影忍者，线上淫乱线下社恐，健全B无心理疾病，经常搞砸让所有人都不开心，生日2008.02.29 |唯一的主人@yeziyu7777/对象@zyh1428202 小号@Loveyezi8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1928493663765803223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2111,
+          "following_count": 2382,
+          "like_count": 34081,
+          "listed_count": 11,
+          "media_count": 1099,
+          "tweet_count": 25913
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-01T05:38:16.000Z",
+        "description": "我是05   48㎏的宝宝啊~\n还在上学，所以请不要过分打扰我的生活，谢谢啦，宝宝\n接定制原味哦吼吼吼吼\n喜欢和养🐱的男孩子交朋友\n有🚪，坐标处。2888老公位(0/1)。\n          畅联世界！无广告干扰，机场节点随便挑，自用蜂鸟VPN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=321Ln2or",
+                "start": 0,
+                "url": "https://t.co/2JZbm41GgZ"
+              }
+            ]
+          }
+        },
+        "id": "936469476433948672",
+        "location": "门288/588/2888",
+        "name": "啊y",
+        "pinned_tweet_id": "1929116503766413808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845672256636334080/S_ba85wN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18615,
+          "following_count": 8,
+          "like_count": 76,
+          "listed_count": 37,
+          "media_count": 273,
+          "tweet_count": 2141
+        },
+        "url": "https://t.co/2JZbm41GgZ",
+        "username": "sugarie1l",
+        "verified": false
+      }
+    ]
+  }
+}

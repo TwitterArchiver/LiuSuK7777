@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922442686046273536"
+      ],
+      "media_source_tweet_id": [
+        "1922442702987182471"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "conversation_id": "1922495245008126453",
+    "created_at": "2025-05-14T03:32:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T04:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922495245008126453"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "こいし",
+          "probability": 0.5281,
+          "start": 20,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 26,
+          "tag": "こいし"
+        },
+        {
+          "end": 37,
+          "start": 31,
+          "tag": "こいしの日"
+        },
+        {
+          "end": 53,
+          "start": 38,
+          "tag": "5月14日は古明地こいしの日"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1684174010417041408",
+          "start": 3,
+          "username": "syasorachannel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AGLs5rdAgQ",
+          "end": 77,
+          "expanded_url": "https://x.com/syasorachannel/status/1922442702987182471/photo/1",
+          "media_key": "3_1922442686046273536",
+          "start": 54,
+          "url": "https://t.co/AGLs5rdAgQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922495245008126453",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922442702987182471",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @syasorachannel: こいし💚\n\n#こいし #こいしの日 #5月14日は古明地こいしの日 https://t.co/AGLs5rdAgQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1922442686046273536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq3jb_rWAAATQgA.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922442686046273536"
+          ],
+          "media_source_tweet_id": [
+            "1922442702987182471"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "conversation_id": "1922495245008126453",
+        "created_at": "2025-05-14T03:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T04:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922495245008126453"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "こいし",
+              "probability": 0.5281,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "こいし"
+            },
+            {
+              "end": 37,
+              "start": 31,
+              "tag": "こいしの日"
+            },
+            {
+              "end": 53,
+              "start": 38,
+              "tag": "5月14日は古明地こいしの日"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1684174010417041408",
+              "start": 3,
+              "username": "syasorachannel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AGLs5rdAgQ",
+              "end": 77,
+              "expanded_url": "https://x.com/syasorachannel/status/1922442702987182471/photo/1",
+              "media_key": "3_1922442686046273536",
+              "start": 54,
+              "url": "https://t.co/AGLs5rdAgQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922495245008126453",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922442702987182471",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @syasorachannel: こいし💚\n\n#こいし #こいしの日 #5月14日は古明地こいしの日 https://t.co/AGLs5rdAgQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922442686046273536"
+          ]
+        },
+        "author_id": "1684174010417041408",
+        "conversation_id": "1922442702987182471",
+        "created_at": "2025-05-14T00:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T01:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922442702987182471"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "こいし",
+              "probability": 0.502,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 6,
+              "tag": "こいし"
+            },
+            {
+              "end": 17,
+              "start": 11,
+              "tag": "こいしの日"
+            },
+            {
+              "end": 33,
+              "start": 18,
+              "tag": "5月14日は古明地こいしの日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AGLs5rdAgQ",
+              "end": 57,
+              "expanded_url": "https://x.com/syasorachannel/status/1922442702987182471/photo/1",
+              "media_key": "3_1922442686046273536",
+              "start": 34,
+              "url": "https://t.co/AGLs5rdAgQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922442702987182471",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 1553,
+          "like_count": 232,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "こいし💚\n\n#こいし #こいしの日 #5月14日は古明地こいしの日 https://t.co/AGLs5rdAgQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": " 🔪‌",
+        "name": "流苏",
+        "pinned_tweet_id": "1921196565060088153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2032,
+          "following_count": 2287,
+          "like_count": 33078,
+          "listed_count": 11,
+          "media_count": 1051,
+          "tweet_count": 24567
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T12:09:22.000Z",
+        "description": "YouTubeでゆっくり茶番劇を投稿しています！チャンネル登録者20000人目標です！\n良ければチャンネル登録とTwitterのフォローよろしくお願いします！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@syasorara",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@syasorara",
+                "start": 0,
+                "url": "https://t.co/6VTSjkPHKK"
+              }
+            ]
+          }
+        },
+        "id": "1684174010417041408",
+        "name": "シャソラ@ゆっくり茶番劇",
+        "pinned_tweet_id": "1687440973520060416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907085366718550016/H3dnyA7i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1747,
+          "following_count": 55,
+          "like_count": 10,
+          "listed_count": 11,
+          "media_count": 372,
+          "tweet_count": 661
+        },
+        "url": "https://t.co/6VTSjkPHKK",
+        "username": "syasorachannel",
+        "verified": false
+      }
+    ]
+  }
+}

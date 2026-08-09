@@ -1,0 +1,556 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922309780623826944",
+        "3_1922309780636307456",
+        "3_1922309780431110149",
+        "3_1922309780443693056"
+      ],
+      "media_source_tweet_id": [
+        "1922309789759033352",
+        "1922309789759033352",
+        "1922309789759033352",
+        "1922309789759033352"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1922498989913502173",
+    "created_at": "2025-05-14T03:47:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T04:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922498989913502173"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 17,
+          "tag": "5月14日はこいしの日"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1316403974635810822",
+          "start": 3,
+          "username": "Ame_kii35AL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Oq5svrGVK9",
+          "end": 92,
+          "expanded_url": "https://x.com/Ame_kii35AL/status/1922309789759033352/photo/1",
+          "media_key": "3_1922309780623826944",
+          "start": 69,
+          "url": "https://t.co/Oq5svrGVK9"
+        },
+        {
+          "display_url": "pic.x.com/Oq5svrGVK9",
+          "end": 92,
+          "expanded_url": "https://x.com/Ame_kii35AL/status/1922309789759033352/photo/1",
+          "media_key": "3_1922309780636307456",
+          "start": 69,
+          "url": "https://t.co/Oq5svrGVK9"
+        },
+        {
+          "display_url": "pic.x.com/Oq5svrGVK9",
+          "end": 92,
+          "expanded_url": "https://x.com/Ame_kii35AL/status/1922309789759033352/photo/1",
+          "media_key": "3_1922309780431110149",
+          "start": 69,
+          "url": "https://t.co/Oq5svrGVK9"
+        },
+        {
+          "display_url": "pic.x.com/Oq5svrGVK9",
+          "end": 92,
+          "expanded_url": "https://x.com/Ame_kii35AL/status/1922309789759033352/photo/1",
+          "media_key": "3_1922309780443693056",
+          "start": 69,
+          "url": "https://t.co/Oq5svrGVK9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922498989913502173",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922309789759033352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ame_kii35AL: #5月14日はこいしの日\n今年描く時間無いから過去絵詰め合わせで許して……🙏\n本当は描きたかった！！😭 https://t.co/Oq5svrGVK9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1922309780623826944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq1qj4ZXoAAzaOi.jpg",
+        "width": 1488
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1922309780636307456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq1qj4cWEAAydvy.jpg",
+        "width": 1432
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1922309780431110149",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq1qj3rbAAUL0GL.jpg",
+        "width": 1790
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1922309780443693056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq1qj3ubAAAnkx2.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922309780623826944",
+            "3_1922309780636307456",
+            "3_1922309780431110149",
+            "3_1922309780443693056"
+          ],
+          "media_source_tweet_id": [
+            "1922309789759033352",
+            "1922309789759033352",
+            "1922309789759033352",
+            "1922309789759033352"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1922498989913502173",
+        "created_at": "2025-05-14T03:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T04:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922498989913502173"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 17,
+              "tag": "5月14日はこいしの日"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1316403974635810822",
+              "start": 3,
+              "username": "Ame_kii35AL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oq5svrGVK9",
+              "end": 92,
+              "expanded_url": "https://x.com/Ame_kii35AL/status/1922309789759033352/photo/1",
+              "media_key": "3_1922309780623826944",
+              "start": 69,
+              "url": "https://t.co/Oq5svrGVK9"
+            },
+            {
+              "display_url": "pic.x.com/Oq5svrGVK9",
+              "end": 92,
+              "expanded_url": "https://x.com/Ame_kii35AL/status/1922309789759033352/photo/1",
+              "media_key": "3_1922309780636307456",
+              "start": 69,
+              "url": "https://t.co/Oq5svrGVK9"
+            },
+            {
+              "display_url": "pic.x.com/Oq5svrGVK9",
+              "end": 92,
+              "expanded_url": "https://x.com/Ame_kii35AL/status/1922309789759033352/photo/1",
+              "media_key": "3_1922309780431110149",
+              "start": 69,
+              "url": "https://t.co/Oq5svrGVK9"
+            },
+            {
+              "display_url": "pic.x.com/Oq5svrGVK9",
+              "end": 92,
+              "expanded_url": "https://x.com/Ame_kii35AL/status/1922309789759033352/photo/1",
+              "media_key": "3_1922309780443693056",
+              "start": 69,
+              "url": "https://t.co/Oq5svrGVK9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922498989913502173",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922309789759033352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ame_kii35AL: #5月14日はこいしの日\n今年描く時間無いから過去絵詰め合わせで許して……🙏\n本当は描きたかった！！😭 https://t.co/Oq5svrGVK9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922309780623826944",
+            "3_1922309780636307456",
+            "3_1922309780431110149",
+            "3_1922309780443693056"
+          ]
+        },
+        "author_id": "1316403974635810822",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1922309789759033352",
+        "created_at": "2025-05-13T15:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T16:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922309789759033352"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "5月14日はこいしの日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oq5svrGVK9",
+              "end": 75,
+              "expanded_url": "https://x.com/Ame_kii35AL/status/1922309789759033352/photo/1",
+              "media_key": "3_1922309780623826944",
+              "start": 52,
+              "url": "https://t.co/Oq5svrGVK9"
+            },
+            {
+              "display_url": "pic.x.com/Oq5svrGVK9",
+              "end": 75,
+              "expanded_url": "https://x.com/Ame_kii35AL/status/1922309789759033352/photo/1",
+              "media_key": "3_1922309780636307456",
+              "start": 52,
+              "url": "https://t.co/Oq5svrGVK9"
+            },
+            {
+              "display_url": "pic.x.com/Oq5svrGVK9",
+              "end": 75,
+              "expanded_url": "https://x.com/Ame_kii35AL/status/1922309789759033352/photo/1",
+              "media_key": "3_1922309780431110149",
+              "start": 52,
+              "url": "https://t.co/Oq5svrGVK9"
+            },
+            {
+              "display_url": "pic.x.com/Oq5svrGVK9",
+              "end": 75,
+              "expanded_url": "https://x.com/Ame_kii35AL/status/1922309789759033352/photo/1",
+              "media_key": "3_1922309780443693056",
+              "start": 52,
+              "url": "https://t.co/Oq5svrGVK9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922309789759033352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1022,
+          "like_count": 118,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "#5月14日はこいしの日\n今年描く時間無いから過去絵詰め合わせで許して……🙏\n本当は描きたかった！！😭 https://t.co/Oq5svrGVK9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": " 🔪‌",
+        "name": "流苏",
+        "pinned_tweet_id": "1921196565060088153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2032,
+          "following_count": 2287,
+          "like_count": 33129,
+          "listed_count": 11,
+          "media_count": 1051,
+          "tweet_count": 24622
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-14T15:42:32.000Z",
+        "description": "のんびり絵を描いて投稿してます✍️ 水彩絵が大好きです……！アニメと東方、少女漫画も好きです！/ 東方中心にイラストを投稿してます/アリスちゃん、魔理霖ラブ/無言フォロー失礼します🙇 仲良くしてくれると嬉しいです🙌 pixiv→https://t.co/ZXP8QgRutr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/78937472",
+                "end": 137,
+                "expanded_url": "https://www.pixiv.net/users/78937472",
+                "start": 114,
+                "url": "https://t.co/ZXP8QgRutr"
+              }
+            ]
+          }
+        },
+        "id": "1316403974635810822",
+        "location": "AI学習・無断転載禁止",
+        "name": "雨杜きい☂",
+        "pinned_tweet_id": "1812864713568715153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911355897051324416/7QOai-WS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 209,
+          "like_count": 37320,
+          "listed_count": 20,
+          "media_count": 322,
+          "tweet_count": 5978
+        },
+        "username": "Ame_kii35AL",
+        "verified": false
+      }
+    ]
+  }
+}

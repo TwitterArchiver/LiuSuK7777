@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1922961665273843940",
+    "created_at": "2025-05-16T01:35:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T02:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923190496559616114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1595256791532998657",
+          "start": 0,
+          "username": "QED05107807"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923190496559616114",
+    "in_reply_to_user_id": "1595256791532998657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923167019903467553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QED05107807 不要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1922961665273843940",
+        "created_at": "2025-05-16T01:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T02:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923190496559616114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1595256791532998657",
+              "start": 0,
+              "username": "QED05107807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923190496559616114",
+        "in_reply_to_user_id": "1595256791532998657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923167019903467553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QED05107807 不要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595256791532998657",
+        "conversation_id": "1922961665273843940",
+        "created_at": "2025-05-16T00:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T01:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923167019903467553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923167019903467553",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922961665273843940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 加油~争取到负数（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": " 🔪‌",
+        "name": "流苏",
+        "pinned_tweet_id": "1922584505790972392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2036,
+          "following_count": 2300,
+          "like_count": 33318,
+          "listed_count": 11,
+          "media_count": 1058,
+          "tweet_count": 24746
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-23T03:24:01.000Z",
+        "description": "友跨丨法学生，需要法律援助可随时联系我丨HiFi发烧人丨减肥女装中丨舞萌吃丨ISTJ丨 老婆：  @Hatsushigure_c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "Hatsushigure_c"
+              }
+            ]
+          }
+        },
+        "id": "1595256791532998657",
+        "name": "冰牛奶里加糯米",
+        "pinned_tweet_id": "1845133955533873381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922451146150727680/PHNU_yZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 9,
+          "like_count": 1301,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 854
+        },
+        "username": "QED05107807",
+        "verified": false
+      }
+    ]
+  }
+}

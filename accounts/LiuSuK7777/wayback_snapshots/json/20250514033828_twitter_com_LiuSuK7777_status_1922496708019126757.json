@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922381016288919553"
+      ],
+      "media_source_tweet_id": [
+        "1922384888939831480"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1922496708019126757",
+    "created_at": "2025-05-14T03:38:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T04:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922496708019126757"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 18,
+          "tag": "5月14日はこいしの日"
+        },
+        {
+          "end": 41,
+          "start": 31,
+          "tag": "東方Project"
+        },
+        {
+          "end": 49,
+          "start": 42,
+          "tag": "古明地こいし"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1633063639136768001",
+          "start": 3,
+          "username": "pulegiummint"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dJgttN1OSN",
+          "end": 73,
+          "expanded_url": "https://x.com/pulegiummint/status/1922384888939831480/photo/1",
+          "media_key": "3_1922381016288919553",
+          "start": 50,
+          "url": "https://t.co/dJgttN1OSN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922496708019126757",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 113
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922384888939831480",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pulegiummint: #5月14日はこいしの日 #東方Project #古明地こいし https://t.co/dJgttN1OSN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1922381016288919553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq2rWV7bAAEGMi-.jpg",
+        "width": 2896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922381016288919553"
+          ],
+          "media_source_tweet_id": [
+            "1922384888939831480"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1922496708019126757",
+        "created_at": "2025-05-14T03:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T04:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922496708019126757"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 18,
+              "tag": "5月14日はこいしの日"
+            },
+            {
+              "end": 41,
+              "start": 31,
+              "tag": "東方Project"
+            },
+            {
+              "end": 49,
+              "start": 42,
+              "tag": "古明地こいし"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1633063639136768001",
+              "start": 3,
+              "username": "pulegiummint"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dJgttN1OSN",
+              "end": 73,
+              "expanded_url": "https://x.com/pulegiummint/status/1922384888939831480/photo/1",
+              "media_key": "3_1922381016288919553",
+              "start": 50,
+              "url": "https://t.co/dJgttN1OSN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922496708019126757",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 113
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922384888939831480",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pulegiummint: #5月14日はこいしの日 #東方Project #古明地こいし https://t.co/dJgttN1OSN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922381016288919553"
+          ]
+        },
+        "author_id": "1633063639136768001",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1922384888939831480",
+        "created_at": "2025-05-13T20:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T21:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922384888939831480"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "5月14日はこいしの日"
+            },
+            {
+              "end": 23,
+              "start": 13,
+              "tag": "東方Project"
+            },
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "古明地こいし"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dJgttN1OSN",
+              "end": 55,
+              "expanded_url": "https://x.com/pulegiummint/status/1922384888939831480/photo/1",
+              "media_key": "3_1922381016288919553",
+              "start": 32,
+              "url": "https://t.co/dJgttN1OSN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922384888939831480",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 3794,
+          "like_count": 464,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "#5月14日はこいしの日 #東方Project #古明地こいし https://t.co/dJgttN1OSN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": " 🔪‌",
+        "name": "流苏",
+        "pinned_tweet_id": "1921196565060088153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2032,
+          "following_count": 2287,
+          "like_count": 33108,
+          "listed_count": 11,
+          "media_count": 1051,
+          "tweet_count": 24596
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-07T11:15:44.000Z",
+        "description": "",
+        "id": "1633063639136768001",
+        "name": "メグサハッカ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1633064336066514944/oDcXBFWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 134,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 21
+        },
+        "username": "pulegiummint",
+        "verified": false
+      }
+    ]
+  }
+}

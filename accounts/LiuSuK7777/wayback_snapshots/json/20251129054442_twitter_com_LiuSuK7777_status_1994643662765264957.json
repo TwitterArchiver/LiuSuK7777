@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1994455247788675322",
+    "created_at": "2025-11-29T05:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T06:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994643662765264957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1682084166798815232",
+          "start": 0,
+          "username": "wuminzhe45"
+        },
+        {
+          "end": 22,
+          "id": "1936807629650841600",
+          "start": 12,
+          "username": "Yangyu396"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994643662765264957",
+    "in_reply_to_user_id": "1682084166798815232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994635755726278901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuminzhe45 @Yangyu396 干嘛啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1994455247788675322",
+        "created_at": "2025-11-29T05:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T06:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994643662765264957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1682084166798815232",
+              "start": 0,
+              "username": "wuminzhe45"
+            },
+            {
+              "end": 22,
+              "id": "1936807629650841600",
+              "start": 12,
+              "username": "Yangyu396"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994643662765264957",
+        "in_reply_to_user_id": "1682084166798815232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994635755726278901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuminzhe45 @Yangyu396 干嘛啊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682084166798815232",
+        "conversation_id": "1994455247788675322",
+        "created_at": "2025-11-29T05:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T06:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994635755726278901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            },
+            {
+              "end": 22,
+              "id": "1936807629650841600",
+              "start": 12,
+              "username": "Yangyu396"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994635755726278901",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994455247788675322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 @Yangyu396"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1994457982331961835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993261518008598535/GunVE9W__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2830,
+          "following_count": 2690,
+          "like_count": 35388,
+          "listed_count": 13,
+          "media_count": 1528,
+          "tweet_count": 32441
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T17:45:30.000Z",
+        "description": "正天雾行 天祁证名 天渦亦旋",
+        "id": "1682084166798815232",
+        "location": "🚪88 送你个教训",
+        "name": "annakamusha(镜心通明)(喵派)(托管ing）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891145214200598528/5A9KPMtG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 1911,
+          "like_count": 7962,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 2443
+        },
+        "username": "wuminzhe45",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T15:25:28.000Z",
+        "description": "Soar as a free Butterfly across the Sky",
+        "id": "1936807629650841600",
+        "name": "AzureSky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966865447036628992/gw2VUov__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 38,
+          "like_count": 186,
+          "listed_count": 3,
+          "media_count": 30,
+          "tweet_count": 121
+        },
+        "username": "Yangyu396",
+        "verified": false
+      }
+    ]
+  }
+}

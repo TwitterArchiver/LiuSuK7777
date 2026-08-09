@@ -1,0 +1,475 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      }
+    ],
+    "conversation_id": "1970770035846381755",
+    "created_at": "2025-09-24T08:39:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T09:39:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970770035846381755"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 51,
+          "normalized_text": "In Falsus",
+          "probability": 0.8232,
+          "start": 43,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 129,
+          "start": 120,
+          "tag": "infalsus"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "794253237880815617",
+          "start": 3,
+          "username": "arcaea_jp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970770035846381755",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 126
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970761945058836665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @arcaea_jp: lowiroが贈る、\n次なる音楽ゲームプロジェクト。\n『In Falsus』の新トレーラーが公開されました。\n\nリズムゲームと、カード形成システム、\n新たな世界の一端が覗ける、\nゲーム紹介トレーラーはこちら。\n#infalsus"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "1970770035846381755",
+        "created_at": "2025-09-24T08:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T09:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970770035846381755"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 51,
+              "normalized_text": "In Falsus",
+              "probability": 0.8232,
+              "start": 43,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 129,
+              "start": 120,
+              "tag": "infalsus"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "794253237880815617",
+              "start": 3,
+              "username": "arcaea_jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970770035846381755",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 126
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970761945058836665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @arcaea_jp: lowiroが贈る、\n次なる音楽ゲームプロジェクト。\n『In Falsus』の新トレーラーが公開されました。\n\nリズムゲームと、カード形成システム、\n新たな世界の一端が覗ける、\nゲーム紹介トレーラーはこちら。\n#infalsus"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "794253237880815617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "1970761945058836665",
+        "created_at": "2025-09-24T08:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T09:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970761945058836665"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "In Falsus",
+              "probability": 0.8414,
+              "start": 28,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 114,
+              "start": 105,
+              "tag": "infalsus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/infalsus_jp/st…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/infalsus_jp/status/1970760112836153522",
+              "start": 115,
+              "url": "https://t.co/tHb4nyp6fQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970761945058836665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 14295,
+          "like_count": 404,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 126
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970760112836153522",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "lowiroが贈る、\n次なる音楽ゲームプロジェクト。\n『In Falsus』の新トレーラーが公開されました。\n\nリズムゲームと、カード形成システム、\n新たな世界の一端が覗ける、\nゲーム紹介トレーラーはこちら。\n#infalsus https://t.co/tHb4nyp6fQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969600938567745538/genz-feI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2658,
+          "following_count": 2643,
+          "like_count": 35395,
+          "listed_count": 14,
+          "media_count": 1387,
+          "tweet_count": 30480
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-03T19:01:43.000Z",
+        "description": "リズムゲーム「Arcaea」の日本語公式アカウントです。\nハッシュタグは #arcaea #arcaea_art にて。\n\nスタッフ: @lowiro_staff\nアプリ: https://t.co/U7N2ktpWAZ\n問い合わせ先: contact@lowiro.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 37,
+                "tag": "arcaea"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "tag": "arcaea_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 81,
+                "start": 68,
+                "username": "lowiro_staff"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "arcaea.app",
+                "end": 110,
+                "expanded_url": "http://arcaea.app",
+                "start": 87,
+                "url": "https://t.co/U7N2ktpWAZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arcaea.lowiro.com",
+                "end": 23,
+                "expanded_url": "http://arcaea.lowiro.com",
+                "start": 0,
+                "url": "https://t.co/gWkVUOBOCO"
+              }
+            ]
+          }
+        },
+        "id": "794253237880815617",
+        "name": "Arcaea公式",
+        "pinned_tweet_id": "1970276928105185399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1103981080565239808/FxtXDquZ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170505,
+          "following_count": 27,
+          "like_count": 55,
+          "listed_count": 952,
+          "media_count": 973,
+          "tweet_count": 1650
+        },
+        "url": "https://t.co/gWkVUOBOCO",
+        "username": "arcaea_jp",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1980540998838284487",
+    "created_at": "2025-10-21T11:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T12:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980591146071138357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1891362165317410816",
+          "start": 0,
+          "username": "Kris_Dreammer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980591146071138357",
+    "in_reply_to_user_id": "1891362165317410816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980540998838284487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kris_Dreammer 不要啊😭😭😭我只是没刷到你😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_1980540985839939584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3xLiIQXcAAi4MH.jpg",
+        "width": 2080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1980540998838284487",
+        "created_at": "2025-10-21T11:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T12:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980591146071138357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891362165317410816",
+              "start": 0,
+              "username": "Kris_Dreammer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980591146071138357",
+        "in_reply_to_user_id": "1891362165317410816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980540998838284487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kris_Dreammer 不要啊😭😭😭我只是没刷到你😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980540985839939584"
+          ]
+        },
+        "author_id": "1891362165317410816",
+        "conversation_id": "1980540998838284487",
+        "created_at": "2025-10-21T07:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T08:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980540998838284487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1JUtGcT67t",
+              "end": 66,
+              "expanded_url": "https://x.com/Kris_Dreammer/status/1980540998838284487/photo/1",
+              "media_key": "3_1980540985839939584",
+              "start": 43,
+              "url": "https://t.co/1JUtGcT67t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980540998838284487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就知道我发了亚硝酸钠也没有人在意，我本来就没有人在意过我\n那我死的时候也偷偷死吧😌 https://t.co/1JUtGcT67t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "Error",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏苏苏",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976703554758098945/2sn3KBuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2783,
+          "following_count": 2676,
+          "like_count": 35511,
+          "listed_count": 14,
+          "media_count": 1451,
+          "tweet_count": 31424
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T05:41:05.000Z",
+        "description": "大家都要有美好和光明的未来，我也希望大家能好好的活下去",
+        "id": "1891362165317410816",
+        "location": "医院",
+        "name": "kris",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894946127629426688/RKH6WAzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 236,
+          "like_count": 1810,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 937
+        },
+        "username": "Kris_Dreammer",
+        "verified": false
+      }
+    ]
+  }
+}

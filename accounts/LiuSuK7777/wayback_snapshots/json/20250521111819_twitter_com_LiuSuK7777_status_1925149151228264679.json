@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1925135985534542145",
+    "created_at": "2025-05-21T11:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T12:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925149151228264679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1889560556425891840",
+          "start": 0,
+          "username": "Hosh1No1231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925149151228264679",
+    "in_reply_to_user_id": "1889560556425891840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925135985534542145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hosh1No1231 我是没用的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2184,
+        "media_key": "3_1925135981235388416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grd0-aHbwAAZ_aN.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1925135985534542145",
+        "created_at": "2025-05-21T11:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T12:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925149151228264679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1889560556425891840",
+              "start": 0,
+              "username": "Hosh1No1231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925149151228264679",
+        "in_reply_to_user_id": "1889560556425891840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925135985534542145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hosh1No1231 我是没用的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925135981235388416"
+          ]
+        },
+        "author_id": "1889560556425891840",
+        "conversation_id": "1925135985534542145",
+        "created_at": "2025-05-21T10:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T11:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925135985534542145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FPIhU0BWco",
+              "end": 73,
+              "expanded_url": "https://x.com/Hosh1No1231/status/1925135985534542145/photo/1",
+              "media_key": "3_1925135981235388416",
+              "start": 50,
+              "url": "https://t.co/FPIhU0BWco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925135985534542145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是没用的孩子？\n就因为没有才能，所以就算再怎么努力也没有意义..那种事 不要擅自下结论啊！... https://t.co/FPIhU0BWco"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "😣",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1923615398567833920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2049,
+          "following_count": 2314,
+          "like_count": 33688,
+          "listed_count": 11,
+          "media_count": 1071,
+          "tweet_count": 25134
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-12T06:22:42.000Z",
+        "description": "是coser 喜欢去漫展玩 全星野cos收集  喜欢可爱的事物 喜欢被可爱治愈 体重89斤 邦邦人 25时队员 如果找我一起出c玩 会很开心 感谢喜欢",
+        "id": "1889560556425891840",
+        "location": "阿拜多斯委员会",
+        "name": "晓山瑞希♪",
+        "pinned_tweet_id": "1898788288443699392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923790810027290624/JJnQzoHI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4103,
+          "following_count": 79,
+          "like_count": 270,
+          "listed_count": 10,
+          "media_count": 60,
+          "tweet_count": 171
+        },
+        "username": "Hosh1No1231",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922306396281880576"
+      ],
+      "media_source_tweet_id": [
+        "1922306644748194031"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1922495782390804832",
+    "created_at": "2025-05-14T03:34:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T04:34:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922495782390804832"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 30,
+          "tag": "5月14日はこいしの日"
+        },
+        {
+          "end": 54,
+          "start": 44,
+          "tag": "東方Project"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2986349935",
+          "start": 3,
+          "username": "LineSnowdrop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kexd3mCdbV",
+          "end": 78,
+          "expanded_url": "https://x.com/LineSnowdrop/status/1922306644748194031/photo/1",
+          "media_key": "3_1922306396281880576",
+          "start": 55,
+          "url": "https://t.co/kexd3mCdbV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922495782390804832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 233
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922306644748194031",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LineSnowdrop: 反応「妖怪ポリグラフ」\n#5月14日はこいしの日 \n#東方Project https://t.co/kexd3mCdbV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3624,
+        "media_key": "3_1922306396281880576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq1ne4vXwAAFPCe.jpg",
+        "width": 2591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922306396281880576"
+          ],
+          "media_source_tweet_id": [
+            "1922306644748194031"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1922495782390804832",
+        "created_at": "2025-05-14T03:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T04:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922495782390804832"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 30,
+              "tag": "5月14日はこいしの日"
+            },
+            {
+              "end": 54,
+              "start": 44,
+              "tag": "東方Project"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2986349935",
+              "start": 3,
+              "username": "LineSnowdrop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kexd3mCdbV",
+              "end": 78,
+              "expanded_url": "https://x.com/LineSnowdrop/status/1922306644748194031/photo/1",
+              "media_key": "3_1922306396281880576",
+              "start": 55,
+              "url": "https://t.co/kexd3mCdbV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922495782390804832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 233
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922306644748194031",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LineSnowdrop: 反応「妖怪ポリグラフ」\n#5月14日はこいしの日 \n#東方Project https://t.co/kexd3mCdbV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922306396281880576"
+          ]
+        },
+        "author_id": "2986349935",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1922306644748194031",
+        "created_at": "2025-05-13T15:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T16:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922306644748194031"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 12,
+              "tag": "5月14日はこいしの日"
+            },
+            {
+              "end": 36,
+              "start": 26,
+              "tag": "東方Project"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kexd3mCdbV",
+              "end": 60,
+              "expanded_url": "https://x.com/LineSnowdrop/status/1922306644748194031/photo/1",
+              "media_key": "3_1922306396281880576",
+              "start": 37,
+              "url": "https://t.co/kexd3mCdbV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922306644748194031",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 7923,
+          "like_count": 791,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 233
+        },
+        "reply_settings": "everyone",
+        "text": "反応「妖怪ポリグラフ」\n#5月14日はこいしの日 \n#東方Project https://t.co/kexd3mCdbV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": " 🔪‌",
+        "name": "流苏",
+        "pinned_tweet_id": "1921196565060088153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2032,
+          "following_count": 2287,
+          "like_count": 33083,
+          "listed_count": 11,
+          "media_count": 1051,
+          "tweet_count": 24571
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-17T02:10:27.000Z",
+        "description": "古明地こいしをよく描いている 絵描き🎨 AI学習お断り 投稿頻度はマイペース",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=14670555",
+                "start": 0,
+                "url": "https://t.co/actoxCepyS"
+              }
+            ]
+          }
+        },
+        "id": "2986349935",
+        "location": "同人サークル Delirium Drop（D.D）",
+        "name": "スノードロップ",
+        "pinned_tweet_id": "1922306644748194031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666056452635791362/JtXcgCJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1394,
+          "following_count": 512,
+          "like_count": 29075,
+          "listed_count": 19,
+          "media_count": 3177,
+          "tweet_count": 44774
+        },
+        "url": "https://t.co/actoxCepyS",
+        "username": "LineSnowdrop",
+        "verified": false
+      }
+    ]
+  }
+}

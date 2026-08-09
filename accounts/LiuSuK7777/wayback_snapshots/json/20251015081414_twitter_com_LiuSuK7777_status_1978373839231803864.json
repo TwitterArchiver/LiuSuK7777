@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1978316119586087010",
+    "created_at": "2025-10-15T08:14:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T09:14:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978373839231803864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1551454468398411776",
+          "start": 0,
+          "username": "chosen_shotgun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978373839231803864",
+    "in_reply_to_user_id": "1551454468398411776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978321212821455114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chosen_shotgun 不会杀你的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1978316119586087010",
+        "created_at": "2025-10-15T08:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T09:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978373839231803864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1551454468398411776",
+              "start": 0,
+              "username": "chosen_shotgun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978373839231803864",
+        "in_reply_to_user_id": "1551454468398411776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978321212821455114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chosen_shotgun 不会杀你的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551454468398411776",
+        "conversation_id": "1978316119586087010",
+        "created_at": "2025-10-15T04:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T05:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978321212821455114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978321212821455114",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978316119586087010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 不要鲨我😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分基本上是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！\n主人♡@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb700j"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "K",
+        "pinned_tweet_id": "1969402004972978486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976703554758098945/2sn3KBuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2767,
+          "following_count": 2678,
+          "like_count": 35499,
+          "listed_count": 14,
+          "media_count": 1435,
+          "tweet_count": 31253
+        },
+        "url": "https://t.co/2xm6Tb700j",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T06:29:18.000Z",
+        "description": "############################ -------------------------------------------------------- 已授權資訊： 霰霰啦 /一個自認為特別卻很平凡的人/不定時負面炸彈/INFP-T/ FPS+音遊再加上一點點的遊戲王/ 拜託跟我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/chosen_shotgun",
+                "end": 23,
+                "expanded_url": "https://twitch.tv/chosen_shotgun",
+                "start": 0,
+                "url": "https://t.co/YTQhxHtrfN"
+              }
+            ]
+          }
+        },
+        "id": "1551454468398411776",
+        "location": "hardcore的kick中爆發出的音壓裡",
+        "name": "霰霰啦|想被RNGsus眷顧系",
+        "pinned_tweet_id": "1613192002644119556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853608192183574528/vWuIszPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 466,
+          "like_count": 16006,
+          "listed_count": 4,
+          "media_count": 966,
+          "tweet_count": 10193
+        },
+        "url": "https://t.co/YTQhxHtrfN",
+        "username": "chosen_shotgun",
+        "verified": false
+      }
+    ]
+  }
+}

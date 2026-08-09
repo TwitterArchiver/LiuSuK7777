@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1923010497118450032",
+    "created_at": "2025-05-16T01:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T02:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923190539450556424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1811601429800607744",
+          "start": 0,
+          "username": "right1539491"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923190539450556424",
+    "in_reply_to_user_id": "1811601429800607744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923089211684540731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@right1539491 可以哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1923010497118450032",
+        "created_at": "2025-05-16T01:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T02:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923190539450556424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811601429800607744",
+              "start": 0,
+              "username": "right1539491"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923190539450556424",
+        "in_reply_to_user_id": "1811601429800607744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923089211684540731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@right1539491 可以哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811601429800607744",
+        "conversation_id": "1923010497118450032",
+        "created_at": "2025-05-15T18:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T19:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923089211684540731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923089211684540731",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923010497118450032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 流苏男孩 可以聊聊天吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": " 🔪‌",
+        "name": "流苏",
+        "pinned_tweet_id": "1922584505790972392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2036,
+          "following_count": 2300,
+          "like_count": 33319,
+          "listed_count": 11,
+          "media_count": 1058,
+          "tweet_count": 24747
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T03:20:41.000Z",
+        "description": "04  有男友 私信挑着回（最爱年下版）",
+        "id": "1811601429800607744",
+        "name": "水色约定 right_",
+        "pinned_tweet_id": "1870723341126144465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908227721446174720/pG34orT4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3055,
+          "following_count": 15,
+          "like_count": 282,
+          "listed_count": 9,
+          "media_count": 43,
+          "tweet_count": 472
+        },
+        "username": "right1539491",
+        "verified": false
+      }
+    ]
+  }
+}

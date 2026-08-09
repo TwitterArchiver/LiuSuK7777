@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1905957759654428916",
+    "created_at": "2025-03-29T12:18:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T13:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905957759654428916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1532663208393117696",
+          "start": 3,
+          "username": "Ziverk2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905957759654428916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905949157153714440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ziverk2: 我真该死，明明今天朋友就不开心的，我还发这些狗屁负面帖子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1905957759654428916",
+        "created_at": "2025-03-29T12:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T13:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905957759654428916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1532663208393117696",
+              "start": 3,
+              "username": "Ziverk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905957759654428916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905949157153714440",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ziverk2: 我真该死，明明今天朋友就不开心的，我还发这些狗屁负面帖子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1532663208393117696",
+        "conversation_id": "1905949157153714440",
+        "created_at": "2025-03-29T11:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T12:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905949157153714440"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905949157153714440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我真该死，明明今天朋友就不开心的，我还发这些狗屁负面帖子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "💞@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "AAA_流苏批发",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1679,
+          "following_count": 1997,
+          "like_count": 29353,
+          "listed_count": 13,
+          "media_count": 857,
+          "tweet_count": 20507
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T09:59:29.000Z",
+        "description": "一只没有成年的成年猫猫w\n|MTX(F)🏳️‍⚧️🍥 SINCE 2024.11\n| Esperanto!\n|间歇发病(紫餐不o)\n| PUBGM |飞车|战双..\n| 原生JS(+PHP) Web\n| Java(+Lua)原生安卓开发\n| Office @mtitstudio",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 128,
+                "username": "mtitstudio"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "einashome.byethost22.com",
+                "end": 23,
+                "expanded_url": "http://einashome.byethost22.com",
+                "start": 0,
+                "url": "https://t.co/AFyZbAfS0k"
+              }
+            ]
+          }
+        },
+        "id": "1532663208393117696",
+        "location": "Tianfu",
+        "name": "Einaちゃん🍥（=^𖥦^=）~",
+        "pinned_tweet_id": "1884407282454482944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864480412086439936/I2-BmRO2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2023,
+          "following_count": 4291,
+          "like_count": 121631,
+          "listed_count": 7,
+          "media_count": 89,
+          "tweet_count": 8046
+        },
+        "url": "https://t.co/AFyZbAfS0k",
+        "username": "Ziverk2",
+        "verified": false
+      }
+    ]
+  }
+}

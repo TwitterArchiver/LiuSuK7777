@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1938271121188786675",
+    "created_at": "2025-06-26T16:52:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T17:52:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938279170343375098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1908810911705681920",
+          "start": 0,
+          "username": "IzumiKonata2016"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938279170343375098",
+    "in_reply_to_user_id": "1908810911705681920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938278639273185655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IzumiKonata2016 孩子们我没事"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1938278639273185655].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1938278639273185655",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1938278639273185655"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1938271121188786675",
+        "created_at": "2025-06-26T16:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T17:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938279170343375098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1908810911705681920",
+              "start": 0,
+              "username": "IzumiKonata2016"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938279170343375098",
+        "in_reply_to_user_id": "1908810911705681920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938278639273185655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IzumiKonata2016 孩子们我没事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男|Arcaea|明日方舟|舞萌DX|火影忍者|社恐健全B|2008.02.29 |主人@yeziyu7777对象@zyh1428202小号@Loveyezi8964\n微信用户名同推特用户名",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1936314364468105461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938261836593565700/RpK124sZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2203,
+          "following_count": 2471,
+          "like_count": 34401,
+          "listed_count": 10,
+          "media_count": 1143,
+          "tweet_count": 26932
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T09:16:10.000Z",
+        "description": "Izumi Konata逃生舱&里 脸熟过",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/izumikonata2024",
+                "end": 23,
+                "expanded_url": "https://ngl.link/izumikonata2024",
+                "start": 0,
+                "url": "https://t.co/qQ374NgIFI"
+              }
+            ]
+          }
+        },
+        "id": "1908810911705681920",
+        "location": "everywhere",
+        "name": "泉こなた",
+        "pinned_tweet_id": "1937492861533950226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935375217142153217/EdnFbCyu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 523,
+          "like_count": 4399,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1795
+        },
+        "url": "https://t.co/qQ374NgIFI",
+        "username": "IzumiKonata2016",
+        "verified": false
+      }
+    ]
+  }
+}

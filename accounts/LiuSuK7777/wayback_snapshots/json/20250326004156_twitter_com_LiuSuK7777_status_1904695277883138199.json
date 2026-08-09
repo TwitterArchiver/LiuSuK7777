@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1904692815767937328",
+    "created_at": "2025-03-26T00:41:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T01:41:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904695277883138199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1893026488662007810",
+          "start": 0,
+          "username": "AnoSoy0rin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904695277883138199",
+    "in_reply_to_user_id": "1893026488662007810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904694427039523056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnoSoy0rin 这聊天记录简直逆天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1904692815767937328",
+        "created_at": "2025-03-26T00:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T01:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904695277883138199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1893026488662007810",
+              "start": 0,
+              "username": "AnoSoy0rin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904695277883138199",
+        "in_reply_to_user_id": "1893026488662007810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904694427039523056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnoSoy0rin 这聊天记录简直逆天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893026488662007810",
+        "conversation_id": "1904692815767937328",
+        "created_at": "2025-03-26T00:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T01:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904694427039523056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904694427039523056",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904692815767937328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 叶压抑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "生病中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "☆流苏☆🐱IP杭州（100%互fo）",
+        "pinned_tweet_id": "1903751125427515801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1667,
+          "following_count": 1970,
+          "like_count": 28945,
+          "listed_count": 13,
+          "media_count": 837,
+          "tweet_count": 19801
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T19:54:32.000Z",
+        "description": "社交用（存疑）账号，主要用于人类观察，可能不定期存放点每日随笔。",
+        "id": "1893026488662007810",
+        "location": "武汉",
+        "name": "幽沐",
+        "pinned_tweet_id": "1901287348106559864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895516629334941696/OFBQQUM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 251,
+          "like_count": 3772,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 1642
+        },
+        "username": "AnoSoy0rin",
+        "verified": false
+      }
+    ]
+  }
+}

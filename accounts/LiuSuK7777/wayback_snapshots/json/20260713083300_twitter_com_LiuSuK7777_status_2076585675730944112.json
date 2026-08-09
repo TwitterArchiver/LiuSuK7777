@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1994690731018260869",
+    "created_at": "2026-07-13T08:33:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T09:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076585675730944112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2053395474531463168",
+          "start": 0,
+          "username": "SuSuiqian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076585675730944112",
+    "in_reply_to_user_id": "2053395474531463168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076550128782168278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuSuiqian 再换一次升星级"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1994690731018260869",
+        "created_at": "2026-07-13T08:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T09:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076585675730944112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053395474531463168",
+              "start": 0,
+              "username": "SuSuiqian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076585675730944112",
+        "in_reply_to_user_id": "2053395474531463168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076550128782168278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuSuiqian 再换一次升星级"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053395474531463168",
+        "conversation_id": "1994690731018260869",
+        "created_at": "2026-07-13T06:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076550128782168278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076550128782168278",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994690731018260869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 现在换四星对么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 杭州 08年 舞萌/东方/Arcaea/明日方舟/三角洲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2068533981818290551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060157452931465216/9MujmSVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3573,
+          "following_count": 2738,
+          "like_count": 34262,
+          "listed_count": 14,
+          "media_count": 1697,
+          "tweet_count": 35230
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T08:44:22.000Z",
+        "description": "",
+        "id": "2053395474531463168",
+        "name": "苏随芊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053396111533162496/P9XgYFAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "SuSuiqian",
+        "verified": false
+      }
+    ]
+  }
+}

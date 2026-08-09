@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1943138111359443228",
+    "created_at": "2025-07-10T08:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T09:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943229987294974417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1940297187302526976",
+          "start": 0,
+          "username": "MaoLi95469"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943229987294974417",
+    "in_reply_to_user_id": "1940297187302526976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943198038677471679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaoLi95469 没看懂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1943138111359443228",
+        "created_at": "2025-07-10T08:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T09:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943229987294974417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1940297187302526976",
+              "start": 0,
+              "username": "MaoLi95469"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943229987294974417",
+        "in_reply_to_user_id": "1940297187302526976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943198038677471679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaoLi95469 没看懂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940297187302526976",
+        "conversation_id": "1943138111359443228",
+        "created_at": "2025-07-10T06:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T07:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943198038677471679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943198038677471679",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943138111359443228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 一看就是公跨啊，除了公跨还有正常人简介at一串姐姐妹妹吗，点进去一看全是公的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "主人@yeziyu7777\n对象@zyh1428202\n小号@Loveyezi8964\n笨蛋姐姐@TTKYYX03（不是现实中那个）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "Loveyezi8964"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1940766254266302907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2332,
+          "following_count": 2511,
+          "like_count": 34788,
+          "listed_count": 10,
+          "media_count": 1203,
+          "tweet_count": 27743
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-02T06:31:37.000Z",
+        "description": "这人就是一个情绪黑洞，翻了翻发言照她自己的说法也不小了，但思维上还是挺巨婴的 我互fo各种立场都有，来来回回走了不少也来了不少但其实最恶心的就是这种情绪黑洞，织女为什么让人讨厌说白了不还是情绪黑洞",
+        "id": "1940297187302526976",
+        "name": "毛毛力四世",
+        "pinned_tweet_id": "1941660548795605345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942746636960092160/pew3YdpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 45,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 137
+        },
+        "username": "MaoLi95469",
+        "verified": false
+      }
+    ]
+  }
+}

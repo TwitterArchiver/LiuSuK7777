@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966719529675091970"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1966719539116118102",
+    "created_at": "2025-09-13T04:24:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T05:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966719539116118102"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/msV8TpvWZc",
+          "end": 45,
+          "expanded_url": "https://x.com/LiuSuK7777/status/1966719539116118102/photo/1",
+          "media_key": "3_1966719529675091970",
+          "start": 22,
+          "url": "https://t.co/msV8TpvWZc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966719539116118102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "海底捞火锅(ITC归谷国际中心·钱江印店) https://t.co/msV8TpvWZc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1966719529675091970",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0sw_fsbcAI1KEK.jpg",
+        "width": 767
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966719529675091970"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1966719539116118102",
+        "created_at": "2025-09-13T04:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T05:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966719539116118102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/msV8TpvWZc",
+              "end": 45,
+              "expanded_url": "https://x.com/LiuSuK7777/status/1966719539116118102/photo/1",
+              "media_key": "3_1966719529675091970",
+              "start": 22,
+              "url": "https://t.co/msV8TpvWZc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966719539116118102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "海底捞火锅(ITC归谷国际中心·钱江印店) https://t.co/msV8TpvWZc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "老公的id太难记了不想打 反正是939\n本人男 17岁 三角洲/明日方舟/arcaea/舞萌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "无意识的游荡",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1965688889072591191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966711124734410752/71NBjUL5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2630,
+          "following_count": 2635,
+          "like_count": 35384,
+          "listed_count": 14,
+          "media_count": 1354,
+          "tweet_count": 30039
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      }
+    ]
+  }
+}

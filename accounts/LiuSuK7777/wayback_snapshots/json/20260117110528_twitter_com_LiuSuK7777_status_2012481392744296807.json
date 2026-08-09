@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2012107980934983694",
+    "created_at": "2026-01-17T11:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T12:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012481392744296807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1682711024921718784",
+          "start": 0,
+          "username": "deidei0721"
+        },
+        {
+          "end": 22,
+          "id": "1898090579269230592",
+          "start": 12,
+          "username": "Nyakori__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012481392744296807",
+    "in_reply_to_user_id": "1682711024921718784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012478352553312313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@deidei0721 @Nyakori__ 这tm是我同学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2012107980934983694",
+        "created_at": "2026-01-17T11:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T12:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012481392744296807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1682711024921718784",
+              "start": 0,
+              "username": "deidei0721"
+            },
+            {
+              "end": 22,
+              "id": "1898090579269230592",
+              "start": 12,
+              "username": "Nyakori__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012481392744296807",
+        "in_reply_to_user_id": "1682711024921718784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012478352553312313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@deidei0721 @Nyakori__ 这tm是我同学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682711024921718784",
+        "conversation_id": "2012107980934983694",
+        "created_at": "2026-01-17T10:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T11:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012478352553312313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            },
+            {
+              "end": 22,
+              "id": "1898090579269230592",
+              "start": 12,
+              "username": "Nyakori__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012478352553312313",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012107980934983694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 @Nyakori__ 99"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "1995540883278889351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009961353205923840/TsgZdod5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2952,
+          "following_count": 2758,
+          "like_count": 35516,
+          "listed_count": 14,
+          "media_count": 1582,
+          "tweet_count": 34072
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T11:15:59.000Z",
+        "description": "07年178/52傲娇（划掉）萝莉（并非）小男娘，超级游戏宅，晕3d受害者，哼，才不喜欢你呢（吐舌头鬼脸）最最最喜欢：@NikaidoHiro0110",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 59,
+                "username": "NikaidoHiro0110"
+              }
+            ]
+          }
+        },
+        "id": "1682711024921718784",
+        "name": "呆呆zoop",
+        "pinned_tweet_id": "2010564048392450230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011307516047867907/4sqqRMrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 230,
+          "like_count": 1407,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 313
+        },
+        "username": "deidei0721",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T19:17:26.000Z",
+        "description": "喵喵喵（互关喵\n/绝区零💤/蔚蓝档案",
+        "id": "1898090579269230592",
+        "location": "New Eridu",
+        "name": "Nyakori",
+        "pinned_tweet_id": "1996602755302236344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997131620315500544/_QogUEc-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 170,
+          "like_count": 605,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 101
+        },
+        "username": "Nyakori__",
+        "verified": false
+      }
+    ]
+  }
+}

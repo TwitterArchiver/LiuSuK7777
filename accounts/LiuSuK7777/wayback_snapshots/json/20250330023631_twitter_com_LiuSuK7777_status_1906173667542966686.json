@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1906173619786678272"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "conversation_id": "1906173667542966686",
+    "created_at": "2025-03-30T02:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T03:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906173667542966686"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0HQKPdcxj7",
+          "end": 30,
+          "expanded_url": "https://x.com/LiuSuK7777/status/1906173667542966686/video/1",
+          "media_key": "7_1906173619786678272",
+          "start": 7,
+          "url": "https://t.co/0HQKPdcxj7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906173667542966686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是在干什么 https://t.co/0HQKPdcxj7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26281,
+        "height": 576,
+        "media_key": "7_1906173619786678272",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1906173619786678272/pu/img/h-0walRFnxFTEDJW.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906173619786678272/pu/vid/avc1/600x270/0WL6qB_qAsif-N98.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906173619786678272/pu/vid/avc1/800x360/LSd70Fb5N9sRpKJu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906173619786678272/pu/vid/avc1/1280x576/stU6wQyRo6AUbp-G.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1906173619786678272/pu/pl/rdBFmT7BANRqVT0f.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1906173619786678272"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "conversation_id": "1906173667542966686",
+        "created_at": "2025-03-30T02:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T03:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906173667542966686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0HQKPdcxj7",
+              "end": 30,
+              "expanded_url": "https://x.com/LiuSuK7777/status/1906173667542966686/video/1",
+              "media_key": "7_1906173619786678272",
+              "start": 7,
+              "url": "https://t.co/0HQKPdcxj7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906173667542966686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是在干什么 https://t.co/0HQKPdcxj7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "💞@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "AAA_流苏批发",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1691,
+          "following_count": 2015,
+          "like_count": 29428,
+          "listed_count": 13,
+          "media_count": 863,
+          "tweet_count": 20650
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      }
+    ]
+  }
+}

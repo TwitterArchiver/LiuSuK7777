@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1925045498253345234",
+    "created_at": "2025-05-21T11:14:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T12:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925148218234646840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1901858008210219008",
+          "start": 0,
+          "username": "shimokita_1204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925148218234646840",
+    "in_reply_to_user_id": "1901858008210219008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925051009124204545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shimokita_1204 这样啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1925045498253345234",
+        "created_at": "2025-05-21T11:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T12:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925148218234646840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1901858008210219008",
+              "start": 0,
+              "username": "shimokita_1204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925148218234646840",
+        "in_reply_to_user_id": "1901858008210219008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925051009124204545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shimokita_1204 这样啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901858008210219008",
+        "conversation_id": "1925045498253345234",
+        "created_at": "2025-05-21T04:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T05:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925051009124204545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925051009124204545",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925045498253345234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 男生的话应该后入更容易进去吧（（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "😣",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1923615398567833920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2049,
+          "following_count": 2314,
+          "like_count": 33680,
+          "listed_count": 11,
+          "media_count": 1071,
+          "tweet_count": 25129
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-18T04:47:49.000Z",
+        "description": "*下北 已转帖",
+        "id": "1901858008210219008",
+        "name": "下北",
+        "pinned_tweet_id": "1907846041032077774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902759213241339908/dnBcjJ_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 153,
+          "like_count": 301,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 430
+        },
+        "username": "shimokita_1204",
+        "verified": false
+      }
+    ]
+  }
+}

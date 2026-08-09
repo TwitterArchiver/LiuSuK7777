@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2065709886982504511",
+    "created_at": "2026-06-13T23:17:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T00:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065936611016331335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2060032916189773824",
+          "start": 0,
+          "username": "WuCanObject"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065936611016331335",
+    "in_reply_to_user_id": "2060032916189773824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065804127708598706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WuCanObject 能的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2065709886982504511",
+        "created_at": "2026-06-13T23:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T00:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065936611016331335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2060032916189773824",
+              "start": 0,
+              "username": "WuCanObject"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065936611016331335",
+        "in_reply_to_user_id": "2060032916189773824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065804127708598706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WuCanObject 能的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060032916189773824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "2065709886982504511",
+        "created_at": "2026-06-13T14:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065804127708598706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065804127708598706",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065709886982504511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 iPad也能下啊？！\n我在里面很尴尬，大家都有固定聊天的，我逛了一天后没意思就删了(￣▽￣)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 杭州 08年 舞萌/东方/Arcaea/明日方舟/三角洲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2032828973374386365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060157452931465216/9MujmSVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3530,
+          "following_count": 2708,
+          "like_count": 34376,
+          "listed_count": 14,
+          "media_count": 1676,
+          "tweet_count": 35069
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T16:18:44.000Z",
+        "description": "互联网流浪中 男生 快成年了～\n你对我好，我会偷偷开心很久！\n我不太会说话\n但我可以陪你，只要你不嫌我烦…TWT",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/canwu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/canwu",
+                "start": 0,
+                "url": "https://t.co/1aQOKqN89K"
+              }
+            ]
+          }
+        },
+        "id": "2060032916189773824",
+        "location": "初次见面之时",
+        "name": "残物",
+        "pinned_tweet_id": "2060755471846527321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060033124416032768/tWh0j9-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 236,
+          "like_count": 1224,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 369
+        },
+        "url": "https://t.co/1aQOKqN89K",
+        "username": "WuCanObject",
+        "verified": false
+      }
+    ]
+  }
+}

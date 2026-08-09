@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1918251871443271846",
+    "created_at": "2025-05-02T10:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T11:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918252899597267134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1883047762729820160",
+          "start": 0,
+          "username": "tidy_fun8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918252899597267134",
+    "in_reply_to_user_id": "1883047762729820160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918252820542963885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tidy_fun8964 不烧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1918251871443271846",
+        "created_at": "2025-05-02T10:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T11:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918252899597267134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1883047762729820160",
+              "start": 0,
+              "username": "tidy_fun8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918252899597267134",
+        "in_reply_to_user_id": "1883047762729820160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918252820542963885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tidy_fun8964 不烧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883047762729820160",
+        "conversation_id": "1918251871443271846",
+        "created_at": "2025-05-02T10:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T11:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918252820542963885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918252820542963885",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918251871443271846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 大烧杯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/猪@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1939,
+          "following_count": 2189,
+          "like_count": 32096,
+          "listed_count": 12,
+          "media_count": 998,
+          "tweet_count": 23736
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T07:02:44.000Z",
+        "description": "ENFP-A 10年学生 170cm|48kg 万用人 包容所有人 中文|English RFS IF SFS 关注@LiuSuK7777喵 关注@JyushitiYizuka喵谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 58,
+                "username": "LiuSuK7777"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "JyushitiYizuka"
+              }
+            ]
+          }
+        },
+        "id": "1883047762729820160",
+        "location": "习近平无套中出内射彭丽媛",
+        "name": "泉こなたOffical",
+        "pinned_tweet_id": "1917836494699380850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908488824067371008/B9gnjeKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 1002,
+          "like_count": 2637,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1734
+        },
+        "username": "tidy_fun8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1999406995812811083",
+    "created_at": "2025-12-12T10:37:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T11:37:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999428469080621426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1866339902591524864",
+          "start": 0,
+          "username": "ruswest666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999428469080621426",
+    "in_reply_to_user_id": "1866339902591524864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999428019178602796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruswest666 我被凿又不是不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1999406995812811083",
+        "created_at": "2025-12-12T10:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T11:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999428469080621426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1866339902591524864",
+              "start": 0,
+              "username": "ruswest666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999428469080621426",
+        "in_reply_to_user_id": "1866339902591524864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999428019178602796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruswest666 我被凿又不是不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866339902591524864",
+        "conversation_id": "1999406995812811083",
+        "created_at": "2025-12-12T10:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T11:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999428019178602796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999428019178602796",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999406995812811083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 你没被凿就行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "1995540883278889351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998267978916528128/FNUZvgoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2937,
+          "following_count": 2765,
+          "like_count": 35509,
+          "listed_count": 13,
+          "media_count": 1561,
+          "tweet_count": 33487
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T04:31:32.000Z",
+        "description": "来推特发疯",
+        "id": "1866339902591524864",
+        "name": "Adarsh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999196793389875200/uqPnkv32_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 27,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "ruswest666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2036826741742895247",
+    "created_at": "2026-03-25T16:19:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T17:19:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036840510678295011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3016223879",
+          "start": 0,
+          "username": "GabrieI_Belmont"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036840510678295011",
+    "in_reply_to_user_id": "3016223879",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036837668894675143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GabrieI_Belmont 派？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2036826741742895247",
+        "created_at": "2026-03-25T16:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T17:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036840510678295011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3016223879",
+              "start": 0,
+              "username": "GabrieI_Belmont"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036840510678295011",
+        "in_reply_to_user_id": "3016223879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036837668894675143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GabrieI_Belmont 派？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3016223879",
+        "conversation_id": "2036826741742895247",
+        "created_at": "2026-03-25T16:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T17:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036837668894675143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036837668894675143",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036826741742895247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 为什么不玩派😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 08年~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n对象@zyh842159145\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 38,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2032828973374386365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030299474501971969/jf72wAsr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3124,
+          "following_count": 2728,
+          "like_count": 35231,
+          "listed_count": 15,
+          "media_count": 1643,
+          "tweet_count": 34626
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-04T03:56:15.000Z",
+        "description": "🫱🏻🐟🫲🏻 中立 🫱🏻‍🫲🏼🌐🫱🏽‍🫲🏻",
+        "id": "3016223879",
+        "location": "Italy",
+        "name": "魚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859529025145933824/PtXCWTfy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 285,
+          "like_count": 3908,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 992
+        },
+        "username": "GabrieI_Belmont",
+        "verified": false
+      }
+    ]
+  }
+}

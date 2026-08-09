@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1902922501799497728"
+      ],
+      "media_source_tweet_id": [
+        "1902922506106966350"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297717277677166593",
+          "name": "Karaoke"
+        }
+      }
+    ],
+    "conversation_id": "1902998937180799115",
+    "created_at": "2025-03-21T08:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T09:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902998937180799115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "127131295",
+          "start": 3,
+          "username": "ilice_suiten"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O3eZAPHpd2",
+          "end": 72,
+          "expanded_url": "https://x.com/ilice_suiten/status/1902922506106966350/photo/1",
+          "media_key": "3_1902922501799497728",
+          "start": 49,
+          "url": "https://t.co/O3eZAPHpd2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902998937180799115",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 108
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902922506106966350",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ilice_suiten: ということでカラオケで発散なのです🌸\n気分はこんな感じです✨ https://t.co/O3eZAPHpd2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1902922501799497728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmiJ7urbUAAhM67.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902922501799497728"
+          ],
+          "media_source_tweet_id": [
+            "1902922506106966350"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "1902998937180799115",
+        "created_at": "2025-03-21T08:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T09:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902998937180799115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "127131295",
+              "start": 3,
+              "username": "ilice_suiten"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O3eZAPHpd2",
+              "end": 72,
+              "expanded_url": "https://x.com/ilice_suiten/status/1902922506106966350/photo/1",
+              "media_key": "3_1902922501799497728",
+              "start": 49,
+              "url": "https://t.co/O3eZAPHpd2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902998937180799115",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902922506106966350",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ilice_suiten: ということでカラオケで発散なのです🌸\n気分はこんな感じです✨ https://t.co/O3eZAPHpd2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902922501799497728"
+          ]
+        },
+        "author_id": "127131295",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "1902922506106966350",
+        "created_at": "2025-03-21T03:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T04:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902922506106966350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O3eZAPHpd2",
+              "end": 54,
+              "expanded_url": "https://x.com/ilice_suiten/status/1902922506106966350/photo/1",
+              "media_key": "3_1902922501799497728",
+              "start": 31,
+              "url": "https://t.co/O3eZAPHpd2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902922506106966350",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 7784,
+          "like_count": 1010,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "ということでカラオケで発散なのです🌸\n気分はこんな感じです✨ https://t.co/O3eZAPHpd2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "Arknights/崩壊:スターレイル/Arcaea/MaimaiDX/東方Project/ VOCALOID/Galgame/主人@yeziyu7777 关注@_FiniteWorld @small_fun8964 @Huahe_wu @KaitlynXiaoLu99 小号@Loveyezi8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "_FiniteWorld"
+              },
+              {
+                "end": 108,
+                "start": 94,
+                "username": "small_fun8964"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "Huahe_wu"
+              },
+              {
+                "end": 135,
+                "start": 119,
+                "username": "KaitlynXiaoLu99"
+              },
+              {
+                "end": 151,
+                "start": 138,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "☆流苏☆🐱（100%互fo）",
+        "pinned_tweet_id": "1901903397277532265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 1724,
+          "like_count": 27980,
+          "listed_count": 10,
+          "media_count": 779,
+          "tweet_count": 17743
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-28T04:41:27.000Z",
+        "description": "サークル「水天一碧」として東方Project関連の小説やイラストの創作・頒布活動をしてます。 いつでも誰でもフォローは歓迎です！ 日常と東方のつぶやきが基本ごっちゃごちゃ。気がつけば今年で社会人10年生になりました(´・ω・｀) \nSkeb→https://t.co/CzK0ch3ZQ4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@ilice_suiten",
+                "end": 144,
+                "expanded_url": "https://skeb.jp/@ilice_suiten",
+                "start": 121,
+                "url": "https://t.co/CzK0ch3ZQ4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/55273024",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/55273024",
+                "start": 0,
+                "url": "https://t.co/uFXckNBNxS"
+              }
+            ]
+          }
+        },
+        "id": "127131295",
+        "location": "愛知県のどこかです",
+        "name": "アイリスさん🌸静例-え32ab",
+        "pinned_tweet_id": "1902534809303548346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865291788707336194/X9tenTjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17287,
+          "following_count": 657,
+          "like_count": 18951,
+          "listed_count": 102,
+          "media_count": 1839,
+          "tweet_count": 12945
+        },
+        "url": "https://t.co/uFXckNBNxS",
+        "username": "ilice_suiten",
+        "verified": true
+      }
+    ]
+  }
+}

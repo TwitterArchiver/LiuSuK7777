@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1918273558834495865",
+    "created_at": "2025-05-02T11:57:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T12:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918273558834495865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1774063407559512064",
+          "start": 3,
+          "username": "lightly_wind"
+        },
+        {
+          "end": 29,
+          "id": "1504799211799265282",
+          "start": 18,
+          "username": "LiuSuK7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918273558834495865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918268451728359907",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lightly_wind: @LiuSuK7777 他在顶我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1918273558834495865",
+        "created_at": "2025-05-02T11:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T12:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918273558834495865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1774063407559512064",
+              "start": 3,
+              "username": "lightly_wind"
+            },
+            {
+              "end": 29,
+              "id": "1504799211799265282",
+              "start": 18,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918273558834495865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918268451728359907",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lightly_wind: @LiuSuK7777 他在顶我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774063407559512064",
+        "conversation_id": "1918262127003091140",
+        "created_at": "2025-05-02T11:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T12:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918268451728359907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918268451728359907",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918264623834513499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 他在顶我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/好友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1940,
+          "following_count": 2190,
+          "like_count": 32141,
+          "listed_count": 12,
+          "media_count": 998,
+          "tweet_count": 23770
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T13:17:38.000Z",
+        "description": "※如何得到老婆的青睐※：1.抱抱老婆2.亲亲老婆3.摸摸老婆的头4.给老婆买橄榄油柑野茉莉花茶5.给老婆买甜酪黄桃芒果奶油千层",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "limestart.cn",
+                "end": 23,
+                "expanded_url": "https://limestart.cn/",
+                "start": 0,
+                "url": "https://t.co/6iDsLyipfL"
+              }
+            ]
+          }
+        },
+        "id": "1774063407559512064",
+        "location": "异世界，王国都城，上城区",
+        "name": "温柔的风穿堂过※吟游诗人※",
+        "pinned_tweet_id": "1907419615959150880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918264917951692802/snpmqvj9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 871,
+          "like_count": 21529,
+          "listed_count": 16,
+          "media_count": 832,
+          "tweet_count": 8626
+        },
+        "url": "https://t.co/6iDsLyipfL",
+        "username": "lightly_wind",
+        "verified": false
+      }
+    ]
+  }
+}

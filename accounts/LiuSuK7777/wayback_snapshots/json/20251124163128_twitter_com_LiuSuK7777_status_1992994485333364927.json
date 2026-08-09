@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1992988353554485340",
+    "created_at": "2025-11-24T16:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T17:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992994485333364927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1843975943419047936",
+          "start": 0,
+          "username": "leaderxiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992994485333364927",
+    "in_reply_to_user_id": "1843975943419047936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992988353554485340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leaderxiu 晚安安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1992988353554485340",
+        "created_at": "2025-11-24T16:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T17:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992994485333364927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1843975943419047936",
+              "start": 0,
+              "username": "leaderxiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992994485333364927",
+        "in_reply_to_user_id": "1843975943419047936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992988353554485340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leaderxiu 晚安安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843975943419047936",
+        "conversation_id": "1992988353554485340",
+        "created_at": "2025-11-24T16:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T17:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992988353554485340"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992988353554485340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "講真，晚修制度吹到飛起😑\n攰到腦袋罷工都要硬坐，當人係無限電機械人⚙️。\n主頁亂到似宇宙抽獎🎰，想睇嘅冇；\n限流又搞到講嘢似對住真空🙂。\n\n算啦，夜晚仲係我哋嘅。\n喺亂流中保持清醒就係反抗✨。\n願你今晚好瞓，明天用更醒嘅腦袋回敬世界😌🌙。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1991206540901339270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988989009578848258/x7UX0Rgc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2808,
+          "following_count": 2679,
+          "like_count": 35382,
+          "listed_count": 13,
+          "media_count": 1511,
+          "tweet_count": 32151
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T11:25:14.000Z",
+        "description": "想同大家互Fo,廣告同埋叫技離遠點\n\n關注我的刷到都點赞👍\n\n一起打ball同埋廳音樂打game了😁（逃生艙@chaikh111）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "chaikh111"
+              }
+            ]
+          }
+        },
+        "id": "1843975943419047936",
+        "location": "湛江市",
+        "name": "空去（限流王😇）",
+        "pinned_tweet_id": "1980703611522101288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984692391098351618/Ib7q35gx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 351,
+          "like_count": 28689,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1761
+        },
+        "username": "leaderxiu",
+        "verified": false
+      }
+    ]
+  }
+}

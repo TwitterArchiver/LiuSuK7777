@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1903856038899831161",
+    "created_at": "2025-03-23T17:07:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T18:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903856143178633439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1614826297091592198",
+          "start": 0,
+          "username": "Winter_yoki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903856143178633439",
+    "in_reply_to_user_id": "1614826297091592198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903856038899831161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Winter_yoki 你是谁"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1903856038899831161].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1903856038899831161",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1903856038899831161"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1903856038899831161",
+        "created_at": "2025-03-23T17:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T18:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903856143178633439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1614826297091592198",
+              "start": 0,
+              "username": "Winter_yoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903856143178633439",
+        "in_reply_to_user_id": "1614826297091592198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903856038899831161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Winter_yoki 你是谁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "可爱男娘：@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "☆流苏☆🐱IP杭州（100%互fo）",
+        "pinned_tweet_id": "1901903397277532265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 1873,
+          "like_count": 28660,
+          "listed_count": 13,
+          "media_count": 817,
+          "tweet_count": 19068
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-16T03:26:15.000Z",
+        "description": "荒谬游戏人生，我只是一只没人要的小鸟",
+        "id": "1614826297091592198",
+        "name": "Ms.winter",
+        "pinned_tweet_id": "1903856038899831161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903855006912262144/MftWNyZ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1755,
+          "following_count": 537,
+          "like_count": 9065,
+          "listed_count": 2,
+          "media_count": 223,
+          "tweet_count": 3805
+        },
+        "username": "Winter_yoki",
+        "verified": false
+      }
+    ]
+  }
+}

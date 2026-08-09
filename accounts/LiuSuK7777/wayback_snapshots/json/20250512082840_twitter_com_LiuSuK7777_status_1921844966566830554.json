@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1921844232584560920",
+    "created_at": "2025-05-12T08:28:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T09:28:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921844966566830554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1680834021377593344",
+          "start": 0,
+          "username": "HyotoChandesuyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921844966566830554",
+    "in_reply_to_user_id": "1680834021377593344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921844232584560920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HyotoChandesuyo 这不是根本啥都不懂吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1921844232584560920",
+        "created_at": "2025-05-12T08:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T09:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921844966566830554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1680834021377593344",
+              "start": 0,
+              "username": "HyotoChandesuyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921844966566830554",
+        "in_reply_to_user_id": "1680834021377593344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921844232584560920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HyotoChandesuyo 这不是根本啥都不懂吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680834021377593344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1921844232584560920",
+        "created_at": "2025-05-12T08:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T09:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921844232584560920"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1921844232584560920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不懂语文但我不懂数学\n我不懂数学但我不懂英语\n我不懂英语但我不懂物理\n我不懂物理但我不懂化学\n我不懂化学但我不懂语文"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": " 🔪‌",
+        "name": "流苏",
+        "pinned_tweet_id": "1921196565060088153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2031,
+          "following_count": 2280,
+          "like_count": 32943,
+          "listed_count": 11,
+          "media_count": 1045,
+          "tweet_count": 24471
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "いつまでも風に吹かれたい",
+        "id": "1680834021377593344",
+        "location": "土星",
+        "name": "温原ひょと",
+        "pinned_tweet_id": "1903805604915020062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921813012744400896/dMbLImZ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2285,
+          "following_count": 986,
+          "like_count": 97323,
+          "listed_count": 15,
+          "media_count": 4187,
+          "tweet_count": 28236
+        },
+        "username": "HyotoChandesuyo",
+        "verified": false
+      }
+    ]
+  }
+}

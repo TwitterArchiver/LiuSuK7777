@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1917849921325261028",
+    "created_at": "2025-05-01T08:03:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T09:03:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917852351370781050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1694068450220744707",
+          "start": 0,
+          "username": "YS97OwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917852351370781050",
+    "in_reply_to_user_id": "1694068450220744707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917851856182862271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YS97OwO 好图"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 256,
+        "media_key": "3_1917851853179740160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp2UGWiaYAAalZX.jpg",
+        "width": 296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1917849921325261028",
+        "created_at": "2025-05-01T08:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T09:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917852351370781050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1694068450220744707",
+              "start": 0,
+              "username": "YS97OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917852351370781050",
+        "in_reply_to_user_id": "1694068450220744707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917851856182862271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YS97OwO 好图"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917851853179740160"
+          ]
+        },
+        "author_id": "1694068450220744707",
+        "conversation_id": "1917849921325261028",
+        "created_at": "2025-05-01T08:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T09:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917851856182862271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2HGESicxvc",
+              "end": 35,
+              "expanded_url": "https://x.com/YS97OwO/status/1917851856182862271/photo/1",
+              "media_key": "3_1917851853179740160",
+              "start": 12,
+              "url": "https://t.co/2HGESicxvc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917851856182862271",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917849921325261028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 https://t.co/2HGESicxvc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1930,
+          "following_count": 2185,
+          "like_count": 31910,
+          "listed_count": 13,
+          "media_count": 980,
+          "tweet_count": 23587
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T19:26:15.000Z",
+        "description": "🇨🇳大学生一名/轻小说&漫画🥰/#maimai #Arcaea #CHUNITHM #Phigros #プロセカ/PCR BA HBR 星铁 Pokemon/Bilibili同名/互fo🉑/小号：①bluesky：https://t.co/XjEX0sUhIc  ②@ys97O_O\n［日语绝赞学习中］",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 16,
+                "tag": "maimai"
+              },
+              {
+                "end": 31,
+                "start": 24,
+                "tag": "Arcaea"
+              },
+              {
+                "end": 41,
+                "start": 32,
+                "tag": "CHUNITHM"
+              },
+              {
+                "end": 50,
+                "start": 42,
+                "tag": "Phigros"
+              },
+              {
+                "end": 56,
+                "start": 51,
+                "tag": "プロセカ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 141,
+                "start": 133,
+                "username": "ys97O_O"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ys1230.bsky.social",
+                "end": 130,
+                "expanded_url": "http://ys1230.bsky.social",
+                "start": 107,
+                "url": "https://t.co/XjEX0sUhIc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/2EYEfVr",
+                "end": 23,
+                "expanded_url": "https://b23.tv/2EYEfVr",
+                "start": 0,
+                "url": "https://t.co/31KLSn1fkz"
+              }
+            ]
+          }
+        },
+        "id": "1694068450220744707",
+        "name": "游笙",
+        "pinned_tweet_id": "1854553242308686210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831365569427468290/ZUd6XzGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 3056,
+          "like_count": 66491,
+          "listed_count": 8,
+          "media_count": 2546,
+          "tweet_count": 23395
+        },
+        "url": "https://t.co/31KLSn1fkz",
+        "username": "YS97OwO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1918251657600926040",
+    "created_at": "2025-05-03T03:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T04:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918511329272275428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1898090579269230592",
+          "start": 0,
+          "username": "Nyakori__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918511329272275428",
+    "in_reply_to_user_id": "1898090579269230592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918511049600356465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nyakori__ 不熟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1918251657600926040",
+        "created_at": "2025-05-03T03:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T04:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918511329272275428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1898090579269230592",
+              "start": 0,
+              "username": "Nyakori__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918511329272275428",
+        "in_reply_to_user_id": "1898090579269230592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918511049600356465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nyakori__ 不熟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898090579269230592",
+        "conversation_id": "1918251657600926040",
+        "created_at": "2025-05-03T03:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T04:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918511049600356465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918511049600356465",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918251657600926040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/好友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1943,
+          "following_count": 2192,
+          "like_count": 32171,
+          "listed_count": 12,
+          "media_count": 1002,
+          "tweet_count": 23810
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T19:17:26.000Z",
+        "description": "喵喵喵（互关）",
+        "id": "1898090579269230592",
+        "name": "Nyakori",
+        "pinned_tweet_id": "1903636945109995582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898099399257210884/kYY2LZIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 155,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "Nyakori__",
+        "verified": false
+      }
+    ]
+  }
+}

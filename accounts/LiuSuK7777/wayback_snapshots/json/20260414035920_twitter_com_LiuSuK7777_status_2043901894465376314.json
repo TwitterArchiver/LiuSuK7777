@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2043739957685301426",
+    "created_at": "2026-04-14T03:59:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T04:59:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043901894465376314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1809999171669409792",
+          "start": 0,
+          "username": "Shimamura_Tako"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043901894465376314",
+    "in_reply_to_user_id": "1809999171669409792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043887026299384279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shimamura_Tako 用不到吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2043739957685301426",
+        "created_at": "2026-04-14T03:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T04:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043901894465376314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1809999171669409792",
+              "start": 0,
+              "username": "Shimamura_Tako"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043901894465376314",
+        "in_reply_to_user_id": "1809999171669409792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043887026299384279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shimamura_Tako 用不到吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809999171669409792",
+        "conversation_id": "2043739957685301426",
+        "created_at": "2026-04-14T03:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T04:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043887026299384279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043887026299384279",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043739957685301426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 可爱不知道，但是你可以买一瓶502胶水"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 08年~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我喜欢你@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 38,
+                "username": "liusuk8888"
+              },
+              {
+                "end": 67,
+                "start": 54,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2032828973374386365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030299474501971969/jf72wAsr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3131,
+          "following_count": 2691,
+          "like_count": 35059,
+          "listed_count": 15,
+          "media_count": 1653,
+          "tweet_count": 34726
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T17:13:35.000Z",
+        "description": "島村田子 / 现有头壳：自设 / QQ: 1612948730\n日常发言居多，不定期更新kig相关内容，欢迎扩列/互fo~\n好后勤👍@SkyCloud_Violin 好朋友🤗@Quitewaterqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "SkyCloud_Violin"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "Quitewaterqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "coldmouse.cn",
+                "end": 23,
+                "expanded_url": "https://coldmouse.cn",
+                "start": 0,
+                "url": "https://t.co/ZqXFkokKCq"
+              }
+            ]
+          }
+        },
+        "id": "1809999171669409792",
+        "location": "中国 山东 威海 🏠环翠区/📷高区",
+        "name": "Shimamura Tako",
+        "pinned_tweet_id": "1985042342731235341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970339746057723907/S__a3OUb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 240,
+          "like_count": 31953,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 1268
+        },
+        "url": "https://t.co/ZqXFkokKCq",
+        "username": "Shimamura_Tako",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1129067985451118593",
+          "name": "Physical Education"
+        }
+      }
+    ],
+    "conversation_id": "1904338121879372110",
+    "created_at": "2025-03-25T01:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T02:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1904338121879372110"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1904338121879372110",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚刚也是眼前一黑摔地上了\n感觉啥都看不清 晕晕\n欸不知道摔到哪里了流血\n可能是鼻子\n过了一会才好 欸我怎么躺地上了\n我不就是发烧吗至于这样吗\n体育课上不了力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1904338121879372110",
+        "created_at": "2025-03-25T01:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T02:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904338121879372110"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904338121879372110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚也是眼前一黑摔地上了\n感觉啥都看不清 晕晕\n欸不知道摔到哪里了流血\n可能是鼻子\n过了一会才好 欸我怎么躺地上了\n我不就是发烧吗至于这样吗\n体育课上不了力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "想被一枪崩死",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "☆流苏☆🐱IP杭州（100%互fo）",
+        "pinned_tweet_id": "1903751125427515801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1616,
+          "following_count": 1912,
+          "like_count": 28880,
+          "listed_count": 13,
+          "media_count": 832,
+          "tweet_count": 19579
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1990818935009063040",
+    "created_at": "2025-11-18T23:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T00:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990930596768415925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1801226806198255616",
+          "start": 0,
+          "username": "awaalive"
+        },
+        {
+          "end": 26,
+          "id": "1385979996439814157",
+          "start": 10,
+          "username": "5OL5OdJlYuZ62Wo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990930596768415925",
+    "in_reply_to_user_id": "1801226806198255616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990876238635020338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@awaalive @5OL5OdJlYuZ62Wo 推特不就当QQ发的东西吗（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1990818935009063040",
+        "created_at": "2025-11-18T23:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T00:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990930596768415925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1801226806198255616",
+              "start": 0,
+              "username": "awaalive"
+            },
+            {
+              "end": 26,
+              "id": "1385979996439814157",
+              "start": 10,
+              "username": "5OL5OdJlYuZ62Wo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990930596768415925",
+        "in_reply_to_user_id": "1801226806198255616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990876238635020338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@awaalive @5OL5OdJlYuZ62Wo 推特不就当QQ发的东西吗（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801226806198255616",
+        "conversation_id": "1990818935009063040",
+        "created_at": "2025-11-18T20:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T21:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990876238635020338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1385979996439814157",
+              "start": 0,
+              "username": "5OL5OdJlYuZ62Wo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990876238635020338",
+        "in_reply_to_user_id": "1385979996439814157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990818935009063040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5OL5OdJlYuZ62Wo 是这样的\n看主包把推特当QQ发有一种很神奇（？）的感觉\n（还有我被舍友深沉的呼吸声吵醒的无力感，啊我超他为啥要在梦话里喊爸爸😨）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1988989827262599538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988989009578848258/x7UX0Rgc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2807,
+          "following_count": 2682,
+          "like_count": 35420,
+          "listed_count": 13,
+          "media_count": 1501,
+          "tweet_count": 32018
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T12:15:20.000Z",
+        "description": "政治倾向偏左/政治包容/欢迎友好交流/半个军盲/战争雷霆War_Thunder/军模爱好/甜妹控/邦邦/欢迎互fo🤓",
+        "id": "1801226806198255616",
+        "location": "東亞防禦倡議協議組織 (E.A.D.I)",
+        "name": "awaalive",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984149995399081984/HgW_hR92_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 387,
+          "like_count": 4141,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 360
+        },
+        "username": "awaalive",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-24T15:32:45.000Z",
+        "description": "备用号@Owso6y_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "Owso6y_"
+              }
+            ]
+          }
+        },
+        "id": "1385979996439814157",
+        "name": "ねこ",
+        "pinned_tweet_id": "1963505067027566827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1562517866758320128/DzqQwHLe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57623,
+          "following_count": 10,
+          "like_count": 13046,
+          "listed_count": 154,
+          "media_count": 1261,
+          "tweet_count": 6076
+        },
+        "username": "5OL5OdJlYuZ62Wo",
+        "verified": false
+      }
+    ]
+  }
+}

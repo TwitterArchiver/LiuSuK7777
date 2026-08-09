@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1921360429525172350",
+    "created_at": "2025-05-11T00:39:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T01:39:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921364592044671056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1908594618431922176",
+          "start": 0,
+          "username": "ZDTYGYHL__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921364592044671056",
+    "in_reply_to_user_id": "1908594618431922176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921363026860478708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZDTYGYHL__ 郊狼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1921360429525172350",
+        "created_at": "2025-05-11T00:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T01:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921364592044671056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1908594618431922176",
+              "start": 0,
+              "username": "ZDTYGYHL__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921364592044671056",
+        "in_reply_to_user_id": "1908594618431922176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921363026860478708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZDTYGYHL__ 郊狼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908594618431922176",
+        "conversation_id": "1921360429525172350",
+        "created_at": "2025-05-11T00:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T01:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921363026860478708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921363026860478708",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921362919960297943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 电？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": " 🔪‌",
+        "name": "流苏",
+        "pinned_tweet_id": "1921343177077702792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2008,
+          "following_count": 2272,
+          "like_count": 32813,
+          "listed_count": 11,
+          "media_count": 1031,
+          "tweet_count": 24344
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T18:56:41.000Z",
+        "description": "不想键政了\n决定转为发一些军事性的帖子，关注军事，游戏为主\n但政治立场依然不会改变\n另一个账号：@ZDTYGYHL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "ZDTYGYHL"
+              }
+            ]
+          }
+        },
+        "id": "1908594618431922176",
+        "location": "中华人民共和国 山东省 青岛市 市北区",
+        "name": "114",
+        "pinned_tweet_id": "1919364061172486347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913272872640065537/FgihNj1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 182,
+          "like_count": 5182,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1688
+        },
+        "username": "ZDTYGYHL__",
+        "verified": false
+      }
+    ]
+  }
+}

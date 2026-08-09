@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1999275555586474112",
+    "created_at": "2025-12-12T06:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T07:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999359948220928054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1327197298930028544",
+          "start": 0,
+          "username": "un_krvy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999359948220928054",
+    "in_reply_to_user_id": "1327197298930028544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999275555586474112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@un_krvy 我求你了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999275552797261825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G77ahcyagAEfLDT.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1999275555586474112",
+        "created_at": "2025-12-12T06:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T07:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999359948220928054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1327197298930028544",
+              "start": 0,
+              "username": "un_krvy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999359948220928054",
+        "in_reply_to_user_id": "1327197298930028544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999275555586474112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@un_krvy 我求你了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999275552797261825"
+          ]
+        },
+        "author_id": "1327197298930028544",
+        "conversation_id": "1999275555586474112",
+        "created_at": "2025-12-12T00:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T01:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999275555586474112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6G8RTQCAM1",
+              "end": 23,
+              "expanded_url": "https://x.com/un_krvy/status/1999275555586474112/photo/1",
+              "media_key": "3_1999275552797261825",
+              "start": 0,
+              "url": "https://t.co/6G8RTQCAM1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999275555586474112",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 743,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6G8RTQCAM1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "1995540883278889351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998267978916528128/FNUZvgoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2936,
+          "following_count": 2764,
+          "like_count": 35498,
+          "listed_count": 13,
+          "media_count": 1559,
+          "tweet_count": 33459
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-13T10:31:21.000Z",
+        "description": "krvy|想要互fo|试图逃离药物|深渊",
+        "id": "1327197298930028544",
+        "location": "Macragge",
+        "name": "krvy #​心宿二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985229486288457728/50BuRTaz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 268,
+          "like_count": 5898,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 906
+        },
+        "username": "un_krvy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1906628448170164421",
+    "created_at": "2025-03-31T12:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T13:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906679405453381955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1602663153623388161",
+          "start": 0,
+          "username": "knd_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906679405453381955",
+    "in_reply_to_user_id": "1602663153623388161",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906679092898124046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@knd_8964 tkmaij"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1906628448170164421",
+        "created_at": "2025-03-31T12:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T13:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906679405453381955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1602663153623388161",
+              "start": 0,
+              "username": "knd_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906679405453381955",
+        "in_reply_to_user_id": "1602663153623388161",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906679092898124046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@knd_8964 tkmaij"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1602663153623388161",
+        "conversation_id": "1906628448170164421",
+        "created_at": "2025-03-31T12:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T13:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906679092898124046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906679092898124046",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906678668723880188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 有概率能刷到人少的日子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "💞@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "跟我面基可以随便摸我",
+        "name": "苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1700,
+          "following_count": 2020,
+          "like_count": 29630,
+          "listed_count": 12,
+          "media_count": 871,
+          "tweet_count": 20985
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-13T13:54:21.000Z",
+        "description": "周而复始，即为历史",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/kanade…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/kanade-8964.bsky.social",
+                "start": 0,
+                "url": "https://t.co/Czvo6RndGT"
+              }
+            ]
+          }
+        },
+        "id": "1602663153623388161",
+        "location": "导流槽雅座",
+        "name": "超级泡面高手小气走",
+        "pinned_tweet_id": "1741502377004576895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845797448633184256/y-BKXgHT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3163,
+          "following_count": 4252,
+          "like_count": 68138,
+          "listed_count": 11,
+          "media_count": 3606,
+          "tweet_count": 10024
+        },
+        "url": "https://t.co/Czvo6RndGT",
+        "username": "knd_8964",
+        "verified": false
+      }
+    ]
+  }
+}

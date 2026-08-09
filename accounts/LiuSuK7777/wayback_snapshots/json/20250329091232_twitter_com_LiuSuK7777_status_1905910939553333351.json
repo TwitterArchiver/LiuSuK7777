@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1905910939553333351",
+    "created_at": "2025-03-29T09:12:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T10:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905910939553333351"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LiuSuK7777/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/LiuSuK7777/status/1905901397394289059",
+          "start": 15,
+          "url": "https://t.co/4vhk5ki5K2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905910939553333351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905901397394289059",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你去蹭饭穿我的衣服干什么（） https://t.co/4vhk5ki5K2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1905910939553333351",
+        "created_at": "2025-03-29T09:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T10:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905910939553333351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LiuSuK7777/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/LiuSuK7777/status/1905901397394289059",
+              "start": 15,
+              "url": "https://t.co/4vhk5ki5K2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905910939553333351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905901397394289059",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你去蹭饭穿我的衣服干什么（） https://t.co/4vhk5ki5K2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1905901397394289059",
+        "created_at": "2025-03-29T08:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T09:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905901397394289059"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905901397394289059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 243,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的女装被我姐占为己有了！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "💞@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "杭州市上城区",
+        "name": "AAA_流苏批发",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 1991,
+          "like_count": 29318,
+          "listed_count": 13,
+          "media_count": 856,
+          "tweet_count": 20440
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      }
+    ]
+  }
+}

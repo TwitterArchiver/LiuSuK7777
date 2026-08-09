@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1938785816165392716",
+    "created_at": "2025-06-28T05:06:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T06:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938826349273317541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1350140740140105728",
+          "start": 0,
+          "username": "KagurazakaMomo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938826349273317541",
+    "in_reply_to_user_id": "1350140740140105728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938823189565690144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazakaMomo 别 这样没用的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1938785816165392716",
+        "created_at": "2025-06-28T05:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T06:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938826349273317541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1350140740140105728",
+              "start": 0,
+              "username": "KagurazakaMomo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938826349273317541",
+        "in_reply_to_user_id": "1350140740140105728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938823189565690144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaMomo 别 这样没用的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1350140740140105728",
+        "conversation_id": "1938785816165392716",
+        "created_at": "2025-06-28T04:54:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T05:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938823189565690144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938823189565690144",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938785816165392716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 来个账号让我们支黑网络暴力它一下🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男|Arcaea|明日方舟|舞萌DX|火影忍者|社恐健全B|2008.02.29 |主人@yeziyu7777对象@zyh1428202小号@Loveyezi8964\n微信用户名同推特用户名",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1936314364468105461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2213,
+          "following_count": 2475,
+          "like_count": 34407,
+          "listed_count": 11,
+          "media_count": 1147,
+          "tweet_count": 26979
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-15T18:00:19.000Z",
+        "description": "芝麻猪看到这里就证明你急了😁 8964 日本が好きです 电子宠物：@itlaoyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "itlaoyao"
+              }
+            ]
+          }
+        },
+        "id": "1350140740140105728",
+        "location": "靖国神社",
+        "name": "AAA观音土批发 枫糖mo近平⛩️ 8964",
+        "pinned_tweet_id": "1938546431058755856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933849160983482368/RAg7zMRm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 1493,
+          "like_count": 68979,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 7081
+        },
+        "username": "KagurazakaMomo",
+        "verified": false
+      }
+    ]
+  }
+}

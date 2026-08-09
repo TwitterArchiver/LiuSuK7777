@@ -1,0 +1,462 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1965450770427642131",
+    "created_at": "2025-09-09T17:09:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T18:09:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965462549916446837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1609619970811482112",
+          "start": 0,
+          "username": "3ch4O1H"
+        },
+        {
+          "end": 14,
+          "id": "1720665183188922368",
+          "start": 9,
+          "username": "grok"
+        },
+        {
+          "end": 27,
+          "id": "1312002569988841472",
+          "start": 15,
+          "username": "zhishi_cook"
+        },
+        {
+          "end": 39,
+          "id": "1902700598321135616",
+          "start": 28,
+          "username": "Yanluo1019"
+        },
+        {
+          "end": 45,
+          "id": "1720665183188922368",
+          "start": 40,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965462549916446837",
+    "in_reply_to_user_id": "1609619970811482112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965462433067311610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3ch4O1H @grok @zhishi_cook @Yanluo1019 @grok 回答他"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1965450770427642131",
+        "created_at": "2025-09-09T17:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T18:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965462549916446837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1609619970811482112",
+              "start": 0,
+              "username": "3ch4O1H"
+            },
+            {
+              "end": 14,
+              "id": "1720665183188922368",
+              "start": 9,
+              "username": "grok"
+            },
+            {
+              "end": 27,
+              "id": "1312002569988841472",
+              "start": 15,
+              "username": "zhishi_cook"
+            },
+            {
+              "end": 39,
+              "id": "1902700598321135616",
+              "start": 28,
+              "username": "Yanluo1019"
+            },
+            {
+              "end": 45,
+              "id": "1720665183188922368",
+              "start": 40,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965462549916446837",
+        "in_reply_to_user_id": "1609619970811482112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965462433067311610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3ch4O1H @grok @zhishi_cook @Yanluo1019 @grok 回答他"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609619970811482112",
+        "conversation_id": "1965450770427642131",
+        "created_at": "2025-09-09T17:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T18:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965462433067311610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 17,
+              "id": "1504799211799265282",
+              "start": 6,
+              "username": "LiuSuK7777"
+            },
+            {
+              "end": 30,
+              "id": "1312002569988841472",
+              "start": 18,
+              "username": "zhishi_cook"
+            },
+            {
+              "end": 42,
+              "id": "1902700598321135616",
+              "start": 31,
+              "username": "Yanluo1019"
+            },
+            {
+              "end": 48,
+              "id": "1720665183188922368",
+              "start": 43,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965462433067311610",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965461739920904204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @LiuSuK7777 @zhishi_cook @Yanluo1019 @grok 那你帮我总结一下人物关系和发生的事件都有什么，最后帮我把人物关系整理成示意图"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "Arcaea/三角洲行动/舞萌dx",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "没有容身之地。",
+        "name": "流苏苏不是流猪猪",
+        "pinned_tweet_id": "1962804814611652676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965259636543815685/GPXhrPsx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2636,
+          "following_count": 2637,
+          "like_count": 35346,
+          "listed_count": 14,
+          "media_count": 1346,
+          "tweet_count": 29911
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T18:38:28.000Z",
+        "description": "只有情感能超越时间\n最爱的伴侣@LixdH5jzYx99195",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "LixdH5jzYx99195"
+              }
+            ]
+          }
+        },
+        "id": "1609619970811482112",
+        "location": "unknown",
+        "name": "Echo4th",
+        "pinned_tweet_id": "1932518713498222834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925247331391479808/c3pLQLxw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 3455,
+          "like_count": 71232,
+          "listed_count": 6,
+          "media_count": 912,
+          "tweet_count": 29003
+        },
+        "username": "3ch4O1H",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6220775,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 4901,
+          "media_count": 2621395,
+          "tweet_count": 46610550
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-02T12:12:55.000Z",
+        "description": "全宇宙最好的小孩/申必mtf🏳️‍⚧️🤔🤔/家长不管(?/已经被爱着了🥰/ENFP-T/提问:https://t.co/bDeKeMQNaN / 会写php py的小孩/生产日期:2009-03-07/小号:@TypezhiQwQ/同类互fo喵🤓/笨蛋老婆:@Yanluo1019",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "TypezhiQwQ"
+              },
+              {
+                "end": 140,
+                "start": 129,
+                "username": "Yanluo1019"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/zhishi_cook1",
+                "end": 70,
+                "expanded_url": "https://ngl.link/zhishi_cook1",
+                "start": 47,
+                "url": "https://t.co/bDeKeMQNaN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "http://zinet.top",
+                "start": 0,
+                "url": "https://t.co/842XMZv0Pp"
+              }
+            ]
+          }
+        },
+        "id": "1312002569988841472",
+        "location": "坐在唐毓文的大鸡巴上",
+        "name": "知式🍥",
+        "pinned_tweet_id": "1920328261478793373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920010651700973568/DmyTtkvn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3855,
+          "following_count": 1274,
+          "like_count": 1257,
+          "listed_count": 5,
+          "media_count": 331,
+          "tweet_count": 3221
+        },
+        "url": "https://t.co/842XMZv0Pp",
+        "username": "zhishi_cook",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T12:36:05.000Z",
+        "description": "我的名字是唐毓文/\n成长历程:反跨顺男→反跨男同→反跨跨女同多边→反跨跨女泛多边→友跨跨女泛多边/\n14岁MTF 10月19生日\nHRT STARTED 30th.6.25\n老婆@Zhishi_cook\n老婆@wowo_yz\n里推:@FamilyWLZ\n问答ngl:https://t.co/U9hmtvHObD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "Zhishi_cook"
+              },
+              {
+                "end": 112,
+                "start": 104,
+                "username": "wowo_yz"
+              },
+              {
+                "end": 126,
+                "start": 116,
+                "username": "FamilyWLZ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yanluo1019",
+                "end": 156,
+                "expanded_url": "https://ngl.link/yanluo1019",
+                "start": 133,
+                "url": "https://t.co/U9hmtvHObD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "NoMTF.com",
+                "end": 23,
+                "expanded_url": "http://NoMTF.com",
+                "start": 0,
+                "url": "https://t.co/kj7dZuDfkd"
+              }
+            ]
+          }
+        },
+        "id": "1902700598321135616",
+        "location": "Melbourne, Victoria",
+        "name": "唐毓文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927264142831865856/oGUnMA-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 186,
+          "like_count": 64,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 2106
+        },
+        "url": "https://t.co/kj7dZuDfkd",
+        "username": "Yanluo1019",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1922187741829226755",
+    "created_at": "2025-05-19T11:18:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T12:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924424541734084619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1833054299183878144",
+          "start": 0,
+          "username": "nycticorax114"
+        },
+        {
+          "end": 29,
+          "id": "1818731995310309376",
+          "start": 15,
+          "username": "MOLeren198964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924424541734084619",
+    "in_reply_to_user_id": "1833054299183878144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924424430471540923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nycticorax114 @MOLeren198964 茜草"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1924424430471540923].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1924424430471540923",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1924424430471540923"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1922187741829226755",
+        "created_at": "2025-05-19T11:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T12:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924424541734084619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1833054299183878144",
+              "start": 0,
+              "username": "nycticorax114"
+            },
+            {
+              "end": 29,
+              "id": "1818731995310309376",
+              "start": 15,
+              "username": "MOLeren198964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924424541734084619",
+        "in_reply_to_user_id": "1833054299183878144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924424430471540923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nycticorax114 @MOLeren198964 茜草"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象@yeziyu7777/友@zyh1428202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zyh1428202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "😣",
+        "name": "流苏1号😺",
+        "pinned_tweet_id": "1923615398567833920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2046,
+          "following_count": 2307,
+          "like_count": 33558,
+          "listed_count": 11,
+          "media_count": 1067,
+          "tweet_count": 24958
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T08:06:26.000Z",
+        "description": "𝐒𝐨𝐥𝐚 𝐝𝐨𝐬𝐢𝐬 𝐟𝐚𝐜𝐢𝐭 𝐯𝐞𝐧𝐞𝐧𝐮𝐦.",
+        "id": "1833054299183878144",
+        "location": "湿地公园",
+        "name": "AAA打窝钓鱼夜师傅",
+        "pinned_tweet_id": "1922322667970994625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901176082298212352/S527TKcV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 575,
+          "like_count": 54062,
+          "listed_count": 2,
+          "media_count": 1145,
+          "tweet_count": 21709
+        },
+        "username": "nycticorax114",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T19:34:41.000Z",
+        "description": "不熟：@isaactan8964 小号：@Moleren114514 飞机杯：@5mRtist 姐姐：@IAmTheSolipsism 爷爷：@KINGSLAY3RV想挂的朋友：@charming_xiaoyu @ShadowlessmoonR @LeQing123 @SHEEPLOVESGRASS @VicoOci",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "isaactan8964"
+              },
+              {
+                "end": 34,
+                "start": 20,
+                "username": "Moleren114514"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "username": "5mRtist"
+              },
+              {
+                "end": 67,
+                "start": 51,
+                "username": "IAmTheSolipsism"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "KINGSLAY3RV"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "charming_xiaoyu"
+              },
+              {
+                "end": 122,
+                "start": 106,
+                "username": "ShadowlessmoonR"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "username": "LeQing123"
+              },
+              {
+                "end": 150,
+                "start": 134,
+                "username": "SHEEPLOVESGRASS"
+              },
+              {
+                "end": 159,
+                "start": 151,
+                "username": "VicoOci"
+              }
+            ]
+          }
+        },
+        "id": "1818731995310309376",
+        "location": "中华民国，北平",
+        "name": "ㄇㄌㄖ蘋果汁🍥",
+        "pinned_tweet_id": "1907810174527852850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895102259245260805/JLObg4-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 1980,
+          "like_count": 125728,
+          "listed_count": 10,
+          "media_count": 971,
+          "tweet_count": 21789
+        },
+        "username": "MOLeren198964",
+        "verified": false
+      }
+    ]
+  }
+}

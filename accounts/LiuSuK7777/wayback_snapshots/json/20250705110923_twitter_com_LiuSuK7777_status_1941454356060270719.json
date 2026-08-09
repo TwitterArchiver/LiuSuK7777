@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1941453715300549004",
+    "created_at": "2025-07-05T11:09:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T12:09:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941454356060270719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1847025525610762240",
+          "start": 0,
+          "username": "ALCheng_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941454356060270719",
+    "in_reply_to_user_id": "1847025525610762240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941454229153194294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ALCheng_ 原来如此"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1941453715300549004",
+        "created_at": "2025-07-05T11:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T12:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941454356060270719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1847025525610762240",
+              "start": 0,
+              "username": "ALCheng_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941454356060270719",
+        "in_reply_to_user_id": "1847025525610762240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941454229153194294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ALCheng_ 原来如此"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847025525610762240",
+        "conversation_id": "1941453715300549004",
+        "created_at": "2025-07-05T11:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T12:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941454229153194294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941454229153194294",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941454049351696532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 但是得兑水喝，不然会灼伤黏膜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "主人@yeziyu7777\n对象@zyh1428202\n小号@Loveyezi8964\n笨蛋姐姐@TTKYYX03（不是现实中那个）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "Loveyezi8964"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "TTKYYX03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1940766254266302907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2307,
+          "following_count": 2505,
+          "like_count": 34742,
+          "listed_count": 10,
+          "media_count": 1200,
+          "tweet_count": 27579
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T21:23:12.000Z",
+        "description": "可以以头像叫我河童或者荷取\n出厂年份09/双相/ASD/不登校|\n左下自由社（其它倾向也很包容）/友跨顺男（HRT 250611）|\nBI9CJE/机械爱好者/火车迷/尼康用户/……（爱好广泛，但是都不精通QAQ）|\n东方/雷批/P社战犯/少战/邦多利/……\n|\n成分非常复杂的说喵，很友善，欢迎来找我聊天喵～😋",
+        "id": "1847025525610762240",
+        "location": "Shaanxi,China",
+        "name": "_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919692896535773187/XZWw2EVN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 673,
+          "like_count": 3859,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 495
+        },
+        "username": "ALCheng_",
+        "verified": false
+      }
+    ]
+  }
+}

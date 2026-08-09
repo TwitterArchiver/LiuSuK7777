@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1913242940639768619",
+    "created_at": "2025-04-18T14:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T15:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913244965209337950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1617047859458621442",
+          "start": 0,
+          "username": "asahi_jx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913244965209337950",
+    "in_reply_to_user_id": "1617047859458621442",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913244827929780379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asahi_jx 天才"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1913242940639768619",
+        "created_at": "2025-04-18T14:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T15:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913244965209337950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1617047859458621442",
+              "start": 0,
+              "username": "asahi_jx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913244965209337950",
+        "in_reply_to_user_id": "1617047859458621442",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913244827929780379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asahi_jx 天才"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617047859458621442",
+        "conversation_id": "1913242940639768619",
+        "created_at": "2025-04-18T14:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T15:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913244827929780379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913244827929780379",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913242940639768619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 可以买几个针再多买点那个布，一个针可以用好久但是布不行，要勤换"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 2081,
+          "like_count": 30377,
+          "listed_count": 12,
+          "media_count": 905,
+          "tweet_count": 22137
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T06:34:11.000Z",
+        "description": "不是什么好人｜逃避者的树洞｜中文/En/日本語｜不鉴证｜入门哲批｜非二元｜称呼随意｜成分は特撮と音ゲーとアニメとマンガとTYPE-MOONと原神、そして少しのボカロとJ-POP｜黑泥&涩涩👉 @enosima_asahi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 96,
+                "username": "enosima_asahi"
+              }
+            ]
+          }
+        },
+        "id": "1617047859458621442",
+        "location": "北京",
+        "name": "あさひヘンヘン",
+        "pinned_tweet_id": "1909474598904905936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704128736021323776/bkOcIrtf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 1062,
+          "like_count": 9339,
+          "listed_count": 4,
+          "media_count": 134,
+          "tweet_count": 4445
+        },
+        "username": "asahi_jx",
+        "verified": false
+      }
+    ]
+  }
+}

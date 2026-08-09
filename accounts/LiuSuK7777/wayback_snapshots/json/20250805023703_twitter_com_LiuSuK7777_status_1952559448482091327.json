@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1951852172469207144",
+    "created_at": "2025-08-05T02:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T03:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952559448482091327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1873367407915651072",
+          "start": 0,
+          "username": "yzz849142892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952559448482091327",
+    "in_reply_to_user_id": "1873367407915651072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952238115759980727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yzz849142892 对的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1951852172469207144",
+        "created_at": "2025-08-05T02:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T03:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952559448482091327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1873367407915651072",
+              "start": 0,
+              "username": "yzz849142892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952559448482091327",
+        "in_reply_to_user_id": "1873367407915651072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952238115759980727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yzz849142892 对的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873367407915651072",
+        "conversation_id": "1951852172469207144",
+        "created_at": "2025-08-04T05:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T06:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952238115759980727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952238115759980727",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951852172469207144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 不对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男 | 御主/ダーリン@yeziyu7777 | 革命伴侣/契约者/運命の人@zyh1428202 | お姉ちゃん@ttkyyx03 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "ttkyyx03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "超高校级の無意識",
+        "pinned_tweet_id": "1949513211826377068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2540,
+          "following_count": 2647,
+          "like_count": 34971,
+          "listed_count": 10,
+          "media_count": 1279,
+          "tweet_count": 28936
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-29T13:56:20.000Z",
+        "description": "是鱼仔！\n中国人（Chinese）\nMBTI:enfp\n九型人格:1w2\n希望大家都可以开心哦！",
+        "id": "1873367407915651072",
+        "location": "Hong Kong",
+        "name": "超级无敌鱼仔仔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946271469115162624/XMJgxRaQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 12,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 50
+        },
+        "username": "yzz849142892",
+        "verified": false
+      }
+    ]
+  }
+}

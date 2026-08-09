@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1951714182480683296",
+    "created_at": "2025-08-02T18:40:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T19:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951714671700185163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1756922914291474432",
+          "start": 0,
+          "username": "LiuyuedeHuoban"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951714671700185163",
+    "in_reply_to_user_id": "1756922914291474432",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951714182480683296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiuyuedeHuoban ai"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1951714182480683296",
+        "created_at": "2025-08-02T18:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T19:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951714671700185163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1756922914291474432",
+              "start": 0,
+              "username": "LiuyuedeHuoban"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951714671700185163",
+        "in_reply_to_user_id": "1756922914291474432",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951714182480683296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuyuedeHuoban ai"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756922914291474432",
+        "conversation_id": "1951714182480683296",
+        "created_at": "2025-08-02T18:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T19:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951714182480683296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TOKYO8964/stat…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/TOKYO8964/status/1951580873599615477",
+              "start": 27,
+              "url": "https://t.co/XLtguDvWxV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951714182480683296",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951580873599615477",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？？？？？？？？？？？？？？？？？？？？？？？？？？ https://t.co/XLtguDvWxV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男 | 御主/ダーリン@yeziyu7777 | 革命伴侣/契约者/運命の人@zyh1428202 | お姉ちゃん@ttkyyx03 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "ttkyyx03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "超高校级の無意識",
+        "pinned_tweet_id": "1949513211826377068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279992393404417/XcbE69vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2506,
+          "following_count": 2640,
+          "like_count": 34928,
+          "listed_count": 10,
+          "media_count": 1265,
+          "tweet_count": 28775
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T06:07:43.000Z",
+        "description": "10後男孩紙是大陸人，蔚藍檔案/Deemo/女神異聞碌3/麥塊/phigros玩家，搞虛擬機，肯定100%回fo喵，憧憬成為美圖推薦官轉迷因轉美食轉美圖，接納所有人哦抱抱，小號:@VIGLbb79EI88783 @Fabian_AL1S ，一起互fo吧喵～任何人都可以\n（ps:不會參加任何的極端政治）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 89,
+                "username": "VIGLbb79EI88783"
+              },
+              {
+                "end": 118,
+                "start": 106,
+                "username": "Fabian_AL1S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shadow_1145146…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shadow_11451468577",
+                "start": 0,
+                "url": "https://t.co/XdyIPZAeRS"
+              }
+            ]
+          }
+        },
+        "id": "1756922914291474432",
+        "location": "Powered by Xiaomi HyperOS💙",
+        "name": "Shadow_114514",
+        "pinned_tweet_id": "1945065135350874504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871510699232673792/HKDsUe4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 2796,
+          "like_count": 42660,
+          "listed_count": 5,
+          "media_count": 586,
+          "tweet_count": 9829
+        },
+        "url": "https://t.co/XdyIPZAeRS",
+        "username": "LiuyuedeHuoban",
+        "verified": false
+      }
+    ]
+  }
+}

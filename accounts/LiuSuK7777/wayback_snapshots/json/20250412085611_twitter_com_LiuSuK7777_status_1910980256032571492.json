@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1910980014839136493",
+    "created_at": "2025-04-12T08:56:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T09:56:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910980256032571492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1798017061131874304",
+          "start": 0,
+          "username": "cupric_oxide_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910980256032571492",
+    "in_reply_to_user_id": "1798017061131874304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910980014839136493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cupric_oxide_ 别死吧 w\n怎么死舒服"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1910980014839136493].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1910980014839136493",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1910980014839136493"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1910980014839136493",
+        "created_at": "2025-04-12T08:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T09:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910980256032571492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1798017061131874304",
+              "start": 0,
+              "username": "cupric_oxide_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910980256032571492",
+        "in_reply_to_user_id": "1798017061131874304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910980014839136493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cupric_oxide_ 别死吧 w\n怎么死舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb700j"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1758,
+          "following_count": 2062,
+          "like_count": 30216,
+          "listed_count": 12,
+          "media_count": 882,
+          "tweet_count": 21919
+        },
+        "url": "https://t.co/2xm6Tb700j",
+        "username": "LiuSuK7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T15:40:59.000Z",
+        "description": "穹璃：@QiongliBAKA\n此方： @ci_shang85157",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "QiongliBAKA"
+              },
+              {
+                "end": 34,
+                "start": 20,
+                "username": "ci_shang85157"
+              }
+            ]
+          }
+        },
+        "id": "1798017061131874304",
+        "location": "wherever",
+        "name": "氧化铜🍥",
+        "pinned_tweet_id": "1910914635425067140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908351908139638784/CvNsELNq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 1189,
+          "like_count": 22247,
+          "listed_count": 5,
+          "media_count": 470,
+          "tweet_count": 3797
+        },
+        "username": "cupric_oxide_",
+        "verified": false
+      }
+    ]
+  }
+}
