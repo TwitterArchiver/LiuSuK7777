@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2087072824930566504",
+    "created_at": "2026-08-11T08:25:46.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T09:25:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087093101143945716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1842476263392608256",
+          "start": 0,
+          "username": "AnnaKamusha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087093101143945716",
+    "in_reply_to_user_id": "1842476263392608256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087072824930566504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnnaKamusha 被谁弄了）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2087072824930566504].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2087072824930566504",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2087072824930566504"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2087072824930566504",
+        "created_at": "2026-08-11T08:25:46.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T09:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087093101143945716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1842476263392608256",
+              "start": 0,
+              "username": "AnnaKamusha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087093101143945716",
+        "in_reply_to_user_id": "1842476263392608256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087072824930566504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnnaKamusha 被谁弄了）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 现居杭州 生产日期🍰2008.02.29 舞萌/东方/Arcaea/明日方舟/三角洲/火影 q3860174763",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "is_identity_verified": false,
+        "location": "error",
+        "most_recent_tweet_id": "2087093101143945716",
+        "name": "流苏",
+        "pinned_tweet_id": "2068533981818290551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1504799211799265282/1760452671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060157452931465216/9MujmSVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3737,
+          "following_count": 2799,
+          "like_count": 34239,
+          "listed_count": 14,
+          "media_count": 1714,
+          "tweet_count": 35460
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-10-05T08:06:07.000Z",
+        "description": "记录我的梦与病，这个帐号是我的笔记本了",
+        "id": "1842476263392608256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2037943810815361116",
+        "name": "无名",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1842476263392608256/1728115795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842476642205302784/hjXyV3Hp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 11,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 75
+        },
+        "url": "",
+        "username": "AnnaKamusha",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

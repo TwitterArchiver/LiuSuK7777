@@ -1,0 +1,508 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093643543399268353"
+      ],
+      "media_source_tweet_id": [
+        "2093657413362794924"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2096517520157265970",
+    "created_at": "2026-09-06T08:35:02.000Z",
+    "display_text_range": [
+      0,
+      88
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T09:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096517520157265970"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 38,
+          "tag": "魔法少女ノ魔女裁判"
+        },
+        {
+          "end": 55,
+          "start": 50,
+          "tag": "まのさば"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "843433410710261764",
+          "start": 3,
+          "username": "poi______1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/splUn7ZeQ5",
+          "end": 88,
+          "expanded_url": "https://x.com/poi______1/status/2093657413362794924/photo/1",
+          "media_key": "3_2093643543399268353",
+          "start": 65,
+          "url": "https://t.co/splUn7ZeQ5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096517520157265970",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2093643543399268353"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 210
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093657413362794924",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @poi______1: 二階堂ヒロ &amp;桜羽エマ\n(✧﹃✧)\n#魔法少女ノ魔女裁判  #まのさば  SFWイラスト https://t.co/splUn7ZeQ5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093643543399268353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ4dtcqagAEByxz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093643543399268353"
+          ],
+          "media_source_tweet_id": [
+            "2093657413362794924"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2096517520157265970",
+        "created_at": "2026-09-06T08:35:02.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T09:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096517520157265970"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 38,
+              "tag": "魔法少女ノ魔女裁判"
+            },
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "まのさば"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "843433410710261764",
+              "start": 3,
+              "username": "poi______1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/splUn7ZeQ5",
+              "end": 88,
+              "expanded_url": "https://x.com/poi______1/status/2093657413362794924/photo/1",
+              "media_key": "3_2093643543399268353",
+              "start": 65,
+              "url": "https://t.co/splUn7ZeQ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096517520157265970",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093643543399268353"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 210
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093657413362794924",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @poi______1: 二階堂ヒロ &amp;桜羽エマ\n(✧﹃✧)\n#魔法少女ノ魔女裁判  #まのさば  SFWイラスト https://t.co/splUn7ZeQ5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093643543399268353"
+          ]
+        },
+        "author_id": "843433410710261764",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2093657413362794924",
+        "created_at": "2026-08-29T11:10:00.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T12:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093657413362794924"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 22,
+              "tag": "魔法少女ノ魔女裁判"
+            },
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "まのさば"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/splUn7ZeQ5",
+              "end": 72,
+              "expanded_url": "https://x.com/poi______1/status/2093657413362794924/photo/1",
+              "media_key": "3_2093643543399268353",
+              "start": 49,
+              "url": "https://t.co/splUn7ZeQ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093657413362794924",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093643543399268353"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 271,
+          "impression_count": 29233,
+          "like_count": 2693,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 210
+        },
+        "reply_settings": "everyone",
+        "text": "二階堂ヒロ &amp;桜羽エマ\n(✧﹃✧)\n#魔法少女ノ魔女裁判  #まのさば  SFWイラスト https://t.co/splUn7ZeQ5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 现居杭州 生产日期🍰2008.02.29 舞萌/东方/Arcaea/明日方舟/三角洲/火影 q3860174763 不想被性骚扰，请不要对我发情 ♡喜欢的人@Moj1toawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "Moj1toawa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "is_identity_verified": false,
+        "location": "error",
+        "most_recent_tweet_id": "2096517520157265970",
+        "name": "流苏",
+        "pinned_tweet_id": "2068533981818290551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1504799211799265282/1760452671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090620844435443712/QLml6REu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3879,
+          "following_count": 2827,
+          "like_count": 34260,
+          "listed_count": 14,
+          "media_count": 1733,
+          "tweet_count": 35808
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-03-19T12:06:10.000Z",
+        "description": "中文・日本語・English\nAI+PS\n Patreon/Email/Discord are here→ https://t.co/FGMeeDOv1Z\nsubs：\n@poishui  \n@poi40271",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 84,
+                "username": "poishui"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "poi40271"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/poishui",
+                "end": 77,
+                "expanded_url": "https://linktr.ee/poishui",
+                "start": 54,
+                "url": "https://t.co/FGMeeDOv1Z"
+              }
+            ]
+          }
+        },
+        "id": "843433410710261764",
+        "is_identity_verified": true,
+        "location": "Japan",
+        "most_recent_tweet_id": "2096494380832223739",
+        "name": "poi氵",
+        "pinned_tweet_id": "2096494380832223739",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/843433410710261764/1769322163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759289316893655040/ZgNaC3bK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143757,
+          "following_count": 108,
+          "like_count": 3813,
+          "listed_count": 573,
+          "media_count": 1531,
+          "tweet_count": 1824
+        },
+        "url": "",
+        "username": "poi______1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

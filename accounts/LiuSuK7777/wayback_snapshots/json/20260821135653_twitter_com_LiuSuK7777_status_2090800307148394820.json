@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2090751546174898414",
+    "created_at": "2026-08-21T13:56:53.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T14:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090800307148394820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1626578993821675521",
+          "start": 0,
+          "username": "linmen589064"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090800307148394820",
+    "in_reply_to_user_id": "1626578993821675521",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090798188206915590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linmen589064 我只是不想"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2090798188206915590].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2090798188206915590",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2090798188206915590"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2090751546174898414",
+        "created_at": "2026-08-21T13:56:53.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090800307148394820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1626578993821675521",
+              "start": 0,
+              "username": "linmen589064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090800307148394820",
+        "in_reply_to_user_id": "1626578993821675521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090798188206915590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linmen589064 我只是不想"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 现居杭州 生产日期🍰2008.02.29 舞萌/东方/Arcaea/明日方舟/三角洲/火影 q3860174763",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "is_identity_verified": false,
+        "location": "error",
+        "most_recent_tweet_id": "2090800307148394820",
+        "name": "流苏",
+        "pinned_tweet_id": "2068533981818290551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1504799211799265282/1760452671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090620844435443712/QLml6REu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3742,
+          "following_count": 2792,
+          "like_count": 34234,
+          "listed_count": 14,
+          "media_count": 1721,
+          "tweet_count": 35578
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-17T13:48:49.000Z",
+        "description": "绝艺如君天下少，闲人似我世间无/为长崎而素食",
+        "id": "1626578993821675521",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2084141346009292980",
+        "name": "Soyo丶Chihaya",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1626578993821675521/1783577065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090797826720899072/2D6kBovs_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 422,
+          "like_count": 71683,
+          "listed_count": 4,
+          "media_count": 1158,
+          "tweet_count": 21049
+        },
+        "url": "",
+        "username": "linmen589064",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

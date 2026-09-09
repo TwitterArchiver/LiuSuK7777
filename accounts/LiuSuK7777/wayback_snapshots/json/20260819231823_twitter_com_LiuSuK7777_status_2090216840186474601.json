@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2090211890341593127",
+    "created_at": "2026-08-19T23:18:23.000Z",
+    "display_text_range": [
+      10,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T00:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090216840186474601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "908312740455907330",
+          "start": 0,
+          "username": "qiuylove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090216840186474601",
+    "in_reply_to_user_id": "908312740455907330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090211890341593127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiuylove 我终于有对象了！！！！ 居然在七夕前谈上了！！！！\n哎我对象顶美啊woc 吃醋的样子好可爱 我爱死了 呜呜呜呜好喜欢 好美好帅 呜呜呜终于体验到谈恋爱的感觉了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2090211890341593127].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2090211890341593127",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2090211890341593127"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2090211890341593127",
+        "created_at": "2026-08-19T23:18:23.000Z",
+        "display_text_range": [
+          10,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T00:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090216840186474601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "908312740455907330",
+              "start": 0,
+              "username": "qiuylove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090216840186474601",
+        "in_reply_to_user_id": "908312740455907330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090211890341593127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiuylove 我终于有对象了！！！！ 居然在七夕前谈上了！！！！\n哎我对象顶美啊woc 吃醋的样子好可爱 我爱死了 呜呜呜呜好喜欢 好美好帅 呜呜呜终于体验到谈恋爱的感觉了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 现居杭州 生产日期🍰2008.02.29 舞萌/东方/Arcaea/明日方舟/三角洲/火影 q3860174763",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "is_identity_verified": false,
+        "location": "error",
+        "most_recent_tweet_id": "2090216840186474601",
+        "name": "流苏",
+        "pinned_tweet_id": "2068533981818290551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1504799211799265282/1760452671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060157452931465216/9MujmSVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3730,
+          "following_count": 2790,
+          "like_count": 34236,
+          "listed_count": 14,
+          "media_count": 1716,
+          "tweet_count": 35526
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-09-14T12:53:27.000Z",
+        "description": "⚠️fo前请DM说明来意/❤️纯情女高？！/单取大概率回block/🥵涩涩or技术推/🥺出厂16年的人类小女孩喵/退役CChOer/INFP/les/sub/免费私信树洞 /✈️https://t.co/BFK1NVzxjb / 阿弃主人@Ak1raQ_love (这个不是对象喵对象是顺女) / 有对象❤️勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 119,
+                "username": "Ak1raQ_love"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xyn8964",
+                "end": 112,
+                "expanded_url": "https://t.me/xyn8964",
+                "start": 89,
+                "url": "https://t.co/BFK1NVzxjb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dmit.io/aff.php?aff=16…",
+                "end": 23,
+                "expanded_url": "https://www.dmit.io/aff.php?aff=16563",
+                "start": 0,
+                "url": "https://t.co/paxAwGcaiJ"
+              }
+            ]
+          }
+        },
+        "id": "908312740455907330",
+        "is_identity_verified": false,
+        "location": "Seattle, WA",
+        "most_recent_tweet_id": "2046391493729063289",
+        "name": "小秋月 🎀🕯️",
+        "pinned_tweet_id": "2024703264550498423",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/908312740455907330/1723091129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940249656916664320/-CxMK7qJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 939,
+          "like_count": 89776,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 4039
+        },
+        "url": "https://t.co/paxAwGcaiJ",
+        "username": "qiuylove",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

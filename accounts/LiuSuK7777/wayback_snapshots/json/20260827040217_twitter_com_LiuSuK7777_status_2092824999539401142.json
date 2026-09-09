@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2092778458984432106",
+    "created_at": "2026-08-27T04:02:17.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T05:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092824999539401142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1759081915976720384",
+          "start": 0,
+          "username": "yurisaki13331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092824999539401142",
+    "in_reply_to_user_id": "1759081915976720384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092778458984432106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yurisaki13331 舞萌……"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10197,
+        "height": 1280,
+        "media_key": "13_2092778432597987328",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092778432597987328/img/1wMuzZt9dPim58PQ.jpg",
+        "public_metrics": {
+          "view_count": 994
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092778432597987328/vid/avc1/320x568/4B0ojlwr9rHPcCRp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092778432597987328/vid/avc1/480x852/NAl3zFkggDnNEzrl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092778432597987328/vid/avc1/720x1280/9Z0JhXW3mJGZY-uC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092778432597987328/pl/L8Js4zItkW8mdFDg.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2092778458984432106",
+        "created_at": "2026-08-27T04:02:17.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T05:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092824999539401142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1759081915976720384",
+              "start": 0,
+              "username": "yurisaki13331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092824999539401142",
+        "in_reply_to_user_id": "1759081915976720384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092778458984432106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yurisaki13331 舞萌……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092778432597987328"
+          ]
+        },
+        "author_id": "1759081915976720384",
+        "conversation_id": "2092778458984432106",
+        "created_at": "2026-08-27T00:57:21.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T01:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092778458984432106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PxVjMmAzMw",
+              "end": 66,
+              "expanded_url": "https://x.com/yurisaki13331/status/2092778458984432106/video/1",
+              "media_key": "13_2092778432597987328",
+              "start": 43,
+              "url": "https://t.co/PxVjMmAzMw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092778458984432106",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2092778432597987328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1725,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "调教了一只小寿星\n不知道被生日当天 穿上羞耻的衣服 被特许牵到楼道里爬行是什么感觉呢 https://t.co/PxVjMmAzMw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 现居杭州 生产日期🍰2008.02.29 舞萌/东方/Arcaea/明日方舟/三角洲/火影 q3860174763",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "is_identity_verified": false,
+        "location": "error",
+        "most_recent_tweet_id": "2092824999539401142",
+        "name": "流苏",
+        "pinned_tweet_id": "2068533981818290551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1504799211799265282/1760452671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090620844435443712/QLml6REu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3764,
+          "following_count": 2790,
+          "like_count": 34234,
+          "listed_count": 14,
+          "media_count": 1726,
+          "tweet_count": 35652
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-18T05:06:33.000Z",
+        "description": "废物猫猫什么都做不到",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/denkisama_7371…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/denkisama_7371?igsh=MWhpY3MyY21xeWM2NQ==",
+                "start": 0,
+                "url": "https://t.co/9zmLgyodOO"
+              }
+            ]
+          }
+        },
+        "id": "1759081915976720384",
+        "is_identity_verified": false,
+        "location": "Hida-shi, Gifu",
+        "most_recent_tweet_id": "2092811946890612808",
+        "name": "纱露朵🌸",
+        "pinned_tweet_id": "1925828023401484569",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759081915976720384/1750690996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044237165434155013/OCF6Elvf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17059,
+          "following_count": 532,
+          "like_count": 7093,
+          "listed_count": 42,
+          "media_count": 380,
+          "tweet_count": 1160
+        },
+        "url": "https://t.co/9zmLgyodOO",
+        "username": "yurisaki13331",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
