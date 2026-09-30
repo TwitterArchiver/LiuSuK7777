@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2093243566927884671",
+    "created_at": "2026-09-12T16:41:34.000Z",
+    "display_text_range": [
+      7,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T17:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098814284985954553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2088734077172199424",
+          "start": 0,
+          "username": "ikn3a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098814284985954553",
+    "in_reply_to_user_id": "2088734077172199424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093243566927884671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ikn3a 不理解这是何意味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2093243566927884671",
+        "created_at": "2026-09-12T16:41:34.000Z",
+        "display_text_range": [
+          7,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T17:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098814284985954553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2088734077172199424",
+              "start": 0,
+              "username": "ikn3a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098814284985954553",
+        "in_reply_to_user_id": "2088734077172199424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093243566927884671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ikn3a 不理解这是何意味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088734077172199424",
+        "conversation_id": "2093243566927884671",
+        "created_at": "2026-08-28T07:45:31.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T08:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093243566927884671"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093243566927884671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在学校军训的时候，教官让所有人都举起右手，一遍又一遍的大喊着：我要上高中！！。一遍又一遍，我感觉好窒息但是周围所有人都在喊：我要上高中，好可怕。。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 现居杭州 生产日期🍰2008.02.29 舞萌/东方/Arcaea/明日方舟/三角洲/火影 q3860174763 不想被性骚扰，请不要对我发情 ♡喜欢的人@Moj1toawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "Moj1toawa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "is_identity_verified": false,
+        "location": "error",
+        "most_recent_tweet_id": "2098814284985954553",
+        "name": "流苏",
+        "pinned_tweet_id": "2098307744801636435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1504799211799265282/1760452671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090620844435443712/QLml6REu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3870,
+          "following_count": 2824,
+          "like_count": 34207,
+          "listed_count": 14,
+          "media_count": 1735,
+          "tweet_count": 35827
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T21:09:15.000Z",
+        "description": "私は中国人です！女の子たちが恋をするのを見るのが好きです！❤️普段は翻訳機を使っているので、私の言葉が正確ではないかもしれません。申し訳ありません。！😥",
+        "id": "2088734077172199424",
+        "is_identity_verified": false,
+        "location": "翁法罗斯  一页永恒",
+        "most_recent_tweet_id": "2098792757766791563",
+        "name": "Rin_鈴",
+        "pinned_tweet_id": "2090986679284998359",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088734077172199424/1787272760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093940025004314624/pAZ9JYHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 35,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 110
+        },
+        "url": "",
+        "username": "ikn3a",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
