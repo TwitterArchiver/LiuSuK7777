@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "2109146493684973702",
+    "created_at": "2026-10-11T05:22:45.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T06:22:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109152705507901668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1885245800684675072",
+          "start": 0,
+          "username": "wobushi_yuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109152705507901668",
+    "in_reply_to_user_id": "1885245800684675072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109152349122068561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wobushi_yuki 拉直？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2109152349122068561].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2109152349122068561",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2109152349122068561"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "2109146493684973702",
+        "created_at": "2026-10-11T05:22:45.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T06:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109152705507901668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1885245800684675072",
+              "start": 0,
+              "username": "wobushi_yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109152705507901668",
+        "in_reply_to_user_id": "1885245800684675072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109152349122068561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wobushi_yuki 拉直？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 现居杭州 生产日期🍰2008.02.29 舞萌/东方/Arcaea/明日方舟/三角洲/火影 q3860174763 不想被性骚扰，请不要对我发情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "is_identity_verified": false,
+        "location": "error",
+        "most_recent_tweet_id": "2109152705507901668",
+        "name": "流苏",
+        "pinned_tweet_id": "2098307744801636435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1504799211799265282/1760452671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102786209374449664/mdBL2WbZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4146,
+          "following_count": 2844,
+          "like_count": 34062,
+          "listed_count": 14,
+          "media_count": 1762,
+          "tweet_count": 36167
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-31T08:36:48.000Z",
+        "description": "给自己上个锁，也没有搞流量的心态了，写点小日常",
+        "id": "1885245800684675072",
+        "is_identity_verified": false,
+        "location": "距你400m",
+        "most_recent_tweet_id": "2101689479312687231",
+        "name": "白菜二号",
+        "pinned_tweet_id": "2083081109894844762",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1885245800684675072/1744479133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085717860555665408/DtgMF7vA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 80,
+          "like_count": 2874,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1111
+        },
+        "url": "",
+        "username": "wobushi_yuki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

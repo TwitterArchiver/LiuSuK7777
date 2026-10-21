@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1504799211799265282",
+    "conversation_id": "1879532736173735951",
+    "created_at": "2026-10-04T03:51:09.000Z",
+    "display_text_range": [
+      16,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T04:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106592935508922752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1646550974553522183",
+          "start": 0,
+          "username": "_9tysk"
+        },
+        {
+          "end": 15,
+          "id": "1718683684231094272",
+          "start": 8,
+          "username": "YdoU4m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106592935508922752",
+    "in_reply_to_user_id": "1646550974553522183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880117402022867151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_9tysk @YdoU4m 什么时候操我"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1880117402022867151].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1880117402022867151",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1880117402022867151"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1879532736173735951",
+        "created_at": "2026-10-04T03:51:09.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T04:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106592935508922752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1646550974553522183",
+              "start": 0,
+              "username": "_9tysk"
+            },
+            {
+              "end": 15,
+              "id": "1718683684231094272",
+              "start": 8,
+              "username": "YdoU4m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106592935508922752",
+        "in_reply_to_user_id": "1646550974553522183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880117402022867151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_9tysk @YdoU4m 什么时候操我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 现居杭州 生产日期🍰2008.02.29 舞萌/东方/Arcaea/明日方舟/三角洲/火影 q3860174763 不想被性骚扰，请不要对我发情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "is_identity_verified": false,
+        "location": "error",
+        "most_recent_tweet_id": "2106592935508922752",
+        "name": "流苏",
+        "pinned_tweet_id": "2098307744801636435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1504799211799265282/1760452671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102786209374449664/mdBL2WbZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4079,
+          "following_count": 2839,
+          "like_count": 34073,
+          "listed_count": 14,
+          "media_count": 1755,
+          "tweet_count": 36097
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-13T16:28:58.000Z",
+        "description": "",
+        "id": "1646550974553522183",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2017264327238262868",
+        "name": "～…",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1646550974553522183/1732640224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059264976435703808/OTXz8dlM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 777,
+          "like_count": 72289,
+          "listed_count": 7,
+          "media_count": 419,
+          "tweet_count": 7204
+        },
+        "url": "",
+        "username": "_9tysk",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-29T17:38:25.000Z",
+        "description": "想过日子",
+        "id": "1718683684231094272",
+        "is_identity_verified": false,
+        "location": "我不会发推特，我是发着玩的",
+        "most_recent_tweet_id": "2104034830497501579",
+        "name": "别忘了给电瓶车充电",
+        "pinned_tweet_id": "2102063602010317274",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1718683684231094272/1752078708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042652826049089537/1hHVe2ot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5543,
+          "following_count": 99,
+          "like_count": 1617,
+          "listed_count": 8,
+          "media_count": 230,
+          "tweet_count": 2161
+        },
+        "url": "",
+        "username": "YdoU4m",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2106224078495596544"
+      ]
+    },
+    "author_id": "1504799211799265282",
+    "conversation_id": "2106224130249159078",
+    "created_at": "2026-10-03T03:25:39.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T04:25:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106224130249159078"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OimWf9OCRq",
+          "end": 38,
+          "expanded_url": "https://x.com/LiuSuK7777/status/2106224130249159078/video/1",
+          "media_key": "13_2106224078495596544",
+          "start": 15,
+          "url": "https://t.co/OimWf9OCRq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106224130249159078",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2106224078495596544"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "出伤了吗 打到我了吗 就给豆 https://t.co/OimWf9OCRq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19988,
+        "height": 576,
+        "media_key": "13_2106224078495596544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106224078495596544/img/XQlIcMd_siqW_5Gw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106224078495596544/vid/avc1/600x270/H-_MEWpebepnx_lc.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106224078495596544/vid/avc1/800x360/yEauV-74n_pNu_57.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106224078495596544/vid/avc1/1280x576/U9GcESdadIwYvdvG.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106224078495596544/pl/5DVOO3qGCsEShTab.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106224078495596544"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "conversation_id": "2106224130249159078",
+        "created_at": "2026-10-03T03:25:39.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T04:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106224130249159078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OimWf9OCRq",
+              "end": 38,
+              "expanded_url": "https://x.com/LiuSuK7777/status/2106224130249159078/video/1",
+              "media_key": "13_2106224078495596544",
+              "start": 15,
+              "url": "https://t.co/OimWf9OCRq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106224130249159078",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2106224078495596544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出伤了吗 打到我了吗 就给豆 https://t.co/OimWf9OCRq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 现居杭州 生产日期🍰2008.02.29 舞萌/东方/Arcaea/明日方舟/三角洲/火影 q3860174763 不想被性骚扰，请不要对我发情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "is_identity_verified": false,
+        "location": "error",
+        "most_recent_tweet_id": "2106224130249159078",
+        "name": "流苏",
+        "pinned_tweet_id": "2098307744801636435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1504799211799265282/1760452671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102786209374449664/mdBL2WbZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4057,
+          "following_count": 2832,
+          "like_count": 34078,
+          "listed_count": 14,
+          "media_count": 1755,
+          "tweet_count": 36054
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
